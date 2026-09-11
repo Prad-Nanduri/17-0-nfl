@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-09-11T22:41:46.390740+00:00",
+  "nflDataPyVersion": "0.3.3",
+  "pbpIncluded": false,
+  "rowCounts": {
+    "franchiseSeasons": 32,
+    "franchises": 32,
+    "legacyPlayerCareers": 4304,
+    "playerSeasonStats": 3058,
+    "players": 3046,
+    "unknownPositions": 43
+  },
+  "season": 2023,
+  "sources": [
+    "nfl_data_py.import_seasonal_data",
+    "nfl_data_py.import_seasonal_rosters",
+    "nfl_data_py.import_weekly_data",
+    "nfl_data_py.import_schedules",
+    "nfl_data_py.import_snap_counts",
+    "nfl_data_py.import_seasonal_pfr",
+    "nfl_data_py.import_team_desc",
+    "nflverse player_stats parquet assets",
+    "nfl_data_py.import_pbp_data"
+  ]
+}

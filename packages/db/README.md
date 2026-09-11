@@ -45,13 +45,13 @@ Supabase CLI workflow and were not run on this machine.
 
 ## Schema scope
 
-| Spec §5.2 platform core                        | Deferred sport-domain families                |
-| ---------------------------------------------- | --------------------------------------------- |
-| `users`, `sessions`, `drafts`, `draft_picks`   | `nfl_*` tables                                |
-| `season_results`, campaign/challenge tables    | `cfb_*` tables                                |
-| Multiplayer rooms and participants             | Sport-specific teams, players, stats, ratings |
-| Leaderboards, trophies, user trophies, streaks | ETL/domain seed data                          |
-| `sport_id_enum` and its immutability trigger   | —                                             |
+| Spec §5.2 platform core                        | NFL domain families                          |
+| ---------------------------------------------- | -------------------------------------------- |
+| `users`, `sessions`, `drafts`, `draft_picks`   | `nfl_*` tables                               |
+| `season_results`, campaign/challenge tables    | `cfb_*` tables                               |
+| Multiplayer rooms and participants             | NFL teams, players, stats, ratings           |
+| Leaderboards, trophies, user trophies, streaks | CFB domain families and ETL/domain seed data |
+| `sport_id_enum` and its immutability trigger   | —                                            |
 
-The platform tables are shared across sports and use `sport_id` where applicable. The
-`nfl_*`/`cfb_*` domain tables ship in separate migrations.
+The platform tables are shared across sports and use `sport_id` where applicable. NFL
+domain tables ship in `20260911000002_nfl_domain.sql`; CFB domain tables remain deferred.
