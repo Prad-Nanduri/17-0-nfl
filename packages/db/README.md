@@ -17,8 +17,8 @@ DATABASE_URL=postgres://postgres:postgres@localhost:54329/postgres
 Apply migrations with the development helper (running it again is idempotent):
 
 ```sh
-npm.cmd run migrate -w @perfect-season/db
-npm.cmd run seed -w @perfect-season/db
+npm run migrate -w @perfect-season/db
+npm run seed -w @perfect-season/db
 DATABASE_URL=postgres://postgres:postgres@localhost:54329/postgres npm test
 ```
 
