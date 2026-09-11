@@ -7,14 +7,15 @@ export interface NflFranchise {
   readonly abbreviation: string;
   readonly nflverseTeamId: number;
   readonly logoUrl: string | null;
+  readonly conference: 'AFC' | 'NFC';
 }
 
 export interface NflFranchiseSeason {
   readonly franchiseKey: string;
   readonly season: number;
-  readonly wins: number;
-  readonly losses: number;
-  readonly ties: number;
+  readonly wins: number | null;
+  readonly losses: number | null;
+  readonly ties: number | null;
   readonly eraTier: RatingConfidenceTier;
 }
 
@@ -27,6 +28,7 @@ export interface NflPlayer {
   readonly positionGroup: PositionGroup;
   readonly ngsPosition: string | null;
   readonly depthChartPosition: string | null;
+  readonly versatile: boolean;
   readonly birthDate: string | null;
   readonly college: string | null;
   readonly draftYear: number | null;

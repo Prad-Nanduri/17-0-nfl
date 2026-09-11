@@ -14,6 +14,9 @@ describe('toPositionGroup', () => {
     ['MLB', 'LB'],
     ['DB', 'CB'],
     ['SS', 'S'],
+    ['SAFETY', 'S'],
+    ['SLOT_CB', 'CB'],
+    ['INTERIOR_LINE', 'DL'],
     ['K', 'K'],
     ['P', 'P'],
   ])('maps %s to %s', (position, expected) => {

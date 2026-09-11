@@ -10,7 +10,8 @@
     "build": "tsc --noEmit",
     "test": "vitest run --passWithNoTests",
     "etl:rate": "tsx etl/rate.ts",
-    "etl:load": "tsx etl/load.ts --season 2023"
+    "etl:load": "tsx etl/load.ts --season 2023",
+    "spin:sample": "tsx scripts/spin-sample.ts"
   },
   "dependencies": {
     "@perfect-season/sport-engine-core": "*"
