@@ -1,3 +1,165 @@
+@import '@fontsource/barlow-condensed/latin-600.css';
+@import '@fontsource/barlow-condensed/latin-700.css';
+@import '@fontsource-variable/manrope';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+    --canvas: 246 247 245;
+    --surface: 252 253 251;
+    --subtle: 237 240 236;
+    --ink: 25 34 28;
+    --muted: 84 94 87;
+    --line: 193 201 194;
+    --action: 37 113 70;
+    --action-hover: 30 92 58;
+    --on-action: 246 247 245;
+    --sport: 37 113 70;
+    --sport-nfl: 37 113 70;
+    --sport-cfb: 101 91 49;
+    --success: 37 113 70;
+    --warning: 134 82 14;
+    --error: 168 53 49;
+    --info: 48 99 132;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme='light']) {
+      color-scheme: dark;
+      --canvas: 16 23 19;
+      --surface: 25 34 28;
+      --subtle: 36 47 40;
+      --ink: 237 240 236;
+      --muted: 172 186 177;
+      --line: 72 88 77;
+      --action: 126 199 154;
+      --action-hover: 174 219 190;
+      --on-action: 16 29 22;
+      --sport: 126 199 154;
+      --sport-nfl: 126 199 154;
+      --sport-cfb: 198 185 128;
+      --success: 126 199 154;
+      --warning: 229 182 105;
+      --error: 239 144 137;
+      --info: 140 190 220;
+    }
+  }
+
+  :root[data-theme='dark'] {
+    color-scheme: dark;
+    --canvas: 16 23 19;
+    --surface: 25 34 28;
+    --subtle: 36 47 40;
+    --ink: 237 240 236;
+    --muted: 172 186 177;
+    --line: 72 88 77;
+    --action: 126 199 154;
+    --action-hover: 174 219 190;
+    --on-action: 16 29 22;
+    --sport: 126 199 154;
+    --sport-nfl: 126 199 154;
+    --sport-cfb: 198 185 128;
+    --success: 126 199 154;
+    --warning: 229 182 105;
+    --error: 239 144 137;
+    --info: 140 190 220;
+  }
+
+  [data-sport='nfl'] {
+    --sport: var(--sport-nfl);
+  }
+  [data-sport='cfb'] {
+    --sport: var(--sport-cfb);
+  }
+  * {
+    @apply border-line;
+  }
+  body {
+    @apply bg-canvas font-sans text-body text-ink antialiased;
+  }
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  ::selection {
+    @apply bg-action text-on-action;
+  }
+  :focus-visible {
+    @apply outline outline-2 outline-offset-4 outline-action;
+  }
+  button,
+  a {
+    -webkit-tap-highlight-color: transparent;
+  }
+  button {
+    touch-action: manipulation;
+  }
+}
+
+@layer components {
+  .page-container {
+    @apply mx-auto w-full max-w-page px-gutter;
+  }
+  .eyebrow {
+    @apply text-micro font-bold uppercase tracking-widest;
+  }
+  .display-heading {
+    @apply font-display font-semibold uppercase;
+  }
+  .text-link {
+    @apply inline-flex min-h-11 items-center gap-2 text-small font-bold underline decoration-line underline-offset-4 transition-colors duration-fast hover:text-action hover:decoration-action active:text-action-hover;
+  }
+  .overlay-enter {
+    animation: overlay-enter 180ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .panel-enter {
+    animation: panel-enter 280ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .flip-face {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+  .flip-back {
+    transform: rotateY(180deg);
+  }
+  .flip-scene {
+    transform-style: preserve-3d;
+  }
+}
+
+@keyframes overlay-enter {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes panel-enter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

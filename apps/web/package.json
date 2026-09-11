@@ -12,11 +12,18 @@
     "test": "vitest run --passWithNoTests"
   },
   "dependencies": {
+    "@fontsource-variable/manrope": "5.2.8",
+    "@fontsource/barlow-condensed": "5.2.6",
     "@perfect-season/db": "*",
     "@perfect-season/simulation": "*",
     "@perfect-season/sport-engine-cfb": "*",
     "@perfect-season/sport-engine-core": "*",
     "@perfect-season/sport-engine-nfl": "*",
+    "@phosphor-icons/react": "2.1.10",
+    "@radix-ui/react-dialog": "1.1.15",
+    "@radix-ui/react-dropdown-menu": "2.1.16",
+    "@radix-ui/react-toast": "1.2.15",
+    "framer-motion": "12.43.0",
     "next": "^14.2.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
