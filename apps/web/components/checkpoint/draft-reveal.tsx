@@ -71,6 +71,7 @@ export function DraftReveal() {
                     alt="Football equipment representing a sample franchise pool."
                     fill
                     sizes="352px"
+                    loading="eager"
                     className="object-cover"
                   />
                 </div>
