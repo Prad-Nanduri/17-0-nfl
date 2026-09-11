@@ -20,7 +20,7 @@ export function Modal({ trigger, title, description, children }: ModalProps) {
       <Dialog.Portal>
         <Dialog.Overlay className="overlay-enter fixed inset-0 z-overlay bg-primary-950/60" />
         <Dialog.Content className="fixed inset-0 z-modal m-auto h-fit max-h-[calc(100dvh-2.5rem)] w-[calc(100%-2.5rem)] max-w-copy overflow-y-auto rounded-panel bg-surface p-6 shadow-floating sm:p-10">
-          <div className="panel-enter">
+          <div className="panel-enter relative">
             <Dialog.Title className="display-heading pr-10 text-heading">{title}</Dialog.Title>
             <Dialog.Description className="mt-4 text-small text-muted">
               {description}
