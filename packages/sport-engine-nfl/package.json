@@ -8,9 +8,16 @@
   "scripts": {
     "typecheck": "tsc --noEmit",
     "build": "tsc --noEmit",
-    "test": "vitest run --passWithNoTests"
+    "test": "vitest run --passWithNoTests",
+    "etl:rate": "tsx etl/rate.ts",
+    "etl:load": "tsx etl/load.ts --season 2023"
   },
   "dependencies": {
     "@perfect-season/sport-engine-core": "*"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.23.1",
+    "pg": "^8.23.0",
+    "tsx": "^4.23.13"
   }
 }

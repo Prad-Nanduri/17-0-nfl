@@ -16,7 +16,6 @@ describe.skipIf(!process.env.DATABASE_URL)('platform-core schema', () => {
       await pool.query('DELETE FROM draft_picks WHERE draft_id = ANY($1::bigint[])', [draftIds]);
       await pool.query('DELETE FROM drafts WHERE id = ANY($1::bigint[])', [draftIds]);
     }
-    await pool.end();
   });
 
   it('creates all platform tables and the exact sport enum labels', async () => {
@@ -127,4 +126,52 @@ describe.skipIf(!process.env.DATABASE_URL)('platform-core schema', () => {
     );
     expect(updated.rows[0]?.status).toBe('complete');
   });
+});
+
+describe.skipIf(!process.env.DATABASE_URL)('NFL domain schema', () => {
+  beforeAll(async () => {
+    await runMigrations(pool);
+  });
+
+  it('creates the NFL domain tables and rejects invalid era tiers', async () => {
+    const result = await pool.query<{ table_name: string }>(
+      `SELECT table_name
+       FROM information_schema.tables
+       WHERE table_schema = 'public'
+         AND table_name = ANY($1::text[])
+       ORDER BY table_name`,
+      [
+        [
+          'nfl_franchises',
+          'nfl_franchise_seasons',
+          'nfl_players',
+          'nfl_player_season_stats',
+          'nfl_ratings',
+          'nfl_legacy_player_careers',
+          'nfl_legacy_ratings',
+        ],
+      ],
+    );
+    expect(result.rows.map((row) => row.table_name)).toEqual([
+      'nfl_franchise_seasons',
+      'nfl_franchises',
+      'nfl_legacy_player_careers',
+      'nfl_legacy_ratings',
+      'nfl_player_season_stats',
+      'nfl_players',
+      'nfl_ratings',
+    ]);
+
+    await expect(
+      pool.query(
+        `INSERT INTO nfl_franchise_seasons
+          (franchise_id, season, wins, losses, ties, era_tier)
+         VALUES (999999, 2023, 0, 0, 0, 'foo')`,
+      ),
+    ).rejects.toThrow();
+  });
+});
+
+afterAll(async () => {
+  await pool.end();
 });
