@@ -3,11 +3,16 @@
 import Image from 'next/image';
 import { useState } from 'react';
 import { ArrowClockwise, ArrowRight, LockSimple } from '@phosphor-icons/react';
+import { leagues, requireTeam } from '../../lib/teams';
 import { CardFlipReveal } from '../motion/card-flip-reveal';
 import { Button } from '../ui/button';
 import { Badge } from '../ui/badge';
 import { Card } from '../ui/card';
+import { TeamLogo } from '../ui/team-logo';
 import { useToast } from '../ui/toast';
+
+// Fixed sample for the motion reference; a real draw arrives with the wheel-spin feature.
+const sampleTeam = requireTeam('nfl', 'green-bay-packers');
 
 export function DraftReveal() {
   const [revealed, setRevealed] = useState(false);
@@ -44,7 +49,14 @@ export function DraftReveal() {
               >
                 <div className="flex items-center justify-between p-5 text-micro font-semibold uppercase tracking-wider">
                   <span>Perfect Season</span>
-                  <span>NFL</span>
+                  <Image
+                    src={leagues.nfl.logoDark}
+                    alt="NFL"
+                    width={36}
+                    height={24}
+                    unoptimized
+                    className="h-6 w-9 object-contain"
+                  />
                 </div>
                 <div className="flex flex-1 flex-col items-center justify-center px-5">
                   <span
@@ -65,21 +77,22 @@ export function DraftReveal() {
                 elevation="raised"
                 className="flex h-full flex-col overflow-hidden !rounded-control shadow-card"
               >
-                <div className="relative min-h-0 flex-1">
-                  <Image
-                    src="/images/equipment.webp"
-                    alt="Football equipment representing a sample franchise pool."
-                    fill
-                    sizes="352px"
-                    loading="eager"
-                    className="object-cover"
+                <div
+                  className="relative flex min-h-0 flex-1 items-center justify-center overflow-hidden"
+                  style={{ backgroundColor: sampleTeam.color }}
+                >
+                  <TeamLogo
+                    team={sampleTeam}
+                    size="xl"
+                    eager
+                    className="drop-shadow-[0_12px_24px_rgb(0_0_0/0.35)]"
                   />
                 </div>
                 <div className="border-t-4 border-sport p-5">
                   <p className="text-caption text-muted">Illustrative franchise pool</p>
-                  <h3 className="display-heading mt-1 text-heading">Green Bay</h3>
+                  <h3 className="display-heading mt-1 text-heading">{sampleTeam.location}</h3>
                   <p className="mt-3 text-caption text-muted">
-                    A storied franchise. Your next possibility.
+                    {sampleTeam.name} · {sampleTeam.group}. Your next possibility.
                   </p>
                 </div>
               </Card>

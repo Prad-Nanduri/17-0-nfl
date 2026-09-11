@@ -7,6 +7,8 @@ import { GameExplainer } from '../../components/checkpoint/game-explainer';
 import { DraftReveal } from '../../components/checkpoint/draft-reveal';
 import { SampleRoster } from '../../components/checkpoint/sample-roster';
 import { Badge } from '../../components/ui/badge';
+import { LeagueMark, TeamLogo } from '../../components/ui/team-logo';
+import { leagues, nflTeams } from '../../lib/teams';
 
 export const metadata: Metadata = { title: 'Draft room preview' };
 
@@ -24,7 +26,10 @@ export default function DraftPage() {
         </div>
         <div className="mt-7 flex flex-wrap items-end justify-between gap-5">
           <div>
-            <p className="eyebrow mb-3 text-sport">NFL / Solo draft</p>
+            <p className="eyebrow mb-3 flex items-center gap-3 text-sport">
+              <LeagueMark league={leagues.nfl} size="sm" eager />
+              NFL / Solo draft
+            </p>
             <h1 className="display-heading text-heading">Draft in progress.</h1>
             <p className="mt-4 text-small text-muted">Six picks in. A whole season ahead of you.</p>
           </div>
@@ -50,6 +55,23 @@ export default function DraftPage() {
           <DraftReveal />
           <SampleRoster />
         </div>
+        <section aria-labelledby="pool-heading" className="mt-14 border-t border-line pt-8">
+          <div className="flex flex-wrap items-baseline justify-between gap-3">
+            <h2 id="pool-heading" className="text-small font-bold">
+              The franchise pool
+            </h2>
+            <p className="text-caption text-muted">
+              {leagues.nfl.teamCountLabel} in play. Every reveal draws from here.
+            </p>
+          </div>
+          <ul className="mt-5 grid grid-cols-8 gap-1.5 sm:grid-cols-16 lg:grid-cols-[repeat(32,minmax(0,1fr))]">
+            {nflTeams.map((team) => (
+              <li key={team.id} className="logo-well aspect-square p-1.5" title={team.displayName}>
+                <TeamLogo team={team} size="fill" />
+              </li>
+            ))}
+          </ul>
+        </section>
       </main>
       <Footer />
     </div>

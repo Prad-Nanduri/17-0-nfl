@@ -47,6 +47,21 @@ default; the Appearance menu provides a temporary, non-persisted preview overrid
 - **Responsive:** 640/768/1024/1280/1536px. Landing stacks below 768px; draft splits at 1024px.
   Mobile keeps the reveal before the sample roster and never compresses the two into columns.
 - **Layers:** base 0, header 10, dropdown 20, overlay 30, modal 40, toast 50.
+- **Dark theme:** near-black green canvas (`11 15 13`) with two lifted surface steps, muted
+  green-grey secondary text, and hairline edges (`.edged`, driven by `--edge`) in place of the
+  drop shadows that vanish on dark. Shadows use `--shadow`/`--shadow-strength`; photography dims
+  via `--photo-brightness`. Marks swap to their dark variants through `[data-theme-only]`.
+
+## League and team marks
+
+`lib/teams` holds static reference data: all 32 NFL franchises (`nfl.ts`, grouped by division)
+and all 136 FBS programs (`cfb.ts`, 2025 membership, grouped by conference), typed as `Team`.
+League marks (NFL, NCAA) are bundled under `public/logos`; team marks are hotlinked from ESPN's
+public CDN in light and dark variants and rendered `unoptimized` to stay off the Vercel image quota.
+`TeamLogo` / `LeagueMark` (`components/ui/team-logo.tsx`) render both variants and let the theme
+CSS show one. `.logo-well` gives every mark a neutral square so brand colors never fight the surface.
+All marks are trademarks of their owners; this is presentation-only reference use pending licensing review.
+No team data feeds ratings, eligibility, or draft logic.
 
 ## Components and behavior
 
@@ -97,8 +112,7 @@ and notification are UI demonstrations. All roster selections and counts are sta
 Lock pick is disabled. No API, persistence, random draw, ratings, eligibility, draft progression,
 or simulation logic is implemented.
 
-The two local WebP assets were generated for this checkpoint (anonymous athlete/equipment,
-no team logos). Their intrinsic dimensions are reserved through aspect-ratio containers
+The two local WebP assets were generated for this checkpoint (anonymous athlete/equipment). Their intrinsic dimensions are reserved through aspect-ratio containers
 and optimized by Next Image; the hero is prioritized. Fonts are locally bundled.
 
 Validate both routes at 1440px and 375px, light/dark, reduced motion, keyboard interaction,

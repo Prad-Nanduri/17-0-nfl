@@ -25,48 +25,83 @@
     --warning: 134 82 14;
     --error: 168 53 49;
     --info: 48 99 132;
+    --shadow: 16 29 22;
+    --shadow-strength: 1;
+    --edge: 0;
+    --photo-brightness: 1;
+    --logo-well: 255 255 255;
   }
 
+  /* Dark: deep pitch-black green, lifted surfaces, hairline edges and softened photography. */
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme='light']) {
       color-scheme: dark;
-      --canvas: 16 23 19;
-      --surface: 25 34 28;
-      --subtle: 36 47 40;
-      --ink: 237 240 236;
-      --muted: 172 186 177;
-      --line: 72 88 77;
-      --action: 126 199 154;
-      --action-hover: 174 219 190;
-      --on-action: 16 29 22;
-      --sport: 126 199 154;
-      --sport-nfl: 126 199 154;
-      --sport-cfb: 198 185 128;
-      --success: 126 199 154;
-      --warning: 229 182 105;
-      --error: 239 144 137;
-      --info: 140 190 220;
+      --canvas: 11 15 13;
+      --surface: 19 26 22;
+      --subtle: 27 36 31;
+      --ink: 232 237 232;
+      --muted: 156 171 161;
+      --line: 46 59 52;
+      --action: 110 201 146;
+      --action-hover: 152 220 180;
+      --on-action: 8 18 12;
+      --sport: 110 201 146;
+      --sport-nfl: 110 201 146;
+      --sport-cfb: 214 194 130;
+      --success: 110 201 146;
+      --warning: 232 184 102;
+      --error: 240 140 132;
+      --info: 136 190 224;
+      --shadow: 0 0 0;
+      --shadow-strength: 2.6;
+      --edge: 1;
+      --photo-brightness: 0.82;
+      --logo-well: 236 240 236;
     }
   }
 
   :root[data-theme='dark'] {
     color-scheme: dark;
-    --canvas: 16 23 19;
-    --surface: 25 34 28;
-    --subtle: 36 47 40;
-    --ink: 237 240 236;
-    --muted: 172 186 177;
-    --line: 72 88 77;
-    --action: 126 199 154;
-    --action-hover: 174 219 190;
-    --on-action: 16 29 22;
-    --sport: 126 199 154;
-    --sport-nfl: 126 199 154;
-    --sport-cfb: 198 185 128;
-    --success: 126 199 154;
-    --warning: 229 182 105;
-    --error: 239 144 137;
-    --info: 140 190 220;
+    --canvas: 11 15 13;
+    --surface: 19 26 22;
+    --subtle: 27 36 31;
+    --ink: 232 237 232;
+    --muted: 156 171 161;
+    --line: 46 59 52;
+    --action: 110 201 146;
+    --action-hover: 152 220 180;
+    --on-action: 8 18 12;
+    --sport: 110 201 146;
+    --sport-nfl: 110 201 146;
+    --sport-cfb: 214 194 130;
+    --success: 110 201 146;
+    --warning: 232 184 102;
+    --error: 240 140 132;
+    --info: 136 190 224;
+    --shadow: 0 0 0;
+    --shadow-strength: 2.6;
+    --edge: 1;
+    --photo-brightness: 0.82;
+    --logo-well: 236 240 236;
+  }
+
+  /* Exactly one themed mark variant renders; the other stays display:none and is never fetched lazily. */
+  [data-theme-only='dark'] {
+    display: none;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme='light']) [data-theme-only='light'] {
+      display: none;
+    }
+    :root:not([data-theme='light']) [data-theme-only='dark'] {
+      display: block;
+    }
+  }
+  :root[data-theme='dark'] [data-theme-only='light'] {
+    display: none;
+  }
+  :root[data-theme='dark'] [data-theme-only='dark'] {
+    display: block;
   }
 
   [data-sport='nfl'] {
@@ -132,6 +167,21 @@
   }
   .flip-scene {
     transform-style: preserve-3d;
+  }
+  /* Photography dims slightly in dark so type keeps the lead. */
+  .photo {
+    filter: brightness(var(--photo-brightness));
+  }
+  /* Panels gain a hairline edge only when the theme asks for it (dark surfaces have no shadow depth). */
+  .edged {
+    --tw-ring-shadow: inset 0 0 0 1px rgb(var(--line) / var(--edge));
+    box-shadow:
+      var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
+  }
+  /* Neutral well behind a team mark so brand colors never fight the surface. */
+  .logo-well {
+    @apply flex items-center justify-center rounded-badge;
+    background: rgb(var(--logo-well) / 0.06);
   }
 }
 
