@@ -1,45 +1,30 @@
 // SportEngine contract per docs/spec.md §0.1 — every platform-core code path
 // dispatches through this interface; it never imports sport-specific logic.
 
-export type SportId = 'nfl' | 'cfb';
+import type {
+  SportId,
+  SpinSeed,
+  SpinFilters,
+  DraftPoolUnit,
+  SchemePreset,
+  PlayerCandidate,
+  RosterSlot,
+  EligibilityResult,
+  RatingMode,
+  PositionRating,
+  CompletedRoster,
+  SimulationMode,
+  OpponentContext,
+  SeasonResult,
+  SportMode,
+  ModeRuleset,
+  TrophyDefinition,
+  TrophyEvalContext,
+  EarnedTrophy,
+} from './types';
 
-// TODO(spec §0.1): flesh out
-export type SpinSeed = unknown;
-// TODO(spec §0.1): flesh out
-export type SpinFilters = unknown;
-// TODO(spec §0.1): flesh out
-export type DraftPoolUnit = unknown;
-// TODO(spec §0.1): flesh out
-export type SchemePreset = unknown;
-// TODO(spec §0.1): flesh out
-export type PlayerCandidate = unknown;
-// TODO(spec §0.1): flesh out
-export type RosterSlot = unknown;
-// TODO(spec §0.1): flesh out
-export type EligibilityResult = unknown;
-
-export type RatingMode = 'career_season' | 'prime';
-
-// TODO(spec §0.1): flesh out
-export type PositionRating = unknown;
-// TODO(spec §0.1): flesh out
-export type CompletedRoster = unknown;
-// TODO(spec §0.1): flesh out
-export type SimulationMode = unknown;
-// TODO(spec §0.1): flesh out
-export type OpponentContext = unknown;
-// TODO(spec §0.1): flesh out
-export type SeasonResult = unknown;
-// TODO(spec §0.1): flesh out
-export type SportMode = unknown;
-// TODO(spec §0.1): flesh out
-export type ModeRuleset = unknown;
-// TODO(spec §0.1): flesh out
-export type TrophyDefinition = unknown;
-// TODO(spec §0.1): flesh out
-export type TrophyEvalContext = unknown;
-// TODO(spec §0.1): flesh out
-export type EarnedTrophy = unknown;
+export type * from './types';
+export { createSportEngineRegistry, type SportEngineRegistry } from './registry';
 
 export interface SportEngine {
   readonly sportId: SportId;
@@ -73,6 +58,3 @@ export interface SportEngine {
   getTrophyDefinitions(): TrophyDefinition[];
   evaluateTrophies(result: SeasonResult, ctx: TrophyEvalContext): EarnedTrophy[];
 }
-
-// Single dispatch point: sportId -> engine (docs/spec.md §0.1)
-export type SportEngineRegistry = Record<SportId, SportEngine>;

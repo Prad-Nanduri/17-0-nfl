@@ -18,4 +18,5 @@ jobs:
       - run: npm run typecheck
       - run: npm run lint
       - run: npm test
+      - run: npm run test:coverage -w @perfect-season/sport-engine-core
       - run: npm run build
