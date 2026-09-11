@@ -76,6 +76,7 @@ def extract_season(
     refresh: bool = False,
     include_pbp: bool = True,
     legacy_range: tuple[int, int] | None = None,
+    franchise_season_range: tuple[int, int] | None = None,
 ) -> dict[str, pd.DataFrame | None]:
     result: dict[str, pd.DataFrame | None] = {}
     loaders: dict[str, Any] = {
@@ -118,6 +119,14 @@ def extract_season(
             f"draft_picks_{start}_{end}",
             staging,
             lambda: nfl.import_draft_picks(range(start, end + 1)),
+            refresh,
+        )
+    if franchise_season_range is not None:
+        start, end = franchise_season_range
+        result["franchise_schedules"] = cache_frame(
+            f"schedules_{start}_{end}",
+            staging,
+            lambda: nfl.import_schedules(range(start, end + 1)),
             refresh,
         )
     return result

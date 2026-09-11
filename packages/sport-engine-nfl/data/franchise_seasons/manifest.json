@@ -1,0 +1,16 @@
+{
+  "fullFeatureRange": {
+    "from": 1999,
+    "through": 2023
+  },
+  "legacyRange": {
+    "from": 1980,
+    "through": 1998
+  },
+  "rowCounts": {
+    "fullFeature": 797,
+    "legacy": 532,
+    "total": 1329
+  },
+  "skippedTeamKeys": {}
+}

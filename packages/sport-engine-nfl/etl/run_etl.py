@@ -24,9 +24,17 @@ def main() -> None:
     parser.add_argument("--skip-pbp", action="store_true")
     parser.add_argument("--refresh", action="store_true")
     parser.add_argument("--legacy-drafts", type=parse_range)
+    parser.add_argument("--franchise-seasons", type=parse_range)
     args = parser.parse_args()
     started = time.perf_counter()
-    frames = extract_season(args.season, args.staging, args.refresh, not args.skip_pbp, args.legacy_drafts)
+    frames = extract_season(
+        args.season,
+        args.staging,
+        args.refresh,
+        not args.skip_pbp,
+        args.legacy_drafts,
+        args.franchise_seasons,
+    )
     counts = transform(frames, args.season, args.out)
     manifest = {
         "season": args.season,
@@ -47,6 +55,24 @@ def main() -> None:
         "rowCounts": counts,
     }
     stable_json(args.out / "manifest.json", manifest)
+    if args.franchise_seasons is not None:
+        from transform import build_franchise_season_pool
+
+        pool_manifest = build_franchise_season_pool(
+            frames["franchise_schedules"],
+            frames.get("draft_picks"),
+            frames["team_desc"],
+            frames["rosters"],
+            args.franchise_seasons,
+            args.legacy_drafts,
+            args.out.parent,
+        )
+        print(
+            "Franchise-season pool: "
+            f"{pool_manifest['rowCounts']['fullFeature']} full-feature, "
+            f"{pool_manifest['rowCounts']['legacy']} legacy, "
+            f"{pool_manifest['rowCounts']['total']} total"
+        )
     print(f"ETL completed in {time.perf_counter() - started:.1f}s")
 
 

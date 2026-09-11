@@ -170,6 +170,65 @@ describe.skipIf(!process.env.DATABASE_URL)('NFL domain schema', () => {
       ),
     ).rejects.toThrow();
   });
+
+  it('supports conference, versatile players, and nullable legacy records', async () => {
+    const columns = await pool.query<{
+      table_name: string;
+      column_name: string;
+      is_nullable: string;
+      column_default: string | null;
+    }>(
+      `SELECT table_name, column_name, is_nullable, column_default
+       FROM information_schema.columns
+       WHERE table_schema = 'public'
+         AND (table_name, column_name) IN (
+           ('nfl_franchises', 'conference'),
+           ('nfl_players', 'versatile'),
+           ('nfl_franchise_seasons', 'wins'),
+           ('nfl_franchise_seasons', 'losses'),
+           ('nfl_franchise_seasons', 'ties')
+         )
+       ORDER BY table_name, column_name`,
+    );
+    expect(columns.rows).toHaveLength(5);
+    expect(columns.rows.filter((row) => row.table_name === 'nfl_franchises')[0]?.is_nullable).toBe(
+      'YES',
+    );
+    const versatile = columns.rows.find((row) => row.column_name === 'versatile');
+    expect(versatile?.is_nullable).toBe('NO');
+    expect(versatile?.column_default).toContain('false');
+    expect(
+      columns.rows
+        .filter((row) => row.table_name === 'nfl_franchise_seasons')
+        .every((row) => row.is_nullable === 'YES'),
+    ).toBe(true);
+
+    const franchise = await pool.query<{ id: number }>(
+      `INSERT INTO nfl_franchises
+        (franchise_key, name, current_name, abbreviation, nflverse_team_id, conference)
+       VALUES ('migration-spin-test', 'Test', 'Test', 'TST', 999, 'AFC')
+       RETURNING id`,
+    );
+    const franchiseId = franchise.rows[0]?.id;
+    if (franchiseId === undefined) throw new Error('Failed to create migration test franchise');
+    await pool.query(`UPDATE nfl_franchises SET conference = 'NFC' WHERE id = $1`, [franchiseId]);
+    await pool.query(
+      `INSERT INTO nfl_franchise_seasons
+        (franchise_id, season, wins, losses, ties, era_tier)
+       VALUES ($1, 1985, NULL, NULL, NULL, 'legacy')`,
+      [franchiseId],
+    );
+    const player = await pool.query<{ versatile: boolean }>(
+      `INSERT INTO nfl_players
+        (gsis_id, full_name, primary_position, position_group)
+       VALUES ('migration-spin-player', 'Test Player', 'S', 'S')
+       RETURNING versatile`,
+    );
+    expect(player.rows[0]?.versatile).toBe(false);
+    await pool.query(`DELETE FROM nfl_franchise_seasons WHERE franchise_id = $1`, [franchiseId]);
+    await pool.query(`DELETE FROM nfl_franchises WHERE id = $1`, [franchiseId]);
+    await pool.query(`DELETE FROM nfl_players WHERE gsis_id = 'migration-spin-player'`);
+  });
 });
 
 afterAll(async () => {
