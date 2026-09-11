@@ -31,3 +31,18 @@ export {
 } from './media/espn-logos';
 export { loadNflFixtureData, type NflFixtureData } from './data';
 export { NflSportEngine, createNflSportEngine, type NflSportEngineOptions } from './engine';
+export {
+  NFL_PLAYOFF_CONFIG,
+  NFL_REGULAR_SEASON_GAMES,
+  NFL_SIMULATION_CONFIG,
+} from './simulation/config';
+export {
+  NFL_PLAYOFF_WIN_THRESHOLD,
+  qualifiesForPlayoffs,
+  seedFrom,
+  simulatePlayoffBracket,
+  type NflPlayoffResult,
+  type NflPlayoffSeed,
+  type PlayoffDependencies,
+} from './simulation/playoffs';
+export { simulateNFLSeason, type NflSeasonDependencies } from './simulation/simulate-season';

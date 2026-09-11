@@ -134,3 +134,18 @@ The ETL caches raw frames under `etl/.staging`, supports `--refresh`, and
 accepts `--skip-pbp` when the PBP source is unavailable. Add
 `--franchise-seasons 1999-2023` to generate the multi-season spin pool. This version of
 `nfl_data_py` exposes `import_seasonal_rosters`, not `import_rosters`.
+
+## Simulation
+
+NFL simulation uses 17 regular-season games. The shared simulation package
+maps ratings to Elo with `1500 + (rating - 50) * 16`, then applies the 80/20
+roster/opponent guardrail before drive-by-drive scoring. Regular-season
+overtime allows one period and ties; Full Gauntlet playoff overtime continues
+until a winner.
+
+Records qualify for the playoffs at `wins + 0.5 * ties >= 10`. A 14-win
+equivalent record earns seed 1 and a divisional bye; 12–13 win-equivalent
+records receive seeds 2–4, and other qualifying records receive seeds 5–7.
+The engine-owned postseason outcome codes are `missed_playoffs`,
+`lost_wild_card`, `lost_divisional`, `lost_conference`, `lost_super_bowl`,
+and `won_super_bowl`.
