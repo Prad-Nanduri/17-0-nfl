@@ -6,7 +6,7 @@ from typing import Any
 
 import pandas as pd
 
-from common import integer, json_value, number, stable_json
+from common import historic_team_key, integer, json_value, number, stable_json
 
 
 POSITION_GROUPS = {
@@ -27,6 +27,7 @@ POSITION_GROUPS = {
     "NT": "DL",
     "DL": "DL",
     "EDGE": "DL",
+    "INTERIOR_LINE": "DL",
     "LB": "LB",
     "OLB": "LB",
     "ILB": "LB",
@@ -37,6 +38,8 @@ POSITION_GROUPS = {
     "FS": "S",
     "SS": "S",
     "SAF": "S",
+    "SAFETY": "S",
+    "SLOT_CB": "CB",
     "K": "K",
     "P": "P",
 }
@@ -67,8 +70,10 @@ def _team_results(schedules: pd.DataFrame, season: int) -> list[dict[str, Any]]:
     rows: dict[str, dict[str, Any]] = {}
     regular = schedules[schedules["game_type"].eq("REG")] if "game_type" in schedules else schedules
     for _, game in regular.iterrows():
-        away = str(game["away_team"])
-        home = str(game["home_team"])
+        away = historic_team_key(game["away_team"], season)
+        home = historic_team_key(game["home_team"], season)
+        if away is None or home is None:
+            continue
         away_score = number(game["away_score"])
         home_score = number(game["home_score"])
         if away_score is None or home_score is None:
@@ -85,6 +90,108 @@ def _team_results(schedules: pd.DataFrame, season: int) -> list[dict[str, Any]]:
             rows[away]["ties"] += 1
             rows[home]["ties"] += 1
     return [rows[key] for key in sorted(rows)]
+
+
+def build_franchise_season_pool(
+    schedules: pd.DataFrame,
+    draft_picks: pd.DataFrame | None,
+    team_desc: pd.DataFrame,
+    rosters: pd.DataFrame,
+    season_range: tuple[int, int],
+    legacy_range: tuple[int, int] | None,
+    out: Path,
+) -> dict[str, Any]:
+    known_keys = {
+        row["franchiseKey"]
+        for row in _franchises(team_desc, rosters, schedules)
+    }
+    skipped: dict[str, int] = defaultdict(int)
+    full: dict[tuple[str, int], dict[str, Any]] = {}
+    regular = schedules[schedules["game_type"].eq("REG")] if "game_type" in schedules else schedules
+    for _, game in regular.iterrows():
+        game_season = integer(_field(game, "season"))
+        if game_season is None or not (season_range[0] <= game_season <= season_range[1]):
+            continue
+        away_raw = str(_field(game, "away_team"))
+        home_raw = str(_field(game, "home_team"))
+        away = historic_team_key(away_raw, game_season)
+        home = historic_team_key(home_raw, game_season)
+        if away is None or away not in known_keys:
+            skipped[away_raw] += 1
+            away = None
+        if home is None or home not in known_keys:
+            skipped[home_raw] += 1
+            home = None
+        away_score = number(_field(game, "away_score"))
+        home_score = number(_field(game, "home_score"))
+        if away is None or home is None or away_score is None or home_score is None:
+            continue
+        for team in (away, home):
+            full.setdefault(
+                (team, game_season),
+                {
+                    "franchiseKey": team,
+                    "season": game_season,
+                    "wins": 0,
+                    "losses": 0,
+                    "ties": 0,
+                    "eraTier": "full_feature",
+                },
+            )
+        if away_score > home_score:
+            full[(away, game_season)]["wins"] += 1
+            full[(home, game_season)]["losses"] += 1
+        elif home_score > away_score:
+            full[(home, game_season)]["wins"] += 1
+            full[(away, game_season)]["losses"] += 1
+        else:
+            full[(away, game_season)]["ties"] += 1
+            full[(home, game_season)]["ties"] += 1
+
+    legacy_keys: set[tuple[str, int]] = set()
+    if draft_picks is not None and legacy_range is not None:
+        for _, row in draft_picks.iterrows():
+            draft_season = integer(_field(row, "season"))
+            if draft_season is None or not (legacy_range[0] <= draft_season <= legacy_range[1]):
+                continue
+            raw_team = str(_field(row, "team"))
+            team = historic_team_key(raw_team, draft_season)
+            if team is None or team not in known_keys:
+                skipped[raw_team] += 1
+                continue
+            legacy_keys.add((team, draft_season))
+
+    rows = list(full.values()) + [
+        {
+            "franchiseKey": team,
+            "season": season,
+            "wins": None,
+            "losses": None,
+            "ties": None,
+            "eraTier": "legacy",
+        }
+        for team, season in sorted(legacy_keys)
+        if (team, season) not in full
+    ]
+    rows.sort(key=lambda row: (row["season"], row["franchiseKey"]))
+    pool_directory = out / "franchise_seasons"
+    stable_json(pool_directory / "franchise_seasons.json", rows)
+    manifest = {
+        "fullFeatureRange": {"from": season_range[0], "through": season_range[1]},
+        "legacyRange": (
+            {"from": legacy_range[0], "through": legacy_range[1]}
+            if legacy_range is not None
+            else None
+        ),
+        "rowCounts": {
+            "fullFeature": sum(row["eraTier"] == "full_feature" for row in rows),
+            "legacy": sum(row["eraTier"] == "legacy" for row in rows),
+            "total": len(rows),
+        },
+        "skippedTeamKeys": dict(sorted(skipped.items())),
+    }
+    stable_json(pool_directory / "manifest.json", manifest)
+    return manifest
 
 
 def _franchises(team_desc: pd.DataFrame, rosters: pd.DataFrame, schedules: pd.DataFrame) -> list[dict[str, Any]]:
@@ -107,6 +214,7 @@ def _franchises(team_desc: pd.DataFrame, rosters: pd.DataFrame, schedules: pd.Da
             "abbreviation": team,
             "nflverseTeamId": integer(_field(row, "team_id")) or 0,
             "logoUrl": json_value(_field(row, "team_logo_espn")),
+            "conference": json_value(_field(row, "team_conf")) or "AFC",
         })
     return sorted(rows, key=lambda row: row["franchiseKey"])
 
@@ -143,6 +251,8 @@ def _players(
         if group is None:
             unknown[str(json_value(_field(row, "position")))] += 1
             continue
+        primary_group = position_group(position)
+        metadata_group = position_group(ngs_position) or position_group(depth_chart_position)
         player = {
             "gsisId": player_id,
             "pfrId": json_value(_field(row, "pfr_id")) or (json_value(_field(asset, "pfr_id")) if asset is not None else None),
@@ -159,6 +269,7 @@ def _players(
             "draftNumber": integer(_field(row, "draft_number")) or (integer(_field(asset, "draft_pick")) if asset is not None else None),
             "rookieYear": integer(_field(row, "rookie_year")) or (integer(_field(asset, "rookie_season")) if asset is not None else None),
             "headshotUrl": json_value(_field(row, "headshot_url")) or (json_value(_field(asset, "headshot")) if asset is not None else None),
+            "versatile": metadata_group is not None and primary_group is not None and metadata_group != primary_group,
         }
         players.append(player)
         metadata[player_id] = {"team": json_value(_field(row, "team")), **player}

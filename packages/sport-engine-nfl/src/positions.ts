@@ -18,6 +18,7 @@ const POSITION_GROUPS: Readonly<Record<string, PositionGroup>> = {
   NT: 'DL',
   DL: 'DL',
   EDGE: 'DL',
+  INTERIOR_LINE: 'DL',
   LB: 'LB',
   OLB: 'LB',
   ILB: 'LB',
@@ -28,6 +29,8 @@ const POSITION_GROUPS: Readonly<Record<string, PositionGroup>> = {
   FS: 'S',
   SS: 'S',
   SAF: 'S',
+  SAFETY: 'S',
+  SLOT_CB: 'CB',
   K: 'K',
   P: 'P',
 };

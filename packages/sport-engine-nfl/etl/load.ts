@@ -28,7 +28,10 @@ const pool = new Pool({ connectionString: databaseUrl });
 try {
   await pool.query('BEGIN');
   const franchises = await load<NflFranchise[]>('franchises.json');
-  const seasons = await load<NflFranchiseSeason[]>('franchise_seasons.json');
+  const seasons =
+    (await loadOptional<NflFranchiseSeason[]>(
+      resolve(root, 'data', 'franchise_seasons', 'franchise_seasons.json'),
+    )) ?? (await load<NflFranchiseSeason[]>('franchise_seasons.json'));
   const players = await load<NflPlayer[]>('players.json');
   const stats = await load<NflPlayerSeasonStats[]>('player_season_stats.json');
   const ratings = await load<NflRating[]>('ratings.json');
@@ -55,11 +58,12 @@ try {
   for (const franchise of franchises) {
     const result = await pool.query<{ id: number }>(
       `INSERT INTO nfl_franchises
-        (franchise_key, name, current_name, abbreviation, nflverse_team_id, logo_url)
-       VALUES ($1, $2, $3, $4, $5, $6)
+        (franchise_key, name, current_name, abbreviation, nflverse_team_id, logo_url, conference)
+       VALUES ($1, $2, $3, $4, $5, $6, $7)
        ON CONFLICT (franchise_key) DO UPDATE SET name = EXCLUDED.name,
          current_name = EXCLUDED.current_name, abbreviation = EXCLUDED.abbreviation,
-         nflverse_team_id = EXCLUDED.nflverse_team_id, logo_url = EXCLUDED.logo_url
+         nflverse_team_id = EXCLUDED.nflverse_team_id, logo_url = EXCLUDED.logo_url,
+         conference = EXCLUDED.conference
        RETURNING id`,
       [
         franchise.franchiseKey,
@@ -68,6 +72,7 @@ try {
         franchise.abbreviation,
         franchise.nflverseTeamId,
         franchise.logoUrl,
+        franchise.conference,
       ],
     );
     franchiseIds.set(franchise.franchiseKey, result.rows[0]?.id ?? 0);
@@ -97,11 +102,11 @@ try {
     const result = await pool.query<{ id: number }>(
       `INSERT INTO nfl_players
         (gsis_id, pfr_id, espn_id, full_name, primary_position, position_group,
-         birth_date, college, draft_year, draft_round, draft_number, rookie_year, headshot_url)
-       VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13)
+         birth_date, college, draft_year, draft_round, draft_number, rookie_year, headshot_url, versatile)
+       VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14)
        ON CONFLICT (gsis_id) DO UPDATE SET full_name = EXCLUDED.full_name,
          pfr_id = EXCLUDED.pfr_id, espn_id = EXCLUDED.espn_id,
-         position_group = EXCLUDED.position_group
+         position_group = EXCLUDED.position_group, versatile = EXCLUDED.versatile
        RETURNING id`,
       [
         player.gsisId,
@@ -117,6 +122,7 @@ try {
         player.draftNumber,
         player.rookieYear,
         player.headshotUrl,
+        player.versatile,
       ],
     );
     playerIds.set(player.gsisId, result.rows[0]?.id ?? 0);

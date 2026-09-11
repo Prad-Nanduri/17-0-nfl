@@ -7,6 +7,38 @@ from typing import Any
 
 import pandas as pd
 
+HISTORIC_TEAM_KEYS = {
+    "GNB": "GB",
+    "KAN": "KC",
+    "NOR": "NO",
+    "NWE": "NE",
+    "SFO": "SF",
+    "TAM": "TB",
+    "SDG": "LAC",
+    "RAI": "LV",
+    "RAM": "LA",
+    "STL": "LA",
+    "PHO": "ARI",
+    "OAK": "LV",
+    "SD": "LAC",
+    "HOU": "HOU",
+    "BAL": "BAL",
+}
+
+
+def historic_team_key(team: Any, season: int) -> str | None:
+    value = str(team).strip().upper()
+    if value == "HOU":
+        return "TEN" if season <= 1996 else "HOU"
+    if value == "BAL":
+        return "IND" if season <= 1983 else "BAL"
+    return HISTORIC_TEAM_KEYS.get(value, value if value in {
+        "ARI", "ATL", "BAL", "BUF", "CAR", "CHI", "CIN", "CLE", "DAL", "DEN",
+        "DET", "GB", "HOU", "IND", "JAX", "KC", "LA", "LAC", "LV", "MIA",
+        "MIN", "NE", "NO", "NYG", "NYJ", "PHI", "PIT", "SEA", "SF", "TB",
+        "TEN", "WAS",
+    } else None)
+
 
 def cache_frame(
     name: str,

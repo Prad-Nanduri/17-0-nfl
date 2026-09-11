@@ -20,6 +20,17 @@ scores, qualification, confidence tiers, and `is_team_level_proxy`.
 `nfl_legacy_player_careers` and `nfl_legacy_ratings` hold pre-1999 career
 inputs and ratings.
 
+## Draft schemes and eligibility
+
+The engine exposes `4-3`, `3-4`, and `nickel` presets. Each has the same
+11 offensive slots and kicker/punter slots, with defensive slots matching the
+named front. A normalized primary position must be listed in a slot's
+eligible positions. A player marked `versatile` may fill an adjacent position
+group (CB/S, DL/LB, or OL cross-fill) with a warning rather than a hard block.
+The flag is derived when a roster row's NGS or depth-chart position maps to a
+different canonical group than its listed roster position; unknown metadata is
+ignored.
+
 ## Statistics and proxies
 
 Raw nflverse totals are retained only for the row's position group. Every row
@@ -79,6 +90,33 @@ traditional 3-4 outside edge rusher. Otherwise the generic roster-position
 mapping applies. `primaryPosition` remains the roster position, and
 `ngsPosition`/`depthChartPosition` are retained on the player.
 
+## Spin pool
+
+The multi-season spin pool is committed at
+`data/franchise_seasons/franchise_seasons.json`, with generation metadata in
+`data/franchise_seasons/manifest.json`. Full-feature rows use regular-season
+records from 1999 onward; legacy rows use draft seasons and nullable records.
+The engine returns stable `franchiseKey` values in spin units; database numeric
+IDs are only loader concerns.
+
+Historical draft keys are normalized by the explicit ETL map: `GNB`→`GB`,
+`KAN`→`KC`, `NOR`→`NO`, `NWE`→`NE`, `SFO`→`SF`, `TAM`→`TB`, `SDG`→`LAC`,
+`RAI`→`LV`, `RAM`/`STL`→`LA`, `PHO`→`ARI`, `OAK`→`LV`; Houston and Baltimore
+use season-aware Oilers/Colts mappings. Unmapped keys are reported in the
+spin-pool manifest rather than guessed.
+
+## Logos and sampling
+
+`createLogoResolver` uses the ESPN team endpoint with positive caching for
+24 hours, failure caching for five minutes, a three-second timeout,
+in-flight deduplication, and `/logos/nfl-placeholder.svg` fallback. The
+`spin:sample` script runs twenty deterministic seeds and prints franchise
+frequencies:
+
+```sh
+npm run spin:sample -w @perfect-season/sport-engine-nfl
+```
+
 ## Re-running the ETL
 
 From this package, create a Python 3.11 environment and install the pinned
@@ -93,5 +131,6 @@ npm run etl:load -w @perfect-season/sport-engine-nfl
 ```
 
 The ETL caches raw frames under `etl/.staging`, supports `--refresh`, and
-accepts `--skip-pbp` when the PBP source is unavailable. This version of
+accepts `--skip-pbp` when the PBP source is unavailable. Add
+`--franchise-seasons 1999-2023` to generate the multi-season spin pool. This version of
 `nfl_data_py` exposes `import_seasonal_rosters`, not `import_rosters`.

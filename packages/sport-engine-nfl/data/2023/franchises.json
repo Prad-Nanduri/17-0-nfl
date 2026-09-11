@@ -1,6 +1,7 @@
 [
   {
     "abbreviation": "ARI",
+    "conference": "NFC",
     "currentName": "Arizona Cardinals",
     "franchiseKey": "ARI",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
@@ -9,6 +10,7 @@
   },
   {
     "abbreviation": "ATL",
+    "conference": "NFC",
     "currentName": "Atlanta Falcons",
     "franchiseKey": "ATL",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
@@ -17,6 +19,7 @@
   },
   {
     "abbreviation": "BAL",
+    "conference": "AFC",
     "currentName": "Baltimore Ravens",
     "franchiseKey": "BAL",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
@@ -25,6 +28,7 @@
   },
   {
     "abbreviation": "BUF",
+    "conference": "AFC",
     "currentName": "Buffalo Bills",
     "franchiseKey": "BUF",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
@@ -33,6 +37,7 @@
   },
   {
     "abbreviation": "CAR",
+    "conference": "NFC",
     "currentName": "Carolina Panthers",
     "franchiseKey": "CAR",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/car.png",
@@ -41,6 +46,7 @@
   },
   {
     "abbreviation": "CHI",
+    "conference": "NFC",
     "currentName": "Chicago Bears",
     "franchiseKey": "CHI",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
@@ -49,6 +55,7 @@
   },
   {
     "abbreviation": "CIN",
+    "conference": "AFC",
     "currentName": "Cincinnati Bengals",
     "franchiseKey": "CIN",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
@@ -57,6 +64,7 @@
   },
   {
     "abbreviation": "CLE",
+    "conference": "AFC",
     "currentName": "Cleveland Browns",
     "franchiseKey": "CLE",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
@@ -65,6 +73,7 @@
   },
   {
     "abbreviation": "DAL",
+    "conference": "NFC",
     "currentName": "Dallas Cowboys",
     "franchiseKey": "DAL",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
@@ -73,6 +82,7 @@
   },
   {
     "abbreviation": "DEN",
+    "conference": "AFC",
     "currentName": "Denver Broncos",
     "franchiseKey": "DEN",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
@@ -81,6 +91,7 @@
   },
   {
     "abbreviation": "DET",
+    "conference": "NFC",
     "currentName": "Detroit Lions",
     "franchiseKey": "DET",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
@@ -89,6 +100,7 @@
   },
   {
     "abbreviation": "GB",
+    "conference": "NFC",
     "currentName": "Green Bay Packers",
     "franchiseKey": "GB",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
@@ -97,6 +109,7 @@
   },
   {
     "abbreviation": "HOU",
+    "conference": "AFC",
     "currentName": "Houston Texans",
     "franchiseKey": "HOU",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
@@ -105,6 +118,7 @@
   },
   {
     "abbreviation": "IND",
+    "conference": "AFC",
     "currentName": "Indianapolis Colts",
     "franchiseKey": "IND",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
@@ -113,6 +127,7 @@
   },
   {
     "abbreviation": "JAX",
+    "conference": "AFC",
     "currentName": "Jacksonville Jaguars",
     "franchiseKey": "JAX",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
@@ -121,6 +136,7 @@
   },
   {
     "abbreviation": "KC",
+    "conference": "AFC",
     "currentName": "Kansas City Chiefs",
     "franchiseKey": "KC",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
@@ -129,6 +145,7 @@
   },
   {
     "abbreviation": "LA",
+    "conference": "NFC",
     "currentName": "Los Angeles Rams",
     "franchiseKey": "LA",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
@@ -137,6 +154,7 @@
   },
   {
     "abbreviation": "LAC",
+    "conference": "AFC",
     "currentName": "Los Angeles Chargers",
     "franchiseKey": "LAC",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
@@ -145,6 +163,7 @@
   },
   {
     "abbreviation": "LV",
+    "conference": "AFC",
     "currentName": "Las Vegas Raiders",
     "franchiseKey": "LV",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
@@ -153,6 +172,7 @@
   },
   {
     "abbreviation": "MIA",
+    "conference": "AFC",
     "currentName": "Miami Dolphins",
     "franchiseKey": "MIA",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
@@ -161,6 +181,7 @@
   },
   {
     "abbreviation": "MIN",
+    "conference": "NFC",
     "currentName": "Minnesota Vikings",
     "franchiseKey": "MIN",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
@@ -169,6 +190,7 @@
   },
   {
     "abbreviation": "NE",
+    "conference": "AFC",
     "currentName": "New England Patriots",
     "franchiseKey": "NE",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
@@ -177,6 +199,7 @@
   },
   {
     "abbreviation": "NO",
+    "conference": "NFC",
     "currentName": "New Orleans Saints",
     "franchiseKey": "NO",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
@@ -185,6 +208,7 @@
   },
   {
     "abbreviation": "NYG",
+    "conference": "NFC",
     "currentName": "New York Giants",
     "franchiseKey": "NYG",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
@@ -193,6 +217,7 @@
   },
   {
     "abbreviation": "NYJ",
+    "conference": "AFC",
     "currentName": "New York Jets",
     "franchiseKey": "NYJ",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
@@ -201,6 +226,7 @@
   },
   {
     "abbreviation": "PHI",
+    "conference": "NFC",
     "currentName": "Philadelphia Eagles",
     "franchiseKey": "PHI",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
@@ -209,6 +235,7 @@
   },
   {
     "abbreviation": "PIT",
+    "conference": "AFC",
     "currentName": "Pittsburgh Steelers",
     "franchiseKey": "PIT",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
@@ -217,6 +244,7 @@
   },
   {
     "abbreviation": "SEA",
+    "conference": "NFC",
     "currentName": "Seattle Seahawks",
     "franchiseKey": "SEA",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
@@ -225,6 +253,7 @@
   },
   {
     "abbreviation": "SF",
+    "conference": "NFC",
     "currentName": "San Francisco 49ers",
     "franchiseKey": "SF",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
@@ -233,6 +262,7 @@
   },
   {
     "abbreviation": "TB",
+    "conference": "NFC",
     "currentName": "Tampa Bay Buccaneers",
     "franchiseKey": "TB",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
@@ -241,6 +271,7 @@
   },
   {
     "abbreviation": "TEN",
+    "conference": "AFC",
     "currentName": "Tennessee Titans",
     "franchiseKey": "TEN",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
@@ -249,6 +280,7 @@
   },
   {
     "abbreviation": "WAS",
+    "conference": "NFC",
     "currentName": "Washington Commanders",
     "franchiseKey": "WAS",
     "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
