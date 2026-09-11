@@ -4,6 +4,8 @@ from pathlib import Path
 from typing import Any
 
 import pandas as pd
+import pyarrow.parquet as pq
+from urllib.request import urlopen
 
 import nfl_data_py as nfl
 
@@ -11,6 +13,8 @@ from common import cache_frame
 
 
 PBP_COLUMNS = [
+    "game_id",
+    "play_id",
     "season_type",
     "qtr",
     "game_seconds_remaining",
@@ -35,6 +39,35 @@ PBP_COLUMNS = [
 
 def _parquet_loader(url: str) -> Any:
     return lambda: pd.read_parquet(url)
+
+
+def _load_pbp(season: int, staging: Path, refresh: bool) -> pd.DataFrame:
+    raw_path = staging / "pbp_raw.parquet"
+    selected_path = staging / "pbp.parquet"
+    url = f"https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_{season}.parquet"
+    staging.mkdir(parents=True, exist_ok=True)
+    if raw_path.exists() and not refresh:
+        pass
+    else:
+        with urlopen(url, timeout=300) as response:
+            raw_path.write_bytes(response.read())
+    available = set(pq.read_schema(raw_path).names)
+    selected = [column for column in PBP_COLUMNS if column in available]
+    missing = sorted(set(PBP_COLUMNS) - available)
+    if missing:
+        print(f"WARNING: PBP asset missing columns {missing}; those fields will be null")
+    if not selected:
+        raise ValueError("PBP asset contained none of the requested columns")
+    if selected_path.exists() and not refresh:
+        frame = pd.read_parquet(selected_path)
+        if set(selected).issubset(frame.columns) and not frame.empty:
+            return frame
+        selected_path.unlink()
+    frame = pd.read_parquet(raw_path, columns=selected)
+    if frame.empty:
+        raise ValueError("PBP asset returned an empty DataFrame")
+    frame.to_parquet(selected_path, index=False)
+    return frame
 
 
 def extract_season(
@@ -71,18 +104,7 @@ def extract_season(
 
     if include_pbp:
         try:
-            pbp = cache_frame(
-                "pbp",
-                staging,
-                lambda: nfl.import_pbp_data([season], columns=PBP_COLUMNS),
-                refresh,
-            )
-            missing = sorted(set(PBP_COLUMNS) - set(pbp.columns))
-            if missing:
-                print(f"WARNING: PBP missing columns {missing}; derived PBP fields will be null")
-                result["pbp"] = None
-            else:
-                result["pbp"] = pbp
+            result["pbp"] = _load_pbp(season, staging, refresh)
         except Exception as error:
             print(f"WARNING: PBP unavailable ({error}); derived PBP fields will be null")
             result["pbp"] = None

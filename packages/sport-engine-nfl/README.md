@@ -10,8 +10,9 @@ than CFB rows.
 `nfl_franchises` stores the 32 current nflverse teams and their stable
 `franchise_key`; `nfl_franchise_seasons` stores regular-season records and the
 confidence era. `nfl_players` stores GSIS identity and roster metadata.
-`nfl_player_season_stats` stores one player/team/season row with a flat JSON
-statistics map. `nfl_ratings` stores career-season ratings.
+`nfl_player_season_stats` stores one player/team/season row with a compact
+position-specific JSON statistics map. `nfl_ratings` stores career-season
+ratings.
 
 The migration adds `franchise_key`, nflverse team and logo identifiers, player
 GSIS/PFR/ESPN identifiers, position groups, games, percentile and composite
@@ -21,32 +22,37 @@ inputs and ratings.
 
 ## Statistics and proxies
 
-Raw nflverse totals are retained in `stats`. Common keys are
-`offenseSnaps`, `defenseSnaps`, `stSnaps`, and `games`. QB keys include
-`passAttempts`, `completions`, `passingYards`, `passingTds`, `interceptions`,
-`sacks`, `sackYards`, `rushingEpa`, `rushingYards`, and ANY/A-style
-`anyPerAttempt`, `tdRate`, `intRate`, and `completionPct`.
+Raw nflverse totals are retained only for the row's position group. Every row
+has `games`, `offenseSnaps`, `defenseSnaps`, and `stSnaps`. Position keys are:
 
-RB keys include carries, rushing/receiving totals, `yardsPerCarry`,
-`rushYardsShare`, and PFR `brokenTackleRate`. WR/TE keys include targets,
-receiving totals, `targetShare`, and `yardsPerRouteProxy`. The latter is
-receiving yards divided by offensive snaps: nflverse does not provide routes
-run, so this is a documented YPRR proxy.
+- QB: `passAttempts`, `completions`, `passingYards`, `passingTds`,
+  `interceptions`, `sacks`, `sackYards`, `rushingEpa`, `rushingYards`,
+  `anyPerAttempt`, `tdRate`, `intRate`, `completionPct`.
+- RB: `carries`, `rushingYards`, `rushingTds`, `receivingYards`, `receptions`,
+  `targets`, `yardsPerCarry`, `rushYardsShare`, `brokenTackleRate`.
+- WR/TE: `targets`, `receptions`, `receivingYards`, `receivingTds`,
+  `targetShare`, `yardsPerRouteProxy`.
+- OL: `teamPressureRateAllowed`, `teamYardsBeforeContactPerAtt`, `penalties`.
+  These are team-level proxies because nflverse does not provide per-player OL
+  pressures or PFF grades; OL rows set `isTeamLevelProxy` to true.
+- DL: `sacks`, `qbHits`, `tacklesForLoss`, `tacklesSolo`, `tackles`,
+  `pfrPressures`, `pressureRate`, `runStopProxy`.
+- LB/CB/S: `tackles`, `tacklesForLoss`, `tacklesSolo`, `interceptions`,
+  `passDefended`, `pfrTargets`, `completionsAllowed`, `yardsAllowed`,
+  `passerRatingAllowed`, `runStopProxy`, `coverageProxy`.
+- K: `fgAtt`, `fgMade`, `fgPct`, distance-bucket made/attempt totals, `patAtt`,
+  `patMade`, `accuracyByDistance`, `kickoffTouchbackRate`, `clutchFgPct`.
+- P: `punts`, `grossAvg`, `netAvg`, `inside20Rate`, `clutchNetAvg`.
 
-OL rows include team `teamPressureRateAllowed`,
-`teamYardsBeforeContactPerAtt`, and penalties. These are team-level proxies
-because nflverse does not provide per-player OL pressures or PFF grades; OL
-rows set `isTeamLevelProxy` to true.
+`yardsPerRouteProxy` is receiving yards divided by offensive snaps because
+nflverse does not provide routes run. PBP-derived values are null only when
+the direct PBP asset is unavailable.
 
-DL rows include tackles, sacks, QB hits, tackles for loss, PFR pressures,
-`pressureRate`, and `runStopProxy`. LB/CB/S rows include tackle and coverage
-inputs plus `coverageProxy`, derived from passer rating allowed when at least
-15 targets are available.
-
-K rows include distance-bucket accuracy, PAT totals,
-`kickoffTouchbackRate`, and clutch field-goal percentage. P rows include punt
-count, gross/net averages, `inside20Rate`, and clutch net average. PBP-derived
-values are null when PBP is unavailable.
+Legacy career rows always retain `carAv`, `weightedAv`, `draftTeamAv`,
+`proBowls`, `allPro`, `seasonsStarted`, and `games`. They add only the
+position-relevant career box totals: passing totals for QBs, rushing and
+receiving totals for RBs, receiving totals for WR/TE, defensive totals for
+DL/LB/CB/S, and no extra totals for OL/K/P.
 
 ## Ratings
 
@@ -66,9 +72,12 @@ Legacy ratings therefore use draft-pick career data and are per-career rather
 than per-season. Pre-1999 franchise depth charts require another source and
 remain an open item.
 
-For 2023 roster rows, an `LB` whose depth-chart role is `OLB` is treated as an
-edge/DL rating row while its roster `primaryPosition` remains `LB`. This keeps
-edge defenders comparable to the nflverse defensive-role feed.
+For 2023 roster rows, rating role classification uses the nflverse NGS role:
+`ngsPosition == EDGE` maps to DL; when NGS position is null,
+`position == LB` plus `depthChartPosition == OLB` also maps to DL for a
+traditional 3-4 outside edge rusher. Otherwise the generic roster-position
+mapping applies. `primaryPosition` remains the roster position, and
+`ngsPosition`/`depthChartPosition` are retained on the player.
 
 ## Re-running the ETL
 

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import datetime
 import importlib.metadata
 import time
 from pathlib import Path
@@ -29,7 +30,7 @@ def main() -> None:
     counts = transform(frames, args.season, args.out)
     manifest = {
         "season": args.season,
-        "generatedAt": __import__("datetime").datetime.now(__import__("datetime").timezone.utc).isoformat(),
+        "generatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
         "nflDataPyVersion": importlib.metadata.version("nfl-data-py"),
         "sources": [
             "nfl_data_py.import_seasonal_data",
@@ -40,7 +41,7 @@ def main() -> None:
             "nfl_data_py.import_seasonal_pfr",
             "nfl_data_py.import_team_desc",
             "nflverse player_stats parquet assets",
-            "nfl_data_py.import_pbp_data",
+            "nflverse play_by_play parquet asset",
         ],
         "pbpIncluded": frames["pbp"] is not None,
         "rowCounts": counts,

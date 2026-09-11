@@ -35,7 +35,7 @@ try {
   const legacyCareers = await loadOptional<
     Array<{
       readonly pfrId: string;
-      readonly gsisId: string | null;
+      readonly gsisId?: string | null;
       readonly fullName: string;
       readonly positionGroup: string;
       readonly draftYear: number;
@@ -178,7 +178,9 @@ try {
            stats_jsonb = EXCLUDED.stats_jsonb, career_through_season = EXCLUDED.career_through_season
          RETURNING id`,
         [
-          row.gsisId === null ? null : (playerIds.get(row.gsisId) ?? null),
+          row.gsisId === undefined || row.gsisId === null
+            ? null
+            : (playerIds.get(row.gsisId) ?? null),
           row.pfrId,
           row.fullName,
           row.positionGroup,

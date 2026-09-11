@@ -25,6 +25,8 @@ export interface NflPlayer {
   readonly fullName: string;
   readonly primaryPosition: string;
   readonly positionGroup: PositionGroup;
+  readonly ngsPosition: string | null;
+  readonly depthChartPosition: string | null;
   readonly birthDate: string | null;
   readonly college: string | null;
   readonly draftYear: number | null;
@@ -48,7 +50,7 @@ export interface NflPlayerSeasonStats {
 
 export interface NflLegacyPlayerCareer {
   readonly pfrId: string;
-  readonly gsisId: string | null;
+  readonly gsisId?: string | null;
   readonly fullName: string;
   readonly positionGroup: PositionGroup;
   readonly draftYear: number;

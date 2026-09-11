@@ -17,10 +17,17 @@ def cache_frame(
     staging.mkdir(parents=True, exist_ok=True)
     path = staging / f"{name}.parquet"
     if path.exists() and not refresh:
-        return pd.read_parquet(path)
+        cached = pd.read_parquet(path)
+        if not cached.empty:
+            return cached
+        path.unlink()
     frame = loader()
     if not isinstance(frame, pd.DataFrame):
         raise TypeError(f"{name} loader did not return a DataFrame")
+    if frame.empty:
+        if path.exists():
+            path.unlink()
+        raise ValueError(f"{name} loader returned an empty DataFrame")
     frame.to_parquet(path, index=False)
     return frame
 

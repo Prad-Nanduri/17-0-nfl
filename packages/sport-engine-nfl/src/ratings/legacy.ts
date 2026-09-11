@@ -82,7 +82,7 @@ export function rateLegacyCareers(rows: readonly NflLegacyPlayerCareer[]): NflRa
     const rating = rated.get(row.pfrId);
     const qualified = value(row, 'games') !== null && (value(row, 'games') ?? 0) >= 16;
     return {
-      gsisId: row.gsisId,
+      gsisId: row.gsisId ?? null,
       franchiseKey: row.franchiseKey,
       season: row.careerFromSeason,
       positionGroup: row.positionGroup,
