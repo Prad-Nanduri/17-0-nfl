@@ -15,6 +15,22 @@ export default tseslint.config(
     },
   },
   {
+    files: ['packages/simulation/**/*.{ts,tsx,js,jsx,mjs}'],
+    rules: {
+      'no-restricted-imports': [
+        'error',
+        {
+          patterns: [
+            '@perfect-season/sport-engine-nfl*',
+            '@perfect-season/sport-engine-cfb*',
+            '**/sport-engine-nfl/**',
+            '**/sport-engine-cfb/**',
+          ],
+        },
+      ],
+    },
+  },
+  {
     files: ['apps/web/**/*.{ts,tsx,js,jsx,mjs}'],
     plugins: {
       '@next/next': nextPlugin,

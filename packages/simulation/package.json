@@ -8,9 +8,13 @@
   "scripts": {
     "typecheck": "tsc --noEmit",
     "build": "tsc --noEmit",
-    "test": "vitest run --passWithNoTests"
+    "test": "vitest run --passWithNoTests",
+    "verify:guardrail": "tsx verify-guardrail.ts"
   },
   "dependencies": {
     "@perfect-season/sport-engine-core": "*"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.13"
   }
 }
