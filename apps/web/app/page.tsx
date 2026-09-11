@@ -4,8 +4,11 @@ import { ArrowRight, ArrowUpRight } from '@phosphor-icons/react/dist/ssr';
 import { Header } from '../components/checkpoint/header';
 import { Footer } from '../components/checkpoint/footer';
 import { GameExplainer } from '../components/checkpoint/game-explainer';
+import { LeagueWall } from '../components/checkpoint/league-wall';
 import { Enter } from '../components/motion/enter';
 import { buttonStyles } from '../components/ui/button';
+import { LeagueMark } from '../components/ui/team-logo';
+import { leagues } from '../lib/teams';
 
 export default function Page() {
   return (
@@ -38,6 +41,25 @@ export default function Page() {
                 </Link>
                 <GameExplainer />
               </div>
+              <ul
+                aria-label="Leagues you can draft from"
+                className="mt-9 flex flex-wrap items-center gap-x-7 gap-y-3 border-t border-line pt-5"
+              >
+                <li className="flex items-center gap-3">
+                  <LeagueMark league={leagues.nfl} size="sm" eager />
+                  <span className="text-caption text-muted">
+                    <span className="block font-bold text-ink">NFL</span>
+                    {leagues.nfl.teamCountLabel}
+                  </span>
+                </li>
+                <li className="flex items-center gap-3" data-sport="cfb">
+                  <LeagueMark league={leagues.cfb} size="sm" eager />
+                  <span className="text-caption text-muted">
+                    <span className="block font-bold text-ink">NCAA FBS</span>
+                    {leagues.cfb.teamCountLabel}
+                  </span>
+                </li>
+              </ul>
             </Enter>
             <div className="relative aspect-[1.2] overflow-hidden rounded-badge md:aspect-[1.04]">
               <Image
@@ -46,7 +68,7 @@ export default function Page() {
                 fill
                 priority
                 sizes="(min-width: 1440px) 665px, (min-width: 768px) 52vw, 100vw"
-                className="object-cover object-[62%_center]"
+                className="photo object-cover object-[62%_center]"
               />
             </div>
           </div>
@@ -88,7 +110,7 @@ export default function Page() {
                 alt="A worn football helmet and leather football on a locker-room bench."
                 fill
                 sizes="(min-width: 768px) 52vw, 100vw"
-                className="object-cover"
+                className="photo object-cover"
               />
             </div>
             <div>
@@ -106,6 +128,30 @@ export default function Page() {
                 <ArrowRight size={18} aria-hidden="true" />
               </Link>
             </div>
+          </div>
+        </section>
+        <section
+          id="leagues"
+          aria-labelledby="leagues-title"
+          className="page-container border-t border-line pb-section pt-12 md:pt-16"
+        >
+          <div className="grid grid-cols-1 gap-6 md:grid-cols-[minmax(0,0.85fr)_minmax(0,1.15fr)] md:gap-20">
+            <div>
+              <p className="eyebrow mb-4 text-action">Two leagues. One roster.</p>
+              <h2 id="leagues-title" className="display-heading text-heading">
+                Every franchise.
+                <br />
+                Every program.
+              </h2>
+            </div>
+            <p className="max-w-copy self-end text-small text-muted">
+              Thirty-two NFL franchises and all one hundred thirty-six FBS programs. Pick a league,
+              draft from its history, and chase the season nobody could stop.
+            </p>
+          </div>
+          <div className="mt-10 grid grid-cols-1 gap-14 md:mt-14">
+            <LeagueWall sport="nfl" />
+            <LeagueWall sport="cfb" />
           </div>
         </section>
       </main>

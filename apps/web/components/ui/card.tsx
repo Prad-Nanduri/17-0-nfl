@@ -8,7 +8,7 @@ export interface CardProps extends HTMLAttributes<HTMLDivElement> {
 export function Card({ elevation = 'flat', className = '', ...props }: CardProps) {
   return (
     <div
-      className={`rounded-panel bg-surface ${elevation === 'raised' ? 'shadow-raised' : 'border border-line'} ${className}`}
+      className={`rounded-panel bg-surface ${elevation === 'raised' ? 'edged shadow-raised' : 'border border-line'} ${className}`}
       {...props}
     />
   );

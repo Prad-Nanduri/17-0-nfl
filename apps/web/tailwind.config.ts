@@ -111,14 +111,17 @@ const config: Config = {
     borderRadius: { none: '0', badge: '2px', control: '4px', panel: '8px', full: '999px' },
     boxShadow: {
       none: 'none',
-      raised: '0 8px 24px rgb(16 29 22 / 0.08), 0 1px 3px rgb(16 29 22 / 0.06)',
-      floating: '0 20px 64px rgb(16 29 22 / 0.18), 0 4px 12px rgb(16 29 22 / 0.08)',
-      card: '0 18px 40px rgb(16 29 22 / 0.14), 0 2px 6px rgb(16 29 22 / 0.08)',
+      raised:
+        '0 8px 24px rgb(var(--shadow) / calc(0.08 * var(--shadow-strength))), 0 1px 3px rgb(var(--shadow) / calc(0.06 * var(--shadow-strength)))',
+      floating:
+        '0 20px 64px rgb(var(--shadow) / calc(0.18 * var(--shadow-strength))), 0 4px 12px rgb(var(--shadow) / calc(0.08 * var(--shadow-strength)))',
+      card: '0 18px 40px rgb(var(--shadow) / calc(0.14 * var(--shadow-strength))), 0 2px 6px rgb(var(--shadow) / calc(0.08 * var(--shadow-strength)))',
     },
     screens: { sm: '640px', md: '768px', lg: '1024px', xl: '1280px', '2xl': '1536px' },
     zIndex: { base: '0', header: '10', dropdown: '20', overlay: '30', modal: '40', toast: '50' },
     extend: {
       maxWidth: { page: '87.5rem', copy: '36rem' },
+      gridTemplateColumns: { 16: 'repeat(16, minmax(0, 1fr))' },
       transitionTimingFunction: { settle: 'cubic-bezier(0.16, 1, 0.3, 1)' },
       transitionDuration: { fast: '160ms', settle: '280ms' },
     },
