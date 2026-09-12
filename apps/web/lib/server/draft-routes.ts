@@ -9,6 +9,7 @@ import type {
 import { createSeed } from '@perfect-season/sport-engine-core/utils';
 import { NextResponse } from 'next/server';
 import { toClientDraft } from './draft-client';
+import type { DraftState } from './draft-store';
 import { getDraftStore } from './draft-store';
 import { getSportAdapter } from './sport-adapter';
 import { draftBelongsTo, findActiveDraft, readGuestToken } from './session';
@@ -28,7 +29,7 @@ function assertSport(current: { sportId: SportId }, sportId: SportId): Response 
     ? null
     : errorResponse('Draft belongs to a different sport', 409);
 }
-function lockedDraft(draft: ReturnType<typeof findActiveDraft>): boolean {
+function lockedDraft(draft: DraftState | null): boolean {
   return isSportLocked(
     draft === null
       ? null
@@ -53,7 +54,7 @@ export async function createDraft(sportId: SportId, request: Request): Promise<R
   const input = body as Record<string, unknown>;
   const adapter = getSportAdapter(sportId);
   const guestToken = readGuestToken(request);
-  const active = guestToken === null ? null : findActiveDraft(guestToken);
+  const active = guestToken === null ? null : await findActiveDraft(guestToken);
   if (active !== null && active.sportId !== sportId && lockedDraft(active))
     return errorResponse(SPORT_LOCK_MESSAGE, 409);
   const ruleset = adapter.engine().getModeRuleset('core');
@@ -83,12 +84,12 @@ export async function createDraft(sportId: SportId, request: Request): Promise<R
     createdAt: new Date().toISOString(),
     result: null,
   };
-  const draft = getDraftStore().create(state);
+  const draft = await getDraftStore().create(state);
   return NextResponse.json({ draft: toClientDraft(draft) }, { status: 201 });
 }
 
 export async function getDraft(sportId: SportId, request: Request, id: string): Promise<Response> {
-  const draft = getDraftStore().get(id);
+  const draft = await getDraftStore().get(id);
   if (draft === undefined || !draftBelongsTo(draft, request))
     return errorResponse('Draft not found', 404);
   const wrong = assertSport(draft, sportId);
@@ -102,13 +103,13 @@ export async function abandonDraft(
   id: string,
 ): Promise<Response> {
   const store = getDraftStore();
-  const current = store.get(id);
+  const current = await store.get(id);
   if (current === undefined || !draftBelongsTo(current, request))
     return errorResponse('Draft not found', 404);
   const wrong = assertSport(current, sportId);
   if (wrong !== null) return wrong;
   if (current.result !== null) return errorResponse('Season already simulated', 409);
-  const next = store.update(id, { ...current, status: 'abandoned', pendingSpin: null });
+  const next = await store.update(id, { ...current, status: 'abandoned', pendingSpin: null });
   return NextResponse.json({ draft: toClientDraft(next) });
 }
 
@@ -116,7 +117,7 @@ export async function spin(sportId: SportId, request: Request): Promise<Response
   const draftId = new URL(request.url).searchParams.get('draftId');
   if (!draftId) return errorResponse('draftId is required', 400);
   const store = getDraftStore();
-  const current = store.get(draftId);
+  const current = await store.get(draftId);
   if (current === undefined || !draftBelongsTo(current, request))
     return errorResponse('Draft not found', 404);
   const wrong = assertSport(current, sportId);
@@ -180,7 +181,7 @@ export async function spin(sportId: SportId, request: Request): Promise<Response
       void positionGroup;
       return clientCandidate;
     });
-  const next = store.update(current.id, {
+  const next = await store.update(current.id, {
     ...current,
     rerollsRemaining,
     pendingSpin: { spinSeed, unit, targetSlotCode },
@@ -201,7 +202,7 @@ export async function spin(sportId: SportId, request: Request): Promise<Response
 
 export async function pick(sportId: SportId, request: Request, id: string): Promise<Response> {
   const store = getDraftStore();
-  const current = store.get(id);
+  const current = await store.get(id);
   if (current === undefined || !draftBelongsTo(current, request))
     return errorResponse('Draft not found', 404);
   const wrong = assertSport(current, sportId);
@@ -265,7 +266,7 @@ export async function pick(sportId: SportId, request: Request, id: string): Prom
     Object.keys(picks).length === scheme.slots.length
       ? ('complete' as const)
       : ('in_progress' as const);
-  const next = store.update(id, {
+  const next = await store.update(id, {
     ...current,
     status,
     spinCount: current.spinCount + 1,
@@ -278,7 +279,7 @@ export async function pick(sportId: SportId, request: Request, id: string): Prom
 
 export async function simulate(sportId: SportId, request: Request, id: string): Promise<Response> {
   const store = getDraftStore();
-  const current = store.get(id);
+  const current = await store.get(id);
   if (current === undefined || !draftBelongsTo(current, request))
     return errorResponse('Draft not found', 404);
   const wrong = assertSport(current, sportId);
@@ -310,12 +311,12 @@ export async function simulate(sportId: SportId, request: Request, id: string): 
     fullGauntlet: input.fullGauntlet === true,
     seed: typeof seed === 'string' ? seed : null,
   });
-  const next = store.update(id, { ...current, result });
+  const next = await store.update(id, { ...current, result });
   return NextResponse.json({ draft: toClientDraft(next), result }, { status: 201 });
 }
 
 export async function result(sportId: SportId, request: Request, id: string): Promise<Response> {
-  const draft = getDraftStore().get(id);
+  const draft = await getDraftStore().get(id);
   if (draft === undefined || !draftBelongsTo(draft, request))
     return errorResponse('Draft not found', 404);
   const wrong = assertSport(draft, sportId);
