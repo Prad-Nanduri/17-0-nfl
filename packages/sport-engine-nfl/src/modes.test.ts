@@ -22,8 +22,8 @@ describe('NFL modes', () => {
       constraints: [{ code: 'one_franchise', parameters: { requiresExactlyOneTeamId: true } }],
     });
     expect(getModeRuleset('core').difficultyRules).toEqual({
-      easy: { rerolls: 3, ratingsVisible: true, facts: {} },
-      normal: { rerolls: 1, ratingsVisible: true, facts: {} },
+      easy: { rerolls: 1, ratingsVisible: true, facts: {} },
+      normal: { rerolls: 0, ratingsVisible: true, facts: {} },
       hard: { rerolls: 0, ratingsVisible: false, facts: {} },
     });
   });

@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { ArrowUpRight } from '@phosphor-icons/react/dist/ssr';
 import { AppearanceMenu } from './appearance-menu';
 
-export function Header({ page }: { page: 'home' | 'draft' }) {
+export function Header({ page }: { page: 'home' | 'draft' | 'play' }) {
   return (
     <header className="page-container">
       <a
@@ -38,9 +38,9 @@ export function Header({ page }: { page: 'home' | 'draft' }) {
             The game
           </Link>
           <Link
-            href="/draft"
-            aria-current={page === 'draft' ? 'page' : undefined}
-            className={`inline-flex min-h-11 items-center gap-2 text-small font-semibold transition-colors hover:text-action ${page === 'draft' ? 'text-action' : 'text-ink'}`}
+            href="/play/nfl"
+            aria-current={page === 'draft' || page === 'play' ? 'page' : undefined}
+            className={`inline-flex min-h-11 items-center gap-2 text-small font-semibold transition-colors hover:text-action ${page === 'draft' || page === 'play' ? 'text-action' : 'text-ink'}`}
           >
             Draft room
             <ArrowUpRight size={16} aria-hidden="true" />

@@ -35,7 +35,7 @@ export default function Page() {
                 it.
               </p>
               <div className="mt-8 flex flex-wrap items-center gap-x-8 gap-y-2">
-                <Link href="/draft" className={buttonStyles()}>
+                <Link href="/play/nfl" className={buttonStyles()}>
                   Explore the draft
                   <ArrowUpRight size={20} aria-hidden="true" />
                 </Link>
@@ -123,7 +123,7 @@ export default function Page() {
                 The legends you watched. The ones you wish you had. Bring them together and put your
                 football instincts to the test.
               </p>
-              <Link href="/draft" className="text-link mt-5">
+              <Link href="/play/nfl" className="text-link mt-5">
                 Explore the draft
                 <ArrowRight size={18} aria-hidden="true" />
               </Link>
