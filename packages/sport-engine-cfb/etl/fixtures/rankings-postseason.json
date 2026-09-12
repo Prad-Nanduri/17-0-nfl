@@ -1,0 +1,32 @@
+[
+  {
+    "season": 2023,
+    "seasonType": "postseason",
+    "week": 16,
+    "polls": [
+      {
+        "poll": "AP Top 25",
+        "ranks": [
+          {
+            "rank": 1,
+            "school": "Champion U",
+            "conference": "ACC",
+            "firstPlaceVotes": 61,
+            "points": 1525
+          },
+          {
+            "rank": 12,
+            "school": "Stable U",
+            "conference": "Sun Belt",
+            "firstPlaceVotes": 0,
+            "points": 400
+          }
+        ]
+      },
+      {
+        "poll": "Playoff Committee Rankings",
+        "ranks": [{ "rank": 1, "school": "Champion U", "conference": "ACC" }]
+      }
+    ]
+  }
+]

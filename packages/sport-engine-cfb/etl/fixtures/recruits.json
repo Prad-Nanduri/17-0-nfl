@@ -1,0 +1,15 @@
+[
+  {
+    "id": "r1",
+    "athleteId": "a1",
+    "year": 2020,
+    "name": "Oliver Lineman",
+    "school": "Mobile High",
+    "committedTo": "Stable U",
+    "position": "OT",
+    "stars": 5,
+    "rating": 0.99,
+    "ranking": 12,
+    "stateProvince": "AL"
+  }
+]

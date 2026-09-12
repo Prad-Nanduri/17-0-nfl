@@ -1,0 +1,85 @@
+[
+  {
+    "id": 2001,
+    "season": 2023,
+    "week": 16,
+    "seasonType": "postseason",
+    "completed": true,
+    "neutralSite": true,
+    "conferenceGame": false,
+    "homeId": 1,
+    "homeTeam": "Stable U",
+    "homePoints": 31,
+    "awayId": 2,
+    "awayTeam": "Reclass State",
+    "awayPoints": 17,
+    "notes": "Example Bowl",
+    "playoff": null
+  },
+  {
+    "id": 2002,
+    "season": 2023,
+    "week": 16,
+    "seasonType": "postseason",
+    "completed": true,
+    "neutralSite": true,
+    "conferenceGame": false,
+    "homeId": 4,
+    "homeTeam": "Champion U",
+    "homePoints": 30,
+    "awayId": 1,
+    "awayTeam": "Stable U",
+    "awayPoints": 20,
+    "notes": "Semifinal Bowl",
+    "playoff": {
+      "competition": "cfp",
+      "round": "semifinal",
+      "roundName": "Semifinal",
+      "bowlName": "Semifinal Bowl"
+    }
+  },
+  {
+    "id": 2003,
+    "season": 2023,
+    "week": 16,
+    "seasonType": "postseason",
+    "completed": true,
+    "neutralSite": true,
+    "conferenceGame": false,
+    "homeId": 3,
+    "homeTeam": "Old Guard",
+    "homePoints": 31,
+    "awayId": 5,
+    "awayTeam": "Semifinal State",
+    "awayPoints": 14,
+    "notes": "Other Semifinal",
+    "playoff": {
+      "competition": "cfp",
+      "round": "semifinal",
+      "roundName": "Semifinal",
+      "bowlName": "Other Semifinal"
+    }
+  },
+  {
+    "id": 2004,
+    "season": 2023,
+    "week": 17,
+    "seasonType": "postseason",
+    "completed": true,
+    "neutralSite": true,
+    "conferenceGame": false,
+    "homeId": 4,
+    "homeTeam": "Champion U",
+    "homePoints": 28,
+    "awayId": 3,
+    "awayTeam": "Old Guard",
+    "awayPoints": 21,
+    "notes": "CFP National Championship",
+    "playoff": {
+      "competition": "cfp",
+      "round": "championship",
+      "roundName": "Championship",
+      "bowlName": "CFP National Championship"
+    }
+  }
+]

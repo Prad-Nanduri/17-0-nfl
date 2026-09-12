@@ -1,0 +1,46 @@
+[
+  {
+    "season": 2023,
+    "playerId": "p-qb1",
+    "player": "Quinn Backer",
+    "position": "QB",
+    "team": "Champion U",
+    "conference": "ACC",
+    "category": "passing",
+    "statType": "YDS",
+    "stat": "3500"
+  },
+  {
+    "season": 2023,
+    "playerId": "p-qb1",
+    "player": "Quinn Backer",
+    "position": "QB",
+    "team": "Champion U",
+    "conference": "ACC",
+    "category": "passing",
+    "statType": "TD",
+    "stat": "30"
+  },
+  {
+    "season": 2023,
+    "playerId": "p-qb1",
+    "player": "Quinn Backer",
+    "position": "QB",
+    "team": "Champion U",
+    "conference": "ACC",
+    "category": "games",
+    "statType": "games",
+    "stat": "13"
+  },
+  {
+    "season": 2023,
+    "playerId": "p-lb1",
+    "player": "Lance Backer",
+    "position": "ILB",
+    "team": "Old Guard",
+    "conference": "Big East",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "95"
+  }
+]
