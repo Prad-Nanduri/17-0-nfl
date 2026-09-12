@@ -1,34 +1,9 @@
-import { readFileSync } from 'node:fs';
-import { resolve } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { filterSpinPool } from '../src/membership';
-import { transformSeason } from './transform';
-import type { CfbdRawSeason, CfbdTeam } from './cfbd-types';
+import { loadFixtureRawSeason } from './fixtures';
+import { normalizeHexColor, transformSeason } from './transform';
 
-const fixture = <T>(name: string): T =>
-  JSON.parse(readFileSync(resolve(import.meta.dirname, 'fixtures', name), 'utf8')) as T;
-
-const raw: CfbdRawSeason = {
-  season: 2023,
-  teams: fixture('teams.json'),
-  fbsTeamsBySeason: new Map<number, readonly CfbdTeam[]>([
-    [2023, fixture<CfbdTeam[]>('fbs-2023.json')],
-    [2024, fixture<CfbdTeam[]>('fbs-2024.json')],
-    [2025, fixture<CfbdTeam[]>('fbs-2025.json')],
-  ]),
-  conferences: fixture('conferences.json'),
-  roster: fixture('roster.json'),
-  playerSeasonStats: fixture('player-stats.json'),
-  teamSeasonStats: fixture('team-stats.json'),
-  advancedSeasonStats: fixture('advanced.json'),
-  rankingsRegular: fixture('rankings-regular.json'),
-  rankingsPostseason: fixture('rankings-postseason.json'),
-  recruits: fixture('recruits.json'),
-  teamRecruiting: fixture('recruiting-teams.json'),
-  teamRushing: fixture('rushing-teams.json'),
-  gamesRegular: fixture('games-regular.json'),
-  gamesPostseason: fixture('games-postseason.json'),
-};
+const raw = loadFixtureRawSeason(2023);
 
 const output = transformSeason(raw, 2023);
 const program = (schoolId: number) =>
@@ -150,5 +125,16 @@ describe('transformSeason — team line stats (spec §2A.6 inputs)', () => {
       defenseStuffRate: 0.22,
       defenseOpponentPassAttempts: null,
     });
+  });
+});
+
+describe('normalizeHexColor', () => {
+  it('normalizes valid hex values and rejects the rest', () => {
+    expect(normalizeHexColor('9e1b32')).toBe('#9E1B32');
+    expect(normalizeHexColor('#ffffff')).toBe('#FFFFFF');
+    expect(normalizeHexColor('#FFF')).toBeNull();
+    expect(normalizeHexColor('not-a-hex')).toBeNull();
+    expect(normalizeHexColor(null)).toBeNull();
+    expect(normalizeHexColor(undefined)).toBeNull();
   });
 });

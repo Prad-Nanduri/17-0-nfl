@@ -3,6 +3,7 @@
   "compilerOptions": {
     "composite": false,
     "noEmit": true,
+    "resolveJsonModule": true,
     "rootDir": "."
   },
   "include": ["src", "etl"]

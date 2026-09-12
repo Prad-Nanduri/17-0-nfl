@@ -5,18 +5,26 @@
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./schemes": "./src/schemes.ts"
+  },
   "scripts": {
     "typecheck": "tsc --noEmit",
     "build": "tsc --noEmit",
     "test": "vitest run --passWithNoTests",
     "etl:extract": "tsx etl/run-etl.ts",
     "etl:rate": "tsx etl/rate.ts",
-    "etl:load": "tsx etl/load.ts --season 2023"
+    "etl:load": "tsx etl/load.ts --season 2023",
+    "verify:guardrail": "tsx scripts/verify-guardrail.ts",
+    "e2e:quick-season": "tsx scripts/quick-season-e2e.ts"
   },
   "dependencies": {
+    "@perfect-season/simulation": "*",
     "@perfect-season/sport-engine-core": "*"
   },
   "devDependencies": {
+    "@perfect-season/sport-engine-nfl": "*",
     "@types/pg": "^8.23.1",
     "pg": "^8.23.0",
     "tsx": "^4.23.13"

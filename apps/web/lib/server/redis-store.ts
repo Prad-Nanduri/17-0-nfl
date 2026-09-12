@@ -16,11 +16,11 @@ const DRAFT_TTL_SECONDS = 7 * 24 * 60 * 60;
 const SESSION_TTL_SECONDS = 30 * 24 * 60 * 60;
 
 function draftKey(id: string): string {
-  return `ps:nfl:draft:${id}`;
+  return `ps:draft:${id}`;
 }
 
 function guestDraftsKey(guestToken: string): string {
-  return `ps:nfl:guest:${guestToken}:drafts`;
+  return `ps:guest:${guestToken}:drafts`;
 }
 
 function sessionKey(guestToken: string): string {

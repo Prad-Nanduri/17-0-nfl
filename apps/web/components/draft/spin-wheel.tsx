@@ -1,15 +1,17 @@
 'use client';
 
 import { motion, useReducedMotion, type Transition } from 'framer-motion';
-import { useState } from 'react';
+import { useState, type CSSProperties } from 'react';
 import { ArrowClockwise, Sparkle } from '@phosphor-icons/react';
 import { CardFlipReveal } from '../motion/card-flip-reveal';
 import { Button } from '../ui/button';
 import { Badge } from '../ui/badge';
 import { Card } from '../ui/card';
 import { TeamLogo } from '../ui/team-logo';
-import { nflTeams } from '../../lib/teams/nfl';
+import type { SportId } from '@perfect-season/sport-engine-core';
+import type { Team } from '../../lib/teams/types';
 import { motionTokens } from '../../lib/motion';
+import { resolveProgramTheme, themeTextColor } from '../../lib/cfb-theme';
 import type { DraftSpin } from './types';
 
 export function SpinWheel({
@@ -19,7 +21,11 @@ export function SpinWheel({
   loading,
   onSpin,
   onError,
+  teams,
+  sport,
 }: {
+  teams: readonly Team[];
+  sport: SportId;
   draftId: string;
   spin: DraftSpin | null;
   rerollsRemaining: number;
@@ -37,11 +43,11 @@ export function SpinWheel({
     setRevealed(false);
     try {
       const result = await onSpin(reroll);
-      const index = nflTeams.findIndex(
+      const index = teams.findIndex(
         (team) =>
           team.abbreviation === result.franchise.abbreviation || team.id === result.franchise.key,
       );
-      const segment = index >= 0 ? index * (360 / nflTeams.length) : Math.random() * 360;
+      const segment = index >= 0 ? index * (360 / teams.length) : Math.random() * 360;
       // The pointer sits at 12 o'clock; a logo placed at `segment` reaches it at -segment.
       const landing = (360 - segment) % 360;
       setRotation((previous) => previous - (previous % 360) + (reduce ? 0 : 720) + landing);
@@ -54,12 +60,22 @@ export function SpinWheel({
   }
 
   const teamForSpin = spinState
-    ? nflTeams.find(
+    ? teams.find(
         (team) =>
           team.abbreviation === spinState.franchise.abbreviation ||
           team.id === spinState.franchise.key,
       )
     : undefined;
+  // The reveal takes the *currently revealed* program's colors; the majority
+  // program theme on the draft only exists once picks land.
+  const revealTheme =
+    sport === 'cfb' && spinState !== null
+      ? resolveProgramTheme({
+          color: spinState.franchise.color ?? null,
+          alternateColor: spinState.franchise.alternateColor ?? null,
+          abbreviation: spinState.franchise.abbreviation,
+        })
+      : null;
   const wheelTransition: Transition = reduce
     ? { duration: 0 }
     : { duration: 1.8, ease: [...motionTokens.ease] };
@@ -73,11 +89,11 @@ export function SpinWheel({
           className="relative mx-auto aspect-square w-full max-w-[23rem] rounded-full border-2 border-sport/40 bg-subtle"
           animate={{ rotate: rotation }}
           transition={wheelTransition}
-          aria-label="NFL franchise spin wheel"
+          aria-label={sport === 'nfl' ? 'NFL franchise spin wheel' : 'FBS program spin wheel'}
           role="img"
         >
-          {nflTeams.map((team, index) => {
-            const angle = (index * (360 / nflTeams.length) * Math.PI) / 180;
+          {teams.map((team, index) => {
+            const angle = (index * (360 / teams.length) * Math.PI) / 180;
             const radius = 42;
             return (
               <motion.span
@@ -119,20 +135,42 @@ export function SpinWheel({
       </Card>
       <CardFlipReveal
         revealed={revealed && spinState !== null}
-        label="Franchise-season reveal"
+        label={sport === 'nfl' ? 'Franchise-season reveal' : 'Program-season reveal'}
         className="min-h-56"
         front={
           <Card className="flex min-h-56 items-center justify-center border-dashed p-5 text-center">
-            <p className="text-small text-muted">Spin the wheel to reveal a franchise season.</p>
+            <p className="text-small text-muted">
+              Spin the wheel to reveal a {sport === 'nfl' ? 'franchise' : 'program'} season.
+            </p>
           </Card>
         }
         back={
-          <Card className="min-h-56 p-5">
+          <Card
+            className="relative min-h-56 overflow-hidden p-5"
+            style={
+              revealTheme
+                ? ({
+                    borderLeft: `4px solid ${revealTheme.primary}`,
+                    '--program-primary': revealTheme.primary,
+                    '--program-secondary': revealTheme.secondary,
+                  } as CSSProperties)
+                : undefined
+            }
+          >
+            {revealTheme ? (
+              <span
+                aria-hidden="true"
+                className="absolute inset-x-0 top-0 h-0.5"
+                style={{ backgroundColor: revealTheme.secondary }}
+              />
+            ) : null}
             {spinState ? (
               <div className="flex items-start gap-4">
                 {teamForSpin ? <TeamLogo team={teamForSpin} size="lg" eager /> : null}
                 <div>
-                  <p className="eyebrow text-sport">Franchise season</p>
+                  <p className="eyebrow text-sport">
+                    {sport === 'nfl' ? 'Franchise season' : 'Program season'}
+                  </p>
                   <h2 className="display-heading mt-2 text-title">{spinState.franchise.name}</h2>
                   <p className="mt-2 font-display text-scoreboard font-semibold">
                     {spinState.unit.season}
@@ -142,7 +180,19 @@ export function SpinWheel({
                       ? `${spinState.record.wins}-${spinState.record.losses}${spinState.record.ties ? `-${spinState.record.ties}` : ''}`
                       : 'Legacy era'}
                   </p>
-                  <Badge tone="sport" className="mt-3">
+                  <Badge
+                    tone="sport"
+                    className="mt-3"
+                    style={
+                      revealTheme
+                        ? {
+                            backgroundColor: revealTheme.primary,
+                            color: themeTextColor(revealTheme.primary),
+                            border: `1px solid ${revealTheme.secondary}`,
+                          }
+                        : undefined
+                    }
+                  >
                     {spinState.eraTier.replace('_', ' ')}
                   </Badge>
                 </div>

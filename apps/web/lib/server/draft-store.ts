@@ -1,22 +1,24 @@
 import type {
   Difficulty,
   DraftOrder,
-  DraftPoolUnit,
+  DraftPoolUnit as CoreDraftPoolUnit,
   EarnedTrophy,
   PositionRating,
   RatingMode,
   SeasonResult,
   SchemeId,
+  SportId,
 } from '@perfect-season/sport-engine-core';
 import { createRedisClient } from '@perfect-season/db';
 import { isRedisConfigured } from './store-backend';
 import { RedisDraftStore } from './redis-store';
 
-export type NflDraftPoolUnit = Extract<DraftPoolUnit, { sportId: 'nfl' }>;
+export type NflDraftPoolUnit = Extract<CoreDraftPoolUnit, { sportId: 'nfl' }>;
+export type CfbDraftPoolUnit = Extract<CoreDraftPoolUnit, { sportId: 'cfb' }>;
 
 export interface PendingSpin {
   readonly spinSeed: string;
-  readonly unit: NflDraftPoolUnit;
+  readonly unit: CoreDraftPoolUnit;
   readonly targetSlotCode: string | null;
 }
 
@@ -26,9 +28,10 @@ export interface StoredPick {
   readonly fullName: string;
   readonly primaryPosition: string;
   readonly headshotUrl: string | null;
-  readonly unit: NflDraftPoolUnit;
+  readonly unit: CoreDraftPoolUnit;
   readonly spinSeed: string;
   readonly rating: PositionRating;
+  readonly badges?: readonly string[];
 }
 
 export interface StoredResult {
@@ -41,7 +44,7 @@ export interface StoredResult {
     readonly primaryPosition: string;
     readonly headshotUrl: string | null;
     readonly rating: number;
-    readonly unit: NflDraftPoolUnit;
+    readonly unit: CoreDraftPoolUnit;
   };
   readonly fullGauntlet: boolean;
   readonly simulatedAt: string;
@@ -49,7 +52,7 @@ export interface StoredResult {
 
 export interface DraftState {
   readonly id: string;
-  readonly sportId: 'nfl';
+  readonly sportId: SportId;
   readonly modeId: 'core';
   readonly draftOrder: DraftOrder;
   readonly difficulty: Difficulty;
@@ -61,7 +64,7 @@ export interface DraftState {
   readonly rerollsRemaining: number;
   readonly pendingSpin: PendingSpin | null;
   readonly picks: Readonly<Record<string, StoredPick>>;
-  readonly usedUnits: readonly NflDraftPoolUnit[];
+  readonly usedUnits: readonly CoreDraftPoolUnit[];
   readonly createdAt: string;
   readonly result: StoredResult | null;
 }

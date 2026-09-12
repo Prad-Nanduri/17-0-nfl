@@ -91,6 +91,61 @@ npm.cmd run etl:load -w @perfect-season/sport-engine-cfb -- --season 2023   # ne
 `/rushing/teams/season`, and `/games` (regular+postseason), then writes one JSON
 file per output table plus `manifest.json` under `data/<season>/`.
 
+## SportEngine (§0.1, §2A)
+
+`CfbSportEngine` is the second full `SportEngine` implementation —
+`displayName` "College Football (FBS)", 24 roster slots, registered alongside
+`NflSportEngine` via `apps/web/lib/server/sport-engines.ts`
+(`createSportEngineRegistry({ nfl, cfb })`). All platform dispatch goes through
+the registry's `get(sportId)`.
+
+- **Schemes**: `CFB_SCHEME_PRESETS` reuses the shared `SCHEME_PRESETS` from
+  `@perfect-season/sport-engine-core`; the Nickel preset is renamed "Spread
+  Defense" in UI copy only via `cfbSchemeDisplayName` (§2A.6).
+- **Modes** (§2A.7): `core` (Quick Season default — chase "Undefeated &
+  Untied"), `one_program` (Prime enabled), `blue_blood_bracket` (elite pool,
+  bracketed Full Campaign), `ranked_only`, `daily_challenge`,
+  `conference_trophy`, `mp_live_draft`, `mp_leagues` (Full Campaign only,
+  bracket-weighted league scoring), `mp_last_one_standing`.
+- **Simulation** (§2A.4): 12-game regular season; Full Campaign adds a
+  conference-championship gate (≥10 wins), then a CFP bracket (seed-dependent
+  3–4 rounds) or a bowl game. CFB overtime has no cap and no ties.
+- **Ratings**: `computeRating` looks up ETL ratings; unrated OL/DL candidates
+  fall back to overall 40 with `isTeamLevelProxy: true`, and
+  `getRatingBadges()` surfaces the `team_level_rating` badge for the UI's
+  "Team-Level Rating" disclosure (§2A.6).
+- `describeSpinUnit` returns the spin-card title "School (Conference · Season)"
+  plus the realignment/defunct-conference footnote (§2A.2).
+
+## Quick Season simulation (§2A.4, §5.3, §2B.5)
+
+`CfbSportEngine.simulateSeason` builds a flavored 12-game slate when the caller
+supplies no opponents (`src/simulation/schedule.ts` → `CFB_SLATE_SHAPE`:
+8 conference, 2 rivalry, 1 non-conference marquee — the toughest of a random
+8-team draw — and 1 winnable non-conference game; thin pools fill with
+synthetic `cfb-synth-*` opponents). Opponent strength comes from
+`programStrengthRating` (win% z-score + AP-top-25 bonus, clamped to ±2.5 sd on
+`CFB_SIMULATION_CONFIG.opponentDistribution`), and
+`calibrateStrengthDistribution` derives the season's mean/sd from ≥20 rated FBS
+rows (otherwise the config default; reported via `facts.strengthDistribution*`
+on the `SeasonResult`). Per-game `flavor` lands in `GameResult.facts`.
+
+`ENABLE_FULL_CAMPAIGN` (`src/simulation/config.ts`) is `false`: the
+conference-title/CFP/bowl branch is provisional — it qualifies and seeds by win
+total against synthetic opponents, not real AP/CFP rankings — and stays
+unreachable until the CFB ranking-lifecycle system (§2B) exists. Tests inject
+`enableFullCampaign: true` via `CfbSeasonDependencies`.
+
+Scripts:
+
+- `npm run verify:guardrail -w @perfect-season/sport-engine-cfb` — 1000-season
+  guardrail check at roster ratings 90/55 over synthetic opponents and the
+  flavored slate, plus the opponent-context swing bound at a fixed rating.
+- `npm run e2e:quick-season -w @perfect-season/sport-engine-cfb` — fixture-only
+  end-to-end quick season (transforms `etl/fixtures/*.json`, spins a program,
+  fills the 24-slot roster, simulates, prints the game log); uses
+  `PERFECT_SEASON_CFB_DATA_DIR` when set.
+
 ## Known gaps
 
 - **No CFBD awards endpoint**: `all_conference`/`all_american` are always

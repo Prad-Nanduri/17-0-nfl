@@ -23,6 +23,8 @@ export interface CfbTeam {
   readonly abbreviation: string;
   readonly mascot: string | null;
   readonly logoUrl: string | null;
+  readonly color: string | null;
+  readonly alternateColor: string | null;
   readonly isBlueBlood: boolean;
 }
 
