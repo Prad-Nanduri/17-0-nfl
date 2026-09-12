@@ -150,13 +150,7 @@ async function completeDraft(): Promise<DraftPayload['draft']> {
 
 async function findPerfectSeed(aggregateRating: number, draftId: string): Promise<string> {
   const roster = stubRoster(aggregateRating, draftId);
-  const context = nflOpponentContext({
-    franchises: [],
-    franchiseSeasons: [],
-    players: [],
-    playerSeasonStats: [],
-    ratings: [],
-  });
+  const context = nflOpponentContext();
   for (let index = 0; index <= 20_000; index += 1) {
     const seed = `perfect-season-e2e-${index}`;
     const mode: SimulationMode = {
@@ -218,6 +212,10 @@ async function main() {
       hasTouch: true,
     });
     await mobile.goto(`${BASE_URL}/play/nfl/results/${draft.id}`);
+    await mobile.waitForFunction(() => {
+      const image = document.querySelector<HTMLImageElement>('img[alt^="NFL season result"]');
+      return image !== null && image.complete && image.naturalWidth > 0;
+    });
     const scrollWidth = await mobile.evaluate(() => document.documentElement.scrollWidth);
     assert(scrollWidth <= 375, `Mobile page overflows: ${scrollWidth}px`);
     await mobile.screenshot({ path: RESULT_MOBILE_PATH, fullPage: true });
@@ -226,7 +224,15 @@ async function main() {
       ogResponse.headers()['content-type']?.startsWith('image/png') === true,
       `Unexpected OG content type: ${ogResponse.headers()['content-type'] ?? 'missing'}`,
     );
-    await writeFile(OG_PATH, await ogResponse.body());
+    const ogBytes = await ogResponse.body();
+    assert(
+      Array.from(ogBytes.subarray(0, 8)).join(',') === '137,80,78,71,13,10,26,10',
+      'OG response did not have a PNG signature',
+    );
+    const ogView = new DataView(ogBytes.buffer, ogBytes.byteOffset, ogBytes.byteLength);
+    assert(ogView.getUint32(16) === 1200, 'OG PNG width was not 1200');
+    assert(ogView.getUint32(20) === 630, 'OG PNG height was not 630');
+    await writeFile(OG_PATH, ogBytes);
   } finally {
     await browser.close();
   }

@@ -266,6 +266,11 @@ describe('NFL draft routes', () => {
     });
     expect(og.status).toBe(200);
     expect(og.headers.get('content-type')?.startsWith('image/png')).toBe(true);
+    const png = new Uint8Array(await og.arrayBuffer());
+    expect(Array.from(png.subarray(0, 8))).toEqual([137, 80, 78, 71, 13, 10, 26, 10]);
+    const view = new DataView(png.buffer, png.byteOffset, png.byteLength);
+    expect(view.getUint32(16)).toBe(1200);
+    expect(view.getUint32(20)).toBe(630);
     vi.unstubAllEnvs();
   });
 });

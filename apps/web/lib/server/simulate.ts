@@ -7,8 +7,7 @@ import type { DraftState, StoredResult } from './draft-store';
 export const NFL_SIMULATION_MODEL_VERSION = 'nfl-sim-v1';
 export const NFL_SIMULATION_DATA_VERSION = '2023-fixtures';
 
-export function nflOpponentContext(data: NflFixtureData): OpponentContext {
-  void data;
+export function nflOpponentContext(): OpponentContext {
   return {
     season: 2023,
     modelVersion: NFL_SIMULATION_MODEL_VERSION,
@@ -55,7 +54,7 @@ export async function simulateDraft(
     seed,
     options: { fullGauntlet: opts.fullGauntlet },
   };
-  const season = await engine.simulateSeason(roster, mode, nflOpponentContext(data));
+  const season = await engine.simulateSeason(roster, mode, nflOpponentContext());
   const evaluatedAt = new Date().toISOString();
   const trophies = engine.evaluateTrophies(season, {
     userId: null,
