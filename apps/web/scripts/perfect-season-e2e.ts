@@ -1,3 +1,4 @@
+// Requires `playwright` (npx playwright install chromium); excluded from apps/web tsconfig — run with `npx tsx`.
 /*
  * Install the browser once with: npx playwright install chromium
  * Run with: npx tsx apps/web/scripts/perfect-season-e2e.ts
