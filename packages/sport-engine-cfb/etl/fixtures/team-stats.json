@@ -1,0 +1,72 @@
+[
+  {
+    "season": 2023,
+    "team": "Stable U",
+    "conference": "Sun Belt",
+    "statName": "sacks",
+    "statValue": 30
+  },
+  {
+    "season": 2023,
+    "team": "Stable U",
+    "conference": "Sun Belt",
+    "statName": "passAttempts",
+    "statValue": 380
+  },
+  {
+    "season": 2023,
+    "team": "Champion U",
+    "conference": "ACC",
+    "statName": "sacks",
+    "statValue": 45
+  },
+  {
+    "season": 2023,
+    "team": "Champion U",
+    "conference": "ACC",
+    "statName": "passAttempts",
+    "statValue": 420
+  },
+  {
+    "season": 2023,
+    "team": "Old Guard",
+    "conference": "Big East",
+    "statName": "sacks",
+    "statValue": 35
+  },
+  {
+    "season": 2023,
+    "team": "Old Guard",
+    "conference": "Big East",
+    "statName": "passAttempts",
+    "statValue": 390
+  },
+  {
+    "season": 2023,
+    "team": "Semifinal State",
+    "conference": "Sun Belt",
+    "statName": "sacks",
+    "statValue": 25
+  },
+  {
+    "season": 2023,
+    "team": "Semifinal State",
+    "conference": "Sun Belt",
+    "statName": "passAttempts",
+    "statValue": 360
+  },
+  {
+    "season": 2023,
+    "team": "Reclass State",
+    "conference": "Sun Belt",
+    "statName": "sacks",
+    "statValue": 18
+  },
+  {
+    "season": 2023,
+    "team": "Reclass State",
+    "conference": "Sun Belt",
+    "statName": "passAttempts",
+    "statValue": 340
+  }
+]

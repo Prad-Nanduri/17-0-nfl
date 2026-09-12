@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p-ol1",
+    "firstName": "Oliver",
+    "lastName": "Lineman",
+    "team": "Stable U",
+    "position": "OT",
+    "homeState": "AL",
+    "homeCity": "Mobile",
+    "recruitIds": ["r1"]
+  },
+  {
+    "id": "p-qb1",
+    "firstName": "Quinn",
+    "lastName": "Backer",
+    "team": "Champion U",
+    "position": "QB",
+    "homeState": "GA",
+    "homeCity": "Atlanta",
+    "recruitIds": []
+  },
+  {
+    "id": "p-lb1",
+    "firstName": "Lance",
+    "lastName": "Backer",
+    "team": "Old Guard",
+    "position": "ILB",
+    "homeState": null,
+    "homeCity": null,
+    "recruitIds": null
+  },
+  {
+    "id": "p-ath",
+    "firstName": "Ash",
+    "lastName": "Lete",
+    "team": "Stable U",
+    "position": "ATH",
+    "homeState": "FL",
+    "homeCity": "Tampa",
+    "recruitIds": []
+  }
+]

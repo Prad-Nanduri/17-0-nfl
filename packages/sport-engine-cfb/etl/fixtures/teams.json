@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "school": "Stable U",
+    "mascot": "Stallions",
+    "abbreviation": "STB",
+    "conference": "Sun Belt",
+    "division": null,
+    "classification": "fbs",
+    "logos": ["https://example.com/stable.png"]
+  },
+  {
+    "id": 2,
+    "school": "Reclass State",
+    "mascot": "Risers",
+    "abbreviation": "RCS",
+    "conference": "Sun Belt",
+    "division": null,
+    "classification": "fcs",
+    "logos": null
+  },
+  {
+    "id": 3,
+    "school": "Old Guard",
+    "mascot": "Generals",
+    "abbreviation": "OG",
+    "conference": "Big East",
+    "division": null,
+    "classification": "fbs",
+    "logos": null
+  },
+  {
+    "id": 4,
+    "school": "Champion U",
+    "mascot": "Trophies",
+    "abbreviation": "CHP",
+    "conference": "ACC",
+    "division": null,
+    "classification": "fbs",
+    "logos": null
+  },
+  {
+    "id": 5,
+    "school": "Semifinal State",
+    "mascot": "Hopefuls",
+    "abbreviation": "SMS",
+    "conference": "Sun Belt",
+    "division": null,
+    "classification": "fbs",
+    "logos": null
+  }
+]

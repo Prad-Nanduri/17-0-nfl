@@ -1,0 +1,61 @@
+[
+  {
+    "season": 2023,
+    "seasonType": "regular",
+    "week": 1,
+    "polls": [
+      {
+        "poll": "AP Top 25",
+        "ranks": [
+          {
+            "rank": 1,
+            "school": "Champion U",
+            "conference": "ACC",
+            "firstPlaceVotes": 50,
+            "points": 1500
+          },
+          {
+            "rank": 20,
+            "school": "Stable U",
+            "conference": "Sun Belt",
+            "firstPlaceVotes": 0,
+            "points": 200
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "season": 2023,
+    "seasonType": "regular",
+    "week": 2,
+    "polls": [
+      {
+        "poll": "AP Top 25",
+        "ranks": [
+          {
+            "rank": 2,
+            "school": "Champion U",
+            "conference": "ACC",
+            "firstPlaceVotes": 40,
+            "points": 1450
+          },
+          {
+            "rank": 10,
+            "school": "Stable U",
+            "conference": "Sun Belt",
+            "firstPlaceVotes": 0,
+            "points": 500
+          }
+        ]
+      },
+      {
+        "poll": "Playoff Committee Rankings",
+        "ranks": [
+          { "rank": 4, "school": "Champion U", "conference": "ACC" },
+          { "rank": 25, "school": "Old Guard", "conference": "Big East" }
+        ]
+      }
+    ]
+  }
+]
