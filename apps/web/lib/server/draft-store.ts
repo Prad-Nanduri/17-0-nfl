@@ -52,7 +52,8 @@ export interface DraftState {
   readonly difficulty: Difficulty;
   readonly ratingMode: RatingMode;
   readonly schemeId: SchemeId;
-  readonly status: 'in_progress' | 'complete';
+  readonly status: 'in_progress' | 'complete' | 'abandoned';
+  readonly guestToken: string | null;
   readonly spinCount: number;
   readonly rerollsRemaining: number;
   readonly pendingSpin: PendingSpin | null;
@@ -70,6 +71,7 @@ export interface DraftStore {
   create(state: DraftState): DraftState;
   get(id: string): DraftState | undefined;
   update(id: string, state: DraftState): DraftState;
+  listByGuest(guestToken: string): readonly DraftState[];
 }
 
 export class InMemoryDraftStore implements DraftStore {
@@ -89,6 +91,10 @@ export class InMemoryDraftStore implements DraftStore {
     if (!this.drafts.has(id)) throw new Error(`Draft not found: ${id}`);
     this.drafts.set(id, state);
     return state;
+  }
+
+  listByGuest(guestToken: string): readonly DraftState[] {
+    return [...this.drafts.values()].filter((draft) => draft.guestToken === guestToken);
   }
 }
 

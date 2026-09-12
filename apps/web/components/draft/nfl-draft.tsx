@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { ArrowLeft } from '@phosphor-icons/react';
 import {
   DndContext,
@@ -15,6 +15,7 @@ import {
 } from '@dnd-kit/core';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
+import { useSession } from '../session/session-provider';
 import { useToast } from '../ui/toast';
 import { Button } from '../ui/button';
 import { Badge } from '../ui/badge';
@@ -34,12 +35,70 @@ async function responseJson<T>(response: Response): Promise<T> {
 export function NflDraft() {
   const notify = useToast();
   const router = useRouter();
-  const [draft, setDraft] = useState<ClientDraft | null>(null);
+  const session = useSession();
+  const { setActiveDraft, refresh: refreshSession } = session;
+  const [draft, setDraftState] = useState<ClientDraft | null>(null);
+  const [resuming, setResuming] = useState(true);
   const [spin, setSpin] = useState<DraftSpin | null>(null);
   const [loading, setLoading] = useState(false);
   const [selectedCandidateId, setSelectedCandidateId] = useState<string | null>(null);
   const [draggingId, setDraggingId] = useState<string | null>(null);
   const [fullGauntlet, setFullGauntlet] = useState(false);
+  const resumeId =
+    session.loaded && session.activeDraft?.sportId === 'nfl' ? session.activeDraft.id : null;
+
+  function setDraft(next: ClientDraft | null) {
+    setDraftState(next);
+    setActiveDraft(
+      next === null
+        ? null
+        : {
+            id: next.id,
+            sportId: next.sportId,
+            status: next.status,
+            pickCount: Object.keys(next.picks).length,
+            simulated: next.result !== null,
+          },
+    );
+  }
+
+  useEffect(() => {
+    if (!session.loaded || !resuming) return;
+    if (resumeId === null) {
+      setResuming(false);
+      return;
+    }
+    let cancelled = false;
+    fetch(`/api/nfl/drafts/${resumeId}`)
+      .then((response) => responseJson<{ draft: ClientDraft }>(response))
+      .then((payload) => {
+        if (!cancelled) setDraftState(payload.draft);
+      })
+      .catch(() => undefined)
+      .finally(() => {
+        if (!cancelled) setResuming(false);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [session.loaded, resuming, resumeId]);
+
+  async function abandonDraft(id: string) {
+    setLoading(true);
+    try {
+      await responseJson(await fetch(`/api/nfl/drafts/${id}/abandon`, { method: 'POST' }));
+      setDraft(null);
+      setSpin(null);
+    } catch (error) {
+      notify({
+        title: 'Could not abandon draft',
+        description: error instanceof Error ? error.message : 'Try again',
+        tone: 'error',
+      });
+    } finally {
+      setLoading(false);
+    }
+  }
   const sensors = useSensors(
     useSensor(PointerSensor, { activationConstraint: { distance: 6 } }),
     useSensor(TouchSensor, { activationConstraint: { delay: 120, tolerance: 8 } }),
@@ -47,6 +106,15 @@ export function NflDraft() {
   );
 
   if (draft === null) {
+    if (resuming) {
+      return (
+        <main id="main" className="page-container pb-section pt-8">
+          <p className="text-small text-muted" aria-live="polite">
+            Loading your draft room…
+          </p>
+        </main>
+      );
+    }
     return (
       <main id="main" className="page-container pb-section pt-8">
         <div className="mb-5">
@@ -126,6 +194,7 @@ export function NflDraft() {
         body: JSON.stringify({ fullGauntlet }),
       });
       await responseJson(response);
+      await refreshSession();
       router.push(`/play/nfl/results/${activeDraft.id}`);
     } catch (error) {
       notify({
@@ -142,7 +211,19 @@ export function NflDraft() {
         <Link href="/" className="text-link">
           <ArrowLeft size={16} aria-hidden="true" /> Back to the game
         </Link>
-        <Badge tone="sport">{complete ? 'Draft complete' : 'Draft in progress'}</Badge>
+        <div className="flex items-center gap-3">
+          <Badge tone="sport">{complete ? 'Draft complete' : 'Draft in progress'}</Badge>
+          {!complete ? (
+            <Button
+              variant="ghost"
+              size="small"
+              disabled={loading}
+              onClick={() => void abandonDraft(activeDraft.id)}
+            >
+              Abandon draft
+            </Button>
+          ) : null}
+        </div>
       </div>
       <div className="mt-7">
         {complete ? (
@@ -177,10 +258,8 @@ export function NflDraft() {
               <Button
                 variant="secondary"
                 size="small"
-                onClick={() => {
-                  setDraft(null);
-                  setSpin(null);
-                }}
+                disabled={loading}
+                onClick={() => void abandonDraft(activeDraft.id)}
               >
                 Start another draft
               </Button>
