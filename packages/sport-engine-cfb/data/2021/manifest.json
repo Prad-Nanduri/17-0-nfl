@@ -1,0 +1,33 @@
+{
+  "cfbdApiVersion": null,
+  "generatedAt": "2026-09-12T22:21:53.028Z",
+  "rowCounts": {
+    "apRankings": 400,
+    "cfpRankings": 150,
+    "conferences": 195,
+    "games": 2454,
+    "players": 17654,
+    "players.skippedUnknownPosition": 1186,
+    "playerSeasonStats": 17984,
+    "playerSeasonStats.skippedUnknownTeam": 0,
+    "programSeasons": 133,
+    "recruits": 3364,
+    "teamLineStats": 130,
+    "teams": 133
+  },
+  "season": 2021,
+  "sources": [
+    "/teams?year=2021",
+    "/teams/fbs?year=2021..2023",
+    "/conferences",
+    "/roster?year=2021",
+    "/stats/player/season?year=2021",
+    "/stats/season?year=2021",
+    "/stats/season/advanced?year=2021",
+    "/rankings?year=2021&seasonType=regular|postseason",
+    "/recruiting/players?year=2021",
+    "/recruiting/teams?year=2021",
+    "/rushing/teams/season?year=2021",
+    "/games?year=2021&seasonType=regular|postseason"
+  ]
+}

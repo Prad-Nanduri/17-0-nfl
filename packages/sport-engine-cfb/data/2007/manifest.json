@@ -1,0 +1,33 @@
+{
+  "cfbdApiVersion": null,
+  "generatedAt": "2026-09-12T22:12:48.605Z",
+  "rowCounts": {
+    "apRankings": 375,
+    "cfpRankings": 0,
+    "conferences": 195,
+    "games": 1469,
+    "players": 1305,
+    "players.skippedUnknownPosition": 3462,
+    "playerSeasonStats": 1305,
+    "playerSeasonStats.skippedUnknownTeam": 0,
+    "programSeasons": 120,
+    "recruits": 2165,
+    "teamLineStats": 119,
+    "teams": 120
+  },
+  "season": 2007,
+  "sources": [
+    "/teams?year=2007",
+    "/teams/fbs?year=2007..2009",
+    "/conferences",
+    "/roster?year=2007",
+    "/stats/player/season?year=2007",
+    "/stats/season?year=2007",
+    "/stats/season/advanced?year=2007",
+    "/rankings?year=2007&seasonType=regular|postseason",
+    "/recruiting/players?year=2007",
+    "/recruiting/teams?year=2007",
+    "/rushing/teams/season?year=2007",
+    "/games?year=2007&seasonType=regular|postseason"
+  ]
+}

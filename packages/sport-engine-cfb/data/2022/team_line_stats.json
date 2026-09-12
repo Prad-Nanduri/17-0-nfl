@@ -1,0 +1,1312 @@
+[
+  {
+    "cfbdTeamId": 2005,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.14328358208955225,
+    "offensePassAttempts": 87,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.09236947791164658,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2006,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 18,
+    "defenseStuffRate": 0.1687041564792176,
+    "offensePassAttempts": 457,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17049180327868851,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 333,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 38,
+    "defenseStuffRate": 0.22065727699530516,
+    "offensePassAttempts": 438,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19406392694063926,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2026,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 29,
+    "defenseStuffRate": 0.15365239294710328,
+    "offensePassAttempts": 358,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.12738853503184713,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 12,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 15,
+    "defenseStuffRate": 0.14420803782505912,
+    "offensePassAttempts": 459,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1753846153846154,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 9,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 17,
+    "defenseStuffRate": 0.1407766990291262,
+    "offensePassAttempts": 403,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18309859154929578,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 8,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 39,
+    "defenseStuffRate": 0.16997792494481237,
+    "offensePassAttempts": 356,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1854419410745234,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2032,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.20217391304347826,
+    "offensePassAttempts": 396,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2824207492795389,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 349,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 14,
+    "defenseStuffRate": 0.1297539149888143,
+    "offensePassAttempts": 104,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.08928571428571429,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.17535545023696683,
+    "offensePassAttempts": 308,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21739130434782608,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2050,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.12301587301587301,
+    "offensePassAttempts": 481,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13994910941475827,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 239,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.14864864864864866,
+    "offensePassAttempts": 392,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1440329218106996,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 68,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 29,
+    "defenseStuffRate": 0.14660831509846828,
+    "offensePassAttempts": 385,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1378026070763501,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 103,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.1880952380952381,
+    "offensePassAttempts": 440,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2768729641693811,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 189,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 37,
+    "defenseStuffRate": 0.140625,
+    "offensePassAttempts": 440,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17094017094017094,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2084,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.1994949494949495,
+    "offensePassAttempts": 419,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15416666666666667,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 252,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 15,
+    "defenseStuffRate": 0.12159329140461216,
+    "offensePassAttempts": 392,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17289719626168223,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 25,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 16,
+    "defenseStuffRate": 0.14805825242718446,
+    "offensePassAttempts": 466,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1972318339100346,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2117,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 30,
+    "defenseStuffRate": 0.18097447795823665,
+    "offensePassAttempts": 389,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14676616915422885,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2429,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 17,
+    "defenseStuffRate": 0.15367483296213807,
+    "offensePassAttempts": 429,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17391304347826086,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2132,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 35,
+    "defenseStuffRate": 0.162,
+    "offensePassAttempts": 417,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13612565445026178,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 228,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 43,
+    "defenseStuffRate": 0.2524752475247525,
+    "offensePassAttempts": 478,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1401151631477927,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 324,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 34,
+    "defenseStuffRate": 0.2079207920792079,
+    "offensePassAttempts": 361,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1522633744855967,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 38,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 10,
+    "defenseStuffRate": 0.16919739696312364,
+    "offensePassAttempts": 360,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16809116809116809,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 36,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 22,
+    "defenseStuffRate": 0.15883668903803133,
+    "offensePassAttempts": 322,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20795107033639143,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 150,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 36,
+    "defenseStuffRate": 0.17142857142857143,
+    "offensePassAttempts": 399,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.12359550561797752,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 151,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.20506329113924052,
+    "offensePassAttempts": 484,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24324324324324326,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2199,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.08149779735682819,
+    "offensePassAttempts": 393,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1419753086419753,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 57,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.15040650406504066,
+    "offensePassAttempts": 366,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17180616740088106,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2226,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 19,
+    "defenseStuffRate": 0.1513647642679901,
+    "offensePassAttempts": 378,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16142557651991615,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2229,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.10967741935483871,
+    "offensePassAttempts": 468,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18452380952380953,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 52,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 38,
+    "defenseStuffRate": 0.14439655172413793,
+    "offensePassAttempts": 395,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16188524590163936,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 278,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.19517543859649122,
+    "offensePassAttempts": 472,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14489311163895488,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 61,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 35,
+    "defenseStuffRate": 0.1994535519125683,
+    "offensePassAttempts": 492,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1752767527675277,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 290,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.1303501945525292,
+    "offensePassAttempts": 611,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.162534435261708,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2247,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.17516629711751663,
+    "offensePassAttempts": 297,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16666666666666666,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 59,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 28,
+    "defenseStuffRate": 0.15106382978723404,
+    "offensePassAttempts": 381,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21243523316062177,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 62,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 18,
+    "defenseStuffRate": 0.13062098501070663,
+    "offensePassAttempts": 490,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13157894736842105,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 248,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 28,
+    "defenseStuffRate": 0.20470588235294118,
+    "offensePassAttempts": 501,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16535433070866143,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 356,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.2219178082191781,
+    "offensePassAttempts": 393,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16054158607350097,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 84,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.1595959595959596,
+    "offensePassAttempts": 482,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16666666666666666,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2294,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 34,
+    "defenseStuffRate": 0.17752808988764046,
+    "offensePassAttempts": 349,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21842105263157896,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 66,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 18,
+    "defenseStuffRate": 0.2037037037037037,
+    "offensePassAttempts": 479,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19390581717451524,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 256,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 38,
+    "defenseStuffRate": 0.2643312101910828,
+    "offensePassAttempts": 327,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1925601750547046,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2305,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.11688311688311688,
+    "offensePassAttempts": 371,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16129032258064516,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2306,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 30,
+    "defenseStuffRate": 0.17142857142857143,
+    "offensePassAttempts": 388,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16605166051660517,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.16738197424892703,
+    "offensePassAttempts": 349,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1346938775510204,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 96,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 19,
+    "defenseStuffRate": 0.18840579710144928,
+    "offensePassAttempts": 349,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2158273381294964,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2335,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 41,
+    "defenseStuffRate": 0.24101479915433405,
+    "offensePassAttempts": 395,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19068736141906872,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.15011547344110854,
+    "offensePassAttempts": 441,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18244803695150116,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2348,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 16,
+    "defenseStuffRate": 0.14285714285714285,
+    "offensePassAttempts": 434,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.192,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 97,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 48,
+    "defenseStuffRate": 0.21709006928406466,
+    "offensePassAttempts": 368,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20204081632653062,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 99,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.1995841995841996,
+    "offensePassAttempts": 480,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.12314225053078556,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 276,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 37,
+    "defenseStuffRate": 0.26455026455026454,
+    "offensePassAttempts": 367,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20353982300884957,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 120,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.1743119266055046,
+    "offensePassAttempts": 446,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1744186046511628,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 113,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 19,
+    "defenseStuffRate": 0.19607843137254902,
+    "offensePassAttempts": 277,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1656686626746507,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 235,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.17523364485981308,
+    "offensePassAttempts": 455,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18831168831168832,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2390,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 37,
+    "defenseStuffRate": 0.1958762886597938,
+    "offensePassAttempts": 413,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1766304347826087,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 193,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 28,
+    "defenseStuffRate": 0.15649867374005305,
+    "offensePassAttempts": 337,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19746835443037974,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 130,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 37,
+    "defenseStuffRate": 0.16927083333333334,
+    "offensePassAttempts": 370,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15843270868824533,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 127,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 29,
+    "defenseStuffRate": 0.17932489451476794,
+    "offensePassAttempts": 412,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20461095100864554,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2393,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 35,
+    "defenseStuffRate": 0.24154589371980675,
+    "offensePassAttempts": 512,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1975609756097561,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 135,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 19,
+    "defenseStuffRate": 0.16897506925207756,
+    "offensePassAttempts": 281,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.12792792792792793,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 344,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 31,
+    "defenseStuffRate": 0.22966507177033493,
+    "offensePassAttempts": 634,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16544117647058823,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 142,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 35,
+    "defenseStuffRate": 0.2289156626506024,
+    "offensePassAttempts": 391,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19438444924406048,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2426,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 33,
+    "defenseStuffRate": 0.2276923076923077,
+    "offensePassAttempts": 126,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13953488372093023,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 152,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 28,
+    "defenseStuffRate": 0.2513812154696133,
+    "offensePassAttempts": 471,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19036144578313252,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 158,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 22,
+    "defenseStuffRate": 0.14613778705636743,
+    "offensePassAttempts": 340,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17391304347826086,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2440,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.1191588785046729,
+    "offensePassAttempts": 398,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16136919315403422,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 167,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.14055299539170507,
+    "offensePassAttempts": 256,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1949367088607595,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 166,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.1681614349775785,
+    "offensePassAttempts": 305,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20454545454545456,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 153,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 17,
+    "defenseStuffRate": 0.13916500994035785,
+    "offensePassAttempts": 525,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16631130063965885,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2459,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 29,
+    "defenseStuffRate": 0.12864077669902912,
+    "offensePassAttempts": 328,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.12747252747252746,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 249,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.12710280373831775,
+    "offensePassAttempts": 430,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1596958174904943,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 77,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.1625,
+    "offensePassAttempts": 417,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1895424836601307,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 87,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 37,
+    "defenseStuffRate": 0.1984924623115578,
+    "offensePassAttempts": 338,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14007782101167315,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 195,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 37,
+    "defenseStuffRate": 0.2116279069767442,
+    "offensePassAttempts": 464,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1724137931034483,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 194,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 34,
+    "defenseStuffRate": 0.21052631578947367,
+    "offensePassAttempts": 410,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14692982456140352,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 201,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 28,
+    "defenseStuffRate": 0.17575757575757575,
+    "offensePassAttempts": 407,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16443594646271512,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 197,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.20042643923240938,
+    "offensePassAttempts": 524,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.189010989010989,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 295,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 31,
+    "defenseStuffRate": 0.17407407407407408,
+    "offensePassAttempts": 417,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1624548736462094,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 145,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 33,
+    "defenseStuffRate": 0.15145228215767634,
+    "offensePassAttempts": 386,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21105527638190955,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2483,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 17,
+    "defenseStuffRate": 0.1891891891891892,
+    "offensePassAttempts": 432,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1422924901185771,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 204,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.18873239436619718,
+    "offensePassAttempts": 323,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1626984126984127,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 213,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 42,
+    "defenseStuffRate": 0.24615384615384617,
+    "offensePassAttempts": 422,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18976545842217485,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 221,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 47,
+    "defenseStuffRate": 0.2323529411764706,
+    "offensePassAttempts": 393,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16962524654832348,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2509,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.14798206278026907,
+    "offensePassAttempts": 581,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16589861751152074,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 242,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.18048780487804877,
+    "offensePassAttempts": 403,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1580188679245283,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 164,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.20334928229665072,
+    "offensePassAttempts": 332,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16624040920716113,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 21,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 36,
+    "defenseStuffRate": 0.18508997429305912,
+    "offensePassAttempts": 342,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21445221445221446,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 23,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 40,
+    "defenseStuffRate": 0.20638820638820637,
+    "offensePassAttempts": 430,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20270270270270271,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2567,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.13307240704500978,
+    "offensePassAttempts": 513,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14526315789473684,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 6,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 28,
+    "defenseStuffRate": 0.17888563049853373,
+    "offensePassAttempts": 447,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13485477178423236,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2579,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.1111111111111111,
+    "offensePassAttempts": 419,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1875,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2572,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 39,
+    "defenseStuffRate": 0.18161434977578475,
+    "offensePassAttempts": 346,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22675736961451248,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 58,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 14,
+    "defenseStuffRate": 0.18526785714285715,
+    "offensePassAttempts": 326,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.10232558139534884,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 24,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.14523809523809525,
+    "offensePassAttempts": 448,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19174041297935104,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 183,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 33,
+    "defenseStuffRate": 0.1522198731501057,
+    "offensePassAttempts": 370,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18227848101265823,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2628,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 30,
+    "defenseStuffRate": 0.19245283018867926,
+    "offensePassAttempts": 454,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16728624535315986,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 218,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 38,
+    "defenseStuffRate": 0.15450643776824036,
+    "offensePassAttempts": 484,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19745222929936307,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2633,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 31,
+    "defenseStuffRate": 0.2302325581395349,
+    "offensePassAttempts": 422,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14056224899598393,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 251,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.14350797266514806,
+    "offensePassAttempts": 405,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15625,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 245,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 19,
+    "defenseStuffRate": 0.1884920634920635,
+    "offensePassAttempts": 391,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2034383954154728,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 326,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.13910761154855644,
+    "offensePassAttempts": 442,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.12790697674418605,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2641,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 29,
+    "defenseStuffRate": 0.20851063829787234,
+    "offensePassAttempts": 570,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1530398322851153,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2649,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 31,
+    "defenseStuffRate": 0.13673469387755102,
+    "offensePassAttempts": 439,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1843065693430657,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2653,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 41,
+    "defenseStuffRate": 0.16593886462882096,
+    "offensePassAttempts": 401,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17607223476297967,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2655,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.14587332053742802,
+    "offensePassAttempts": 379,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14339622641509434,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 202,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 16,
+    "defenseStuffRate": 0.13480885311871227,
+    "offensePassAttempts": 415,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16153846153846155,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 5,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.12946428571428573,
+    "offensePassAttempts": 321,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1437125748502994,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2116,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.1948608137044968,
+    "offensePassAttempts": 451,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14359861591695502,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 26,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 28,
+    "defenseStuffRate": 0.16546762589928057,
+    "offensePassAttempts": 419,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.12121212121212122,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 41,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.1336206896551724,
+    "offensePassAttempts": 276,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22515212981744423,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2433,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.19205298013245034,
+    "offensePassAttempts": 331,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15902964959568733,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2439,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.11529411764705882,
+    "offensePassAttempts": 361,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1534090909090909,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 30,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 40,
+    "defenseStuffRate": 0.14950980392156862,
+    "offensePassAttempts": 514,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15659955257270694,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 254,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 41,
+    "defenseStuffRate": 0.21367521367521367,
+    "offensePassAttempts": 446,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13584905660377358,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 328,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 35,
+    "defenseStuffRate": 0.22764227642276422,
+    "offensePassAttempts": 398,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1575875486381323,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2638,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.17567567567567569,
+    "offensePassAttempts": 380,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1506172839506173,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2636,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.1721132897603486,
+    "offensePassAttempts": 503,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13253012048192772,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 238,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 17,
+    "defenseStuffRate": 0.16137566137566137,
+    "offensePassAttempts": 346,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1658878504672897,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 258,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 30,
+    "defenseStuffRate": 0.10136986301369863,
+    "offensePassAttempts": 342,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1543859649122807,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 259,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.2558139534883721,
+    "offensePassAttempts": 346,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18051575931232092,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 154,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 28,
+    "defenseStuffRate": 0.18577981651376146,
+    "offensePassAttempts": 474,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17381974248927037,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 264,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 37,
+    "defenseStuffRate": 0.14532019704433496,
+    "offensePassAttempts": 575,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13624678663239073,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 265,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 30,
+    "defenseStuffRate": 0.20151133501259447,
+    "offensePassAttempts": 499,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21474358974358973,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 98,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 32,
+    "defenseStuffRate": 0.15367965367965367,
+    "offensePassAttempts": 622,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13709677419354838,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2711,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 31,
+    "defenseStuffRate": 0.13766233766233765,
+    "offensePassAttempts": 335,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17571059431524547,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 277,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.1896551724137931,
+    "offensePassAttempts": 426,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1811764705882353,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 275,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 32,
+    "defenseStuffRate": 0.22167487684729065,
+    "offensePassAttempts": 326,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16417910447761194,
+    "season": 2022
+  },
+  {
+    "cfbdTeamId": 2751,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 37,
+    "defenseStuffRate": 0.1292517006802721,
+    "offensePassAttempts": 304,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16411378555798686,
+    "season": 2022
+  }
+]

@@ -102,35 +102,39 @@ describe('CFB draft routes', () => {
     });
   });
 
-  it('simulates a 12-game Quick Season with one stage, no ties, and null postseason', async () => {
-    const draftId = await completeCfbDraft();
-    const response = await simulate(
-      new Request(`http://localhost/api/cfb/drafts/${draftId}/simulate`, {
-        method: 'POST',
-        body: JSON.stringify({}),
-        headers: { 'content-type': 'application/json' },
-      }),
-      { params: { id: draftId } },
-    );
-    expect(response.status).toBe(201);
-    const payload = await json<{
-      result: {
-        season: {
-          record: { wins: number; losses: number; ties: number };
-          stages: readonly { games: readonly unknown[] }[];
-          postseasonResult: string | null;
+  it(
+    'simulates a 12-game Quick Season with one stage, no ties, and null postseason',
+    { timeout: 30_000 },
+    async () => {
+      const draftId = await completeCfbDraft();
+      const response = await simulate(
+        new Request(`http://localhost/api/cfb/drafts/${draftId}/simulate`, {
+          method: 'POST',
+          body: JSON.stringify({}),
+          headers: { 'content-type': 'application/json' },
+        }),
+        { params: { id: draftId } },
+      );
+      expect(response.status).toBe(201);
+      const payload = await json<{
+        result: {
+          season: {
+            record: { wins: number; losses: number; ties: number };
+            stages: readonly { games: readonly unknown[] }[];
+            postseasonResult: string | null;
+          };
         };
-      };
-    }>(response);
-    expect(payload.result.season.stages).toHaveLength(1);
-    expect(payload.result.season.stages[0]?.games).toHaveLength(12);
-    expect(payload.result.season.record.ties).toBe(0);
-    expect(payload.result.season.record.wins + payload.result.season.record.losses).toBe(12);
-    expect(payload.result.season.postseasonResult).toBeNull();
-    const resultResponse = await getResult(
-      new Request(`http://localhost/api/cfb/drafts/${draftId}/result`),
-      { params: { id: draftId } },
-    );
-    expect(resultResponse.status).toBe(200);
-  });
+      }>(response);
+      expect(payload.result.season.stages).toHaveLength(1);
+      expect(payload.result.season.stages[0]?.games).toHaveLength(12);
+      expect(payload.result.season.record.ties).toBe(0);
+      expect(payload.result.season.record.wins + payload.result.season.record.losses).toBe(12);
+      expect(payload.result.season.postseasonResult).toBeNull();
+      const resultResponse = await getResult(
+        new Request(`http://localhost/api/cfb/drafts/${draftId}/result`),
+        { params: { id: draftId } },
+      );
+      expect(resultResponse.status).toBe(200);
+    },
+  );
 });

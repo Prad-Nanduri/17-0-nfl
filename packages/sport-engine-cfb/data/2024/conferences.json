@@ -1,0 +1,1757 @@
+[
+  {
+    "abbreviation": "AAWU",
+    "conferenceKey": "aawu",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "AAWU",
+    "shortName": "Athletic Association of Western Universities"
+  },
+  {
+    "abbreviation": "ACC",
+    "conferenceKey": "acc",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "ACC",
+    "shortName": "Atlantic Coast Conference"
+  },
+  {
+    "abbreviation": "AAC",
+    "conferenceKey": "american-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "American Athletic",
+    "shortName": "American Athletic Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "american-rivers",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "American Rivers",
+    "shortName": "American Rivers Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "american-southwest",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "American Southwest",
+    "shortName": "American Southwest"
+  },
+  {
+    "abbreviation": "AWC",
+    "conferenceKey": "american-west",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "American West",
+    "shortName": "American West Conference"
+  },
+  {
+    "abbreviation": "AIC",
+    "conferenceKey": "arkansas-intercollegiate",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Arkansas Intercollegiate",
+    "shortName": "Arkansas Intercollegiate Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "athletic-league-of-new-england-state-colleges",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Athletic League of New England State Colleges",
+    "shortName": "Athletic League of New England State Colleges"
+  },
+  {
+    "abbreviation": "A10",
+    "conferenceKey": "atlantic-10",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Atlantic 10",
+    "shortName": "Atlantic 10 Conference"
+  },
+  {
+    "abbreviation": "ACFC",
+    "conferenceKey": "atlantic-collegiate-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Atlantic Collegiate Football",
+    "shortName": "Atlantic Collegiate Football Conference"
+  },
+  {
+    "abbreviation": "ASUN",
+    "conferenceKey": "atlantic-sun",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Atlantic Sun",
+    "shortName": "Atlantic Sun Conference"
+  },
+  {
+    "abbreviation": "AWC",
+    "conferenceKey": "awc",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "AWC",
+    "shortName": "ASUN-WAC Challenge"
+  },
+  {
+    "abbreviation": "B12",
+    "conferenceKey": "big-12",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Big 12",
+    "shortName": "Big 12 Conference"
+  },
+  {
+    "abbreviation": "Big 6",
+    "conferenceKey": "big-6",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Big 6",
+    "shortName": "Big 6 Conference"
+  },
+  {
+    "abbreviation": "Big 7",
+    "conferenceKey": "big-7",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Big 7",
+    "shortName": "Big 7 Conference"
+  },
+  {
+    "abbreviation": "Big 8",
+    "conferenceKey": "big-8",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Big 8",
+    "shortName": "Big 8 Conference"
+  },
+  {
+    "abbreviation": "BE",
+    "conferenceKey": "big-east",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Big East",
+    "shortName": "Big East Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "big-five",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Big Five",
+    "shortName": "Big Five Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "big-four",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Big Four",
+    "shortName": "Big Four Conference"
+  },
+  {
+    "abbreviation": "BSKY",
+    "conferenceKey": "big-sky",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Big Sky",
+    "shortName": "Big Sky Conference"
+  },
+  {
+    "abbreviation": "BSOUTH",
+    "conferenceKey": "big-south",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Big South",
+    "shortName": "Big South Conference"
+  },
+  {
+    "abbreviation": "BSOVC",
+    "conferenceKey": "big-south-ovc",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Big South-OVC",
+    "shortName": "Big South-Ohio Valley Conference Football Association"
+  },
+  {
+    "abbreviation": "B1G",
+    "conferenceKey": "big-ten",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Big Ten",
+    "shortName": "Big Ten Conference"
+  },
+  {
+    "abbreviation": "BW",
+    "conferenceKey": "big-west",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Big West",
+    "shortName": "Big West Conference"
+  },
+  {
+    "abbreviation": "BIAA",
+    "conferenceKey": "border",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Border",
+    "shortName": "Border Intercollegiate Athletic Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "buckeye",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Buckeye",
+    "shortName": "Buckeye Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "buckeye-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Buckeye Athletic",
+    "shortName": "Buckeye Athletic Association"
+  },
+  {
+    "abbreviation": "CAA",
+    "conferenceKey": "caa",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "CAA",
+    "shortName": "Colonial Athletic Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "california-coast",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "California Coast",
+    "shortName": "California Coast Conference"
+  },
+  {
+    "abbreviation": "CCAA",
+    "conferenceKey": "california-collegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "California Collegiate Athletic",
+    "shortName": "California Collegiate Athletic Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "carolinas",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Carolinas",
+    "shortName": "Conference Carolinas"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "cciw",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "CCIW",
+    "shortName": "CCIW"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "centennial",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Centennial",
+    "shortName": "Centennial"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "ciaa",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "CIAA",
+    "shortName": "CIAA"
+  },
+  {
+    "abbreviation": "CAA",
+    "conferenceKey": "coastal-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Coastal Athletic",
+    "shortName": "Coastal Athletic Association Football Conference"
+  },
+  {
+    "abbreviation": "IND-CD",
+    "conferenceKey": "college-division-independents",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "College Division Independents",
+    "shortName": "College Division Independents"
+  },
+  {
+    "abbreviation": "CL",
+    "conferenceKey": "colonial",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Colonial",
+    "shortName": "Colonial League"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "colorado-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Colorado Football",
+    "shortName": "Colorado Football Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "commonwealth-coast",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Commonwealth Coast",
+    "shortName": "Commonwealth Coast Conference"
+  },
+  {
+    "abbreviation": "CUSA",
+    "conferenceKey": "conference-usa",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Conference USA",
+    "shortName": "Conference USA"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "dixie",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Dixie",
+    "shortName": "Dixie Conference"
+  },
+  {
+    "abbreviation": "ECFC",
+    "conferenceKey": "eastern-collegiate-football-historical",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Eastern Collegiate Football (historical)",
+    "shortName": "Eastern Collegiate Football Conference (historical)"
+  },
+  {
+    "abbreviation": "EFC",
+    "conferenceKey": "eastern-football-1965-1974",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Eastern Football (1965–1974)",
+    "shortName": "Eastern Football Conference (1965–1974)"
+  },
+  {
+    "abbreviation": "EFC",
+    "conferenceKey": "eastern-football-1997-2000",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Eastern Football (1997–2000)",
+    "shortName": "Eastern Football Conference (1997–2000)"
+  },
+  {
+    "abbreviation": "EIAC",
+    "conferenceKey": "eastern-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Eastern Intercollegiate Athletic",
+    "shortName": "Eastern Intercollegiate Athletic Conference"
+  },
+  {
+    "abbreviation": "EIFA",
+    "conferenceKey": "eastern-intercollegiate-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Eastern Intercollegiate Football",
+    "shortName": "Eastern Intercollegiate Football Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "eastern-virginia-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Eastern Virginia Intercollegiate Athletic",
+    "shortName": "Eastern Virginia Intercollegiate Athletic Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "ecfc",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "ECFC",
+    "shortName": "ECFC"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "empire-8",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Empire 8",
+    "shortName": "Empire 8"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "evergreen",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Evergreen",
+    "shortName": "Evergreen Conference"
+  },
+  {
+    "abbreviation": "FWC",
+    "conferenceKey": "far-western",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Far Western",
+    "shortName": "Far Western Conference"
+  },
+  {
+    "abbreviation": "Ind",
+    "conferenceKey": "fbs-independents",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "FBS Independents",
+    "shortName": "FBS Independents"
+  },
+  {
+    "abbreviation": "INDAA",
+    "conferenceKey": "fcs-independents",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "FCS Independents",
+    "shortName": "FCS Independents"
+  },
+  {
+    "abbreviation": "FFC",
+    "conferenceKey": "freedom-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Freedom Football",
+    "shortName": "Freedom Football Conference"
+  },
+  {
+    "abbreviation": "GCAC",
+    "conferenceKey": "gateway-collegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Gateway Collegiate Athletic",
+    "shortName": "Gateway Collegiate Athletic Conference"
+  },
+  {
+    "abbreviation": "GFC",
+    "conferenceKey": "gateway-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Gateway Football",
+    "shortName": "Gateway Football Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "gliac",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "GLIAC",
+    "shortName": "GLIAC"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "great-american",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Great American",
+    "shortName": "Great American Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "great-lakes",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Great Lakes",
+    "shortName": "Great Lakes"
+  },
+  {
+    "abbreviation": "GLVC",
+    "conferenceKey": "great-lakes-valley",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Great Lakes Valley",
+    "shortName": "Great Lakes Valley Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "great-midwest-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Great Midwest Athletic",
+    "shortName": "Great Midwest Athletic Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "great-northwest",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Great Northwest",
+    "shortName": "Great Northwest"
+  },
+  {
+    "abbreviation": "GPAC",
+    "conferenceKey": "great-plains-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Great Plains Athletic",
+    "shortName": "Great Plains Athletic Conference"
+  },
+  {
+    "abbreviation": "GWEST",
+    "conferenceKey": "great-west",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Great West",
+    "shortName": "Great West Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "gulf-coast",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Gulf Coast",
+    "shortName": "Gulf Coast Conference"
+  },
+  {
+    "abbreviation": "GCAA",
+    "conferenceKey": "gulf-coast-athletic-association",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Gulf Coast Athletic Association",
+    "shortName": "Gulf Coast Athletic Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "gulf-south",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Gulf South",
+    "shortName": "Gulf South"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "gulf-star",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Gulf Star",
+    "shortName": "Gulf Star Conference"
+  },
+  {
+    "abbreviation": "GSC",
+    "conferenceKey": "gulf-states",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Gulf States",
+    "shortName": "Gulf States Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "heartland",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Heartland",
+    "shortName": "Heartland Collegiate Conference"
+  },
+  {
+    "abbreviation": "IIAC",
+    "conferenceKey": "illinois-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Illinois Intercollegiate Athletic",
+    "shortName": "Illinois Intercollegiate Athletic Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "independent-dii",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Independent DII",
+    "shortName": "Independent DII"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "independent-diii",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Independent DIII",
+    "shortName": "Independent DIII"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "indiana-college-athletic-league",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Indiana College Athletic League",
+    "shortName": "Indiana College Athletic League"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "indiana-collegiate",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Indiana Collegiate",
+    "shortName": "Indiana Collegiate Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "indiana-intercollegiate",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Indiana Intercollegiate",
+    "shortName": "Indiana Intercollegiate Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "indiana-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Indiana Intercollegiate Athletic",
+    "shortName": "Indiana Intercollegiate Athletic Association"
+  },
+  {
+    "abbreviation": "IAANW",
+    "conferenceKey": "intercollegiate-athletic-association-of-the-northwest",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Intercollegiate Athletic Association of the Northwest",
+    "shortName": "Intercollegiate Athletic Association of the Northwest"
+  },
+  {
+    "abbreviation": "IIAC",
+    "conferenceKey": "interstate-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Interstate Intercollegiate Athletic",
+    "shortName": "Interstate Intercollegiate Athletic Conference"
+  },
+  {
+    "abbreviation": "IIAC",
+    "conferenceKey": "iowa-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Iowa Intercollegiate Athletic",
+    "shortName": "Iowa Intercollegiate Athletic Conference"
+  },
+  {
+    "abbreviation": "IVY",
+    "conferenceKey": "ivy",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Ivy",
+    "shortName": "Ivy League"
+  },
+  {
+    "abbreviation": "KIAA",
+    "conferenceKey": "kansas-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Kansas Intercollegiate Athletic",
+    "shortName": "Kansas Intercollegiate Athletic Association"
+  },
+  {
+    "abbreviation": "KIAC",
+    "conferenceKey": "kentucky-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Kentucky Intercollegiate Athletic",
+    "shortName": "Kentucky Intercollegiate Athletic Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "landmark-conference",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Landmark Conference",
+    "shortName": "Landmark Conference"
+  },
+  {
+    "abbreviation": "LFC",
+    "conferenceKey": "liberty-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Liberty Football",
+    "shortName": "Liberty Football Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "liberty-league",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Liberty League",
+    "shortName": "Liberty League"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "lone-star",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Lone Star",
+    "shortName": "Lone Star"
+  },
+  {
+    "abbreviation": "LIC",
+    "conferenceKey": "louisiana-intercollegiate",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Louisiana Intercollegiate",
+    "shortName": "Louisiana Intercollegiate Conference"
+  },
+  {
+    "abbreviation": "LIAA",
+    "conferenceKey": "louisiana-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Louisiana Intercollegiate Athletic",
+    "shortName": "Louisiana Intercollegiate Athletic Association"
+  },
+  {
+    "abbreviation": "MIAA",
+    "conferenceKey": "maine-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Maine Intercollegiate Athletic",
+    "shortName": "Maine Intercollegiate Athletic Association"
+  },
+  {
+    "abbreviation": "MIFA",
+    "conferenceKey": "maryland-intercollegiate-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Maryland Intercollegiate Football",
+    "shortName": "Maryland Intercollegiate Football Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "mason-dixon",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Mason-Dixon",
+    "shortName": "Mason-Dixon Conference"
+  },
+  {
+    "abbreviation": "MEAC",
+    "conferenceKey": "meac",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "MEAC",
+    "shortName": "Mid-Eastern Athletic Conference"
+  },
+  {
+    "abbreviation": "MAAC",
+    "conferenceKey": "metro-atlantic-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Metro Atlantic Athletic",
+    "shortName": "Metro Atlantic Athletic Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "metropolitan-collegiate",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Metropolitan Collegiate",
+    "shortName": "Metropolitan Collegiate Conference"
+  },
+  {
+    "abbreviation": "MIC",
+    "conferenceKey": "metropolitan-intercollegiate",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Metropolitan Intercollegiate",
+    "shortName": "Metropolitan Intercollegiate Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "michigan",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Michigan",
+    "shortName": "Michigan"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "michigan-collegiate",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Michigan Collegiate",
+    "shortName": "Michigan Collegiate Conference"
+  },
+  {
+    "abbreviation": "MIAA",
+    "conferenceKey": "mid-america",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Mid America",
+    "shortName": "Mid-America Intercollegiate Athletics Association"
+  },
+  {
+    "abbreviation": "MAC",
+    "conferenceKey": "mid-american",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Mid-American",
+    "shortName": "Mid-American Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "mid-atlantic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Mid Atlantic",
+    "shortName": "Middle Atlantic Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "mid-continent",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Mid-Continent",
+    "shortName": "Mid-Continent Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "mid-south-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Mid-South Athletic",
+    "shortName": "Mid-South Athletic Conference"
+  },
+  {
+    "abbreviation": "MAAA",
+    "conferenceKey": "middle-atlantic-athletic-association",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Middle Atlantic Athletic Association",
+    "shortName": "Middle Atlantic Athletic Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "middle-atlantic-university",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Middle Atlantic University",
+    "shortName": "Middle Atlantic Conference (University Division)"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "middle-states-intercollegiate-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Middle States Intercollegiate Football",
+    "shortName": "Middle States Intercollegiate Football League"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "middle-three",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Middle Three",
+    "shortName": "Middle Three Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "midwest",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Midwest",
+    "shortName": "Midwest"
+  },
+  {
+    "abbreviation": "MAA",
+    "conferenceKey": "midwest-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Midwest Athletic",
+    "shortName": "Midwest Athletic Association"
+  },
+  {
+    "abbreviation": "MIFC",
+    "conferenceKey": "midwest-intercollegiate-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Midwest Intercollegiate Football",
+    "shortName": "Midwest Intercollegiate Football Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "midwestern-universities",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Midwestern Universities",
+    "shortName": "Conference of Midwestern Universities"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "minnesota",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Minnesota",
+    "shortName": "Minnesota"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "mississippi-valley",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Mississippi Valley",
+    "shortName": "Mississippi Valley Conference"
+  },
+  {
+    "abbreviation": "MVC",
+    "conferenceKey": "missouri-valley",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Missouri Valley",
+    "shortName": "Missouri Valley Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "mountain-east",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Mountain East",
+    "shortName": "Mountain East Conference"
+  },
+  {
+    "abbreviation": "MSAC",
+    "conferenceKey": "mountain-state",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Mountain State",
+    "shortName": "Mountain State Athletic Conference"
+  },
+  {
+    "abbreviation": "MWC",
+    "conferenceKey": "mountain-west",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Mountain West",
+    "shortName": "Mountain West Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "mscac",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "MSCAC",
+    "shortName": "Massachusetts State Collegiate Athletic Conference"
+  },
+  {
+    "abbreviation": "MVFC",
+    "conferenceKey": "mvfc",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "MVFC",
+    "shortName": "Missouri Valley Football Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "nacc",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "NACC",
+    "shortName": "Northern Athletics Collegiate Conference"
+  },
+  {
+    "abbreviation": "NEC",
+    "conferenceKey": "nec",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "NEC",
+    "shortName": "Northeast Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "nescac",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "NESCAC",
+    "shortName": "NESCAC"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "new-england",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "New England",
+    "shortName": "New England Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "new-jersey",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "New Jersey",
+    "shortName": "New Jersey"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "new-york-state",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "New York State",
+    "shortName": "New York State Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "newmac",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "NEWMAC",
+    "shortName": "New England Women's and Men's Athletic Conference"
+  },
+  {
+    "abbreviation": "NCC",
+    "conferenceKey": "north-central",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "North Central",
+    "shortName": "North Central Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "north-coast",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "North Coast",
+    "shortName": "North Coast"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "north-state",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "North State",
+    "shortName": "North State Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "northeast-10",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Northeast 10",
+    "shortName": "Northeast 10"
+  },
+  {
+    "abbreviation": "NCAC",
+    "conferenceKey": "northern-california-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Northern California Athletic",
+    "shortName": "Northern California Athletic Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "northern-sun",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Northern Sun",
+    "shortName": "Northern Sun"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "northwest",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Northwest",
+    "shortName": "Northwest"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "northwest-historical",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Northwest (historical)",
+    "shortName": "Northwest Conference"
+  },
+  {
+    "abbreviation": "NIAA",
+    "conferenceKey": "northwest-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Northwest Intercollegiate Athletic",
+    "shortName": "Northwest Intercollegiate Athletic Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "northwest-ohio",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Northwest Ohio",
+    "shortName": "Northwest Ohio League"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "ohio",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Ohio",
+    "shortName": "Ohio"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "oklahoma-intercollegiate",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Oklahoma Intercollegiate",
+    "shortName": "Oklahoma Intercollegiate Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "old-dominion",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Old Dominion",
+    "shortName": "Old Dominion"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "oregon-collegiate",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Oregon Collegiate",
+    "shortName": "Oregon Collegiate Conference"
+  },
+  {
+    "abbreviation": "OIFA",
+    "conferenceKey": "oregon-intercollegiate-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Oregon Intercollegiate Football",
+    "shortName": "Oregon Intercollegiate Football Association"
+  },
+  {
+    "abbreviation": "OVC",
+    "conferenceKey": "ovc",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "OVC",
+    "shortName": "Ohio Valley Conference"
+  },
+  {
+    "abbreviation": "OVCBS",
+    "conferenceKey": "ovc-big-south",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "OVC-Big South",
+    "shortName": "OVC-Big South Football Association"
+  },
+  {
+    "abbreviation": "Pac-10",
+    "conferenceKey": "pac-10",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Pac-10",
+    "shortName": "Pacific 10"
+  },
+  {
+    "abbreviation": "PAC",
+    "conferenceKey": "pac-12",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Pac-12",
+    "shortName": "Pac-12 Conference"
+  },
+  {
+    "abbreviation": "Pac-8",
+    "conferenceKey": "pac-8",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Pac-8",
+    "shortName": "Pacific 8 Conference"
+  },
+  {
+    "abbreviation": "PCC",
+    "conferenceKey": "pacific",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Pacific",
+    "shortName": "Pacific Coast Conference"
+  },
+  {
+    "abbreviation": "PAT",
+    "conferenceKey": "patriot",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Patriot",
+    "shortName": "Patriot League"
+  },
+  {
+    "abbreviation": "PCAA",
+    "conferenceKey": "pcaa",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "PCAA",
+    "shortName": "Pacific Coast Athletic Association"
+  },
+  {
+    "abbreviation": "PIFA",
+    "conferenceKey": "pennsylvania-intercollegiate-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Pennsylvania Intercollegiate Football",
+    "shortName": "Pennsylvania Intercollegiate Football Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "pennsylvania-state-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Pennsylvania State Athletic",
+    "shortName": "Pennsylvania State Athletic Conference"
+  },
+  {
+    "abbreviation": "PFL",
+    "conferenceKey": "pioneer",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Pioneer",
+    "shortName": "Pioneer Football League"
+  },
+  {
+    "abbreviation": "IND-PC",
+    "conferenceKey": "pre-classification-independents",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Pre-classification Independents",
+    "shortName": "Pre-classification Independents"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "presidents",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Presidents'",
+    "shortName": "Presidents'"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "rocky-mountain",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Rocky Mountain",
+    "shortName": "Rocky Mountain"
+  },
+  {
+    "abbreviation": "SEC",
+    "conferenceKey": "sec",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "SEC",
+    "shortName": "Southeastern Conference"
+  },
+  {
+    "abbreviation": "SIAA",
+    "conferenceKey": "siaa",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "SIAA",
+    "shortName": "Southern Intercollegiate Athletic Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "siac",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "SIAC",
+    "shortName": "SIAC"
+  },
+  {
+    "abbreviation": "Skyline",
+    "conferenceKey": "skyline",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Skyline",
+    "shortName": "Skyline Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "smoky-mountain",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Smoky Mountain",
+    "shortName": "Smoky Mountain Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "so-cal",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "So. Cal.",
+    "shortName": "So. Cal."
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "south-atlantic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "South Atlantic",
+    "shortName": "South Atlantic"
+  },
+  {
+    "abbreviation": "SAIAA",
+    "conferenceKey": "south-atlantic-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "South Atlantic Intercollegiate Athletic",
+    "shortName": "South Atlantic Intercollegiate Athletic Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "south-carolina-little-three",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "South Carolina Little Three",
+    "shortName": "South Carolina Little Three"
+  },
+  {
+    "abbreviation": "SCAC",
+    "conferenceKey": "south-central-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "South Central Athletic",
+    "shortName": "South Central Athletic Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "southeastern-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Southeastern Athletic",
+    "shortName": "Southeastern Athletic Conference"
+  },
+  {
+    "abbreviation": "SOCON",
+    "conferenceKey": "southern",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Southern",
+    "shortName": "Southern Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "southern-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Southern Athletic",
+    "shortName": "Southern Athletic Association"
+  },
+  {
+    "abbreviation": "SCIAC",
+    "conferenceKey": "southern-california-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Southern California Intercollegiate Athletic",
+    "shortName": "Southern California Intercollegiate Athletic Conference"
+  },
+  {
+    "abbreviation": "SCAC",
+    "conferenceKey": "southern-collegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Southern Collegiate Athletic",
+    "shortName": "Southern Collegiate Athletic Conference"
+  },
+  {
+    "abbreviation": "SLC",
+    "conferenceKey": "southland",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Southland",
+    "shortName": "Southland Conference"
+  },
+  {
+    "abbreviation": "SWC",
+    "conferenceKey": "southwest",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Southwest",
+    "shortName": "Southwest Conference"
+  },
+  {
+    "abbreviation": "SBC",
+    "conferenceKey": "sun-belt",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Sun Belt",
+    "shortName": "Sun Belt Conference"
+  },
+  {
+    "abbreviation": "SWAC",
+    "conferenceKey": "swac",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "SWAC",
+    "shortName": "Southwestern Athletic Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "texas-conference",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Texas Conference",
+    "shortName": "Texas Conference"
+  },
+  {
+    "abbreviation": "TIAA",
+    "conferenceKey": "texas-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Texas Intercollegiate Athletic",
+    "shortName": "Texas Intercollegiate Athletic Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "tri-state",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Tri-State",
+    "shortName": "Tri-State Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "triangular-football-league",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Triangular Football League",
+    "shortName": "Triangular Football League"
+  },
+  {
+    "abbreviation": "UAC",
+    "conferenceKey": "uac",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "UAC",
+    "shortName": "United Athletic Conference"
+  },
+  {
+    "abbreviation": "UNI",
+    "conferenceKey": "university",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "University",
+    "shortName": "University"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "upper-midwest",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Upper Midwest",
+    "shortName": "Upper Midwest"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "usa-south",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "USA South",
+    "shortName": "USA South"
+  },
+  {
+    "abbreviation": "VCAA",
+    "conferenceKey": "virginia-collegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Virginia Collegiate Athletic",
+    "shortName": "Virginia Collegiate Athletic Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "virginia-conference",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Virginia Conference",
+    "shortName": "Virginia Conference"
+  },
+  {
+    "abbreviation": "VIAA",
+    "conferenceKey": "virginia-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Virginia Intercollegiate Athletic",
+    "shortName": "Virginia Intercollegiate Athletic Association"
+  },
+  {
+    "abbreviation": "VSAC",
+    "conferenceKey": "volunteer-state-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Volunteer State Athletic",
+    "shortName": "Volunteer State Athletic Conference"
+  },
+  {
+    "abbreviation": "WVAC",
+    "conferenceKey": "west-virginia-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "West Virginia Athletic",
+    "shortName": "West Virginia Athletic Conference"
+  },
+  {
+    "abbreviation": "WVIAC",
+    "conferenceKey": "west-virginia-intercollegiate-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "West Virginia Intercollegiate Athletic",
+    "shortName": "West Virginia Intercollegiate Athletic Conference"
+  },
+  {
+    "abbreviation": "Western",
+    "conferenceKey": "western",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Western",
+    "shortName": "Western Conference"
+  },
+  {
+    "abbreviation": "WAC",
+    "conferenceKey": "western-athletic",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Western Athletic",
+    "shortName": "Western Athletic Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "western-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Western Football",
+    "shortName": "Western Football Conference"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "western-interstate",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Western Interstate",
+    "shortName": "Western Interstate Conference"
+  },
+  {
+    "abbreviation": "WIUFA",
+    "conferenceKey": "western-interstate-university-football",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Western Interstate University Football",
+    "shortName": "Western Interstate University Football Association"
+  },
+  {
+    "abbreviation": null,
+    "conferenceKey": "wisconsin",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Wisconsin",
+    "shortName": "Wisconsin"
+  },
+  {
+    "abbreviation": "YANKEE",
+    "conferenceKey": "yankee",
+    "dissolvedYear": null,
+    "foundedYear": null,
+    "isActive": true,
+    "name": "Yankee",
+    "shortName": "Yankee Conference"
+  }
+]

@@ -1,0 +1,3602 @@
+[
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 62,
+    "isFinal": false,
+    "points": 1574,
+    "rank": 1,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1058,
+    "rank": 9,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 697,
+    "rank": 15,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1395,
+    "rank": 4,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1241,
+    "rank": 6,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 271,
+    "rank": 22,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1293,
+    "rank": 5,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 562,
+    "rank": 17,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 324,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 186,
+    "rank": 23,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1131,
+    "rank": 8,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 395,
+    "rank": 20,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1009,
+    "rank": 10,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 879,
+    "rank": 12,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 709,
+    "rank": 14,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1507,
+    "rank": 2,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1446,
+    "rank": 3,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 994,
+    "rank": 11,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 128,
+    "rank": 24,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 710,
+    "rank": 13,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 87,
+    "rank": 25,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 353,
+    "rank": 21,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 441,
+    "rank": 19,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 579,
+    "rank": 16,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1152,
+    "rank": 7,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 464,
+    "rank": 18,
+    "season": 2022,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 62,
+    "isFinal": false,
+    "points": 1574,
+    "rank": 1,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1339,
+    "rank": 5,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 247,
+    "rank": 23,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1361,
+    "rank": 4,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2335,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 358,
+    "rank": 19,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1132,
+    "rank": 7,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1061,
+    "rank": 8,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1040,
+    "rank": 9,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1009,
+    "rank": 10,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 962,
+    "rank": 11,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1258,
+    "rank": 6,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 187,
+    "rank": 24,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 881,
+    "rank": 13,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1500,
+    "rank": 2,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1455,
+    "rank": 3,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 735,
+    "rank": 14,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 262,
+    "rank": 21,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 399,
+    "rank": 18,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 316,
+    "rank": 20,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 257,
+    "rank": 22,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 607,
+    "rank": 16,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 78,
+    "rank": 25,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 938,
+    "rank": 12,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 547,
+    "rank": 17,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 676,
+    "rank": 15,
+    "season": 2022,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 30,
+    "isFinal": false,
+    "points": 1528,
+    "rank": 1,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 18,
+    "isFinal": false,
+    "points": 1500,
+    "rank": 2,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 513,
+    "rank": 18,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 772,
+    "rank": 13,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1220,
+    "rank": 7,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2335,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 136,
+    "rank": 23,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 679,
+    "rank": 15,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 129,
+    "rank": 24,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1010,
+    "rank": 9,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 979,
+    "rank": 10,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1258,
+    "rank": 6,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 905,
+    "rank": 11,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1135,
+    "rank": 8,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 876,
+    "rank": 12,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 15,
+    "isFinal": false,
+    "points": 1500,
+    "rank": 2,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1378,
+    "rank": 4,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 641,
+    "rank": 16,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 741,
+    "rank": 14,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 111,
+    "rank": 25,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 455,
+    "rank": 19,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1312,
+    "rank": 5,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 285,
+    "rank": 21,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 154,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 388,
+    "rank": 20,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 542,
+    "rank": 17,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 205,
+    "rank": 22,
+    "season": 2022,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 31,
+    "isFinal": false,
+    "points": 1530,
+    "rank": 1,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 13,
+    "isFinal": false,
+    "points": 1476,
+    "rank": 3,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 113,
+    "rank": 25,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 429,
+    "rank": 19,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1064,
+    "rank": 9,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 272,
+    "rank": 22,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1213,
+    "rank": 7,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 502,
+    "rank": 18,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 927,
+    "rank": 10,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 803,
+    "rank": 12,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1266,
+    "rank": 6,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 744,
+    "rank": 15,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1114,
+    "rank": 8,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 766,
+    "rank": 14,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 18,
+    "isFinal": false,
+    "points": 1513,
+    "rank": 2,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1382,
+    "rank": 4,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 783,
+    "rank": 13,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 508,
+    "rank": 17,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 386,
+    "rank": 20,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 243,
+    "rank": 23,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1318,
+    "rank": 5,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 169,
+    "rank": 24,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 154,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 927,
+    "rank": 10,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 278,
+    "rank": 21,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 626,
+    "rank": 16,
+    "season": 2022,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 31,
+    "isFinal": false,
+    "points": 1530,
+    "rank": 1,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 15,
+    "isFinal": false,
+    "points": 1474,
+    "rank": 3,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 414,
+    "rank": 19,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 913,
+    "rank": 11,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 599,
+    "rank": 17,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1166,
+    "rank": 8,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 861,
+    "rank": 12,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1048,
+    "rank": 9,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1232,
+    "rank": 6,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1173,
+    "rank": 7,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 150,
+    "rank": 24,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 953,
+    "rank": 10,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 715,
+    "rank": 15,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 17,
+    "isFinal": false,
+    "points": 1509,
+    "rank": 2,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1384,
+    "rank": 4,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 629,
+    "rank": 16,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 433,
+    "rank": 18,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 368,
+    "rank": 20,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 321,
+    "rank": 21,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 115,
+    "rank": 25,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1336,
+    "rank": 5,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 155,
+    "rank": 23,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 154,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 790,
+    "rank": 13,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 210,
+    "rank": 22,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 751,
+    "rank": 14,
+    "season": 2022,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 32,
+    "isFinal": false,
+    "points": 1535,
+    "rank": 1,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1232,
+    "rank": 6,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 150,
+    "rank": 22,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1150,
+    "rank": 8,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 559,
+    "rank": 17,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 330,
+    "rank": 19,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 819,
+    "rank": 13,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 105,
+    "rank": 25,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1214,
+    "rank": 7,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 907,
+    "rank": 11,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 11,
+    "isFinal": false,
+    "points": 1489,
+    "rank": 3,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1061,
+    "rank": 9,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 589,
+    "rank": 16,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 893,
+    "rank": 12,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 328,
+    "rank": 20,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 20,
+    "isFinal": false,
+    "points": 1507,
+    "rank": 2,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1319,
+    "rank": 5,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 974,
+    "rank": 10,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 117,
+    "rank": 24,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 150,
+    "rank": 22,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 257,
+    "rank": 21,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1348,
+    "rank": 4,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 746,
+    "rank": 15,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 154,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 748,
+    "rank": 14,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 393,
+    "rank": 18,
+    "season": 2022,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 1565,
+    "rank": 1,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1119,
+    "rank": 8,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1127,
+    "rank": 7,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1081,
+    "rank": 9,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 166,
+    "rank": 25,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 550,
+    "rank": 16,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 482,
+    "rank": 19,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1236,
+    "rank": 6,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1487,
+    "rank": 2,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 691,
+    "rank": 14,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 457,
+    "rank": 20,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 727,
+    "rank": 13,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 657,
+    "rank": 15,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 760,
+    "rank": 12,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 543,
+    "rank": 17,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1483,
+    "rank": 3,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1354,
+    "rank": 4,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 876,
+    "rank": 11,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 135,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 288,
+    "rank": 21,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 529,
+    "rank": 18,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 244,
+    "rank": 23,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1311,
+    "rank": 5,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 920,
+    "rank": 10,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 154,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 265,
+    "rank": 22,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 209,
+    "rank": 24,
+    "season": 2022,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 59,
+    "isFinal": false,
+    "points": 1569,
+    "rank": 1,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 360,
+    "rank": 20,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 866,
+    "rank": 11,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1096,
+    "rank": 8,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1071,
+    "rank": 9,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 494,
+    "rank": 17,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 381,
+    "rank": 19,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1197,
+    "rank": 7,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1492,
+    "rank": 2,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 585,
+    "rank": 16,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 920,
+    "rank": 10,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 593,
+    "rank": 15,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 485,
+    "rank": 18,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 684,
+    "rank": 13,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 309,
+    "rank": 23,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1473,
+    "rank": 3,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1364,
+    "rank": 4,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 666,
+    "rank": 14,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 339,
+    "rank": 22,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1257,
+    "rank": 6,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1268,
+    "rank": 5,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 781,
+    "rank": 12,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 154,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 345,
+    "rank": 21,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 123,
+    "rank": 25,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 181,
+    "rank": 24,
+    "season": 2022,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 53,
+    "isFinal": false,
+    "points": 1561,
+    "rank": 1,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 484,
+    "rank": 18,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 658,
+    "rank": 15,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 992,
+    "rank": 9,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1004,
+    "rank": 8,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 562,
+    "rank": 17,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 880,
+    "rank": 12,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1139,
+    "rank": 7,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 9,
+    "isFinal": false,
+    "points": 1496,
+    "rank": 2,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 411,
+    "rank": 20,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 938,
+    "rank": 10,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 89,
+    "rank": 25,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 673,
+    "rank": 14,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 145,
+    "rank": 24,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1475,
+    "rank": 3,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 902,
+    "rank": 11,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1359,
+    "rank": 4,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 271,
+    "rank": 22,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 276,
+    "rank": 21,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1209,
+    "rank": 6,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1285,
+    "rank": 5,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 623,
+    "rank": 16,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 154,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 449,
+    "rank": 19,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 772,
+    "rank": 13,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 160,
+    "rank": 23,
+    "season": 2022,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 62,
+    "isFinal": false,
+    "points": 1574,
+    "rank": 1,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1233,
+    "rank": 6,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 382,
+    "rank": 20,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1032,
+    "rank": 11,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1430,
+    "rank": 3,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 660,
+    "rank": 16,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 644,
+    "rank": 17,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2636,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 227,
+    "rank": 22,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1068,
+    "rank": 8,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 570,
+    "rank": 18,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2653,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 158,
+    "rank": 23,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1285,
+    "rank": 5,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 119,
+    "rank": 24,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 670,
+    "rank": 15,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 933,
+    "rank": 12,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1110,
+    "rank": 7,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1398,
+    "rank": 4,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1513,
+    "rank": 2,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1063,
+    "rank": 9,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 305,
+    "rank": 21,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 394,
+    "rank": 19,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 681,
+    "rank": 14,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 708,
+    "rank": 13,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1042,
+    "rank": 10,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 59,
+    "rank": 25,
+    "season": 2022,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 58,
+    "isFinal": false,
+    "points": 1570,
+    "rank": 1,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1195,
+    "rank": 7,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 358,
+    "rank": 20,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 815,
+    "rank": 13,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1449,
+    "rank": 3,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 874,
+    "rank": 11,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 662,
+    "rank": 16,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2636,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 145,
+    "rank": 23,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1382,
+    "rank": 4,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 618,
+    "rank": 17,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1243,
+    "rank": 6,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 99,
+    "rank": 25,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 701,
+    "rank": 15,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1048,
+    "rank": 9,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 849,
+    "rank": 12,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1313,
+    "rank": 5,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1516,
+    "rank": 2,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1131,
+    "rank": 8,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 316,
+    "rank": 21,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 384,
+    "rank": 19,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 170,
+    "rank": 22,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 551,
+    "rank": 18,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 730,
+    "rank": 14,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 928,
+    "rank": 10,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 114,
+    "rank": 24,
+    "season": 2022,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 62,
+    "isFinal": false,
+    "points": 1574,
+    "rank": 1,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1341,
+    "rank": 5,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 85,
+    "rank": 24,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 468,
+    "rank": 19,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1374,
+    "rank": 4,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1218,
+    "rank": 6,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 81,
+    "rank": 25,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1152,
+    "rank": 7,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 648,
+    "rank": 16,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 324,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 143,
+    "rank": 23,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1140,
+    "rank": 8,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 797,
+    "rank": 14,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 856,
+    "rank": 12,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 693,
+    "rank": 15,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 965,
+    "rank": 10,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1501,
+    "rank": 2,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1453,
+    "rank": 3,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 882,
+    "rank": 11,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 495,
+    "rank": 18,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 537,
+    "rank": 17,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 237,
+    "rank": 22,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 273,
+    "rank": 21,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 386,
+    "rank": 20,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1055,
+    "rank": 9,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 843,
+    "rank": 13,
+    "season": 2022,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 28,
+    "isFinal": false,
+    "points": 1521,
+    "rank": 2,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1129,
+    "rank": 8,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 832,
+    "rank": 13,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1182,
+    "rank": 7,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 417,
+    "rank": 20,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 476,
+    "rank": 19,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 514,
+    "rank": 17,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 604,
+    "rank": 16,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 108,
+    "rank": 25,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1233,
+    "rank": 6,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 510,
+    "rank": 18,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 25,
+    "isFinal": false,
+    "points": 1523,
+    "rank": 1,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1068,
+    "rank": 9,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 164,
+    "rank": 23,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 872,
+    "rank": 12,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 180,
+    "rank": 21,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 884,
+    "rank": 11,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 10,
+    "isFinal": false,
+    "points": 1488,
+    "rank": 3,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1348,
+    "rank": 4,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 959,
+    "rank": 10,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 134,
+    "rank": 24,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1345,
+    "rank": 5,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 691,
+    "rank": 14,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 154,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 627,
+    "rank": 15,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 173,
+    "rank": 22,
+    "season": 2022,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 17,
+    "isFinal": false,
+    "points": 1511,
+    "rank": 2,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 763,
+    "rank": 12,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 194,
+    "rank": 24,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 373,
+    "rank": 20,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 818,
+    "rank": 11,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1057,
+    "rank": 9,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 266,
+    "rank": 21,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 898,
+    "rank": 10,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 44,
+    "isFinal": false,
+    "points": 1552,
+    "rank": 1,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 254,
+    "rank": 22,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 678,
+    "rank": 16,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 717,
+    "rank": 13,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1241,
+    "rank": 6,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1471,
+    "rank": 3,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 690,
+    "rank": 14,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1299,
+    "rank": 4,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 476,
+    "rank": 19,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1130,
+    "rank": 7,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1085,
+    "rank": 8,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 143,
+    "rank": 25,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1280,
+    "rank": 5,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 513,
+    "rank": 18,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 154,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 246,
+    "rank": 23,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 679,
+    "rank": 15,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 535,
+    "rank": 17,
+    "season": 2022,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1455,
+    "rank": 3,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 332,
+    "rank": 20,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 814,
+    "rank": 12,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 884,
+    "rank": 10,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 234,
+    "rank": 25,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 711,
+    "rank": 14,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 54,
+    "isFinal": false,
+    "points": 1566,
+    "rank": 1,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 324,
+    "rank": 21,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 348,
+    "rank": 19,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 831,
+    "rank": 11,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1209,
+    "rank": 7,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1212,
+    "rank": 6,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 6,
+    "isFinal": false,
+    "points": 1506,
+    "rank": 2,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 631,
+    "rank": 15,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1203,
+    "rank": 8,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 365,
+    "rank": 18,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 956,
+    "rank": 9,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1242,
+    "rank": 5,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 263,
+    "rank": 24,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 265,
+    "rank": 23,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1292,
+    "rank": 4,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 752,
+    "rank": 13,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 154,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 303,
+    "rank": 22,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 476,
+    "rank": 16,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 383,
+    "rank": 17,
+    "season": 2022,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 63,
+    "isFinal": true,
+    "points": 1575,
+    "rank": 1,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1484,
+    "rank": 2,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1438,
+    "rank": 3,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1394,
+    "rank": 4,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1303,
+    "rank": 5,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1294,
+    "rank": 6,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1200,
+    "rank": 7,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1097,
+    "rank": 8,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1025,
+    "rank": 9,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 876,
+    "rank": 10,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 814,
+    "rank": 11,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 795,
+    "rank": 12,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 791,
+    "rank": 13,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 784,
+    "rank": 14,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 758,
+    "rank": 15,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 757,
+    "rank": 16,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 742,
+    "rank": 17,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 535,
+    "rank": 18,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2653,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 322,
+    "rank": 19,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 320,
+    "rank": 20,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 243,
+    "rank": 21,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 233,
+    "rank": 22,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 180,
+    "rank": 23,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 164,
+    "rank": 24,
+    "season": 2022,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 95,
+    "rank": 25,
+    "season": 2022,
+    "week": 99
+  }
+]

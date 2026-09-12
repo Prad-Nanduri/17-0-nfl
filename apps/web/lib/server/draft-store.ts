@@ -65,6 +65,9 @@ export interface DraftState {
   readonly pendingSpin: PendingSpin | null;
   readonly picks: Readonly<Record<string, StoredPick>>;
   readonly usedUnits: readonly CoreDraftPoolUnit[];
+  // Units resolved by a spin that produced zero slot-eligible candidates —
+  // excluded from future spins so a sparse roster can't dead-end the draft.
+  readonly deadUnits?: readonly CoreDraftPoolUnit[];
   readonly createdAt: string;
   readonly result: StoredResult | null;
 }

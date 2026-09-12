@@ -1,0 +1,1282 @@
+[
+  {
+    "cfbdTeamId": 2005,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 7,
+    "defenseStuffRate": 0.13270142180094788,
+    "offensePassAttempts": 61,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.0932475884244373,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2006,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 9,
+    "defenseStuffRate": 0.1091703056768559,
+    "offensePassAttempts": 148,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22162162162162163,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 333,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.1882640586797066,
+    "offensePassAttempts": 425,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14945054945054945,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2026,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.19617224880382775,
+    "offensePassAttempts": 300,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16539923954372623,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 12,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 2,
+    "defenseStuffRate": 0.19213973799126638,
+    "offensePassAttempts": 188,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22485207100591717,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 9,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 9,
+    "defenseStuffRate": 0.2356687898089172,
+    "offensePassAttempts": 87,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.147239263803681,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 8,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 14,
+    "defenseStuffRate": 0.1782178217821782,
+    "offensePassAttempts": 283,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1883656509695291,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2032,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.23429951690821257,
+    "offensePassAttempts": 464,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19889502762430938,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 349,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 18,
+    "defenseStuffRate": 0.25287356321839083,
+    "offensePassAttempts": 76,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1456859971711457,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.14108910891089108,
+    "offensePassAttempts": 362,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16129032258064516,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2050,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 15,
+    "defenseStuffRate": 0.20155038759689922,
+    "offensePassAttempts": 251,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1641337386018237,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 239,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 18,
+    "defenseStuffRate": 0.21098265895953758,
+    "offensePassAttempts": 331,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2788104089219331,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 68,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 18,
+    "defenseStuffRate": 0.22761194029850745,
+    "offensePassAttempts": 221,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20833333333333334,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 103,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.2054794520547945,
+    "offensePassAttempts": 390,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19877675840978593,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 189,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 7,
+    "defenseStuffRate": 0.15966386554621848,
+    "offensePassAttempts": 125,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16022099447513813,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2084,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.12595419847328243,
+    "offensePassAttempts": 156,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.132013201320132,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 252,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.15816326530612246,
+    "offensePassAttempts": 375,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19070904645476772,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 25,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 7,
+    "defenseStuffRate": 0.1888111888111888,
+    "offensePassAttempts": 139,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2556390977443609,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2117,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 19,
+    "defenseStuffRate": 0.23043478260869565,
+    "offensePassAttempts": 173,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15510204081632653,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2429,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 5,
+    "defenseStuffRate": 0.17757009345794392,
+    "offensePassAttempts": 179,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19909502262443438,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2132,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 29,
+    "defenseStuffRate": 0.19631901840490798,
+    "offensePassAttempts": 295,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19337016574585636,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 228,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 46,
+    "defenseStuffRate": 0.26717557251908397,
+    "offensePassAttempts": 490,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16539440203562342,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 324,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 32,
+    "defenseStuffRate": 0.1784776902887139,
+    "offensePassAttempts": 286,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17857142857142858,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 38,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 15,
+    "defenseStuffRate": 0.27071823204419887,
+    "offensePassAttempts": 178,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23134328358208955,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 36,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 16,
+    "defenseStuffRate": 0.2865853658536585,
+    "offensePassAttempts": 118,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2827586206896552,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 150,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 31,
+    "defenseStuffRate": 0.16706443914081145,
+    "offensePassAttempts": 390,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2205128205128205,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 151,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 13,
+    "defenseStuffRate": 0.20481927710843373,
+    "offensePassAttempts": 293,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20059880239520958,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2199,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 9,
+    "defenseStuffRate": 0.12639405204460966,
+    "offensePassAttempts": 199,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23645320197044334,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 57,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 33,
+    "defenseStuffRate": 0.16279069767441862,
+    "offensePassAttempts": 473,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16531165311653118,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2226,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.19281045751633988,
+    "offensePassAttempts": 232,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21791044776119403,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2229,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 10,
+    "defenseStuffRate": 0.20657276995305165,
+    "offensePassAttempts": 127,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16455696202531644,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 52,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 10,
+    "defenseStuffRate": 0.20408163265306123,
+    "offensePassAttempts": 293,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1826625386996904,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 278,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.18099547511312217,
+    "offensePassAttempts": 247,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23076923076923078,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 61,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 33,
+    "defenseStuffRate": 0.19029850746268656,
+    "offensePassAttempts": 306,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17270194986072424,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 290,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.2631578947368421,
+    "offensePassAttempts": 174,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1504,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2247,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 32,
+    "defenseStuffRate": 0.22935779816513763,
+    "offensePassAttempts": 307,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21809744779582366,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 59,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.18271604938271604,
+    "offensePassAttempts": 283,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24739583333333334,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 62,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 17,
+    "defenseStuffRate": 0.21978021978021978,
+    "offensePassAttempts": 315,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1891891891891892,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 248,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.2534722222222222,
+    "offensePassAttempts": 297,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18705035971223022,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 356,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 18,
+    "defenseStuffRate": 0.16422287390029325,
+    "offensePassAttempts": 194,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21035598705501618,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 84,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.14227642276422764,
+    "offensePassAttempts": 291,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19245283018867926,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2294,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 22,
+    "defenseStuffRate": 0.21071428571428572,
+    "offensePassAttempts": 248,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1951219512195122,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 66,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 28,
+    "defenseStuffRate": 0.24858757062146894,
+    "offensePassAttempts": 372,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19501133786848074,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2305,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 9,
+    "defenseStuffRate": 0.16944444444444445,
+    "offensePassAttempts": 283,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.28888888888888886,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2306,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 28,
+    "defenseStuffRate": 0.21203438395415472,
+    "offensePassAttempts": 247,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2404692082111437,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 11,
+    "defenseStuffRate": 0.19375,
+    "offensePassAttempts": 126,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.11855670103092783,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 96,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 15,
+    "defenseStuffRate": 0.18434343434343434,
+    "offensePassAttempts": 241,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15789473684210525,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2335,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.18484848484848485,
+    "offensePassAttempts": 306,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18872017353579176,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 18,
+    "defenseStuffRate": 0.13024282560706402,
+    "offensePassAttempts": 308,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15914489311163896,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2348,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 17,
+    "defenseStuffRate": 0.18414322250639387,
+    "offensePassAttempts": 359,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2120253164556962,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 97,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.20906801007556675,
+    "offensePassAttempts": 315,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24494949494949494,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 99,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.196875,
+    "offensePassAttempts": 421,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19411764705882353,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 276,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.159375,
+    "offensePassAttempts": 281,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13756613756613756,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 120,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 13,
+    "defenseStuffRate": 0.16216216216216217,
+    "offensePassAttempts": 157,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19402985074626866,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 113,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 9,
+    "defenseStuffRate": 0.21739130434782608,
+    "offensePassAttempts": 100,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 235,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.18414322250639387,
+    "offensePassAttempts": 421,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22666666666666666,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2390,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 31,
+    "defenseStuffRate": 0.23469387755102042,
+    "offensePassAttempts": 381,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21649484536082475,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 193,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 13,
+    "defenseStuffRate": 0.18604651162790697,
+    "offensePassAttempts": 85,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20454545454545456,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 130,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 9,
+    "defenseStuffRate": 0.144,
+    "offensePassAttempts": 213,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22424242424242424,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 127,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 12,
+    "defenseStuffRate": 0.24528301886792453,
+    "offensePassAttempts": 243,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24336283185840707,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2393,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 19,
+    "defenseStuffRate": 0.13934426229508196,
+    "offensePassAttempts": 311,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18811881188118812,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 135,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 8,
+    "defenseStuffRate": 0.14220183486238533,
+    "offensePassAttempts": 184,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17192982456140352,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 344,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.19726027397260273,
+    "offensePassAttempts": 557,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16071428571428573,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 142,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 19,
+    "defenseStuffRate": 0.1871345029239766,
+    "offensePassAttempts": 363,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20658682634730538,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2426,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 6,
+    "defenseStuffRate": 0.17560975609756097,
+    "offensePassAttempts": 124,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19088937093275488,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 152,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 33,
+    "defenseStuffRate": 0.24780701754385964,
+    "offensePassAttempts": 400,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21287128712871287,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 158,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 13,
+    "defenseStuffRate": 0.22929936305732485,
+    "offensePassAttempts": 228,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20440251572327045,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2440,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.19310344827586207,
+    "offensePassAttempts": 357,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2754237288135593,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 167,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 14,
+    "defenseStuffRate": 0.20087336244541484,
+    "offensePassAttempts": 215,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15693430656934307,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 166,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23404255319148937,
+    "offensePassAttempts": null,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23529411764705882,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 153,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 36,
+    "defenseStuffRate": 0.16541353383458646,
+    "offensePassAttempts": 357,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18004338394793926,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2459,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 11,
+    "defenseStuffRate": 0.2037914691943128,
+    "offensePassAttempts": 221,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21634615384615385,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 249,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 22,
+    "defenseStuffRate": 0.15839243498817968,
+    "offensePassAttempts": 336,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13849765258215962,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 77,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 14,
+    "defenseStuffRate": 0.22939068100358423,
+    "offensePassAttempts": 283,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22631578947368422,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 87,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 29,
+    "defenseStuffRate": 0.2796352583586626,
+    "offensePassAttempts": 362,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17012448132780084,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 195,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 4,
+    "defenseStuffRate": 0.12931034482758622,
+    "offensePassAttempts": 54,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14545454545454545,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 194,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.24074074074074073,
+    "offensePassAttempts": 225,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16199376947040497,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 201,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 37,
+    "defenseStuffRate": 0.2550335570469799,
+    "offensePassAttempts": 362,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2141057934508816,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 197,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 29,
+    "defenseStuffRate": 0.2344139650872818,
+    "offensePassAttempts": 340,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2222222222222222,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 145,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 16,
+    "defenseStuffRate": 0.16621983914209115,
+    "offensePassAttempts": 335,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19437939110070257,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2483,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 12,
+    "defenseStuffRate": 0.20220588235294118,
+    "offensePassAttempts": 190,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18584070796460178,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 204,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 7,
+    "defenseStuffRate": 0.1970260223048327,
+    "offensePassAttempts": 233,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18072289156626506,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 213,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.20666666666666667,
+    "offensePassAttempts": 306,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17866666666666667,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 221,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 45,
+    "defenseStuffRate": 0.2719298245614035,
+    "offensePassAttempts": 426,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.27419354838709675,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2509,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 5,
+    "defenseStuffRate": 0.20967741935483872,
+    "offensePassAttempts": 261,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2589928057553957,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 242,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 7,
+    "defenseStuffRate": 0.20121951219512196,
+    "offensePassAttempts": 133,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17587939698492464,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 164,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.21761658031088082,
+    "offensePassAttempts": 309,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2006172839506173,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 21,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 19,
+    "defenseStuffRate": 0.3045267489711934,
+    "offensePassAttempts": 203,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2536443148688047,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 23,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.18888888888888888,
+    "offensePassAttempts": 288,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2610619469026549,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2567,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.2103960396039604,
+    "offensePassAttempts": 376,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19832402234636873,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 6,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 12,
+    "defenseStuffRate": 0.20050125313283207,
+    "offensePassAttempts": 350,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.225130890052356,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2579,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 14,
+    "defenseStuffRate": 0.14507772020725387,
+    "offensePassAttempts": 295,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21893491124260356,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2572,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 15,
+    "defenseStuffRate": 0.17054263565891473,
+    "offensePassAttempts": 272,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19533527696793002,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 58,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 7,
+    "defenseStuffRate": 0.1827956989247312,
+    "offensePassAttempts": 312,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23841059602649006,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 24,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 8,
+    "defenseStuffRate": 0.1752136752136752,
+    "offensePassAttempts": 220,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16304347826086957,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 183,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.17463617463617465,
+    "offensePassAttempts": 336,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2535211267605634,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2628,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.2599388379204893,
+    "offensePassAttempts": 272,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21558441558441557,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 218,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 13,
+    "defenseStuffRate": 0.16151202749140894,
+    "offensePassAttempts": 240,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18081180811808117,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2633,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.21891891891891893,
+    "offensePassAttempts": 285,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1781609195402299,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 251,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 15,
+    "defenseStuffRate": 0.24863387978142076,
+    "offensePassAttempts": 345,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1908831908831909,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 245,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.2177121771217712,
+    "offensePassAttempts": 301,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20155038759689922,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 326,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 12,
+    "defenseStuffRate": 0.16472868217054262,
+    "offensePassAttempts": 404,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23563218390804597,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2641,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 17,
+    "defenseStuffRate": 0.19901719901719903,
+    "offensePassAttempts": 395,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20307692307692307,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2649,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 11,
+    "defenseStuffRate": 0.22110552763819097,
+    "offensePassAttempts": 219,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22807017543859648,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2653,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 22,
+    "defenseStuffRate": 0.19158878504672897,
+    "offensePassAttempts": 456,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20967741935483872,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2655,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 35,
+    "defenseStuffRate": 0.22174840085287847,
+    "offensePassAttempts": 313,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18958333333333333,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 202,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 22,
+    "defenseStuffRate": 0.20481927710843373,
+    "offensePassAttempts": 306,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18862275449101795,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 5,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.23448275862068965,
+    "offensePassAttempts": 244,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2273972602739726,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2116,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.2,
+    "offensePassAttempts": 408,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16389548693586697,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 26,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 22,
+    "defenseStuffRate": 0.1885245901639344,
+    "offensePassAttempts": 200,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22077922077922077,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2433,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 17,
+    "defenseStuffRate": 0.15848214285714285,
+    "offensePassAttempts": 383,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22123893805309736,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2439,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 14,
+    "defenseStuffRate": 0.16228070175438597,
+    "offensePassAttempts": 196,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18877551020408162,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 30,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 13,
+    "defenseStuffRate": 0.22277227722772278,
+    "offensePassAttempts": 263,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2413793103448276,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 254,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 7,
+    "defenseStuffRate": 0.2740740740740741,
+    "offensePassAttempts": 156,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25274725274725274,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 328,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 16,
+    "defenseStuffRate": 0.16736401673640167,
+    "offensePassAttempts": 169,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23333333333333334,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2638,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 12,
+    "defenseStuffRate": 0.18867924528301888,
+    "offensePassAttempts": 239,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21232876712328766,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2636,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.20554272517321015,
+    "offensePassAttempts": 370,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1740976645435244,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 238,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 13,
+    "defenseStuffRate": 0.19402985074626866,
+    "offensePassAttempts": 300,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2057877813504823,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 258,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 32,
+    "defenseStuffRate": 0.19705882352941176,
+    "offensePassAttempts": 379,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13218390804597702,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 259,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 36,
+    "defenseStuffRate": 0.17914438502673796,
+    "offensePassAttempts": 253,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18805309734513273,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 154,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 16,
+    "defenseStuffRate": 0.23646723646723647,
+    "offensePassAttempts": 310,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2033898305084746,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 264,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 10,
+    "defenseStuffRate": 0.13533834586466165,
+    "offensePassAttempts": 111,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18064516129032257,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 265,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 8,
+    "defenseStuffRate": 0.19166666666666668,
+    "offensePassAttempts": 152,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24509803921568626,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 98,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.17834394904458598,
+    "offensePassAttempts": 369,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2125340599455041,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2711,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 19,
+    "defenseStuffRate": 0.23923444976076555,
+    "offensePassAttempts": 155,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1608695652173913,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 277,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.2413793103448276,
+    "offensePassAttempts": 401,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20294117647058824,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 275,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 11,
+    "defenseStuffRate": 0.2698412698412698,
+    "offensePassAttempts": 202,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20863309352517986,
+    "season": 2020
+  },
+  {
+    "cfbdTeamId": 2751,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 17,
+    "defenseStuffRate": 0.20689655172413793,
+    "offensePassAttempts": 134,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18076923076923077,
+    "season": 2020
+  }
+]

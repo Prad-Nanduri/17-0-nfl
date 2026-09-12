@@ -1,0 +1,1202 @@
+[
+  {
+    "cfbdTeamId": 2005,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18329466357308585,
+    "offensePassAttempts": 153,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15354838709677418,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2006,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21867321867321868,
+    "offensePassAttempts": 342,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24528301886792453,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 333,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23163841807909605,
+    "offensePassAttempts": 346,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17454545454545456,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 12,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19436619718309858,
+    "offensePassAttempts": 484,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21212121212121213,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 9,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24324324324324326,
+    "offensePassAttempts": 418,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21241830065359477,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 8,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2236842105263158,
+    "offensePassAttempts": 439,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22126436781609196,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2032,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23622047244094488,
+    "offensePassAttempts": 330,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25333333333333335,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 349,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2511961722488038,
+    "offensePassAttempts": 161,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1811722912966252,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19909502262443438,
+    "offensePassAttempts": 364,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18415841584158416,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2050,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24675324675324675,
+    "offensePassAttempts": 313,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21983914209115282,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 239,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17832957110609482,
+    "offensePassAttempts": 431,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2576271186440678,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 68,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24937655860349128,
+    "offensePassAttempts": 458,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21987315010570824,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 103,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2583732057416268,
+    "offensePassAttempts": 351,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.273972602739726,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 189,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.162291169451074,
+    "offensePassAttempts": 596,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2974683544303797,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2084,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20205479452054795,
+    "offensePassAttempts": 402,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20317460317460317,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 252,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1806282722513089,
+    "offensePassAttempts": 419,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22142857142857142,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 25,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.266839378238342,
+    "offensePassAttempts": 393,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24396135265700483,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2117,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17010309278350516,
+    "offensePassAttempts": 479,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17701149425287357,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2132,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2026431718061674,
+    "offensePassAttempts": 472,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2204968944099379,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 228,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24777183600713013,
+    "offensePassAttempts": 390,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23194748358862144,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 38,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20470588235294118,
+    "offensePassAttempts": 473,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23404255319148937,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 36,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1969309462915601,
+    "offensePassAttempts": 325,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19047619047619047,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 150,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2036613272311213,
+    "offensePassAttempts": 501,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24025974025974026,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 151,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.25,
+    "offensePassAttempts": 452,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21052631578947367,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2199,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16435185185185186,
+    "offensePassAttempts": 327,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22287390029325513,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 57,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19458128078817735,
+    "offensePassAttempts": 364,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20892494929006086,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2226,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2349869451697128,
+    "offensePassAttempts": 444,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1848101265822785,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2229,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23127753303964757,
+    "offensePassAttempts": 433,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 52,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23542600896860988,
+    "offensePassAttempts": 437,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19525065963060687,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 278,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2506265664160401,
+    "offensePassAttempts": 321,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18181818181818182,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 61,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.25170068027210885,
+    "offensePassAttempts": 346,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22488038277511962,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 59,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21173469387755103,
+    "offensePassAttempts": 168,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16415868673050615,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 62,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17567567567567569,
+    "offensePassAttempts": 569,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18604651162790697,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 248,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14795008912655971,
+    "offensePassAttempts": 747,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14673913043478262,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 70,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20833333333333334,
+    "offensePassAttempts": 396,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16666666666666666,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 356,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21608040201005024,
+    "offensePassAttempts": 331,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20134228187919462,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 84,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1822429906542056,
+    "offensePassAttempts": 440,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20710059171597633,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2294,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18867924528301888,
+    "offensePassAttempts": 392,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2608695652173913,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 66,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20042643923240938,
+    "offensePassAttempts": 380,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18032786885245902,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2305,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21643835616438356,
+    "offensePassAttempts": 506,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20552147239263804,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2306,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21385542168674698,
+    "offensePassAttempts": 298,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1645021645021645,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.3069306930693069,
+    "offensePassAttempts": 393,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.3106267029972752,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 96,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19426048565121412,
+    "offensePassAttempts": 326,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.183585313174946,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1945080091533181,
+    "offensePassAttempts": 406,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19953051643192488,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2348,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.12643678160919541,
+    "offensePassAttempts": 320,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21138211382113822,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 97,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20286396181384247,
+    "offensePassAttempts": 365,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22432432432432434,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 99,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.25477707006369427,
+    "offensePassAttempts": 336,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19160104986876642,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 276,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19832402234636873,
+    "offensePassAttempts": 404,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19294117647058823,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 120,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2634146341463415,
+    "offensePassAttempts": 392,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24860335195530725,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 235,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18406593406593408,
+    "offensePassAttempts": 405,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2613981762917933,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2390,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.26618705035971224,
+    "offensePassAttempts": 416,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21287128712871287,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 193,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21262458471760798,
+    "offensePassAttempts": 534,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2009132420091324,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 130,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24883720930232558,
+    "offensePassAttempts": 329,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23569794050343248,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 127,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1638888888888889,
+    "offensePassAttempts": 423,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2934472934472934,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2393,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2831858407079646,
+    "offensePassAttempts": 436,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.26849894291754756,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 135,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22505307855626328,
+    "offensePassAttempts": 385,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21447721179624665,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 344,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21951219512195122,
+    "offensePassAttempts": 266,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2058252427184466,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 142,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2097560975609756,
+    "offensePassAttempts": 467,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25061425061425063,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2426,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22084367245657568,
+    "offensePassAttempts": 110,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1419098143236074,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 152,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21179624664879357,
+    "offensePassAttempts": 421,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24396782841823056,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 158,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1932367149758454,
+    "offensePassAttempts": 364,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19532908704883228,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2440,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2619718309859155,
+    "offensePassAttempts": 293,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14909090909090908,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 167,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20518358531317496,
+    "offensePassAttempts": 470,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22330097087378642,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 166,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17647058823529413,
+    "offensePassAttempts": 269,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21777777777777776,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 153,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.27877237851662406,
+    "offensePassAttempts": 368,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1945080091533181,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2459,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2507042253521127,
+    "offensePassAttempts": 274,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21271929824561403,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 249,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2131979695431472,
+    "offensePassAttempts": 413,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2463768115942029,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 77,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22564102564102564,
+    "offensePassAttempts": 531,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1925601750547046,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 87,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23544303797468355,
+    "offensePassAttempts": 447,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1978021978021978,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 195,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.210989010989011,
+    "offensePassAttempts": 402,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2441860465116279,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 194,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23641304347826086,
+    "offensePassAttempts": 316,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20952380952380953,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 201,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2890625,
+    "offensePassAttempts": 519,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22494432071269488,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 197,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21447721179624665,
+    "offensePassAttempts": 336,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19961612284069097,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 145,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.25586854460093894,
+    "offensePassAttempts": 377,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22746781115879827,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2483,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1905829596412556,
+    "offensePassAttempts": 338,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23092369477911648,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 204,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21468926553672316,
+    "offensePassAttempts": 478,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22538860103626943,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 213,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.25271739130434784,
+    "offensePassAttempts": 397,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17592592592592593,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 221,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1989100817438692,
+    "offensePassAttempts": 338,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2072892938496583,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2509,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21800947867298578,
+    "offensePassAttempts": 449,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22662889518413598,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 242,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2028301886792453,
+    "offensePassAttempts": 452,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2650273224043716,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 164,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.3229166666666667,
+    "offensePassAttempts": 327,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24519230769230768,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 21,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19799498746867167,
+    "offensePassAttempts": 448,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25461254612546125,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 23,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18181818181818182,
+    "offensePassAttempts": 403,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.33480176211453744,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2567,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18101545253863136,
+    "offensePassAttempts": 472,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2445141065830721,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2579,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19863013698630136,
+    "offensePassAttempts": 440,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2010443864229765,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2572,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20884520884520885,
+    "offensePassAttempts": 391,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19426048565121412,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 58,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2621359223300971,
+    "offensePassAttempts": 297,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21252796420581654,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 24,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19220055710306408,
+    "offensePassAttempts": 313,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18502202643171806,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 183,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.26704545454545453,
+    "offensePassAttempts": 354,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20105820105820105,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2628,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2219178082191781,
+    "offensePassAttempts": 326,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13296903460837886,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 218,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2042042042042042,
+    "offensePassAttempts": 280,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23414634146341465,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2633,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2119047619047619,
+    "offensePassAttempts": 401,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1832579185520362,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 251,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.29238329238329236,
+    "offensePassAttempts": 540,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21052631578947367,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 245,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1976190476190476,
+    "offensePassAttempts": 509,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18052738336713997,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2641,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18352941176470589,
+    "offensePassAttempts": 669,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1717557251908397,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2649,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21467391304347827,
+    "offensePassAttempts": 444,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18662952646239556,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2653,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.27296587926509186,
+    "offensePassAttempts": 529,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2379746835443038,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2655,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1431818181818182,
+    "offensePassAttempts": 373,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24079320113314448,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 202,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18527315914489312,
+    "offensePassAttempts": 389,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19951923076923078,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 5,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2364217252396166,
+    "offensePassAttempts": 291,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1907514450867052,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2116,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.27049180327868855,
+    "offensePassAttempts": 379,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22535211267605634,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 26,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2627906976744186,
+    "offensePassAttempts": 436,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24607329842931938,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 41,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20544554455445543,
+    "offensePassAttempts": 375,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18125,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2433,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22507122507122507,
+    "offensePassAttempts": 329,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2222222222222222,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2439,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17370892018779344,
+    "offensePassAttempts": 417,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21690140845070421,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 30,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2457002457002457,
+    "offensePassAttempts": 379,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1700507614213198,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 254,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23218390804597702,
+    "offensePassAttempts": 405,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21348314606741572,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 328,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16748768472906403,
+    "offensePassAttempts": 376,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24876847290640394,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2638,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1853932584269663,
+    "offensePassAttempts": 422,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18478260869565216,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 238,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15,
+    "offensePassAttempts": 352,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21428571428571427,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 258,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14660831509846828,
+    "offensePassAttempts": 363,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2396694214876033,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 259,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21377672209026127,
+    "offensePassAttempts": 249,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20315581854043394,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 154,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16326530612244897,
+    "offensePassAttempts": 417,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.26735218508997427,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 264,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2336182336182336,
+    "offensePassAttempts": 397,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20916905444126074,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 265,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16541353383458646,
+    "offensePassAttempts": 372,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25357142857142856,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 98,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14947368421052631,
+    "offensePassAttempts": 313,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2654639175257732,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2711,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21204819277108433,
+    "offensePassAttempts": 528,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19607843137254902,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 277,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1875,
+    "offensePassAttempts": 347,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22807017543859648,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 275,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2655367231638418,
+    "offensePassAttempts": 340,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1739961759082218,
+    "season": 2009
+  },
+  {
+    "cfbdTeamId": 2751,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21321961620469082,
+    "offensePassAttempts": 410,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2085201793721973,
+    "season": 2009
+  }
+]

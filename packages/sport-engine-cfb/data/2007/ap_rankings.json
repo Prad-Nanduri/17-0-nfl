@@ -1,0 +1,3377 @@
+[
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 43,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 164,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 22,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 20,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 45,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 41,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 22,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 41,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 40,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 65,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 59,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 41,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 154,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 57,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 164,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2509,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 32,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 164,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 33,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 46,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 164,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 19,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 40,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 164,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 25,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 59,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 164,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 62,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 164,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 41,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 50,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 11,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2007,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 60,
+    "isFinal": true,
+    "points": 0,
+    "rank": 1,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 3,
+    "isFinal": true,
+    "points": 0,
+    "rank": 2,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 1,
+    "isFinal": true,
+    "points": 0,
+    "rank": 3,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 4,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 5,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 6,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 1,
+    "isFinal": true,
+    "points": 0,
+    "rank": 7,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 8,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 9,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 10,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 12,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 13,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 14,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 15,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 16,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 17,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 18,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 19,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 20,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 21,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 22,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 23,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 24,
+    "season": 2007,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 25,
+    "season": 2007,
+    "week": 99
+  }
+]

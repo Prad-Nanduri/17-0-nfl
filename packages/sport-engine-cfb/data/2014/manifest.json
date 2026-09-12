@@ -1,0 +1,33 @@
+{
+  "cfbdApiVersion": null,
+  "generatedAt": "2026-09-12T22:17:04.723Z",
+  "rowCounts": {
+    "apRankings": 425,
+    "cfpRankings": 200,
+    "conferences": 195,
+    "games": 1586,
+    "players": 15057,
+    "players.skippedUnknownPosition": 1242,
+    "playerSeasonStats": 15056,
+    "playerSeasonStats.skippedUnknownTeam": 0,
+    "programSeasons": 129,
+    "recruits": 3772,
+    "teamLineStats": 128,
+    "teams": 129
+  },
+  "season": 2014,
+  "sources": [
+    "/teams?year=2014",
+    "/teams/fbs?year=2014..2016",
+    "/conferences",
+    "/roster?year=2014",
+    "/stats/player/season?year=2014",
+    "/stats/season?year=2014",
+    "/stats/season/advanced?year=2014",
+    "/rankings?year=2014&seasonType=regular|postseason",
+    "/recruiting/players?year=2014",
+    "/recruiting/teams?year=2014",
+    "/rushing/teams/season?year=2014",
+    "/games?year=2014&seasonType=regular|postseason"
+  ]
+}

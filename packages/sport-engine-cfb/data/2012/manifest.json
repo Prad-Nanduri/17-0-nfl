@@ -1,0 +1,33 @@
+{
+  "cfbdApiVersion": null,
+  "generatedAt": "2026-09-12T22:15:47.423Z",
+  "rowCounts": {
+    "apRankings": 401,
+    "cfpRankings": 0,
+    "conferences": 195,
+    "games": 1379,
+    "players": 13325,
+    "players.skippedUnknownPosition": 1795,
+    "playerSeasonStats": 13324,
+    "playerSeasonStats.skippedUnknownTeam": 0,
+    "programSeasons": 128,
+    "recruits": 3086,
+    "teamLineStats": 124,
+    "teams": 128
+  },
+  "season": 2012,
+  "sources": [
+    "/teams?year=2012",
+    "/teams/fbs?year=2012..2014",
+    "/conferences",
+    "/roster?year=2012",
+    "/stats/player/season?year=2012",
+    "/stats/season?year=2012",
+    "/stats/season/advanced?year=2012",
+    "/rankings?year=2012&seasonType=regular|postseason",
+    "/recruiting/players?year=2012",
+    "/recruiting/teams?year=2012",
+    "/rushing/teams/season?year=2012",
+    "/games?year=2012&seasonType=regular|postseason"
+  ]
+}

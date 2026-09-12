@@ -1,0 +1,1282 @@
+[
+  {
+    "cfbdTeamId": 2005,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23555555555555555,
+    "offensePassAttempts": 170,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14619164619164618,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2006,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23848238482384823,
+    "offensePassAttempts": 370,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24356435643564356,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 333,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2481012658227848,
+    "offensePassAttempts": 446,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17355371900826447,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2026,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2017353579175705,
+    "offensePassAttempts": 297,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19899665551839466,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 12,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1735241502683363,
+    "offensePassAttempts": 466,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18473895582329317,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 9,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24390243902439024,
+    "offensePassAttempts": 534,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18886679920477137,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 8,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2204724409448819,
+    "offensePassAttempts": 374,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17131474103585656,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2032,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24881516587677724,
+    "offensePassAttempts": 365,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22203098106712565,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 349,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18439716312056736,
+    "offensePassAttempts": 108,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1877076411960133,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1669902912621359,
+    "offensePassAttempts": 306,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14878892733564014,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2050,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.178714859437751,
+    "offensePassAttempts": 459,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17906976744186046,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 239,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23238095238095238,
+    "offensePassAttempts": 389,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1301859799713877,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 68,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2773722627737226,
+    "offensePassAttempts": 526,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20075757575757575,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 103,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.31025641025641026,
+    "offensePassAttempts": 249,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2650103519668737,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 189,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20441988950276244,
+    "offensePassAttempts": 594,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16532258064516128,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2084,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18961625282167044,
+    "offensePassAttempts": 455,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20212765957446807,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 252,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.25684210526315787,
+    "offensePassAttempts": 504,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2073490813648294,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 25,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15985130111524162,
+    "offensePassAttempts": 550,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1855421686746988,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2117,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2334152334152334,
+    "offensePassAttempts": 495,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2640449438202247,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2429,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23517382413087934,
+    "offensePassAttempts": 375,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19848771266540643,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2132,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1532258064516129,
+    "offensePassAttempts": 547,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16938775510204082,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 228,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.29012345679012347,
+    "offensePassAttempts": 528,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16366366366366367,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 38,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14945054945054945,
+    "offensePassAttempts": 465,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16666666666666666,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 36,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23295454545454544,
+    "offensePassAttempts": 392,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18234165067178504,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 150,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19180633147113593,
+    "offensePassAttempts": 509,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1377952755905512,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 151,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1417004048582996,
+    "offensePassAttempts": 473,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2604166666666667,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2199,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14535901926444833,
+    "offensePassAttempts": 409,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24129353233830847,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 57,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2281449893390192,
+    "offensePassAttempts": 405,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1888412017167382,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2226,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1518987341772152,
+    "offensePassAttempts": 392,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18816067653276955,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2229,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19953596287703015,
+    "offensePassAttempts": 440,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21194029850746268,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 52,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17787418655097614,
+    "offensePassAttempts": 419,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24050632911392406,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 278,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15456238361266295,
+    "offensePassAttempts": 403,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25879396984924624,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 61,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20556745182012848,
+    "offensePassAttempts": 327,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1962025316455696,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 290,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19612590799031476,
+    "offensePassAttempts": 137,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18688981868898186,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2247,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19318181818181818,
+    "offensePassAttempts": 496,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2283464566929134,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 59,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20048899755501223,
+    "offensePassAttempts": 192,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19646017699115045,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 62,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1779935275080906,
+    "offensePassAttempts": 422,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1790633608815427,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 248,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24107142857142858,
+    "offensePassAttempts": 432,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16981132075471697,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 70,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1827956989247312,
+    "offensePassAttempts": 472,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1566579634464752,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 356,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23672566371681417,
+    "offensePassAttempts": 519,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1978319783197832,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 84,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20869565217391303,
+    "offensePassAttempts": 461,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1952054794520548,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2294,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16289592760180996,
+    "offensePassAttempts": 369,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1841620626151013,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 66,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18222222222222223,
+    "offensePassAttempts": 411,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16521739130434782,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2305,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15769944341372913,
+    "offensePassAttempts": 452,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1925925925925926,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2306,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19383259911894274,
+    "offensePassAttempts": 345,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19114688128772636,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19689119170984457,
+    "offensePassAttempts": 343,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.29708222811671087,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 96,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1485148514851485,
+    "offensePassAttempts": 397,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23308270676691728,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23160173160173161,
+    "offensePassAttempts": 386,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14928909952606634,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2348,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2589073634204275,
+    "offensePassAttempts": 479,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22276029055690072,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 97,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21076233183856502,
+    "offensePassAttempts": 409,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2345132743362832,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 99,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18591549295774648,
+    "offensePassAttempts": 278,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17755102040816326,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 276,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18164435946462715,
+    "offensePassAttempts": 471,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19703389830508475,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 120,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20366598778004075,
+    "offensePassAttempts": 387,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20476190476190476,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 113,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19305019305019305,
+    "offensePassAttempts": 495,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22404371584699453,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 235,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20309477756286268,
+    "offensePassAttempts": 465,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20255474452554745,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2390,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14225053078556263,
+    "offensePassAttempts": 449,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22113022113022113,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 193,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22580645161290322,
+    "offensePassAttempts": 374,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24504950495049505,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 130,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21921182266009853,
+    "offensePassAttempts": 415,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16560509554140126,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 127,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22673031026252982,
+    "offensePassAttempts": 440,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1844106463878327,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2393,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18614718614718614,
+    "offensePassAttempts": 501,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1724137931034483,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 135,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17330677290836655,
+    "offensePassAttempts": 427,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1596244131455399,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 344,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22554890219560877,
+    "offensePassAttempts": 500,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1934673366834171,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 142,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.26419213973799127,
+    "offensePassAttempts": 373,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25815217391304346,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2426,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1744186046511628,
+    "offensePassAttempts": 122,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.12380952380952381,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 152,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.29086538461538464,
+    "offensePassAttempts": 413,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18886679920477137,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 158,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23380281690140844,
+    "offensePassAttempts": 458,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17938144329896907,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2440,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18404907975460122,
+    "offensePassAttempts": 331,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20074349442379183,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 167,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21183206106870228,
+    "offensePassAttempts": 230,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2048,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 166,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15810276679841898,
+    "offensePassAttempts": 453,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2200488997555012,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 153,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.13719512195121952,
+    "offensePassAttempts": 409,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14398422090729784,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2459,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14067796610169492,
+    "offensePassAttempts": 404,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2012987012987013,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 249,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.146,
+    "offensePassAttempts": 407,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2289156626506024,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 77,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21016166281755197,
+    "offensePassAttempts": 352,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21777003484320556,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 87,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21141649048625794,
+    "offensePassAttempts": 385,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2017353579175705,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 195,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2243436754176611,
+    "offensePassAttempts": 403,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1644100580270793,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 194,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18625277161862527,
+    "offensePassAttempts": 325,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18050541516245489,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 201,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19611650485436893,
+    "offensePassAttempts": 439,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19776119402985073,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 197,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18832391713747645,
+    "offensePassAttempts": 517,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22093023255813954,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 295,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17034068136272545,
+    "offensePassAttempts": 433,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21390374331550802,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 145,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21961620469083157,
+    "offensePassAttempts": 489,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2202247191011236,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2483,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18599562363238512,
+    "offensePassAttempts": 375,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16351118760757316,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 204,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.13894324853228962,
+    "offensePassAttempts": 343,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20140515222482436,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 213,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2055084745762712,
+    "offensePassAttempts": 404,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2622107969151671,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 221,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20481927710843373,
+    "offensePassAttempts": 343,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17525773195876287,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2509,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22176591375770022,
+    "offensePassAttempts": 504,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15816326530612246,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 242,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2,
+    "offensePassAttempts": 373,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1752136752136752,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 164,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24065420560747663,
+    "offensePassAttempts": 337,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19333333333333333,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 21,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23883928571428573,
+    "offensePassAttempts": 252,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17727272727272728,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 23,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16498993963782696,
+    "offensePassAttempts": 391,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18787878787878787,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2567,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15254237288135594,
+    "offensePassAttempts": 366,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1934065934065934,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 6,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2,
+    "offensePassAttempts": 352,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21700223713646533,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2579,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1565040650406504,
+    "offensePassAttempts": 351,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23940149625935161,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2572,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24267782426778242,
+    "offensePassAttempts": 531,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19583333333333333,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 58,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24892703862660945,
+    "offensePassAttempts": 301,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18118466898954705,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 24,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21479713603818615,
+    "offensePassAttempts": 318,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16156462585034015,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 183,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23234624145785876,
+    "offensePassAttempts": 306,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23113207547169812,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2628,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15225563909774437,
+    "offensePassAttempts": 517,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1684981684981685,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 218,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23873873873873874,
+    "offensePassAttempts": 439,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2638888888888889,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2633,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2,
+    "offensePassAttempts": 371,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18518518518518517,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 251,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15328467153284672,
+    "offensePassAttempts": 252,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18309859154929578,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 245,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23540489642184556,
+    "offensePassAttempts": 482,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.160676532769556,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 326,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15975103734439833,
+    "offensePassAttempts": 431,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2033898305084746,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2641,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16695652173913045,
+    "offensePassAttempts": 620,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15192743764172337,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2649,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2711864406779661,
+    "offensePassAttempts": 411,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19101123595505617,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2653,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20411985018726592,
+    "offensePassAttempts": 418,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25205479452054796,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2655,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22560975609756098,
+    "offensePassAttempts": 403,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25336927223719674,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 202,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.193717277486911,
+    "offensePassAttempts": 492,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15942028985507245,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2116,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22614107883817428,
+    "offensePassAttempts": 425,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2448377581120944,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 26,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14412811387900357,
+    "offensePassAttempts": 510,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21797752808988763,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 41,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20512820512820512,
+    "offensePassAttempts": 342,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2528216704288939,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2433,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2225859247135843,
+    "offensePassAttempts": 477,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2077922077922078,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2439,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19078947368421054,
+    "offensePassAttempts": 365,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19957537154989385,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 30,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17755102040816326,
+    "offensePassAttempts": 463,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19959266802443992,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 254,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24310776942355888,
+    "offensePassAttempts": 352,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19672131147540983,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 328,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2038095238095238,
+    "offensePassAttempts": 403,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2505399568034557,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2638,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2180232558139535,
+    "offensePassAttempts": 386,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22772277227722773,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2636,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1471861471861472,
+    "offensePassAttempts": 360,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19271948608137046,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 238,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.25679012345679014,
+    "offensePassAttempts": 376,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23404255319148937,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 258,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.25252525252525254,
+    "offensePassAttempts": 413,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.229064039408867,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 259,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2484725050916497,
+    "offensePassAttempts": 394,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19884169884169883,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 154,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18284424379232506,
+    "offensePassAttempts": 417,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2335958005249344,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 264,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21244635193133046,
+    "offensePassAttempts": 396,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19642857142857142,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 265,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22633744855967078,
+    "offensePassAttempts": 738,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19230769230769232,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 98,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21428571428571427,
+    "offensePassAttempts": 554,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18421052631578946,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2711,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2512820512820513,
+    "offensePassAttempts": 404,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14692982456140352,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 277,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19238476953907815,
+    "offensePassAttempts": 429,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17796610169491525,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 275,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20161290322580644,
+    "offensePassAttempts": 419,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17755102040816326,
+    "season": 2015
+  },
+  {
+    "cfbdTeamId": 2751,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20710059171597633,
+    "offensePassAttempts": 308,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2026726057906459,
+    "season": 2015
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-09-12T22:37:50.277895+00:00",
+  "pbpIncluded": true,
+  "rowCounts": {
+    "franchiseSeasons": 32,
+    "franchises": 32,
+    "legacyPlayerCareers": 0,
+    "playerSeasonStats": 3600,
+    "players": 3086,
+    "unknownPositions": 47
+  },
+  "season": 2022
+}

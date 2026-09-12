@@ -36,7 +36,13 @@ const nextConfig = {
   experimental: {
     serverComponentsExternalPackages: ['@resvg/resvg-js'],
     outputFileTracingIncludes: {
-      '/*': ['data/**/*'],
+      // CFB data is large (~140MB minified across seasons); scope it to the
+      // routes that read it so other functions stay under the 250MB limit.
+      '/*': ['data/nfl/**/*'],
+      '/api/cfb': ['data/cfb/**/*'],
+      '/api/cfb/**': ['data/cfb/**/*'],
+      '/play/cfb': ['data/cfb/**/*'],
+      '/play/cfb/**': ['data/cfb/**/*'],
       '/api/nfl/drafts/[id]/og': [
         '../../node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-*.woff',
       ],

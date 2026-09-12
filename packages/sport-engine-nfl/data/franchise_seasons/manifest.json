@@ -1,16 +1,31 @@
 {
   "fullFeatureRange": {
-    "from": 1999,
-    "through": 2023
+    "from": 2005,
+    "through": 2025
   },
   "legacyRange": {
     "from": 1980,
-    "through": 1998
+    "through": 2004
   },
   "rowCounts": {
-    "fullFeature": 797,
-    "legacy": 532,
-    "total": 1329
+    "fullFeature": 525,
+    "legacy": 595,
+    "total": 1120
   },
-  "skippedTeamKeys": {}
+  "skippedTeamKeys": {
+    "ARI": 438,
+    "BAL": 412,
+    "CLE": 543,
+    "HOU": 372,
+    "LA": 165,
+    "LAC": 149,
+    "LV": 101,
+    "OAK": 335,
+    "PHO": 72,
+    "RAI": 125,
+    "RAM": 179,
+    "SD": 192,
+    "SDG": 260,
+    "STL": 365
+  }
 }

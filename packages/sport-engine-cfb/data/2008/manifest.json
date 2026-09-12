@@ -1,0 +1,33 @@
+{
+  "cfbdApiVersion": null,
+  "generatedAt": "2026-09-12T22:13:11.784Z",
+  "rowCounts": {
+    "apRankings": 400,
+    "cfpRankings": 0,
+    "conferences": 195,
+    "games": 1479,
+    "players": 2371,
+    "players.skippedUnknownPosition": 2535,
+    "playerSeasonStats": 2371,
+    "playerSeasonStats.skippedUnknownTeam": 0,
+    "programSeasons": 120,
+    "recruits": 2169,
+    "teamLineStats": 120,
+    "teams": 120
+  },
+  "season": 2008,
+  "sources": [
+    "/teams?year=2008",
+    "/teams/fbs?year=2008..2010",
+    "/conferences",
+    "/roster?year=2008",
+    "/stats/player/season?year=2008",
+    "/stats/season?year=2008",
+    "/stats/season/advanced?year=2008",
+    "/rankings?year=2008&seasonType=regular|postseason",
+    "/recruiting/players?year=2008",
+    "/recruiting/teams?year=2008",
+    "/rushing/teams/season?year=2008",
+    "/games?year=2008&seasonType=regular|postseason"
+  ]
+}

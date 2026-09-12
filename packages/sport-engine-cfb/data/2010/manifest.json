@@ -1,0 +1,33 @@
+{
+  "cfbdApiVersion": null,
+  "generatedAt": "2026-09-12T22:14:06.411Z",
+  "rowCounts": {
+    "apRankings": 400,
+    "cfpRankings": 0,
+    "conferences": 195,
+    "games": 1462,
+    "players": 12127,
+    "players.skippedUnknownPosition": 2303,
+    "playerSeasonStats": 12127,
+    "playerSeasonStats.skippedUnknownTeam": 0,
+    "programSeasons": 122,
+    "recruits": 2445,
+    "teamLineStats": 120,
+    "teams": 122
+  },
+  "season": 2010,
+  "sources": [
+    "/teams?year=2010",
+    "/teams/fbs?year=2010..2012",
+    "/conferences",
+    "/roster?year=2010",
+    "/stats/player/season?year=2010",
+    "/stats/season?year=2010",
+    "/stats/season/advanced?year=2010",
+    "/rankings?year=2010&seasonType=regular|postseason",
+    "/recruiting/players?year=2010",
+    "/recruiting/teams?year=2010",
+    "/rushing/teams/season?year=2010",
+    "/games?year=2010&seasonType=regular|postseason"
+  ]
+}

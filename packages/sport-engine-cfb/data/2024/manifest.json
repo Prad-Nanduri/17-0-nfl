@@ -1,0 +1,33 @@
+{
+  "cfbdApiVersion": null,
+  "generatedAt": "2026-09-12T22:23:08.898Z",
+  "rowCounts": {
+    "apRankings": 426,
+    "cfpRankings": 150,
+    "conferences": 195,
+    "games": 3801,
+    "players": 21194,
+    "players.skippedUnknownPosition": 1796,
+    "playerSeasonStats": 21188,
+    "playerSeasonStats.skippedUnknownTeam": 0,
+    "programSeasons": 138,
+    "recruits": 4236,
+    "teamLineStats": 134,
+    "teams": 138
+  },
+  "season": 2024,
+  "sources": [
+    "/teams?year=2024",
+    "/teams/fbs?year=2024..2026",
+    "/conferences",
+    "/roster?year=2024",
+    "/stats/player/season?year=2024",
+    "/stats/season?year=2024",
+    "/stats/season/advanced?year=2024",
+    "/rankings?year=2024&seasonType=regular|postseason",
+    "/recruiting/players?year=2024",
+    "/recruiting/teams?year=2024",
+    "/rushing/teams/season?year=2024",
+    "/games?year=2024&seasonType=regular|postseason"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "cfbdApiVersion": null,
+  "generatedAt": "2026-09-12T22:21:12.639Z",
+  "rowCounts": {
+    "apRankings": 400,
+    "cfpRankings": 125,
+    "conferences": 195,
+    "games": 593,
+    "players": 15931,
+    "players.skippedUnknownPosition": 619,
+    "playerSeasonStats": 15980,
+    "playerSeasonStats.skippedUnknownTeam": 0,
+    "programSeasons": 129,
+    "recruits": 4413,
+    "teamLineStats": 128,
+    "teams": 129
+  },
+  "season": 2020,
+  "sources": [
+    "/teams?year=2020",
+    "/teams/fbs?year=2020..2022",
+    "/conferences",
+    "/roster?year=2020",
+    "/stats/player/season?year=2020",
+    "/stats/season?year=2020",
+    "/stats/season/advanced?year=2020",
+    "/rankings?year=2020&seasonType=regular|postseason",
+    "/recruiting/players?year=2020",
+    "/recruiting/teams?year=2020",
+    "/rushing/teams/season?year=2020",
+    "/games?year=2020&seasonType=regular|postseason"
+  ]
+}

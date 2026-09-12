@@ -1,0 +1,3386 @@
+[
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 57,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 8,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 135,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 58,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 7,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 59,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 6,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 135,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2509,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 59,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 6,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2509,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 57,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 8,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 10,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 50,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 14,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 56,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 9,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2638,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 57,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 8,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 57,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 8,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 10,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2509,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 56,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 8,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2509,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2509,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 13,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 65,
+    "isFinal": true,
+    "points": 0,
+    "rank": 1,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 2,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 3,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 4,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 5,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 6,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 7,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 8,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 9,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 10,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 11,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 12,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 14,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 15,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 16,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 17,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 18,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 19,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 20,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 21,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 22,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 23,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 24,
+    "season": 2005,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 25,
+    "season": 2005,
+    "week": 99
+  }
+]

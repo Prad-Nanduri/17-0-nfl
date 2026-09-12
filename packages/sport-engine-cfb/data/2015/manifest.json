@@ -1,0 +1,33 @@
+{
+  "cfbdApiVersion": null,
+  "generatedAt": "2026-09-12T22:17:42.055Z",
+  "rowCounts": {
+    "apRankings": 400,
+    "cfpRankings": 150,
+    "conferences": 195,
+    "games": 1538,
+    "players": 15399,
+    "players.skippedUnknownPosition": 1141,
+    "playerSeasonStats": 15364,
+    "playerSeasonStats.skippedUnknownTeam": 0,
+    "programSeasons": 129,
+    "recruits": 3516,
+    "teamLineStats": 128,
+    "teams": 129
+  },
+  "season": 2015,
+  "sources": [
+    "/teams?year=2015",
+    "/teams/fbs?year=2015..2017",
+    "/conferences",
+    "/roster?year=2015",
+    "/stats/player/season?year=2015",
+    "/stats/season?year=2015",
+    "/stats/season/advanced?year=2015",
+    "/rankings?year=2015&seasonType=regular|postseason",
+    "/recruiting/players?year=2015",
+    "/recruiting/teams?year=2015",
+    "/rushing/teams/season?year=2015",
+    "/games?year=2015&seasonType=regular|postseason"
+  ]
+}

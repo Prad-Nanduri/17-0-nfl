@@ -10,5 +10,4 @@ packages/sport-engine-nfl/etl/.staging/
 packages/sport-engine-cfb/etl/.staging/
 __pycache__/
 .vercel
-.env*
 apps/web/data/

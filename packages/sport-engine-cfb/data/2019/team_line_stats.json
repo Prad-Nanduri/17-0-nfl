@@ -1,0 +1,1302 @@
+[
+  {
+    "cfbdTeamId": 2005,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 32,
+    "defenseStuffRate": 0.16101694915254236,
+    "offensePassAttempts": 126,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1276595744680851,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2006,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 12,
+    "defenseStuffRate": 0.16696588868940754,
+    "offensePassAttempts": 398,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.26838235294117646,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 333,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 37,
+    "defenseStuffRate": 0.1590909090909091,
+    "offensePassAttempts": 406,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19194312796208532,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2026,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 46,
+    "defenseStuffRate": 0.2097130242825607,
+    "offensePassAttempts": 369,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17271157167530224,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 12,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.17233560090702948,
+    "offensePassAttempts": 422,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.166270783847981,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 9,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 33,
+    "defenseStuffRate": 0.17333333333333334,
+    "offensePassAttempts": 383,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21016166281755197,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 8,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.21443736730360935,
+    "offensePassAttempts": 407,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18994413407821228,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2032,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 31,
+    "defenseStuffRate": 0.16791044776119404,
+    "offensePassAttempts": 469,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2091346153846154,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 349,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.16930022573363432,
+    "offensePassAttempts": 126,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.10245901639344263,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 35,
+    "defenseStuffRate": 0.23459715639810427,
+    "offensePassAttempts": 396,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15037593984962405,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2050,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.19745222929936307,
+    "offensePassAttempts": 373,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16829745596868884,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 239,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 62,
+    "defenseStuffRate": 0.22310756972111553,
+    "offensePassAttempts": 444,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21627408993576017,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 68,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 53,
+    "defenseStuffRate": 0.21394230769230768,
+    "offensePassAttempts": 464,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15757575757575756,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 103,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 22,
+    "defenseStuffRate": 0.244140625,
+    "offensePassAttempts": 305,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1694915254237288,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 189,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 35,
+    "defenseStuffRate": 0.1903765690376569,
+    "offensePassAttempts": 336,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2053388090349076,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2084,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 57,
+    "defenseStuffRate": 0.18863049095607234,
+    "offensePassAttempts": 278,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16615384615384615,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 252,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 19,
+    "defenseStuffRate": 0.176,
+    "offensePassAttempts": 468,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17090069284064666,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 25,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 42,
+    "defenseStuffRate": 0.16083916083916083,
+    "offensePassAttempts": 365,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2119815668202765,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2117,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 38,
+    "defenseStuffRate": 0.2832618025751073,
+    "offensePassAttempts": 473,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15445544554455445,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2429,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 50,
+    "defenseStuffRate": 0.16527196652719664,
+    "offensePassAttempts": 321,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18700787401574803,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2132,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 43,
+    "defenseStuffRate": 0.2151394422310757,
+    "offensePassAttempts": 377,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1732418524871355,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 228,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 72,
+    "defenseStuffRate": 0.23517382413087934,
+    "offensePassAttempts": 509,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1425959780621572,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 324,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.18899521531100477,
+    "offensePassAttempts": 334,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1623246492985972,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 38,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.15167095115681234,
+    "offensePassAttempts": 411,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17266187050359713,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 36,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 34,
+    "defenseStuffRate": 0.1791044776119403,
+    "offensePassAttempts": 445,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22340425531914893,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 150,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 35,
+    "defenseStuffRate": 0.20770877944325483,
+    "offensePassAttempts": 378,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1762208067940552,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 151,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 32,
+    "defenseStuffRate": 0.19957537154989385,
+    "offensePassAttempts": 451,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24537037037037038,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2199,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 31,
+    "defenseStuffRate": 0.12092130518234165,
+    "offensePassAttempts": 465,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22693266832917705,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 57,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 63,
+    "defenseStuffRate": 0.22580645161290322,
+    "offensePassAttempts": 467,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21715817694369974,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2226,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 47,
+    "defenseStuffRate": 0.23404255319148937,
+    "offensePassAttempts": 502,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22960151802656548,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2229,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 22,
+    "defenseStuffRate": 0.18864097363083165,
+    "offensePassAttempts": 389,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1869747899159664,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 52,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 41,
+    "defenseStuffRate": 0.17588932806324112,
+    "offensePassAttempts": 432,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22758620689655173,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 278,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.18604651162790697,
+    "offensePassAttempts": 372,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18882978723404256,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 61,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 37,
+    "defenseStuffRate": 0.22702702702702704,
+    "offensePassAttempts": 415,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18518518518518517,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 290,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.2291220556745182,
+    "offensePassAttempts": 155,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19753086419753085,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2247,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 29,
+    "defenseStuffRate": 0.14945054945054945,
+    "offensePassAttempts": 385,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16888045540796964,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 59,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.15458015267175573,
+    "offensePassAttempts": 269,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22588235294117648,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 62,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.14204545454545456,
+    "offensePassAttempts": 635,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20654911838790932,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 248,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.25699745547073793,
+    "offensePassAttempts": 314,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19908466819221968,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 356,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 36,
+    "defenseStuffRate": 0.2286212914485166,
+    "offensePassAttempts": 364,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2026726057906459,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 84,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 38,
+    "defenseStuffRate": 0.2,
+    "offensePassAttempts": 473,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20361990950226244,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2294,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 41,
+    "defenseStuffRate": 0.17480719794344474,
+    "offensePassAttempts": 411,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20465116279069767,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 66,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 41,
+    "defenseStuffRate": 0.21939953810623555,
+    "offensePassAttempts": 484,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22646310432569974,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2305,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.17636022514071295,
+    "offensePassAttempts": 389,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24722222222222223,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2306,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.16831683168316833,
+    "offensePassAttempts": 302,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.224609375,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.15307820299500832,
+    "offensePassAttempts": 355,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2172211350293542,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 96,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 41,
+    "defenseStuffRate": 0.20048309178743962,
+    "offensePassAttempts": 257,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16308243727598568,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2335,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 45,
+    "defenseStuffRate": 0.1898238747553816,
+    "offensePassAttempts": 452,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.170316301703163,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 44,
+    "defenseStuffRate": 0.12810707456978968,
+    "offensePassAttempts": 412,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.12629757785467127,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2348,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 34,
+    "defenseStuffRate": 0.2047930283224401,
+    "offensePassAttempts": 458,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17817371937639198,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 97,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 38,
+    "defenseStuffRate": 0.158004158004158,
+    "offensePassAttempts": 302,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2509433962264151,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 99,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 41,
+    "defenseStuffRate": 0.21252796420581654,
+    "offensePassAttempts": 567,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1837160751565762,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 276,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 47,
+    "defenseStuffRate": 0.1603563474387528,
+    "offensePassAttempts": 355,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1607843137254902,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 120,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 34,
+    "defenseStuffRate": 0.19832985386221294,
+    "offensePassAttempts": 342,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2358974358974359,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 113,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 13,
+    "defenseStuffRate": 0.10740740740740741,
+    "offensePassAttempts": 392,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23950617283950618,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 235,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 42,
+    "defenseStuffRate": 0.20727272727272728,
+    "offensePassAttempts": 441,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21102661596958175,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2390,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 55,
+    "defenseStuffRate": 0.2611764705882353,
+    "offensePassAttempts": 437,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22437673130193905,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 193,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 49,
+    "defenseStuffRate": 0.1937269372693727,
+    "offensePassAttempts": 337,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24055666003976142,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 130,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 49,
+    "defenseStuffRate": 0.1956989247311828,
+    "offensePassAttempts": 410,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1723404255319149,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 127,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 49,
+    "defenseStuffRate": 0.23821339950372208,
+    "offensePassAttempts": 464,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2345132743362832,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2393,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 15,
+    "defenseStuffRate": 0.19264069264069264,
+    "offensePassAttempts": 365,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21079691516709512,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 135,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 38,
+    "defenseStuffRate": 0.1654320987654321,
+    "offensePassAttempts": 323,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18738404452690166,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 344,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 30,
+    "defenseStuffRate": 0.2073732718894009,
+    "offensePassAttempts": 315,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14770459081836326,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 142,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.22332506203473945,
+    "offensePassAttempts": 376,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2017738359201774,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2426,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 45,
+    "defenseStuffRate": 0.2113022113022113,
+    "offensePassAttempts": 104,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16821192052980133,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 152,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 42,
+    "defenseStuffRate": 0.20145631067961164,
+    "offensePassAttempts": 463,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22277227722772278,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 158,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 35,
+    "defenseStuffRate": 0.18385650224215247,
+    "offensePassAttempts": 323,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20423892100192678,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2440,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 30,
+    "defenseStuffRate": 0.21296296296296297,
+    "offensePassAttempts": 499,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20631067961165048,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 167,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 31,
+    "defenseStuffRate": 0.19444444444444445,
+    "offensePassAttempts": 331,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18106995884773663,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 166,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 19,
+    "defenseStuffRate": 0.1593625498007968,
+    "offensePassAttempts": 446,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19273743016759776,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 153,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 38,
+    "defenseStuffRate": 0.21541950113378686,
+    "offensePassAttempts": 431,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20816326530612245,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2459,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 21,
+    "defenseStuffRate": 0.24228028503562946,
+    "offensePassAttempts": 370,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21788990825688073,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 249,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 44,
+    "defenseStuffRate": 0.16593886462882096,
+    "offensePassAttempts": 454,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22849462365591397,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 77,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 30,
+    "defenseStuffRate": 0.236144578313253,
+    "offensePassAttempts": 311,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1980392156862745,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 87,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 47,
+    "defenseStuffRate": 0.21855670103092784,
+    "offensePassAttempts": 416,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21397379912663755,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 195,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 26,
+    "defenseStuffRate": 0.17687074829931973,
+    "offensePassAttempts": 335,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15187376725838264,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 194,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 66,
+    "defenseStuffRate": 0.26651480637813213,
+    "offensePassAttempts": 406,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1547049441786284,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 201,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 43,
+    "defenseStuffRate": 0.26730310262529833,
+    "offensePassAttempts": 381,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17962962962962964,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 197,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 28,
+    "defenseStuffRate": 0.22123893805309736,
+    "offensePassAttempts": 362,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18518518518518517,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 295,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.28794642857142855,
+    "offensePassAttempts": 379,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24867724867724866,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 145,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 52,
+    "defenseStuffRate": 0.16243654822335024,
+    "offensePassAttempts": 331,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20555555555555555,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2483,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 57,
+    "defenseStuffRate": 0.19813519813519814,
+    "offensePassAttempts": 446,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15082644628099173,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 204,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 50,
+    "defenseStuffRate": 0.1927437641723356,
+    "offensePassAttempts": 420,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18556701030927836,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 213,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 63,
+    "defenseStuffRate": 0.2505643340857788,
+    "offensePassAttempts": 369,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15020576131687244,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 221,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 60,
+    "defenseStuffRate": 0.20470588235294118,
+    "offensePassAttempts": 513,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20574162679425836,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2509,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 34,
+    "defenseStuffRate": 0.19271948608137046,
+    "offensePassAttempts": 520,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2358490566037736,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 242,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.2263681592039801,
+    "offensePassAttempts": 320,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2079207920792079,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 164,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.15913978494623657,
+    "offensePassAttempts": 278,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20137299771167047,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 21,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 41,
+    "defenseStuffRate": 0.2674772036474164,
+    "offensePassAttempts": 397,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24758220502901354,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 23,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 29,
+    "defenseStuffRate": 0.148014440433213,
+    "offensePassAttempts": 497,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2567,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 71,
+    "defenseStuffRate": 0.18816067653276955,
+    "offensePassAttempts": 503,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19038461538461537,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 6,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.19721115537848605,
+    "offensePassAttempts": 282,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20166320166320167,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2579,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 35,
+    "defenseStuffRate": 0.17370892018779344,
+    "offensePassAttempts": 466,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18449197860962566,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2572,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 55,
+    "defenseStuffRate": 0.19095477386934673,
+    "offensePassAttempts": 438,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2391304347826087,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 58,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 30,
+    "defenseStuffRate": 0.2122905027932961,
+    "offensePassAttempts": 328,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17326732673267325,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 24,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 39,
+    "defenseStuffRate": 0.2125984251968504,
+    "offensePassAttempts": 442,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16352201257861634,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 183,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 32,
+    "defenseStuffRate": 0.19098712446351931,
+    "offensePassAttempts": 408,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18666666666666668,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2628,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 33,
+    "defenseStuffRate": 0.2365038560411311,
+    "offensePassAttempts": 394,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.158004158004158,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 218,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 48,
+    "defenseStuffRate": 0.20396039603960395,
+    "offensePassAttempts": 472,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19736842105263158,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2633,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 45,
+    "defenseStuffRate": 0.16775599128540306,
+    "offensePassAttempts": 360,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2164009111617312,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 251,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.20924574209245742,
+    "offensePassAttempts": 470,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1493212669683258,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 245,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 36,
+    "defenseStuffRate": 0.258974358974359,
+    "offensePassAttempts": 452,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 326,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 16,
+    "defenseStuffRate": 0.1483739837398374,
+    "offensePassAttempts": 441,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2701612903225806,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2641,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 35,
+    "defenseStuffRate": 0.19419642857142858,
+    "offensePassAttempts": 531,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17346938775510204,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2649,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 20,
+    "defenseStuffRate": 0.18683651804670912,
+    "offensePassAttempts": 339,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16024340770791076,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2653,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 45,
+    "defenseStuffRate": 0.18689320388349515,
+    "offensePassAttempts": 491,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16230366492146597,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2655,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 23,
+    "defenseStuffRate": 0.18984547461368653,
+    "offensePassAttempts": 336,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16552901023890784,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 202,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 17,
+    "defenseStuffRate": 0.20496894409937888,
+    "offensePassAttempts": 444,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21199143468950749,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 5,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 56,
+    "defenseStuffRate": 0.26651480637813213,
+    "offensePassAttempts": 338,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21641791044776118,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2116,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 38,
+    "defenseStuffRate": 0.251953125,
+    "offensePassAttempts": 457,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20973782771535582,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 26,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 32,
+    "defenseStuffRate": 0.2236503856041131,
+    "offensePassAttempts": 426,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20950323974082075,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 41,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 27,
+    "defenseStuffRate": 0.14058956916099774,
+    "offensePassAttempts": 382,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22670025188916876,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2433,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 24,
+    "defenseStuffRate": 0.17578125,
+    "offensePassAttempts": 411,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1610738255033557,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2439,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 18,
+    "defenseStuffRate": 0.20286396181384247,
+    "offensePassAttempts": 388,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16786570743405277,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 30,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 38,
+    "defenseStuffRate": 0.1651376146788991,
+    "offensePassAttempts": 514,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1956521739130435,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 254,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 40,
+    "defenseStuffRate": 0.2492753623188406,
+    "offensePassAttempts": 321,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19858156028368795,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 328,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 30,
+    "defenseStuffRate": 0.17003367003367004,
+    "offensePassAttempts": 504,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19772727272727272,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2638,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 12,
+    "defenseStuffRate": 0.15602836879432624,
+    "offensePassAttempts": 330,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20398009950248755,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2636,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 33,
+    "defenseStuffRate": 0.23488372093023255,
+    "offensePassAttempts": 366,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1976470588235294,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 238,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 25,
+    "defenseStuffRate": 0.1894273127753304,
+    "offensePassAttempts": 381,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23582089552238805,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 258,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 60,
+    "defenseStuffRate": 0.2234513274336283,
+    "offensePassAttempts": 520,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19012345679012346,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 259,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 46,
+    "defenseStuffRate": 0.23095238095238096,
+    "offensePassAttempts": 317,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19516728624535315,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 154,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 36,
+    "defenseStuffRate": 0.23949579831932774,
+    "offensePassAttempts": 469,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18838028169014084,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 264,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 34,
+    "defenseStuffRate": 0.17955112219451372,
+    "offensePassAttempts": 411,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19318181818181818,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 265,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 36,
+    "defenseStuffRate": 0.1517094017094017,
+    "offensePassAttempts": 710,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1989795918367347,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 98,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 29,
+    "defenseStuffRate": 0.19821826280623608,
+    "offensePassAttempts": 469,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20722891566265061,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2711,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 54,
+    "defenseStuffRate": 0.2012847965738758,
+    "offensePassAttempts": 413,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1971252566735113,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 277,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 40,
+    "defenseStuffRate": 0.2025586353944563,
+    "offensePassAttempts": 454,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.277602523659306,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 275,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 78,
+    "defenseStuffRate": 0.23796791443850268,
+    "offensePassAttempts": 351,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1541038525963149,
+    "season": 2019
+  },
+  {
+    "cfbdTeamId": 2751,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": 44,
+    "defenseStuffRate": 0.22444444444444445,
+    "offensePassAttempts": 256,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16455696202531644,
+    "season": 2019
+  }
+]
