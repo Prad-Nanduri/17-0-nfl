@@ -1,10 +1,10 @@
-import type { PositionGroup } from '@perfect-season/sport-engine-core';
 import {
   buildConferenceDimension,
   conferenceKey,
   cfbConfidenceTier,
   resolveMembershipStatus,
 } from '../src/index';
+import { cfbPositionGroup } from '../src/positions';
 import type {
   CfbConference,
   CfbGame,
@@ -23,40 +23,7 @@ import type { CfbdGame, CfbdPollRank, CfbdPollWeek, CfbdRawSeason } from './cfbd
 const CFP_FIRST_SEASON = 2014;
 const FINAL_POLL_WEEK = 99;
 
-const POSITION_TO_GROUP = new Map<string, PositionGroup>(
-  Object.entries({
-    QB: 'QB',
-    RB: 'RB',
-    FB: 'RB',
-    WR: 'WR',
-    TE: 'TE',
-    OL: 'OL',
-    OT: 'OL',
-    OG: 'OL',
-    C: 'OL',
-    DL: 'DL',
-    DE: 'DL',
-    DT: 'DL',
-    NT: 'DL',
-    LB: 'LB',
-    ILB: 'LB',
-    OLB: 'LB',
-    EDGE: 'LB',
-    CB: 'CB',
-    S: 'S',
-    FS: 'S',
-    SS: 'S',
-    DB: 'S',
-    K: 'K',
-    PK: 'K',
-    P: 'P',
-  }),
-);
-
-export function cfbPositionGroup(position: string | null | undefined): PositionGroup | null {
-  if (position === null || position === undefined) return null;
-  return POSITION_TO_GROUP.get(position.trim().toUpperCase()) ?? null;
-}
+export { cfbPositionGroup };
 
 export interface CfbSeasonOutput {
   readonly conferences: CfbConference[];
