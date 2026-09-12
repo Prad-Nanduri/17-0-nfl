@@ -22,6 +22,10 @@ export function SportSelector({ className = '' }: { className?: string }) {
 
   async function select(next: SportId) {
     if (next === sport || busy) return;
+    if (sportLocked && lockedTo !== next) {
+      notify({ title: 'Sport locked', description: SPORT_LOCK_MESSAGE, tone: 'error' });
+      return;
+    }
     setBusy(true);
     try {
       await chooseSport(next);
@@ -53,7 +57,8 @@ export function SportSelector({ className = '' }: { className?: string }) {
         {SPORT_IDS.map((id) => {
           const option = SPORTS[id];
           const selected = sport === id;
-          const disabled = !loaded || busy || (sportLocked && lockedTo !== id);
+          const disabled = !loaded || busy;
+          const locked = sportLocked && lockedTo !== id;
           return (
             <button
               key={id}
@@ -62,10 +67,15 @@ export function SportSelector({ className = '' }: { className?: string }) {
               aria-checked={selected}
               aria-label={option.available ? option.longLabel : `${option.longLabel} (coming soon)`}
               disabled={disabled}
+              aria-disabled={locked || undefined}
               onClick={() => void select(id)}
               data-sport={id}
-              className={`inline-flex min-h-9 items-center gap-1.5 rounded-badge px-3 text-caption font-bold uppercase tracking-wide transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-action disabled:cursor-not-allowed ${
-                selected ? 'bg-sport text-on-action' : 'text-muted hover:text-ink'
+              className={`inline-flex min-h-9 items-center gap-1.5 rounded-badge px-3 text-caption font-bold uppercase tracking-wide transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-action disabled:cursor-not-allowed aria-disabled:cursor-not-allowed ${
+                selected
+                  ? 'bg-sport text-on-action'
+                  : locked
+                    ? 'text-muted'
+                    : 'text-muted hover:text-ink'
               }`}
             >
               {option.label}
