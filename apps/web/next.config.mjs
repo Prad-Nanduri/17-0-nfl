@@ -24,6 +24,9 @@ const nextConfig = {
     serverComponentsExternalPackages: ['@resvg/resvg-js'],
     outputFileTracingIncludes: {
       '/*': ['../../packages/sport-engine-nfl/data/**/*'],
+      '/api/nfl/drafts/[id]/og': [
+        '../../node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-*.woff',
+      ],
     },
   },
 };
