@@ -9,3 +9,6 @@ coverage
 packages/sport-engine-nfl/etl/.staging/
 __pycache__/
 packages/sport-engine-cfb/etl/.staging/
+
+.vercel
+.env*
