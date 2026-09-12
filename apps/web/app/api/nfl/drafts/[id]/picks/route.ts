@@ -4,6 +4,7 @@ import { toClientDraft } from '../../../../../../lib/server/draft-client';
 import type { StoredPick } from '../../../../../../lib/server/draft-store';
 import { getDraftStore } from '../../../../../../lib/server/draft-store';
 import { getNflData, getNflEngine } from '../../../../../../lib/server/nfl-engine';
+import { draftBelongsTo } from '../../../../../../lib/server/session';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -15,8 +16,10 @@ function errorResponse(message: string, status: 400 | 404 | 409) {
 export async function POST(request: Request, context: { params: { id: string } }) {
   const store = getDraftStore();
   const current = store.get(context.params.id);
-  if (current === undefined) return errorResponse('Draft not found', 404);
-  if (current.status === 'complete') return errorResponse('Draft is complete', 409);
+  if (current === undefined || !draftBelongsTo(current, request)) {
+    return errorResponse('Draft not found', 404);
+  }
+  if (current.status !== 'in_progress') return errorResponse('Draft is not in progress', 409);
   if (current.pendingSpin === null) return errorResponse('There is no pending spin', 409);
   let body: unknown;
   try {

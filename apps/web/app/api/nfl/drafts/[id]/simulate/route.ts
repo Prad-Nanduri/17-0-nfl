@@ -3,6 +3,7 @@ import { toClientDraft } from '../../../../../../lib/server/draft-client';
 import { getDraftStore } from '../../../../../../lib/server/draft-store';
 import { getNflData, getNflEngine } from '../../../../../../lib/server/nfl-engine';
 import { simulateDraft } from '../../../../../../lib/server/simulate';
+import { draftBelongsTo } from '../../../../../../lib/server/session';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -14,7 +15,9 @@ function errorResponse(message: string, status: 400 | 404 | 409) {
 export async function POST(request: Request, context: { params: { id: string } }) {
   const store = getDraftStore();
   const current = store.get(context.params.id);
-  if (current === undefined) return errorResponse('Draft not found', 404);
+  if (current === undefined || !draftBelongsTo(current, request)) {
+    return errorResponse('Draft not found', 404);
+  }
   if (current.status !== 'complete') return errorResponse('Draft is not complete', 409);
   if (current.result !== null) return errorResponse('Season already simulated', 409);
 

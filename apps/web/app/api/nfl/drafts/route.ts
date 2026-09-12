@@ -10,6 +10,7 @@ import { toClientDraft } from '../../../../lib/server/draft-client';
 import type { DraftState } from '../../../../lib/server/draft-store';
 import { getDraftStore } from '../../../../lib/server/draft-store';
 import { getNflData, getNflEngine } from '../../../../lib/server/nfl-engine';
+import { readGuestToken } from '../../../../lib/server/session';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -60,6 +61,7 @@ export async function POST(request: Request) {
     ratingMode: input.ratingMode,
     schemeId: input.schemeId,
     status: 'in_progress',
+    guestToken: readGuestToken(request),
     spinCount: 0,
     rerollsRemaining: ruleset.difficultyRules[input.difficulty].rerolls,
     pendingSpin: null,

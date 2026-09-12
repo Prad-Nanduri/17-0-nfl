@@ -1,0 +1,38 @@
+import { NextResponse } from 'next/server';
+import { isAuthConfigured, isPlausibleEmail, supabaseMagicLink } from '../../../../lib/server/auth';
+import { readGuestToken } from '../../../../lib/server/session';
+
+export const runtime = 'nodejs';
+export const dynamic = 'force-dynamic';
+
+export async function POST(request: Request) {
+  if (!isAuthConfigured()) {
+    return NextResponse.json(
+      { error: 'Accounts are not enabled on this deployment yet. Guest play still works.' },
+      { status: 503 },
+    );
+  }
+  if (readGuestToken(request) === null) {
+    return NextResponse.json({ error: 'Start a guest session first' }, { status: 400 });
+  }
+  let body: unknown;
+  try {
+    body = await request.json();
+  } catch {
+    return NextResponse.json({ error: 'Request body must be valid JSON' }, { status: 400 });
+  }
+  const { email } = (body ?? {}) as { email?: unknown };
+  if (!isPlausibleEmail(email)) {
+    return NextResponse.json({ error: 'Enter a valid email address' }, { status: 400 });
+  }
+  const redirectTo = new URL('/api/auth/callback', request.url).toString();
+  try {
+    await supabaseMagicLink().send(email.trim().toLowerCase(), redirectTo);
+  } catch (error) {
+    return NextResponse.json(
+      { error: error instanceof Error ? error.message : 'Could not send the link' },
+      { status: 502 },
+    );
+  }
+  return NextResponse.json({ sent: true });
+}
