@@ -7,14 +7,21 @@ import { Card } from '../ui/card';
 import { Button } from '../ui/button';
 import { useToast } from '../ui/toast';
 import type { CSSProperties } from 'react';
-import type { StoredResult } from '../../lib/server/draft-store';
+import type { CfbLabeledResult } from '../../lib/cfb-game-labels';
+import { cfbOpponentStrength } from '../../lib/cfb-game-labels';
 import type { ClientDraft } from './types';
 
 function recordLabel(record: { wins: number; losses: number; ties: number }) {
   return `${record.wins}-${record.losses}-${record.ties}`;
 }
 
-export function CfbSeasonResults({ draft, result }: { draft: ClientDraft; result: StoredResult }) {
+export function CfbSeasonResults({
+  draft,
+  result,
+}: {
+  draft: ClientDraft;
+  result: CfbLabeledResult;
+}) {
   const notify = useToast();
   const imageUrl = `/api/cfb/drafts/${draft.id}/og`;
   const undefeated =
@@ -126,7 +133,14 @@ export function CfbSeasonResults({ draft, result }: { draft: ClientDraft; result
                   key={`${game.opponentId}-${index}`}
                   className="grid grid-cols-[1fr_auto_auto] items-center gap-3 rounded-control border border-line px-3 py-2 text-caption"
                 >
-                  <span className="truncate">{game.opponentId}</span>
+                  <span className="min-w-0">
+                    <span className="block truncate">{game.opponentName}</span>
+                    {cfbOpponentStrength(game) !== null ? (
+                      <span className="text-micro text-muted">
+                        opp. strength {cfbOpponentStrength(game)}
+                      </span>
+                    ) : null}
+                  </span>
                   <span>
                     {game.pointsFor}-{game.pointsAgainst}
                   </span>

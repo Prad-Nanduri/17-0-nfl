@@ -98,7 +98,8 @@ function buildCfbCandidates(unit: CfbDraftPoolUnit, data: CfbFixtureData): Playe
     const teamLevelProxy = CFB_TEAM_LEVEL_PROXY_POSITIONS.has(position);
     return {
       playerId: `cfb-proxy-${unit.programId}-${unit.season}-${position}-${index}`,
-      fullName: teamLevelProxy ? `${school} ${position}` : `${school} ${position} (placeholder)`,
+      // Placeholder status lives on the badge, not the name (names truncate).
+      fullName: `${school} ${position}`,
       primaryPosition: position,
       poolUnit: unit,
       seasons: [{ poolUnit: unit, position, confidenceTier: 'legacy' as const, stats: {} }],

@@ -36,7 +36,7 @@ describe('CFB draft adapter', () => {
     );
     expect(rb?.traits.synthetic).toBe(true);
     expect(rb?.traits.badges).toContain('Placeholder (no player data)');
-    expect(rb?.fullName).toContain('(placeholder)');
+    expect(rb?.fullName).not.toContain('(placeholder)');
   });
 
   it('re-spins without exclusions once the fbs spin pool is exhausted', async () => {

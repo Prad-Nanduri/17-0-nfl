@@ -78,14 +78,41 @@ export async function GET(_request: Request, context: { params: { id: string } }
           width: '100%',
         }}
       />
-      <div style={{ color: theme.primary, display: 'flex', fontSize: 24, letterSpacing: 4 }}>
+      <div
+        style={{
+          borderBottom: `3px solid ${theme.primary}`,
+          color: '#e8ede8',
+          display: 'flex',
+          fontSize: 24,
+          letterSpacing: 4,
+          paddingBottom: 8,
+        }}
+      >
         PERFECT SEASON · CFB CORE DRAFT
       </div>
       <div style={{ display: 'flex', fontSize: 144, fontWeight: 700, marginTop: 24 }}>{record}</div>
       <div style={{ color: '#9caba1', display: 'flex', fontSize: 28 }}>
         Points {season.pointsFor}–{season.pointsAgainst}
       </div>
-      <div style={{ color: theme.primary, display: 'flex', fontSize: 32, marginTop: 32 }}>
+      <div
+        style={{
+          alignItems: 'center',
+          color: '#e8ede8',
+          display: 'flex',
+          fontSize: 32,
+          gap: 14,
+          marginTop: 32,
+        }}
+      >
+        <div
+          style={{
+            background: theme.primary,
+            borderRadius: 999,
+            display: 'flex',
+            height: 16,
+            width: 16,
+          }}
+        />
         MVP · {mvp.fullName}
       </div>
       <div style={{ display: 'flex', gap: 12, marginTop: 30 }}>

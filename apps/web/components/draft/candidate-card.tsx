@@ -1,5 +1,6 @@
 'use client';
 
+import { useState } from 'react';
 import { LockKey } from '@phosphor-icons/react';
 import { useDraggable } from '@dnd-kit/core';
 import { CSS } from '@dnd-kit/utilities';
@@ -19,6 +20,10 @@ export function CandidateCard({
   onSelect: () => void;
 }) {
   const draggable = useDraggable({ id: candidate.playerId, data: { candidate } });
+  // Fixture/demo assets (e.g. example.com logo URLs) can fail to load — fall
+  // back to initials instead of a broken image icon.
+  const [headshotFailed, setHeadshotFailed] = useState(false);
+  const [logoFailed, setLogoFailed] = useState(false);
   const style = draggable.transform
     ? { transform: CSS.Translate.toString(draggable.transform) }
     : undefined;
@@ -35,7 +40,7 @@ export function CandidateCard({
       }`}
       aria-label={`${candidate.fullName}, ${candidate.primaryPosition}`}
     >
-      {candidate.headshotUrl ? (
+      {candidate.headshotUrl && !headshotFailed ? (
         <Image
           src={candidate.headshotUrl}
           alt=""
@@ -43,6 +48,7 @@ export function CandidateCard({
           height={40}
           loading="lazy"
           unoptimized
+          onError={() => setHeadshotFailed(true)}
           className="h-10 w-10 rounded-full object-cover"
         />
       ) : (
@@ -53,13 +59,14 @@ export function CandidateCard({
       <span className="min-w-0 flex-1">
         <span className="block truncate text-small font-bold">{candidate.fullName}</span>
         <span className="flex items-center gap-1.5 text-caption text-muted">
-          {franchise?.logoUrl ? (
+          {franchise?.logoUrl && !logoFailed ? (
             <Image
               src={franchise.logoUrl}
               alt={franchise.name}
               width={16}
               height={16}
               unoptimized
+              onError={() => setLogoFailed(true)}
               className="h-4 w-4 object-contain"
             />
           ) : null}
