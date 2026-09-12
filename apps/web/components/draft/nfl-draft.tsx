@@ -2,6 +2,17 @@
 
 import { useState } from 'react';
 import { ArrowLeft } from '@phosphor-icons/react';
+import {
+  DndContext,
+  DragOverlay,
+  KeyboardSensor,
+  PointerSensor,
+  TouchSensor,
+  useSensor,
+  useSensors,
+  type DragEndEvent,
+  type DragStartEvent,
+} from '@dnd-kit/core';
 import Link from 'next/link';
 import { useToast } from '../ui/toast';
 import { Button } from '../ui/button';
@@ -25,6 +36,12 @@ export function NflDraft() {
   const [spin, setSpin] = useState<DraftSpin | null>(null);
   const [loading, setLoading] = useState(false);
   const [selectedCandidateId, setSelectedCandidateId] = useState<string | null>(null);
+  const [draggingId, setDraggingId] = useState<string | null>(null);
+  const sensors = useSensors(
+    useSensor(PointerSensor, { activationConstraint: { distance: 6 } }),
+    useSensor(TouchSensor, { activationConstraint: { delay: 120, tolerance: 8 } }),
+    useSensor(KeyboardSensor),
+  );
 
   if (draft === null) {
     return (
@@ -84,6 +101,18 @@ export function NflDraft() {
     }
   }
 
+  function handleDragStart(event: DragStartEvent) {
+    const candidateId = String(event.active.id);
+    setDraggingId(candidateId);
+    setSelectedCandidateId(candidateId);
+  }
+
+  function handleDragEnd(event: DragEndEvent) {
+    setDraggingId(null);
+    if (event.over) void placeCandidate(String(event.active.id), String(event.over.id));
+  }
+
+  const draggingCandidate = spin?.candidates.find((candidate) => candidate.playerId === draggingId);
   const complete = activeDraft.status === 'complete';
   return (
     <main id="main" className="page-container overflow-x-hidden pb-section pt-7" data-sport="nfl">
@@ -124,49 +153,64 @@ export function NflDraft() {
             </div>
           </Card>
         ) : null}
-        <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.05fr)] lg:items-start">
-          <div className="grid gap-5">
-            <SpinWheel
-              draftId={activeDraft.id}
-              spin={spin}
-              rerollsRemaining={activeDraft.rerollsRemaining}
-              loading={loading}
-              onSpin={requestSpin}
-              onError={(message) =>
-                notify({ title: 'Spin unavailable', description: message, tone: 'error' })
-              }
+        <DndContext
+          sensors={sensors}
+          onDragStart={handleDragStart}
+          onDragEnd={handleDragEnd}
+          onDragCancel={() => setDraggingId(null)}
+        >
+          <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.05fr)] lg:items-start">
+            <div className="grid gap-5">
+              <SpinWheel
+                draftId={activeDraft.id}
+                spin={spin}
+                rerollsRemaining={activeDraft.rerollsRemaining}
+                loading={loading}
+                onSpin={requestSpin}
+                onError={(message) =>
+                  notify({ title: 'Spin unavailable', description: message, tone: 'error' })
+                }
+              />
+              {spin ? (
+                <section aria-labelledby="candidates-heading">
+                  <div className="flex items-baseline justify-between gap-3">
+                    <h2 id="candidates-heading" className="text-small font-bold">
+                      Choose your player
+                    </h2>
+                    <p className="text-caption text-muted">
+                      Tap a player, then tap a highlighted slot.
+                    </p>
+                  </div>
+                  <div className="mt-3 flex gap-2 overflow-x-auto pb-2 lg:grid lg:grid-cols-2">
+                    {spin.candidates.map((candidate) => (
+                      <CandidateCard
+                        key={candidate.playerId}
+                        candidate={candidate}
+                        selected={candidate.playerId === selectedCandidateId}
+                        onSelect={() => setSelectedCandidateId(candidate.playerId)}
+                      />
+                    ))}
+                  </div>
+                </section>
+              ) : null}
+            </div>
+            <DraftBoard
+              draft={activeDraft}
+              candidates={spin?.candidates ?? []}
+              targetSlotCode={spin?.targetSlotCode ?? null}
+              selectedCandidateId={selectedCandidateId}
+              draggingId={draggingId}
+              onPlace={placeCandidate}
             />
-            {spin ? (
-              <section aria-labelledby="candidates-heading">
-                <div className="flex items-baseline justify-between gap-3">
-                  <h2 id="candidates-heading" className="text-small font-bold">
-                    Choose your player
-                  </h2>
-                  <p className="text-caption text-muted">
-                    Tap a player, then tap a highlighted slot.
-                  </p>
-                </div>
-                <div className="mt-3 flex gap-2 overflow-x-auto pb-2 lg:grid lg:grid-cols-2">
-                  {spin.candidates.map((candidate) => (
-                    <CandidateCard
-                      key={candidate.playerId}
-                      candidate={candidate}
-                      selected={candidate.playerId === selectedCandidateId}
-                      onSelect={() => setSelectedCandidateId(candidate.playerId)}
-                    />
-                  ))}
-                </div>
-              </section>
-            ) : null}
           </div>
-          <DraftBoard
-            draft={activeDraft}
-            candidates={spin?.candidates ?? []}
-            targetSlotCode={spin?.targetSlotCode ?? null}
-            selectedCandidateId={selectedCandidateId}
-            onPlace={placeCandidate}
-          />
-        </div>
+          <DragOverlay>
+            {draggingCandidate ? (
+              <div className="rotate-2 opacity-90">
+                <CandidateCard candidate={draggingCandidate} selected onSelect={() => undefined} />
+              </div>
+            ) : null}
+          </DragOverlay>
+        </DndContext>
       </div>
     </main>
   );
