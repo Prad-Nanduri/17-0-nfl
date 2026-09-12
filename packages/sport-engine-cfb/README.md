@@ -91,6 +91,31 @@ npm.cmd run etl:load -w @perfect-season/sport-engine-cfb -- --season 2023   # ne
 `/rushing/teams/season`, and `/games` (regular+postseason), then writes one JSON
 file per output table plus `manifest.json` under `data/<season>/`.
 
+## SportEngine (§0.1, §2A)
+
+`CfbSportEngine` is the second full `SportEngine` implementation —
+`displayName` "College Football (FBS)", 24 roster slots, registered alongside
+`NflSportEngine` via `apps/web/lib/server/sport-engines.ts`
+(`createSportEngineRegistry({ nfl, cfb })`). All platform dispatch goes through
+the registry's `get(sportId)`.
+
+- **Schemes**: `CFB_SCHEME_PRESETS` reuses the NFL slot shapes; the Nickel
+  preset is renamed "Spread Defense" in UI copy only (§2A.6).
+- **Modes** (§2A.7): `core` (Quick Season default — chase "Undefeated &
+  Untied"), `one_program` (Prime enabled), `blue_blood_bracket` (elite pool,
+  bracketed Full Campaign), `ranked_only`, `daily_challenge`,
+  `conference_trophy`, `mp_live_draft`, `mp_leagues` (Full Campaign only,
+  bracket-weighted league scoring), `mp_last_one_standing`.
+- **Simulation** (§2A.4): 12-game regular season; Full Campaign adds a
+  conference-championship gate (≥10 wins), then a CFP bracket (seed-dependent
+  3–4 rounds) or a bowl game. CFB overtime has no cap and no ties.
+- **Ratings**: `computeRating` looks up ETL ratings; unrated OL/DL candidates
+  fall back to overall 40 with `isTeamLevelProxy: true`, and
+  `getRatingBadges()` surfaces the `team_level_rating` badge for the UI's
+  "Team-Level Rating" disclosure (§2A.6).
+- `describeSpinUnit` returns the spin-card title "School (Conference · Season)"
+  plus the realignment/defunct-conference footnote (§2A.2).
+
 ## Known gaps
 
 - **No CFBD awards endpoint**: `all_conference`/`all_american` are always
