@@ -289,6 +289,8 @@ ol_proxy_rating(player, team_season) =
 ```
 This is disclosed on the player card with a small "Team-Level Rating" badge so users understand an OL pick's rating reflects the team's line performance more than an isolated individual stat, which is an honest data-availability limitation rather than a hidden approximation.
 
+**Observed consequence — flat OL/DL ratings per program are expected, not a data bug.** The CFBD free endpoints ingested by the ETL (§4.1) carry no All-American/All-Conference selections and no games-started counts, so the 0.35 and 0.25 terms are null for every lineman and the proxy collapses to the team-level term alone. Every OL on a given program therefore shares one rating (and every DL another), e.g. all 2023 Maryland OL = 55, all 2023 Miami DL = 63, while skill positions on the same roster vary 40–99. In the draft this shows up in late spins, when only line slots remain and the candidate pool is a single flat number. Do not mistake this for the ETL-fixture fallback (which shows as very few programs and synthetic player names) or for the pre-#24 "flat 70 across all positions" stat-category bug. Ratings carry `isTeamLevelProxy: true` for these rows.
+
 #### 2A.7 CFB modes
 
 | Mode | Summary |
