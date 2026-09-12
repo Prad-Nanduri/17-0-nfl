@@ -1,60 +1,35 @@
-import type { OpponentContext, SimulationMode } from '@perfect-season/sport-engine-core';
-import { createSeed } from '@perfect-season/sport-engine-core/utils';
-import type { NflFixtureData, NflSportEngine } from '@perfect-season/sport-engine-nfl';
-import { completedRoster } from './draft-client';
+import type { SimulationMode } from '@perfect-season/sport-engine-core';
 import type { DraftState, StoredResult } from './draft-store';
+import { completedRoster } from './draft-client';
+import { getSportAdapter } from './sport-adapter';
 
 export const NFL_SIMULATION_MODEL_VERSION = 'nfl-sim-v1';
 export const NFL_SIMULATION_DATA_VERSION = '2023-fixtures';
 
-export function nflOpponentContext(): OpponentContext {
-  return {
-    season: 2023,
-    modelVersion: NFL_SIMULATION_MODEL_VERSION,
-    dataVersion: NFL_SIMULATION_DATA_VERSION,
-    opponents: [],
-    facts: {},
-  };
-}
-
 export function pickMvp(
   state: DraftState,
-  scheme: ReturnType<NflSportEngine['getSchemePresets']>[number],
+  scheme: Parameters<ReturnType<typeof getSportAdapter>['pickMvp']>[1],
 ): StoredResult['mvp'] {
-  const picks = scheme.slots
-    .map((slot) => state.picks[slot.code])
-    .filter((pick): pick is NonNullable<typeof pick> => pick !== undefined);
-  const mvp = picks.reduce(
-    (best, pick) => (best === null || pick.rating.overall > best.rating.overall ? pick : best),
-    null as (typeof picks)[number] | null,
-  );
-  if (mvp === null) throw new Error('Cannot choose an MVP without completed picks');
-  return {
-    slotCode: mvp.slotCode,
-    playerId: mvp.playerId,
-    fullName: mvp.fullName,
-    primaryPosition: mvp.primaryPosition,
-    headshotUrl: mvp.headshotUrl,
-    rating: mvp.rating.overall,
-    unit: mvp.unit,
-  };
+  return getSportAdapter(state.sportId).pickMvp(state, scheme);
 }
 
 export async function simulateDraft(
   state: DraftState,
-  engine: NflSportEngine,
-  data: NflFixtureData,
   opts: { readonly fullGauntlet: boolean; readonly seed: string | null },
 ): Promise<StoredResult> {
-  const roster = completedRoster(state, engine, data);
-  const seed = opts.seed ?? createSeed('nfl-sim', state.id);
+  const adapter = getSportAdapter(state.sportId);
+  const engine = adapter.engine();
+  const roster = completedRoster(state);
+  const unit = [...state.usedUnits].at(-1) ?? null;
+  const input = state.sportId === 'nfl' ? { fullGauntlet: opts.fullGauntlet } : {};
+  const options = adapter.simulationOptions(input);
   const mode: SimulationMode = {
     modeId: 'core',
     difficulty: state.difficulty,
-    seed,
-    options: { fullGauntlet: opts.fullGauntlet },
+    seed: opts.seed ?? adapter.simSeed(state.id),
+    options,
   };
-  const season = await engine.simulateSeason(roster, mode, nflOpponentContext());
+  const season = await engine.simulateSeason(roster, mode, adapter.opponentContext(unit));
   const evaluatedAt = new Date().toISOString();
   const trophies = engine.evaluateTrophies(season, {
     userId: null,
@@ -65,11 +40,12 @@ export async function simulateDraft(
     facts: {},
   });
   const scheme = engine.getSchemePresets().find((item) => item.id === state.schemeId);
-  if (scheme === undefined) throw new Error(`Unknown NFL scheme: ${state.schemeId}`);
+  if (scheme === undefined)
+    throw new Error(`Unknown ${state.sportId.toUpperCase()} scheme: ${state.schemeId}`);
   return {
     season,
     trophies,
-    mvp: pickMvp(state, scheme),
+    mvp: adapter.pickMvp(state, scheme),
     fullGauntlet: opts.fullGauntlet,
     simulatedAt: evaluatedAt,
   };

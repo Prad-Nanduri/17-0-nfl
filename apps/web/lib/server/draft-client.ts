@@ -1,8 +1,8 @@
-import type { CompletedRoster, PositionRating } from '@perfect-season/sport-engine-core';
+import type { CompletedRoster, PositionRating, SportId } from '@perfect-season/sport-engine-core';
 import { aggregateRosterRating } from '@perfect-season/simulation';
-import type { NflSportEngine } from '@perfect-season/sport-engine-nfl';
-import type { NflFixtureData } from '@perfect-season/sport-engine-nfl';
-import { buildCandidates } from './candidates';
+import { resolveProgramTheme } from '../cfb-theme';
+import { getCfbData } from './sport-engines';
+import { getSportAdapter } from './sport-adapter';
 import type { DraftState, StoredPick, StoredResult } from './draft-store';
 
 export interface ClientPick extends Omit<StoredPick, 'rating'> {
@@ -11,7 +11,7 @@ export interface ClientPick extends Omit<StoredPick, 'rating'> {
 
 export interface ClientDraft {
   readonly id: string;
-  readonly sportId: 'nfl';
+  readonly sportId: SportId;
   readonly modeId: 'core';
   readonly draftOrder: DraftState['draftOrder'];
   readonly difficulty: DraftState['difficulty'];
@@ -24,56 +24,41 @@ export interface ClientDraft {
   readonly usedUnits: DraftState['usedUnits'];
   readonly aggregateRating: number | null;
   readonly result: StoredResult | null;
-}
-
-export function completedRoster(
-  state: DraftState,
-  engine: NflSportEngine,
-  data: NflFixtureData,
-): CompletedRoster {
-  const scheme = engine.getSchemePresets().find((item) => item.id === state.schemeId);
-  if (scheme === undefined) throw new Error(`Unknown NFL scheme: ${state.schemeId}`);
-  const picks = scheme.slots.map((slot) => {
-    const stored = state.picks[slot.code];
-    if (stored === undefined) throw new Error(`Missing completed pick for ${slot.code}`);
-    const candidate = buildCandidates(stored.unit, data).find(
-      (item) => item.playerId === stored.playerId,
-    );
-    if (candidate === undefined) throw new Error(`Missing candidate for ${stored.playerId}`);
-    return {
-      slot,
-      candidate,
-      rating: stored.rating,
-      spinSeed: stored.spinSeed,
-    };
-  });
-  return {
-    draftId: state.id,
-    sportId: 'nfl',
-    schemeId: state.schemeId,
-    ratingMode: state.ratingMode,
-    picks: picks as unknown as CompletedRoster['picks'],
+  readonly theme?: {
+    readonly primary: string;
+    readonly secondary: string;
+    readonly source: 'cfbd' | 'static' | 'fallback';
   };
 }
 
-export function toClientDraft(
-  state: DraftState,
-  engine: NflSportEngine,
-  data: NflFixtureData,
-): ClientDraft {
+function majorityUnit(state: DraftState) {
+  const counts = new Map<string, { unit: DraftState['usedUnits'][number]; count: number }>();
+  for (const pick of Object.values(state.picks)) {
+    const key = JSON.stringify(pick.unit);
+    const entry = counts.get(key) ?? { unit: pick.unit, count: 0 };
+    entry.count += 1;
+    counts.set(key, entry);
+  }
+  return [...counts.values()].sort((a, b) => b.count - a.count)[0]?.unit;
+}
+
+export function completedRoster(state: DraftState): CompletedRoster {
+  return getSportAdapter(state.sportId).buildCompletedRoster(state);
+}
+
+export function toClientDraft(state: DraftState): ClientDraft {
+  const adapter = getSportAdapter(state.sportId);
   const complete = state.status === 'complete';
   const aggregateRating = complete
-    ? aggregateRosterRating(completedRoster(state, engine, data))
+    ? aggregateRosterRating(adapter.buildCompletedRoster(state))
     : null;
   const picks = Object.fromEntries(
     Object.entries(state.picks).map(([slotCode, pick]) => [
       slotCode,
-      {
-        ...pick,
-        rating: state.difficulty === 'hard' && !complete ? null : pick.rating,
-      },
+      adapter.toClientPick(pick, state.difficulty === 'hard' && !complete),
     ]),
   );
+  const unit = majorityUnit(state);
   return {
     id: state.id,
     sportId: state.sportId,
@@ -89,5 +74,19 @@ export function toClientDraft(
     usedUnits: state.usedUnits,
     aggregateRating,
     result: state.result,
+    ...(state.sportId === 'cfb' && unit?.sportId === 'cfb'
+      ? (() => {
+          const team = getCfbData().teams.find(
+            (entry) => entry.cfbdTeamId === Number(unit.programId),
+          );
+          return {
+            theme: resolveProgramTheme({
+              color: team?.color ?? null,
+              alternateColor: team?.alternateColor ?? null,
+              abbreviation: team?.abbreviation ?? '',
+            }),
+          };
+        })()
+      : {}),
   };
 }

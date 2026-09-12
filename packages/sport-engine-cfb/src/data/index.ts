@@ -2,6 +2,9 @@ import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import type { CfbConference, CfbPlayer, CfbProgramSeason, CfbRating, CfbTeam } from '../domain';
+import { loadFixtureRawSeason } from '../../etl/fixtures';
+import { transformSeason } from '../../etl/transform';
+import { rateSeason } from '../ratings/rate-season';
 
 export interface CfbFixtureData {
   readonly conferences: readonly CfbConference[];
@@ -33,9 +36,14 @@ export function loadCfbFixtureData(dataDirectory = defaultDataDirectory()): CfbF
         .map((entry) => resolve(dataDirectory, entry.name))
     : [];
   if (seasonDirectories.length === 0) {
-    throw new Error(
-      `No CFB season data found under ${dataDirectory}; run the CFBD ETL (see packages/sport-engine-cfb/README.md)`,
-    );
+    const fixture = transformSeason(loadFixtureRawSeason(2023), 2023);
+    return {
+      conferences: fixture.conferences,
+      teams: fixture.teams,
+      programSeasons: fixture.programSeasons,
+      players: fixture.players,
+      ratings: rateSeason(fixture.playerSeasonStats, fixture.teamLineStats),
+    };
   }
 
   const conferenceByKey = new Map<string, CfbConference>();

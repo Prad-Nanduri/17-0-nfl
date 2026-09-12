@@ -13,16 +13,14 @@ const roster = {
   ratingMode: 'career_season',
   picks: [],
 } as unknown as CompletedRoster;
-
-const ctx: TrophyEvalContext = {
+const context = (): TrophyEvalContext => ({
   userId: null,
   roster,
   priorResults: [],
   earnedTrophies: [],
   evaluatedAt: '2024-01-15T00:00:00Z',
   facts: {},
-};
-
+});
 const result = (overrides: Partial<SeasonResult>): SeasonResult => ({
   draftId: 'd1',
   sportId: 'cfb',
@@ -38,71 +36,107 @@ const result = (overrides: Partial<SeasonResult>): SeasonResult => ({
   facts: {},
   ...overrides,
 });
-
-const codes = (season: SeasonResult) =>
+const codes = (season: SeasonResult, ctx = context()) =>
   evaluateCfbTrophies(season, ctx).map((trophy) => trophy.code);
 
+function regularGames(games: SeasonResult['stages'][number]['games']): SeasonResult['stages'] {
+  return [
+    {
+      id: 'regular_season',
+      name: 'Regular Season',
+      games,
+      record: {
+        wins: games.filter((game) => game.outcome === 'win').length,
+        losses: games.length - games.filter((game) => game.outcome === 'win').length,
+        ties: 0,
+      },
+      outcome: 'completed',
+    },
+  ];
+}
+
 describe('CFB trophies (spec §2A.5, §2A.7)', () => {
-  it('defines the five result trophies', () => {
+  it('defines exactly the four Quick Season MVP trophies', () => {
     expect(getCfbTrophyDefinitions().map((definition) => definition.code)).toEqual([
-      'perfect_regular_season',
       'undefeated_untied',
-      'drafted_national_champions',
-      'bowl_bound',
-      'worst_in_show',
+      'statement_win',
+      'overtime_classic',
+      'legacy_era_lineup',
     ]);
+    expect(getCfbTrophyDefinitions()).toHaveLength(4);
   });
 
-  it('awards Undefeated & Untied only for 12-0 + conf title + national champion', () => {
-    const perfect = result({
-      record: { wins: 12, losses: 0, ties: 0 },
-      postseasonResult: 'national_champion',
-      facts: { conferenceChampion: true },
-    });
-    expect(codes(perfect)).toEqual(['perfect_regular_season', 'undefeated_untied']);
-    // Missing the conference championship does not count.
-    expect(
-      codes(
-        result({
-          record: { wins: 12, losses: 0, ties: 0 },
-          postseasonResult: 'national_champion',
-          facts: { conferenceChampion: false },
-        }),
-      ),
-    ).toEqual(['perfect_regular_season']);
-  });
-
-  it('scopes Drafted National Champions to blue_blood_bracket', () => {
-    const definition = getCfbTrophyDefinitions().find(
-      (item) => item.code === 'drafted_national_champions',
+  it('awards Undefeated & Untied only for 12-0-0', () => {
+    expect(codes(result({ record: { wins: 12, losses: 0, ties: 0 } }))).toContain(
+      'undefeated_untied',
     );
-    expect(definition?.modeExclusiveTo).toBe('blue_blood_bracket');
-    expect(
-      codes(
-        result({
-          record: { wins: 12, losses: 0, ties: 0 },
-          postseasonResult: 'national_champion',
-          facts: { conferenceChampion: true },
-        }),
-      ),
-    ).not.toContain('drafted_national_champions');
-    expect(
-      codes(
-        result({
-          modeId: 'blue_blood_bracket',
-          record: { wins: 9, losses: 3, ties: 0 },
-          postseasonResult: 'national_champion',
-        }),
-      ),
-    ).toContain('drafted_national_champions');
+    expect(codes(result({ record: { wins: 11, losses: 1, ties: 0 } }))).not.toContain(
+      'undefeated_untied',
+    );
+    expect(codes(result({ record: { wins: 12, losses: 0, ties: 1 } }))).not.toContain(
+      'undefeated_untied',
+    );
   });
 
-  it('awards Bowl Bound on a bowl win only', () => {
-    expect(codes(result({ postseasonResult: 'bowl_won' }))).toEqual(['bowl_bound']);
-    expect(codes(result({ postseasonResult: 'bowl_lost' }))).toEqual([]);
+  it('retains The Natty as a gated non-MVP trophy', () => {
+    const definitions = getCfbTrophyDefinitions();
+    expect(definitions.some((definition) => definition.code === 'the_natty')).toBe(false);
   });
 
-  it('awards Worst in Show for 0-12', () => {
-    expect(codes(result({ record: { wins: 0, losses: 12, ties: 0 } }))).toEqual(['worst_in_show']);
+  it('awards Statement Win for a sufficiently strong regular-season win', () => {
+    const strong = result({
+      stages: regularGames([
+        {
+          opponentId: 'x',
+          site: 'home',
+          pointsFor: 30,
+          pointsAgainst: 20,
+          outcome: 'win',
+          facts: { strengthRating: 99 },
+        },
+      ]),
+    });
+    const weak = result({
+      stages: regularGames([
+        {
+          opponentId: 'x',
+          site: 'home',
+          pointsFor: 30,
+          pointsAgainst: 20,
+          outcome: 'win',
+          facts: { strengthRating: 60 },
+        },
+      ]),
+    });
+    expect(codes(strong)).toContain('statement_win');
+    expect(codes(weak)).not.toContain('statement_win');
+  });
+
+  it('awards Overtime Classic for two overtime wins', () => {
+    const win = (overtimePeriods: number) => ({
+      opponentId: 'x',
+      site: 'home' as const,
+      pointsFor: 30,
+      pointsAgainst: 20,
+      outcome: 'win' as const,
+      facts: { overtimePeriods },
+    });
+    expect(codes(result({ stages: regularGames([win(1), win(2)]) }))).toContain('overtime_classic');
+    expect(codes(result({ stages: regularGames([win(1), win(0)]) }))).not.toContain(
+      'overtime_classic',
+    );
+  });
+
+  it('awards Legacy Era Lineup only when every pick predates 2005', () => {
+    const old = {
+      ...roster,
+      picks: [{ candidate: { poolUnit: { sportId: 'cfb', programId: '1', season: 2004 } } }],
+    } as unknown as CompletedRoster;
+    const modern = {
+      ...roster,
+      picks: [{ candidate: { poolUnit: { sportId: 'cfb', programId: '1', season: 2005 } } }],
+    } as unknown as CompletedRoster;
+    expect(codes(result({}), { ...context(), roster: old })).toContain('legacy_era_lineup');
+    expect(codes(result({}), { ...context(), roster: modern })).not.toContain('legacy_era_lineup');
   });
 });

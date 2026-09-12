@@ -20,6 +20,8 @@ const teams: CfbTeam[] = [
   abbreviation: school.slice(0, 3).toUpperCase(),
   mascot: null,
   logoUrl: null,
+  color: null,
+  alternateColor: null,
   isBlueBlood: school === 'Alabama',
 }));
 

@@ -6,6 +6,8 @@ import type {
   Difficulty,
   RatingMode,
   SchemeId,
+  SportId,
+  SchemePreset,
 } from '@perfect-season/sport-engine-core';
 import { Button } from '../ui/button';
 import { Card } from '../ui/card';
@@ -43,11 +45,6 @@ const ratingOptions: readonly { value: RatingMode; label: string }[] = [
   { value: 'career_season', label: 'Career-Season' },
   { value: 'prime', label: 'Prime' },
 ];
-const schemeOptions = [
-  { value: '4-3', label: 'Base 4-3' },
-  { value: '3-4', label: 'Base 3-4' },
-  { value: 'nickel', label: 'Nickel' },
-] as const;
 
 function RadioGroup<T extends string>({
   label,
@@ -96,7 +93,15 @@ function RadioGroup<T extends string>({
   );
 }
 
-export function DraftSetup({ onStarted }: { onStarted: (draft: ClientDraft) => void }) {
+export function DraftSetup({
+  sport,
+  schemeOptions,
+  onStarted,
+}: {
+  sport: SportId;
+  schemeOptions: readonly SchemePreset[];
+  onStarted: (draft: ClientDraft) => void;
+}) {
   const [draftOrder, setDraftOrder] = useState<DraftOrder>('squad_first');
   const [difficulty, setDifficulty] = useState<Difficulty>('normal');
   const [ratingMode, setRatingMode] = useState<RatingMode>('career_season');
@@ -108,7 +113,7 @@ export function DraftSetup({ onStarted }: { onStarted: (draft: ClientDraft) => v
     setLoading(true);
     setError(null);
     try {
-      const response = await fetch('/api/nfl/drafts', {
+      const response = await fetch(`/api/${sport}/drafts`, {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify({ draftOrder, difficulty, ratingMode, schemeId }),
@@ -126,10 +131,14 @@ export function DraftSetup({ onStarted }: { onStarted: (draft: ClientDraft) => v
 
   return (
     <Card elevation="raised" className="mx-auto max-w-3xl p-5 md:p-8">
-      <p className="eyebrow text-sport">NFL / Core draft</p>
+      <p className="eyebrow text-sport">
+        {sport === 'nfl' ? 'NFL / Core draft' : 'CFB / Core draft'}
+      </p>
       <h1 className="display-heading mt-3 text-heading">Set the rules.</h1>
       <p className="mt-3 max-w-copy text-small text-muted">
-        Build a 24-player roster from every available franchise season.
+        {sport === 'nfl'
+          ? 'Build a 24-player roster from every available franchise season.'
+          : 'Build a 24-player roster from every available program season.'}
       </p>
       <div className="mt-8 grid gap-7">
         <RadioGroup
@@ -163,7 +172,7 @@ export function DraftSetup({ onStarted }: { onStarted: (draft: ClientDraft) => v
           <Dropdown
             label="Scheme"
             value={schemeId}
-            options={schemeOptions}
+            options={schemeOptions.map((preset) => ({ value: preset.id, label: preset.name }))}
             onValueChange={(value) => setSchemeId(value as SchemeId)}
           />
         </div>

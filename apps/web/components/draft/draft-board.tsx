@@ -110,7 +110,14 @@ export function DraftBoard({
     { label: 'Specialists', start: scheme.slots.length - 2, end: scheme.slots.length },
   ];
   return (
-    <Card className="min-w-0 p-4 md:p-5">
+    <Card
+      className="min-w-0 border-t-2 border-[var(--program-primary)] p-4 md:p-5"
+      style={
+        draft.sportId === 'cfb'
+          ? { borderTopColor: 'var(--program-primary)', borderTopWidth: '2px' }
+          : undefined
+      }
+    >
       <div className="flex items-end justify-between gap-3">
         <div>
           <p className="eyebrow text-sport">Roster board</p>

@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { filterSpinPool } from '../src/membership';
 import { loadFixtureRawSeason } from './fixtures';
-import { transformSeason } from './transform';
+import { normalizeHexColor, transformSeason } from './transform';
 
 const raw = loadFixtureRawSeason(2023);
 
@@ -125,5 +125,16 @@ describe('transformSeason — team line stats (spec §2A.6 inputs)', () => {
       defenseStuffRate: 0.22,
       defenseOpponentPassAttempts: null,
     });
+  });
+});
+
+describe('normalizeHexColor', () => {
+  it('normalizes valid hex values and rejects the rest', () => {
+    expect(normalizeHexColor('9e1b32')).toBe('#9E1B32');
+    expect(normalizeHexColor('#ffffff')).toBe('#FFFFFF');
+    expect(normalizeHexColor('#FFF')).toBeNull();
+    expect(normalizeHexColor('not-a-hex')).toBeNull();
+    expect(normalizeHexColor(null)).toBeNull();
+    expect(normalizeHexColor(undefined)).toBeNull();
   });
 });

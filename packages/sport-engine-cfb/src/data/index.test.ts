@@ -25,6 +25,8 @@ const team = {
   abbreviation: 'STB',
   mascot: null,
   logoUrl: null,
+  color: null,
+  alternateColor: null,
   isBlueBlood: false,
 };
 const programSeason = {
@@ -86,8 +88,10 @@ describe('loadCfbFixtureData', () => {
     expect(loadCfbFixtureData(dir).ratings).toEqual([]);
   });
 
-  it('throws a clear error when no season data exists', () => {
+  it('falls back to checked-in fixtures when no season data exists', () => {
     const dir = mkdtempSync(join(tmpdir(), 'cfb-data-'));
-    expect(() => loadCfbFixtureData(dir)).toThrow(/No CFB season data found/);
+    const data = loadCfbFixtureData(dir);
+    expect(data.teams.length).toBeGreaterThan(0);
+    expect(data.programSeasons.length).toBeGreaterThan(0);
   });
 });

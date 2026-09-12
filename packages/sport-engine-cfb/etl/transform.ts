@@ -25,6 +25,12 @@ const FINAL_POLL_WEEK = 99;
 
 export { cfbPositionGroup };
 
+export function normalizeHexColor(value: string | null | undefined): string | null {
+  if (typeof value !== 'string') return null;
+  const normalized = value.startsWith('#') ? value : `#${value}`;
+  return /^#[0-9A-F]{6}$/i.test(normalized) ? normalized.toUpperCase() : null;
+}
+
 export interface CfbSeasonOutput {
   readonly conferences: CfbConference[];
   readonly teams: CfbTeam[];
@@ -246,6 +252,8 @@ export function transformSeason(raw: CfbdRawSeason, season: number): CfbSeasonOu
       abbreviation: team.abbreviation ?? team.school,
       mascot: team.mascot,
       logoUrl: team.logos?.[0] ?? null,
+      color: normalizeHexColor(team.color),
+      alternateColor: normalizeHexColor(team.alternateColor),
       isBlueBlood: false,
     });
     const membershipStatus = resolveMembershipStatus(team.school, season, fbsBySeason);

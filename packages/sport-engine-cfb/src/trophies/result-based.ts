@@ -1,5 +1,5 @@
 import type { SeasonResult, TrophyDefinition } from '@perfect-season/sport-engine-core';
-import { CFB_REGULAR_SEASON_GAMES } from '../simulation/config';
+import { CFB_SIMULATION_CONFIG, CFB_REGULAR_SEASON_GAMES } from '../simulation/config';
 import type { CfbTrophyRule } from './types';
 
 const baseDefinition = {
@@ -25,20 +25,19 @@ export const RESULT_TROPHY_RULES: readonly CfbTrophyRule[] = [
   {
     definition: {
       ...baseDefinition,
-      code: 'perfect_regular_season',
-      name: 'Perfect Regular Season',
-      description: 'Finish the regular season 12-0.',
+      code: 'undefeated_untied',
+      name: 'Undefeated & Untied',
+      description: 'Finish the 12-game regular season 12-0-0.',
     },
     evaluate: (result) => (isPerfectRegularSeason(result) ? true : null),
   },
   {
-    // §2A.5: the CFB true north — undefeated + conference title + CFP title.
     definition: {
       ...baseDefinition,
-      code: 'undefeated_untied',
-      name: 'Undefeated & Untied',
+      code: 'the_natty',
+      name: 'The Natty',
       description:
-        'Finish 12-0, win the conference championship, and win the national championship in Full Campaign mode.',
+        'Finish undefeated, win the conference championship, and win the national title.',
     },
     evaluate: (result) =>
       isPerfectRegularSeason(result) &&
@@ -50,37 +49,45 @@ export const RESULT_TROPHY_RULES: readonly CfbTrophyRule[] = [
   {
     definition: {
       ...baseDefinition,
-      code: 'drafted_national_champions',
-      name: 'Drafted National Champions',
-      description: 'Win the national championship with a Blue-Blood Bracket roster.',
-      modeExclusiveTo: 'blue_blood_bracket',
+      code: 'statement_win',
+      name: 'Statement Win',
+      description: 'Beat an opponent at least 1.75 standard deviations above the mean strength.',
     },
-    evaluate: (result) =>
-      result.modeId === 'blue_blood_bracket' && result.postseasonResult === 'national_champion'
+    evaluate: (result) => {
+      const threshold =
+        CFB_SIMULATION_CONFIG.opponentDistribution.meanRating +
+        1.75 * CFB_SIMULATION_CONFIG.opponentDistribution.sdRating;
+      return result.stages.some(
+        (stage) =>
+          stage.id === 'regular_season' &&
+          stage.games.some(
+            (game) =>
+              game.outcome === 'win' &&
+              typeof game.facts.strengthRating === 'number' &&
+              game.facts.strengthRating >= threshold,
+          ),
+      )
         ? true
-        : null,
-  },
-  {
-    definition: {
-      ...baseDefinition,
-      code: 'bowl_bound',
-      name: 'Bowl Bound',
-      description: 'Win your bowl game in Full Campaign mode.',
+        : null;
     },
-    evaluate: (result) => (result.postseasonResult === 'bowl_won' ? true : null),
   },
   {
     definition: {
       ...baseDefinition,
-      code: 'worst_in_show',
-      name: 'Worst in Show',
-      description: 'Finish the regular season 0-12.',
-      category: 'joke',
+      code: 'overtime_classic',
+      name: 'Overtime Classic',
+      description: 'Win at least two regular-season games that reached overtime.',
     },
     evaluate: (result) =>
-      result.record.wins === 0 &&
-      result.record.losses === CFB_REGULAR_SEASON_GAMES &&
-      result.record.ties === 0
+      result.stages
+        .filter((stage) => stage.id === 'regular_season')
+        .flatMap((stage) => stage.games)
+        .filter(
+          (game) =>
+            game.outcome === 'win' &&
+            typeof game.facts.overtimePeriods === 'number' &&
+            game.facts.overtimePeriods >= 1,
+        ).length >= 2
         ? true
         : null,
   },

@@ -7,7 +7,6 @@ import { createNflSportEngine } from '@perfect-season/sport-engine-nfl';
 import { createCfbSportEngine } from '@perfect-season/sport-engine-cfb';
 import type { CfbFixtureData } from '@perfect-season/sport-engine-cfb';
 import { loadCfbFixtureData } from '@perfect-season/sport-engine-cfb';
-
 interface ServerGlobal {
   __perfectSeasonNflEngine?: ReturnType<typeof createNflSportEngine>;
   __perfectSeasonCfbData?: CfbFixtureData;

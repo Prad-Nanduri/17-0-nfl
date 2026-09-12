@@ -3,7 +3,6 @@ import { notFound } from 'next/navigation';
 import { SeasonResults } from '../../../../../components/draft/season-results';
 import { toClientDraft } from '../../../../../lib/server/draft-client';
 import { getDraftStore } from '../../../../../lib/server/draft-store';
-import { getNflData, getNflEngine } from '../../../../../lib/server/nfl-engine';
 
 export const dynamic = 'force-dynamic';
 
@@ -25,6 +24,6 @@ export async function generateMetadata({ params }: ResultsPageProps): Promise<Me
 export default function ResultsPage({ params }: ResultsPageProps) {
   const state = getDraftStore().get(params.id);
   if (state?.result === null || state === undefined) notFound();
-  const draft = toClientDraft(state, getNflEngine(), getNflData());
+  const draft = toClientDraft(state);
   return <SeasonResults draft={draft} result={state.result} />;
 }

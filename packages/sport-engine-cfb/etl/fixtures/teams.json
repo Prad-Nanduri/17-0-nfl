@@ -7,7 +7,9 @@
     "conference": "Sun Belt",
     "division": null,
     "classification": "fbs",
-    "logos": ["https://example.com/stable.png"]
+    "logos": ["https://example.com/stable.png"],
+    "color": "#9E1B32",
+    "alternateColor": "#828A8F"
   },
   {
     "id": 2,
@@ -17,7 +19,9 @@
     "conference": "Sun Belt",
     "division": null,
     "classification": "fcs",
-    "logos": null
+    "logos": null,
+    "color": "#0C2340",
+    "alternateColor": "#FFFFFF"
   },
   {
     "id": 3,
@@ -27,7 +31,9 @@
     "conference": "Big East",
     "division": null,
     "classification": "fbs",
-    "logos": null
+    "logos": null,
+    "color": "#BB0000",
+    "alternateColor": "#666666"
   },
   {
     "id": 4,
@@ -37,7 +43,9 @@
     "conference": "ACC",
     "division": null,
     "classification": "fbs",
-    "logos": null
+    "logos": null,
+    "color": "#154734",
+    "alternateColor": "#FFC72C"
   },
   {
     "id": 5,
@@ -47,6 +55,8 @@
     "conference": "Sun Belt",
     "division": null,
     "classification": "fbs",
-    "logos": null
+    "logos": null,
+    "color": null,
+    "alternateColor": "#B7A57A"
   }
 ]

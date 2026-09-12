@@ -24,7 +24,7 @@ export const SPORTS: Readonly<Record<SportId, SportOption>> = {
     label: 'CFB',
     longLabel: 'College Football',
     chase: 'Chase Undefeated & Untied',
-    available: false,
+    available: true,
   },
 };
 
@@ -51,3 +51,9 @@ export function isSportLocked(draft: DraftProgress | null): boolean {
 }
 
 export const SPORT_LOCK_MESSAGE = 'Finish or abandon this draft to switch sports.';
+
+/** The sport a route belongs to, e.g. /play/cfb/results/x → 'cfb'; null off /play/*. */
+export function routeSportFromPathname(pathname: string): SportId | null {
+  const match = /^\/play\/(nfl|cfb)(\/|$)/.exec(pathname);
+  return match === null ? null : (match[1] as SportId);
+}

@@ -10,6 +10,8 @@ export interface CfbdTeam {
   readonly division: string | null;
   readonly classification: string | null;
   readonly logos?: readonly string[] | null;
+  readonly color?: string | null;
+  readonly alternateColor?: string | null;
 }
 
 export interface CfbdConference {
