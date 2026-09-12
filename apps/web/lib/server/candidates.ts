@@ -3,13 +3,25 @@ import type {
   PlayerCandidate,
   PlayerSeason,
 } from '@perfect-season/sport-engine-core';
+import type { NflFixtureData } from '@perfect-season/sport-engine-nfl';
 import { getNflData } from './nfl-engine';
 
 type NflUnit = Extract<DraftPoolUnit, { sportId: 'nfl' }>;
 
+const candidatesCache = new WeakMap<NflFixtureData, Map<string, PlayerCandidate[]>>();
+
 export function buildCandidates(unit: NflUnit, data = getNflData()): PlayerCandidate[] {
+  const key = `${unit.franchiseId}:${unit.season}`;
+  let dataCache = candidatesCache.get(data);
+  if (dataCache === undefined) {
+    dataCache = new Map();
+    candidatesCache.set(data, dataCache);
+  }
+  const cached = dataCache.get(key);
+  if (cached !== undefined) return cached;
+
   const players = new Map(data.players.map((player) => [player.gsisId, player]));
-  return data.playerSeasonStats
+  const candidates = data.playerSeasonStats
     .filter((row) => row.franchiseKey === unit.franchiseId && row.season === unit.season)
     .flatMap((row) => {
       const player = players.get(row.gsisId);
@@ -36,6 +48,8 @@ export function buildCandidates(unit: NflUnit, data = getNflData()): PlayerCandi
         },
       ];
     });
+  dataCache.set(key, candidates);
+  return candidates;
 }
 
 export function availableSeasons(data = getNflData()): {

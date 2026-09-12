@@ -123,11 +123,14 @@ export function SeasonResults({ draft, result }: SeasonResultsProps) {
           <p className="eyebrow text-sport">Season MVP</p>
           <div className="mt-4 flex min-w-0 items-center gap-4">
             {result.mvp.headshotUrl ? (
-              <img
+              <Image
                 src={result.mvp.headshotUrl}
+                width={64}
+                height={64}
+                unoptimized
+                loading="lazy"
                 alt=""
                 className="h-16 w-16 shrink-0 rounded-full object-cover"
-                loading="lazy"
               />
             ) : (
               <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-full bg-sport text-xl font-bold text-canvas">
