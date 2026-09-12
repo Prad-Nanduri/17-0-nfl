@@ -135,7 +135,7 @@ export function SeasonResults({ draft, result }: SeasonResultsProps) {
               </div>
             )}
             <div className="min-w-0 flex-1">
-              <h2 className="text-large font-bold leading-tight text-heading">
+              <h2 className="break-words text-title font-bold leading-tight text-heading sm:text-large">
                 {result.mvp.fullName}
               </h2>
               <p className="text-small text-muted">{result.mvp.primaryPosition}</p>
