@@ -14,6 +14,9 @@ export const BIOGRAPHY_TROPHY_RULES: readonly CfbTrophyRule[] = [
       tiers: [],
     } satisfies TrophyDefinition,
     evaluate: (_result, ctx) =>
-      ctx.roster.picks.every((pick) => pick.candidate.poolUnit.season < 2005) ? true : null,
+      ctx.roster.picks.length > 0 &&
+      ctx.roster.picks.every((pick) => pick.candidate.poolUnit.season < 2005)
+        ? true
+        : null,
   },
 ];
