@@ -121,24 +121,26 @@ export function SeasonResults({ draft, result }: SeasonResultsProps) {
 
         <Card className="p-5">
           <p className="eyebrow text-sport">Season MVP</p>
-          <div className="mt-4 flex items-center gap-4">
+          <div className="mt-4 flex min-w-0 items-center gap-4">
             {result.mvp.headshotUrl ? (
               <img
                 src={result.mvp.headshotUrl}
                 alt=""
-                className="h-16 w-16 rounded-full object-cover"
+                className="h-16 w-16 shrink-0 rounded-full object-cover"
                 loading="lazy"
               />
             ) : (
-              <div className="flex h-16 w-16 items-center justify-center rounded-full bg-sport text-xl font-bold text-canvas">
+              <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-full bg-sport text-xl font-bold text-canvas">
                 {mvpInitials}
               </div>
             )}
-            <div>
-              <h2 className="text-large font-bold text-heading">{result.mvp.fullName}</h2>
+            <div className="min-w-0 flex-1">
+              <h2 className="text-large font-bold leading-tight text-heading">
+                {result.mvp.fullName}
+              </h2>
               <p className="text-small text-muted">{result.mvp.primaryPosition}</p>
             </div>
-            <p className="ml-auto font-display text-scoreboard font-bold text-sport">
+            <p className="ml-auto shrink-0 font-display text-scoreboard font-bold text-sport">
               {result.mvp.rating}
             </p>
           </div>
