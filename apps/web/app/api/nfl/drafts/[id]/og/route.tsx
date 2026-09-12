@@ -1,5 +1,6 @@
 import { createRequire as importedCreateRequire } from 'node:module';
 import { readFile } from 'node:fs/promises';
+import { resolve } from 'node:path';
 import { NextResponse } from 'next/server';
 import React from 'react';
 import satori from 'satori';
@@ -16,7 +17,8 @@ const builtinModule = (
   }
 ).getBuiltinModule?.('module');
 const createRequire = builtinModule?.createRequire ?? importedCreateRequire;
-const packageRequire = createRequire(import.meta.url);
+// Anchor resolution at the app's cwd: the bundled import.meta.url points at the build machine.
+const packageRequire = createRequire(resolve(process.cwd(), 'package.json'));
 const boldFontPath = '@fontsource/barlow-condensed/files/barlow-condensed-latin-700-normal.woff';
 const bodyFontPath = '@fontsource/barlow-condensed/files/barlow-condensed-latin-600-normal.woff';
 const resolvePackage = packageRequire.resolve.bind(packageRequire);
@@ -50,7 +52,7 @@ async function getFonts(): Promise<
 }
 
 export async function GET(_request: Request, context: { params: { id: string } }) {
-  const draft = getDraftStore().get(context.params.id);
+  const draft = await getDraftStore().get(context.params.id);
   if (draft === undefined) return NextResponse.json({ error: 'Draft not found' }, { status: 404 });
   if (draft.result === null) {
     return NextResponse.json({ error: 'Season not simulated yet' }, { status: 404 });

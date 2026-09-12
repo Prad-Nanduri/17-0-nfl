@@ -23,7 +23,7 @@ export async function GET(request: Request) {
   if (!tokenHash) return accountRedirect(request, 'invalid');
   const verified = await supabaseMagicLink().verify(tokenHash);
   if (verified === null) return accountRedirect(request, 'invalid');
-  const { user } = linkGuestToAccount(
+  const { user } = await linkGuestToAccount(
     getSessionStore(),
     guestToken,
     verified.email,

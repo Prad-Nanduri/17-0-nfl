@@ -1,12 +1,11 @@
 import { dirname, join } from 'node:path';
-import { URL, fileURLToPath } from 'node:url';
+import { fileURLToPath } from 'node:url';
 
-const nflDataDirectory = fileURLToPath(
-  new URL('../../packages/sport-engine-nfl/data/', import.meta.url),
-);
-const cfbDataDirectory = fileURLToPath(
-  new URL('../../packages/sport-engine-cfb/data/', import.meta.url),
-);
+// Relative to the web app's working directory so it resolves both locally and inside the
+// traced Vercel function bundle, which keeps the same monorepo layout.
+const nflDataDirectory = '../../packages/sport-engine-nfl/data';
+const cfbDataDirectory = '../../packages/sport-engine-cfb/data';
+const outputFileTracingRoot = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -29,11 +28,19 @@ const nextConfig = {
   ],
   experimental: {
     serverComponentsExternalPackages: ['@resvg/resvg-js'],
-    // Data files live outside apps/web, so anchor tracing at the repo root —
-    // `../../` globs would escape it and silently include nothing on Vercel.
-    outputFileTracingRoot: join(dirname(fileURLToPath(import.meta.url)), '..', '..'),
+    // Data files live outside apps/web, so include them relative to the Next.js project root.
+    outputFileTracingRoot,
     outputFileTracingIncludes: {
-      '/*': ['packages/sport-engine-nfl/data/**/*', 'packages/sport-engine-cfb/data/**/*'],
+      '/*': [
+        '../../packages/sport-engine-nfl/data/**/*',
+        '../../packages/sport-engine-cfb/data/**/*',
+      ],
+      '/api/nfl/drafts/[id]/og': [
+        '../../node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-*.woff',
+      ],
+      '/api/cfb/drafts/[id]/og': [
+        '../../node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-*.woff',
+      ],
     },
   },
 };

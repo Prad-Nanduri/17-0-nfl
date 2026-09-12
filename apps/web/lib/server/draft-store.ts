@@ -9,6 +9,9 @@ import type {
   SchemeId,
   SportId,
 } from '@perfect-season/sport-engine-core';
+import { createRedisClient } from '@perfect-season/db';
+import { isRedisConfigured } from './store-backend';
+import { RedisDraftStore } from './redis-store';
 
 export type NflDraftPoolUnit = Extract<CoreDraftPoolUnit, { sportId: 'nfl' }>;
 export type CfbDraftPoolUnit = Extract<CoreDraftPoolUnit, { sportId: 'cfb' }>;
@@ -67,36 +70,36 @@ export interface DraftState {
 }
 
 interface DraftStoreGlobal {
-  __perfectSeasonDraftStore?: InMemoryDraftStore;
+  __perfectSeasonDraftStore?: DraftStore;
 }
 
 export interface DraftStore {
-  create(state: DraftState): DraftState;
-  get(id: string): DraftState | undefined;
-  update(id: string, state: DraftState): DraftState;
-  listByGuest(guestToken: string): readonly DraftState[];
+  create(state: DraftState): Promise<DraftState>;
+  get(id: string): Promise<DraftState | undefined>;
+  update(id: string, state: DraftState): Promise<DraftState>;
+  listByGuest(guestToken: string): Promise<readonly DraftState[]>;
 }
 
 export class InMemoryDraftStore implements DraftStore {
   private readonly drafts = new Map<string, DraftState>();
 
-  create(state: DraftState): DraftState {
+  async create(state: DraftState): Promise<DraftState> {
     if (this.drafts.has(state.id)) throw new Error(`Draft already exists: ${state.id}`);
     this.drafts.set(state.id, state);
     return state;
   }
 
-  get(id: string): DraftState | undefined {
+  async get(id: string): Promise<DraftState | undefined> {
     return this.drafts.get(id);
   }
 
-  update(id: string, state: DraftState): DraftState {
+  async update(id: string, state: DraftState): Promise<DraftState> {
     if (!this.drafts.has(id)) throw new Error(`Draft not found: ${id}`);
     this.drafts.set(id, state);
     return state;
   }
 
-  listByGuest(guestToken: string): readonly DraftState[] {
+  async listByGuest(guestToken: string): Promise<readonly DraftState[]> {
     return [...this.drafts.values()].filter((draft) => draft.guestToken === guestToken);
   }
 }
@@ -104,6 +107,8 @@ export class InMemoryDraftStore implements DraftStore {
 const serverGlobal = globalThis as typeof globalThis & DraftStoreGlobal;
 
 export function getDraftStore(): DraftStore {
-  serverGlobal.__perfectSeasonDraftStore ??= new InMemoryDraftStore();
+  serverGlobal.__perfectSeasonDraftStore ??= isRedisConfigured()
+    ? new RedisDraftStore(createRedisClient())
+    : new InMemoryDraftStore();
   return serverGlobal.__perfectSeasonDraftStore;
 }

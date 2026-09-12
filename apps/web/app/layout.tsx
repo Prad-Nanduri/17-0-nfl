@@ -1,4 +1,5 @@
 import './globals.css';
+import { Analytics } from '@vercel/analytics/next';
 import type { Metadata } from 'next';
 import type { ReactNode } from 'react';
 import { SessionProvider } from '../components/session/session-provider';
@@ -20,6 +21,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <UIProvider>
           <SessionProvider>{children}</SessionProvider>
         </UIProvider>
+        <Analytics />
       </body>
     </html>
   );
