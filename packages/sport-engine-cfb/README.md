@@ -117,6 +117,35 @@ the registry's `get(sportId)`.
 - `describeSpinUnit` returns the spin-card title "School (Conference · Season)"
   plus the realignment/defunct-conference footnote (§2A.2).
 
+## Quick Season simulation (§2A.4, §5.3, §2B.5)
+
+`CfbSportEngine.simulateSeason` builds a flavored 12-game slate when the caller
+supplies no opponents (`src/simulation/schedule.ts` → `CFB_SLATE_SHAPE`:
+8 conference, 2 rivalry, 1 non-conference marquee — the toughest of a random
+8-team draw — and 1 winnable non-conference game; thin pools fill with
+synthetic `cfb-synth-*` opponents). Opponent strength comes from
+`programStrengthRating` (win% z-score + AP-top-25 bonus, clamped to ±2.5 sd on
+`CFB_SIMULATION_CONFIG.opponentDistribution`), and
+`calibrateStrengthDistribution` derives the season's mean/sd from ≥20 rated FBS
+rows (otherwise the config default; reported via `facts.strengthDistribution*`
+on the `SeasonResult`). Per-game `flavor` lands in `GameResult.facts`.
+
+`ENABLE_FULL_CAMPAIGN` (`src/simulation/config.ts`) is `false`: the
+conference-title/CFP/bowl branch is provisional — it qualifies and seeds by win
+total against synthetic opponents, not real AP/CFP rankings — and stays
+unreachable until the CFB ranking-lifecycle system (§2B) exists. Tests inject
+`enableFullCampaign: true` via `CfbSeasonDependencies`.
+
+Scripts:
+
+- `npm run verify:guardrail -w @perfect-season/sport-engine-cfb` — 1000-season
+  guardrail check at roster ratings 90/55 over synthetic opponents and the
+  flavored slate, plus the opponent-context swing bound at a fixed rating.
+- `npm run e2e:quick-season -w @perfect-season/sport-engine-cfb` — fixture-only
+  end-to-end quick season (transforms `etl/fixtures/*.json`, spins a program,
+  fills the 24-slot roster, simulates, prints the game log); uses
+  `PERFECT_SEASON_CFB_DATA_DIR` when set.
+
 ## Known gaps
 
 - **No CFBD awards endpoint**: `all_conference`/`all_american` are always
