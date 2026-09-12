@@ -18,7 +18,7 @@ import { Badge } from '../ui/badge';
 import { Card } from '../ui/card';
 import { CandidateCard } from './candidate-card';
 import type { ClientDraft, DraftCandidate } from './types';
-import { SCHEME_PRESETS } from '@perfect-season/sport-engine-nfl';
+import { SCHEME_PRESETS } from '@perfect-season/sport-engine-nfl/src/schemes';
 
 function SlotTile({
   code,
