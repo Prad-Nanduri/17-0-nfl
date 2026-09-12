@@ -12,6 +12,7 @@ export interface NflFixtureData {
   readonly franchises: readonly NflFranchise[];
   readonly franchiseSeasons: readonly NflFranchiseSeason[];
   readonly players: readonly NflPlayer[];
+  readonly playerSeasonStats: readonly NflPlayerSeasonStats[];
   readonly ratings: readonly NflRating[];
 }
 
@@ -31,6 +32,9 @@ export function loadNflFixtureData(
       resolve(dataDirectory, 'franchise_seasons', 'franchise_seasons.json'),
     ),
     players: loadJson<NflPlayer[]>(resolve(seasonDirectory, 'players.json')),
+    playerSeasonStats: loadJson<NflPlayerSeasonStats[]>(
+      resolve(seasonDirectory, 'player_season_stats.json'),
+    ),
     ratings: [
       ...loadJson<NflRating[]>(resolve(seasonDirectory, 'ratings.json')),
       ...(existsSync(legacyRatingsPath) ? loadJson<NflRating[]>(legacyRatingsPath) : []),

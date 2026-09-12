@@ -21,6 +21,7 @@ describe('loadNflFixtureData', () => {
     };
     await writeFile(resolve(root, '2023', 'franchises.json'), JSON.stringify([franchise]));
     await writeFile(resolve(root, '2023', 'players.json'), JSON.stringify([]));
+    await writeFile(resolve(root, '2023', 'player_season_stats.json'), JSON.stringify([]));
     await writeFile(
       resolve(root, 'franchise_seasons', 'franchise_seasons.json'),
       JSON.stringify([
@@ -50,6 +51,7 @@ describe('loadNflFixtureData', () => {
     const data = loadNflFixtureData(root);
     expect(data.franchises).toEqual([franchise]);
     expect(data.franchiseSeasons[0]?.wins).toBe(11);
+    expect(data.playerSeasonStats).toEqual([]);
     expect(data.ratings).toHaveLength(1);
   });
 });
