@@ -159,8 +159,8 @@ export function NflDraft() {
           onDragEnd={handleDragEnd}
           onDragCancel={() => setDraggingId(null)}
         >
-          <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.05fr)] lg:items-start">
-            <div className="grid gap-5">
+          <div className="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.05fr)] lg:items-start">
+            <div className="grid min-w-0 grid-cols-1 gap-5">
               <SpinWheel
                 draftId={activeDraft.id}
                 spin={spin}
@@ -181,11 +181,12 @@ export function NflDraft() {
                       Tap a player, then tap a highlighted slot.
                     </p>
                   </div>
-                  <div className="mt-3 flex gap-2 overflow-x-auto pb-2 lg:grid lg:grid-cols-2">
+                  <div className="mt-3 flex min-w-0 gap-2 overflow-x-auto pb-2 lg:grid lg:grid-cols-2">
                     {spin.candidates.map((candidate) => (
                       <CandidateCard
                         key={candidate.playerId}
                         candidate={candidate}
+                        franchise={spin.franchise}
                         selected={candidate.playerId === selectedCandidateId}
                         onSelect={() => setSelectedCandidateId(candidate.playerId)}
                       />
@@ -206,7 +207,12 @@ export function NflDraft() {
           <DragOverlay>
             {draggingCandidate ? (
               <div className="rotate-2 opacity-90">
-                <CandidateCard candidate={draggingCandidate} selected onSelect={() => undefined} />
+                <CandidateCard
+                  candidate={draggingCandidate}
+                  franchise={spin?.franchise ?? null}
+                  selected
+                  onSelect={() => undefined}
+                />
               </div>
             ) : null}
           </DragOverlay>

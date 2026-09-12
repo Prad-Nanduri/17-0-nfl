@@ -29,7 +29,7 @@ function SlotTile({
       type="button"
       onClick={onPlace}
       aria-disabled={!eligible && candidate === undefined}
-      className={`min-h-24 rounded-control border p-3 text-left transition-colors ${
+      className={`min-h-24 min-w-0 rounded-control border p-3 text-left transition-colors ${
         candidate
           ? 'border-success bg-success/10'
           : eligible
@@ -43,9 +43,9 @@ function SlotTile({
       </span>
       <span className="mt-3 block text-small font-bold">
         {candidate ? (
-          <span className="flex items-center gap-2">
-            <Check size={15} className="text-success" aria-hidden="true" />
-            {candidate.fullName}
+          <span className="flex min-w-0 items-center gap-2">
+            <Check size={15} className="shrink-0 text-success" aria-hidden="true" />
+            <span className="truncate">{candidate.fullName}</span>
           </span>
         ) : (
           label
@@ -84,7 +84,7 @@ export function DraftBoard({
     { label: 'Specialists', start: scheme.slots.length - 2, end: scheme.slots.length },
   ];
   return (
-    <Card className="p-4 md:p-5">
+    <Card className="min-w-0 p-4 md:p-5">
       <div className="flex items-end justify-between gap-3">
         <div>
           <p className="eyebrow text-sport">Roster board</p>

@@ -9,10 +9,12 @@ import Image from 'next/image';
 
 export function CandidateCard({
   candidate,
+  franchise,
   selected,
   onSelect,
 }: {
   candidate: DraftCandidate;
+  franchise: { name: string; logoUrl: string } | null;
   selected: boolean;
   onSelect: () => void;
 }) {
@@ -28,7 +30,7 @@ export function CandidateCard({
       {...draggable.attributes}
       {...draggable.listeners}
       onClick={onSelect}
-      className={`flex min-w-56 touch-none items-center gap-3 rounded-control border bg-surface p-3 text-left transition-colors ${
+      className={`flex w-64 shrink-0 touch-none items-center gap-3 rounded-control border bg-surface p-3 text-left transition-colors lg:w-auto lg:min-w-0 ${
         selected ? 'border-sport bg-sport/10' : 'border-line hover:border-sport/60'
       }`}
       aria-label={`${candidate.fullName}, ${candidate.primaryPosition}`}
@@ -50,7 +52,19 @@ export function CandidateCard({
       )}
       <span className="min-w-0 flex-1">
         <span className="block truncate text-small font-bold">{candidate.fullName}</span>
-        <span className="block text-caption text-muted">{candidate.primaryPosition}</span>
+        <span className="flex items-center gap-1.5 text-caption text-muted">
+          {franchise ? (
+            <Image
+              src={franchise.logoUrl}
+              alt={franchise.name}
+              width={16}
+              height={16}
+              unoptimized
+              className="h-4 w-4 object-contain"
+            />
+          ) : null}
+          {candidate.primaryPosition}
+        </span>
       </span>
       {candidate.rating === null ? (
         <Badge tone="neutral">
@@ -58,7 +72,14 @@ export function CandidateCard({
           Hidden
         </Badge>
       ) : (
-        <Badge tone={candidate.rating >= 90 ? 'success' : 'neutral'}>{candidate.rating}</Badge>
+        <span
+          className={`font-display text-title font-extrabold leading-none tabular-nums ${
+            candidate.rating >= 90 ? 'text-sport' : 'text-ink'
+          }`}
+          aria-label={`Rating ${candidate.rating}`}
+        >
+          {candidate.rating}
+        </span>
       )}
     </button>
   );

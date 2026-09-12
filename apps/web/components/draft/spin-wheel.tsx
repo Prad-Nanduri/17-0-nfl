@@ -1,6 +1,6 @@
 'use client';
 
-import { motion, useReducedMotion } from 'framer-motion';
+import { motion, useReducedMotion, type Transition } from 'framer-motion';
 import { useState } from 'react';
 import { ArrowClockwise, Sparkle } from '@phosphor-icons/react';
 import { CardFlipReveal } from '../motion/card-flip-reveal';
@@ -42,7 +42,9 @@ export function SpinWheel({
           team.abbreviation === result.franchise.abbreviation || team.id === result.franchise.key,
       );
       const segment = index >= 0 ? index * (360 / nflTeams.length) : Math.random() * 360;
-      setRotation((previous) => previous + (reduce ? 0 : 720) + segment - (previous % 360));
+      // The pointer sits at 12 o'clock; a logo placed at `segment` reaches it at -segment.
+      const landing = (360 - segment) % 360;
+      setRotation((previous) => previous - (previous % 360) + (reduce ? 0 : 720) + landing);
       setRevealed(true);
     } catch (error) {
       onError(error instanceof Error ? error.message : 'Could not spin');
@@ -58,8 +60,11 @@ export function SpinWheel({
           team.id === spinState.franchise.key,
       )
     : undefined;
+  const wheelTransition: Transition = reduce
+    ? { duration: 0 }
+    : { duration: 1.8, ease: [...motionTokens.ease] };
   return (
-    <div className="grid gap-5">
+    <div className="grid min-w-0 grid-cols-1 gap-5">
       <Card className="relative overflow-hidden p-5">
         <div className="pointer-events-none absolute left-1/2 top-2 z-10 -translate-x-1/2 text-sport">
           <Sparkle size={25} weight="fill" aria-label="Spin pointer" />
@@ -67,28 +72,32 @@ export function SpinWheel({
         <motion.div
           className="relative mx-auto aspect-square w-full max-w-[23rem] rounded-full border-2 border-sport/40 bg-subtle"
           animate={{ rotate: rotation }}
-          transition={reduce ? { duration: 0 } : { duration: 1.8, ease: [...motionTokens.ease] }}
+          transition={wheelTransition}
           aria-label="NFL franchise spin wheel"
           role="img"
         >
           {nflTeams.map((team, index) => {
-            const angle = index * (360 / nflTeams.length);
+            const angle = (index * (360 / nflTeams.length) * Math.PI) / 180;
+            const radius = 42;
             return (
-              <span
+              <motion.span
                 key={team.id}
-                className="absolute left-1/2 top-1/2 flex h-8 w-8 -translate-x-1/2 -translate-y-1/2 items-center justify-center"
+                className="pointer-events-none absolute -ml-4 -mt-4 flex h-8 w-8 items-center justify-center"
                 style={{
-                  transform: `rotate(${angle}deg) translateY(-9.5rem) rotate(-${angle}deg)`,
+                  left: `${50 + radius * Math.sin(angle)}%`,
+                  top: `${50 - radius * Math.cos(angle)}%`,
                 }}
+                animate={{ rotate: -rotation }}
+                transition={wheelTransition}
               >
                 <TeamLogo team={team} size="xs" />
-              </span>
+              </motion.span>
             );
           })}
           <span className="absolute inset-1/4 rounded-full border border-line bg-surface/80" />
           <span className="absolute inset-[43%] rounded-full bg-sport" />
         </motion.div>
-        <div className="mt-5 flex flex-wrap items-center justify-center gap-3">
+        <div className="relative z-10 mt-5 flex flex-wrap items-center justify-center gap-3">
           <Button
             onClick={() => void spin(false)}
             loading={loading || spinning}
