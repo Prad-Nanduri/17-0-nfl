@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 // traced Vercel function bundle, which keeps the same monorepo layout.
 const nflDataDirectory = '../../packages/sport-engine-nfl/data';
 const cfbDataDirectory = '../../packages/sport-engine-cfb/data';
+const outputFileTracingRoot = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -27,11 +28,13 @@ const nextConfig = {
   ],
   experimental: {
     serverComponentsExternalPackages: ['@resvg/resvg-js'],
-    // Data files live outside apps/web, so anchor tracing at the repo root —
-    // `../../` globs would escape it and silently include nothing on Vercel.
-    outputFileTracingRoot: join(dirname(fileURLToPath(import.meta.url)), '..', '..'),
+    // Data files live outside apps/web, so include them relative to the Next.js project root.
+    outputFileTracingRoot,
     outputFileTracingIncludes: {
-      '/*': ['packages/sport-engine-nfl/data/**/*', 'packages/sport-engine-cfb/data/**/*'],
+      '/*': [
+        '../../packages/sport-engine-nfl/data/**/*',
+        '../../packages/sport-engine-cfb/data/**/*',
+      ],
       '/api/nfl/drafts/[id]/og': [
         'node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-*.woff',
       ],
