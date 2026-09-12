@@ -1,0 +1,37 @@
+[
+  {
+    "season": 2023,
+    "team": "Stable U",
+    "conference": "Sun Belt",
+    "offense": { "stuffRate": 0.14 },
+    "defense": { "stuffRate": 0.22 }
+  },
+  {
+    "season": 2023,
+    "team": "Champion U",
+    "conference": "ACC",
+    "offense": { "stuffRate": 0.1 },
+    "defense": { "stuffRate": 0.3 }
+  },
+  {
+    "season": 2023,
+    "team": "Old Guard",
+    "conference": "Big East",
+    "offense": { "stuffRate": 0.17 },
+    "defense": { "stuffRate": 0.25 }
+  },
+  {
+    "season": 2023,
+    "team": "Semifinal State",
+    "conference": "Sun Belt",
+    "offense": { "stuffRate": 0.2 },
+    "defense": { "stuffRate": 0.19 }
+  },
+  {
+    "season": 2023,
+    "team": "Reclass State",
+    "conference": "Sun Belt",
+    "offense": { "stuffRate": 0.24 },
+    "defense": { "stuffRate": 0.15 }
+  }
+]

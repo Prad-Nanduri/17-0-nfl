@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1001,
+    "season": 2023,
+    "week": 1,
+    "seasonType": "regular",
+    "completed": true,
+    "neutralSite": false,
+    "conferenceGame": false,
+    "homeId": 1,
+    "homeTeam": "Stable U",
+    "homePoints": 35,
+    "awayId": 2,
+    "awayTeam": "Reclass State",
+    "awayPoints": 14,
+    "notes": null,
+    "playoff": null
+  },
+  {
+    "id": 1002,
+    "season": 2023,
+    "week": 3,
+    "seasonType": "regular",
+    "completed": true,
+    "neutralSite": false,
+    "conferenceGame": false,
+    "homeId": 4,
+    "homeTeam": "Champion U",
+    "homePoints": 42,
+    "awayId": 3,
+    "awayTeam": "Old Guard",
+    "awayPoints": 24,
+    "notes": null,
+    "playoff": null
+  },
+  {
+    "id": 1003,
+    "season": 2023,
+    "week": 14,
+    "seasonType": "regular",
+    "completed": true,
+    "neutralSite": true,
+    "conferenceGame": true,
+    "homeId": 1,
+    "homeTeam": "Stable U",
+    "homePoints": 28,
+    "awayId": 5,
+    "awayTeam": "Semifinal State",
+    "awayPoints": 21,
+    "notes": "Sun Belt Championship",
+    "playoff": null
+  }
+]
