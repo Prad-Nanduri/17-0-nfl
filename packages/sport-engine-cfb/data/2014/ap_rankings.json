@@ -1,0 +1,3827 @@
+[
+  {
+    "cfbdTeamId": 151,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 366,
+    "rank": 21,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1074,
+    "rank": 9,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 930,
+    "rank": 11,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 839,
+    "rank": 12,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1030,
+    "rank": 10,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 379,
+    "rank": 20,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1199,
+    "rank": 5,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1267,
+    "rank": 4,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 574,
+    "rank": 16,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 106,
+    "rank": 25,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 524,
+    "rank": 18,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 667,
+    "rank": 15,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 669,
+    "rank": 14,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1290,
+    "rank": 3,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1095,
+    "rank": 7,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 46,
+    "isFinal": false,
+    "points": 1486,
+    "rank": 1,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 276,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 184,
+    "rank": 23,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 676,
+    "rank": 13,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1086,
+    "rank": 8,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 535,
+    "rank": 17,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 430,
+    "rank": 19,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1161,
+    "rank": 6,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 14,
+    "isFinal": false,
+    "points": 1453,
+    "rank": 2,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 265,
+    "rank": 22,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 121,
+    "rank": 24,
+    "season": 2014,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 151,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 445,
+    "rank": 18,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1055,
+    "rank": 9,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 905,
+    "rank": 11,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 858,
+    "rank": 12,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 962,
+    "rank": 10,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 272,
+    "rank": 22,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1142,
+    "rank": 6,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 356,
+    "rank": 20,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1231,
+    "rank": 5,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 177,
+    "rank": 24,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 118,
+    "rank": 25,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 437,
+    "rank": 19,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 643,
+    "rank": 14,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 639,
+    "rank": 15,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1235,
+    "rank": 4,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1404,
+    "rank": 3,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 43,
+    "isFinal": false,
+    "points": 1480,
+    "rank": 1,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 276,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 184,
+    "rank": 23,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 753,
+    "rank": 13,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1066,
+    "rank": 8,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 537,
+    "rank": 16,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 461,
+    "rank": 17,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1133,
+    "rank": 7,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 14,
+    "isFinal": false,
+    "points": 1433,
+    "rank": 2,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 283,
+    "rank": 21,
+    "season": 2014,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 151,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 449,
+    "rank": 18,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 981,
+    "rank": 10,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 620,
+    "rank": 15,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 626,
+    "rank": 14,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1317,
+    "rank": 4,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 917,
+    "rank": 12,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1014,
+    "rank": 9,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 223,
+    "rank": 23,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 258,
+    "rank": 22,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1144,
+    "rank": 6,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 305,
+    "rank": 20,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 459,
+    "rank": 17,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 590,
+    "rank": 16,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1068,
+    "rank": 7,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1413,
+    "rank": 3,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 45,
+    "isFinal": false,
+    "points": 1480,
+    "rank": 1,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 276,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 148,
+    "rank": 25,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 264,
+    "rank": 21,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 648,
+    "rank": 13,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1015,
+    "rank": 8,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 402,
+    "rank": 19,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 935,
+    "rank": 11,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1228,
+    "rank": 5,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 12,
+    "isFinal": false,
+    "points": 1415,
+    "rank": 2,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 188,
+    "rank": 24,
+    "season": 2014,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 151,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 344,
+    "rank": 19,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 854,
+    "rank": 13,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 527,
+    "rank": 16,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 486,
+    "rank": 17,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1258,
+    "rank": 5,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 979,
+    "rank": 9,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 888,
+    "rank": 12,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 143,
+    "rank": 25,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 23,
+    "isFinal": false,
+    "points": 1459,
+    "rank": 2,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 460,
+    "rank": 18,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 206,
+    "rank": 24,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 325,
+    "rank": 20,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 951,
+    "rank": 10,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1060,
+    "rank": 7,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1320,
+    "rank": 3,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1320,
+    "rank": 3,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 212,
+    "rank": 23,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 731,
+    "rank": 14,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 534,
+    "rank": 15,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 981,
+    "rank": 8,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 283,
+    "rank": 21,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 904,
+    "rank": 11,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1186,
+    "rank": 6,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 35,
+    "isFinal": false,
+    "points": 1461,
+    "rank": 1,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 235,
+    "rank": 22,
+    "season": 2014,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 151,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 237,
+    "rank": 22,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 788,
+    "rank": 13,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 246,
+    "rank": 21,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 216,
+    "rank": 23,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1149,
+    "rank": 7,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 109,
+    "rank": 25,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 13,
+    "isFinal": false,
+    "points": 1405,
+    "rank": 2,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 643,
+    "rank": 14,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 560,
+    "rank": 16,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 450,
+    "rank": 18,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1272,
+    "rank": 5,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 636,
+    "rank": 15,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 975,
+    "rank": 8,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 13,
+    "isFinal": false,
+    "points": 1387,
+    "rank": 3,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 906,
+    "rank": 11,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 848,
+    "rank": 12,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 145,
+    "rank": 24,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1206,
+    "rank": 6,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 298,
+    "rank": 20,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 944,
+    "rank": 10,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 502,
+    "rank": 17,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 445,
+    "rank": 19,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 7,
+    "isFinal": false,
+    "points": 1357,
+    "rank": 4,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 972,
+    "rank": 9,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 27,
+    "isFinal": false,
+    "points": 1416,
+    "rank": 1,
+    "season": 2014,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 151,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 180,
+    "rank": 23,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 789,
+    "rank": 12,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 764,
+    "rank": 13,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 132,
+    "rank": 24,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 131,
+    "rank": 25,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1143,
+    "rank": 7,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 12,
+    "isFinal": false,
+    "points": 1400,
+    "rank": 2,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 564,
+    "rank": 16,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 459,
+    "rank": 18,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 376,
+    "rank": 20,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1268,
+    "rank": 5,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 541,
+    "rank": 17,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 806,
+    "rank": 11,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 702,
+    "rank": 15,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 6,
+    "isFinal": false,
+    "points": 1377,
+    "rank": 3,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 889,
+    "rank": 10,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 706,
+    "rank": 14,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1232,
+    "rank": 6,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 196,
+    "rank": 22,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 905,
+    "rank": 9,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 451,
+    "rank": 19,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 296,
+    "rank": 21,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1343,
+    "rank": 4,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 967,
+    "rank": 8,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 34,
+    "isFinal": false,
+    "points": 1439,
+    "rank": 1,
+    "season": 2014,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 745,
+    "rank": 13,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 875,
+    "rank": 11,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1265,
+    "rank": 4,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1257,
+    "rank": 6,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 8,
+    "isFinal": false,
+    "points": 1426,
+    "rank": 3,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 112,
+    "rank": 24,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 450,
+    "rank": 19,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 221,
+    "rank": 22,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 663,
+    "rank": 14,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 134,
+    "rank": 23,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 602,
+    "rank": 15,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 819,
+    "rank": 12,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 27,
+    "isFinal": false,
+    "points": 1452,
+    "rank": 1,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 976,
+    "rank": 9,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1070,
+    "rank": 8,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 599,
+    "rank": 16,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1262,
+    "rank": 5,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1105,
+    "rank": 7,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 542,
+    "rank": 17,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 79,
+    "rank": 25,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 25,
+    "isFinal": false,
+    "points": 1436,
+    "rank": 2,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 509,
+    "rank": 18,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 876,
+    "rank": 10,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 406,
+    "rank": 20,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 368,
+    "rank": 21,
+    "season": 2014,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 606,
+    "rank": 15,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 995,
+    "rank": 9,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1243,
+    "rank": 5,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1274,
+    "rank": 4,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1391,
+    "rank": 3,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 358,
+    "rank": 20,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 145,
+    "rank": 23,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 512,
+    "rank": 16,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 79,
+    "rank": 24,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 495,
+    "rank": 17,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1027,
+    "rank": 8,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 25,
+    "isFinal": false,
+    "points": 1426,
+    "rank": 1,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 753,
+    "rank": 13,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 944,
+    "rank": 10,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 740,
+    "rank": 14,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1192,
+    "rank": 6,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1048,
+    "rank": 7,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 910,
+    "rank": 11,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 64,
+    "rank": 25,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 485,
+    "rank": 18,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 29,
+    "isFinal": false,
+    "points": 1423,
+    "rank": 2,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 418,
+    "rank": 19,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 823,
+    "rank": 12,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 346,
+    "rank": 21,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 265,
+    "rank": 22,
+    "season": 2014,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1002,
+    "rank": 8,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 898,
+    "rank": 11,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1234,
+    "rank": 5,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1233,
+    "rank": 6,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1393,
+    "rank": 3,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 597,
+    "rank": 15,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 998,
+    "rank": 9,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 790,
+    "rank": 13,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 807,
+    "rank": 12,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 21,
+    "isFinal": false,
+    "points": 1445,
+    "rank": 2,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 398,
+    "rank": 18,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1301,
+    "rank": 4,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 276,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 384,
+    "rank": 19,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 525,
+    "rank": 17,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1163,
+    "rank": 7,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 971,
+    "rank": 10,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 764,
+    "rank": 14,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 135,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 232,
+    "rank": 22,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 363,
+    "rank": 20,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 37,
+    "isFinal": false,
+    "points": 1458,
+    "rank": 1,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 198,
+    "rank": 23,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 581,
+    "rank": 16,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 191,
+    "rank": 24,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 96,
+    "rank": 25,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 36,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 346,
+    "rank": 21,
+    "season": 2014,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 948,
+    "rank": 9,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 868,
+    "rank": 12,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1232,
+    "rank": 6,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1237,
+    "rank": 5,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1385,
+    "rank": 3,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 195,
+    "rank": 24,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 531,
+    "rank": 16,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 876,
+    "rank": 11,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 349,
+    "rank": 20,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 720,
+    "rank": 13,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 695,
+    "rank": 15,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 16,
+    "isFinal": false,
+    "points": 1439,
+    "rank": 2,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1064,
+    "rank": 8,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1289,
+    "rank": 4,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 276,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 383,
+    "rank": 18,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 376,
+    "rank": 19,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1167,
+    "rank": 7,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 941,
+    "rank": 10,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 707,
+    "rank": 14,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 291,
+    "rank": 21,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 206,
+    "rank": 23,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 43,
+    "isFinal": false,
+    "points": 1476,
+    "rank": 1,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 523,
+    "rank": 17,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 85,
+    "rank": 25,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 36,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 281,
+    "rank": 22,
+    "season": 2014,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 622,
+    "rank": 16,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 742,
+    "rank": 13,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1193,
+    "rank": 6,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1273,
+    "rank": 5,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1334,
+    "rank": 3,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 981,
+    "rank": 9,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 429,
+    "rank": 20,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 691,
+    "rank": 14,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 87,
+    "rank": 25,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1142,
+    "rank": 7,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 471,
+    "rank": 17,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1326,
+    "rank": 4,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 948,
+    "rank": 10,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 48,
+    "isFinal": false,
+    "points": 1488,
+    "rank": 1,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 276,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 297,
+    "rank": 21,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1086,
+    "rank": 8,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 782,
+    "rank": 12,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 225,
+    "rank": 22,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 830,
+    "rank": 11,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 630,
+    "rank": 15,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 12,
+    "isFinal": false,
+    "points": 1446,
+    "rank": 2,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 457,
+    "rank": 18,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 127,
+    "rank": 24,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 431,
+    "rank": 19,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 36,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 128,
+    "rank": 23,
+    "season": 2014,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 465,
+    "rank": 17,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1049,
+    "rank": 9,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 961,
+    "rank": 10,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1148,
+    "rank": 6,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 159,
+    "rank": 24,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1275,
+    "rank": 5,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1345,
+    "rank": 3,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 717,
+    "rank": 14,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 464,
+    "rank": 18,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 327,
+    "rank": 20,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 831,
+    "rank": 11,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 325,
+    "rank": 21,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1281,
+    "rank": 4,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 828,
+    "rank": 12,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 45,
+    "isFinal": false,
+    "points": 1484,
+    "rank": 1,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 276,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 238,
+    "rank": 23,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 780,
+    "rank": 13,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1120,
+    "rank": 7,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 83,
+    "rank": 25,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 680,
+    "rank": 15,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 574,
+    "rank": 16,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1096,
+    "rank": 8,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 15,
+    "isFinal": false,
+    "points": 1452,
+    "rank": 2,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 341,
+    "rank": 19,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 288,
+    "rank": 22,
+    "season": 2014,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 729,
+    "rank": 13,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 718,
+    "rank": 14,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 126,
+    "rank": 25,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 326,
+    "rank": 20,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1134,
+    "rank": 7,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 17,
+    "isFinal": false,
+    "points": 1424,
+    "rank": 2,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 560,
+    "rank": 16,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 459,
+    "rank": 17,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 246,
+    "rank": 21,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1252,
+    "rank": 5,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1114,
+    "rank": 8,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 807,
+    "rank": 12,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 680,
+    "rank": 15,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1346,
+    "rank": 3,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 840,
+    "rank": 10,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 446,
+    "rank": 18,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1195,
+    "rank": 6,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 204,
+    "rank": 23,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 832,
+    "rank": 11,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 414,
+    "rank": 19,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 172,
+    "rank": 24,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1325,
+    "rank": 4,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 917,
+    "rank": 9,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 37,
+    "isFinal": false,
+    "points": 1466,
+    "rank": 1,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 209,
+    "rank": 22,
+    "season": 2014,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1201,
+    "rank": 6,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 199,
+    "rank": 24,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 285,
+    "rank": 19,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1043,
+    "rank": 8,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 16,
+    "isFinal": false,
+    "points": 1415,
+    "rank": 2,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 592,
+    "rank": 15,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1039,
+    "rank": 9,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 179,
+    "rank": 25,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1236,
+    "rank": 5,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1029,
+    "rank": 10,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 779,
+    "rank": 12,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 570,
+    "rank": 16,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1334,
+    "rank": 3,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 703,
+    "rank": 14,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 237,
+    "rank": 20,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1101,
+    "rank": 7,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 222,
+    "rank": 22,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 751,
+    "rank": 13,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 391,
+    "rank": 18,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1303,
+    "rank": 4,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 815,
+    "rank": 11,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 38,
+    "isFinal": false,
+    "points": 1463,
+    "rank": 1,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 206,
+    "rank": 23,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 532,
+    "rank": 17,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 234,
+    "rank": 21,
+    "season": 2014,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1114,
+    "rank": 6,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 196,
+    "rank": 21,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 325,
+    "rank": 20,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 962,
+    "rank": 10,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1314,
+    "rank": 3,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 886,
+    "rank": 13,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 729,
+    "rank": 14,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1186,
+    "rank": 5,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 926,
+    "rank": 12,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 944,
+    "rank": 11,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 431,
+    "rank": 17,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1317,
+    "rank": 2,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 525,
+    "rank": 15,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 147,
+    "rank": 24,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 978,
+    "rank": 9,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 982,
+    "rank": 8,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1093,
+    "rank": 7,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 364,
+    "rank": 18,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 352,
+    "rank": 19,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1283,
+    "rank": 4,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 519,
+    "rank": 16,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 49,
+    "isFinal": false,
+    "points": 1456,
+    "rank": 1,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 164,
+    "rank": 23,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 196,
+    "rank": 21,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 141,
+    "rank": 25,
+    "season": 2014,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 843,
+    "rank": 12,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1015,
+    "rank": 9,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 242,
+    "rank": 20,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 966,
+    "rank": 10,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1334,
+    "rank": 3,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 885,
+    "rank": 11,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 130,
+    "rank": 25,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 626,
+    "rank": 15,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1198,
+    "rank": 6,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 776,
+    "rank": 13,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1106,
+    "rank": 7,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 357,
+    "rank": 19,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1361,
+    "rank": 2,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 424,
+    "rank": 18,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 134,
+    "rank": 24,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 238,
+    "rank": 21,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1207,
+    "rank": 5,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1080,
+    "rank": 8,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 637,
+    "rank": 14,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 226,
+    "rank": 22,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1324,
+    "rank": 4,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 445,
+    "rank": 17,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 57,
+    "isFinal": false,
+    "points": 1496,
+    "rank": 1,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 536,
+    "rank": 16,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 194,
+    "rank": 23,
+    "season": 2014,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 59,
+    "isFinal": true,
+    "points": 1475,
+    "rank": 1,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1402,
+    "rank": 2,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1349,
+    "rank": 3,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1297,
+    "rank": 4,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1212,
+    "rank": 5,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1212,
+    "rank": 5,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1098,
+    "rank": 7,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1071,
+    "rank": 8,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 925,
+    "rank": 9,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 908,
+    "rank": 10,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 767,
+    "rank": 11,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 756,
+    "rank": 12,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 724,
+    "rank": 13,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 710,
+    "rank": 14,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 683,
+    "rank": 15,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 653,
+    "rank": 16,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 543,
+    "rank": 17,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 509,
+    "rank": 18,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 499,
+    "rank": 19,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 315,
+    "rank": 20,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 302,
+    "rank": 21,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 216,
+    "rank": 22,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 276,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 161,
+    "rank": 23,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 116,
+    "rank": 24,
+    "season": 2014,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 235,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 94,
+    "rank": 25,
+    "season": 2014,
+    "week": 99
+  }
+]

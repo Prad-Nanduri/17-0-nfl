@@ -1,0 +1,3827 @@
+[
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 25,
+    "isFinal": false,
+    "points": 1552,
+    "rank": 1,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 23,
+    "isFinal": false,
+    "points": 1547,
+    "rank": 2,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 11,
+    "isFinal": false,
+    "points": 1472,
+    "rank": 3,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1398,
+    "rank": 4,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1331,
+    "rank": 5,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1325,
+    "rank": 6,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1236,
+    "rank": 7,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1179,
+    "rank": 8,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1174,
+    "rank": 9,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 889,
+    "rank": 10,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 791,
+    "rank": 11,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 713,
+    "rank": 12,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 667,
+    "rank": 13,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 662,
+    "rank": 14,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 626,
+    "rank": 15,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 565,
+    "rank": 16,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 512,
+    "rank": 17,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 463,
+    "rank": 18,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 434,
+    "rank": 19,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 423,
+    "rank": 20,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 370,
+    "rank": 21,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 309,
+    "rank": 22,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 274,
+    "rank": 23,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 192,
+    "rank": 24,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 191,
+    "rank": 25,
+    "season": 2025,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 1636,
+    "rank": 1,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 7,
+    "isFinal": false,
+    "points": 1558,
+    "rank": 2,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1514,
+    "rank": 3,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1410,
+    "rank": 4,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1360,
+    "rank": 5,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1302,
+    "rank": 6,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1293,
+    "rank": 7,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1135,
+    "rank": 8,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1068,
+    "rank": 9,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 882,
+    "rank": 10,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 855,
+    "rank": 11,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 850,
+    "rank": 12,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 737,
+    "rank": 13,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 705,
+    "rank": 14,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 686,
+    "rank": 15,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 566,
+    "rank": 16,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 561,
+    "rank": 17,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 519,
+    "rank": 18,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 424,
+    "rank": 19,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 393,
+    "rank": 20,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 360,
+    "rank": 21,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 339,
+    "rank": 22,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 257,
+    "rank": 23,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 247,
+    "rank": 24,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 227,
+    "rank": 25,
+    "season": 2025,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 57,
+    "isFinal": false,
+    "points": 1614,
+    "rank": 1,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1524,
+    "rank": 2,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1487,
+    "rank": 3,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1375,
+    "rank": 4,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1360,
+    "rank": 5,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1350,
+    "rank": 6,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1248,
+    "rank": 7,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1086,
+    "rank": 8,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1001,
+    "rank": 9,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 954,
+    "rank": 10,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 927,
+    "rank": 11,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 894,
+    "rank": 12,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 893,
+    "rank": 13,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 794,
+    "rank": 14,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 537,
+    "rank": 15,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 532,
+    "rank": 16,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 518,
+    "rank": 17,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 444,
+    "rank": 18,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 396,
+    "rank": 19,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 361,
+    "rank": 20,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 347,
+    "rank": 21,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 331,
+    "rank": 22,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 250,
+    "rank": 23,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 172,
+    "rank": 24,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 109,
+    "rank": 25,
+    "season": 2025,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 1631,
+    "rank": 1,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1490,
+    "rank": 2,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1470,
+    "rank": 3,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1434,
+    "rank": 4,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1428,
+    "rank": 5,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1423,
+    "rank": 6,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1123,
+    "rank": 7,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1111,
+    "rank": 8,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1110,
+    "rank": 9,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1101,
+    "rank": 10,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1056,
+    "rank": 11,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 820,
+    "rank": 12,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 748,
+    "rank": 13,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 599,
+    "rank": 14,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 583,
+    "rank": 15,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 573,
+    "rank": 16,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 538,
+    "rank": 17,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 511,
+    "rank": 18,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 458,
+    "rank": 19,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 397,
+    "rank": 20,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 356,
+    "rank": 21,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 344,
+    "rank": 22,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 292,
+    "rank": 23,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 207,
+    "rank": 24,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 105,
+    "rank": 25,
+    "season": 2025,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 52,
+    "isFinal": false,
+    "points": 1629,
+    "rank": 1,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 7,
+    "isFinal": false,
+    "points": 1479,
+    "rank": 2,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1460,
+    "rank": 3,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1433,
+    "rank": 4,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1420,
+    "rank": 5,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1404,
+    "rank": 6,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1194,
+    "rank": 7,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1183,
+    "rank": 8,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1072,
+    "rank": 9,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1057,
+    "rank": 10,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 990,
+    "rank": 11,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 890,
+    "rank": 12,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 843,
+    "rank": 13,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 779,
+    "rank": 14,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 635,
+    "rank": 15,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 598,
+    "rank": 16,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 595,
+    "rank": 17,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 546,
+    "rank": 18,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 458,
+    "rank": 19,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 452,
+    "rank": 20,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 264,
+    "rank": 21,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 219,
+    "rank": 22,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 145,
+    "rank": 23,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 138,
+    "rank": 24,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 131,
+    "rank": 25,
+    "season": 2025,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 46,
+    "isFinal": false,
+    "points": 1626,
+    "rank": 1,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 16,
+    "isFinal": false,
+    "points": 1589,
+    "rank": 2,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1529,
+    "rank": 3,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1354,
+    "rank": 4,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1313,
+    "rank": 5,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1308,
+    "rank": 6,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1179,
+    "rank": 7,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1156,
+    "rank": 8,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1071,
+    "rank": 9,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1057,
+    "rank": 10,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 967,
+    "rank": 11,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 965,
+    "rank": 12,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 838,
+    "rank": 13,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 830,
+    "rank": 14,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 697,
+    "rank": 15,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 640,
+    "rank": 16,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 549,
+    "rank": 17,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 535,
+    "rank": 18,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 528,
+    "rank": 19,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 422,
+    "rank": 20,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 333,
+    "rank": 21,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 271,
+    "rank": 22,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 191,
+    "rank": 23,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 125,
+    "rank": 24,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 107,
+    "rank": 25,
+    "season": 2025,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 40,
+    "isFinal": false,
+    "points": 1620,
+    "rank": 1,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 21,
+    "isFinal": false,
+    "points": 1579,
+    "rank": 2,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1542,
+    "rank": 3,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1376,
+    "rank": 4,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1361,
+    "rank": 5,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1346,
+    "rank": 6,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1213,
+    "rank": 7,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1202,
+    "rank": 8,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1135,
+    "rank": 9,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1084,
+    "rank": 10,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 949,
+    "rank": 11,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 892,
+    "rank": 12,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 782,
+    "rank": 13,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 775,
+    "rank": 14,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 707,
+    "rank": 15,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 610,
+    "rank": 16,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 522,
+    "rank": 17,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 463,
+    "rank": 18,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 452,
+    "rank": 19,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 407,
+    "rank": 20,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 214,
+    "rank": 21,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 165,
+    "rank": 22,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 235,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 153,
+    "rank": 23,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 150,
+    "rank": 24,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 147,
+    "rank": 25,
+    "season": 2025,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 50,
+    "isFinal": false,
+    "points": 1631,
+    "rank": 1,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 13,
+    "isFinal": false,
+    "points": 1582,
+    "rank": 2,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1531,
+    "rank": 3,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1433,
+    "rank": 4,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1331,
+    "rank": 5,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1315,
+    "rank": 6,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1266,
+    "rank": 7,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1175,
+    "rank": 8,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1148,
+    "rank": 9,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1012,
+    "rank": 10,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 939,
+    "rank": 11,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 904,
+    "rank": 12,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 793,
+    "rank": 13,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 786,
+    "rank": 14,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 655,
+    "rank": 15,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 649,
+    "rank": 16,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 547,
+    "rank": 17,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 521,
+    "rank": 18,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 398,
+    "rank": 19,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 361,
+    "rank": 20,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 319,
+    "rank": 21,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 235,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 285,
+    "rank": 22,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 261,
+    "rank": 23,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 184,
+    "rank": 24,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 149,
+    "rank": 25,
+    "season": 2025,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 1643,
+    "rank": 1,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 6,
+    "isFinal": false,
+    "points": 1583,
+    "rank": 2,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1499,
+    "rank": 3,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1463,
+    "rank": 4,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1360,
+    "rank": 5,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1317,
+    "rank": 6,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1143,
+    "rank": 7,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1119,
+    "rank": 8,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1073,
+    "rank": 9,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1031,
+    "rank": 10,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 975,
+    "rank": 11,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 964,
+    "rank": 12,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 882,
+    "rank": 13,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 782,
+    "rank": 14,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 748,
+    "rank": 15,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 624,
+    "rank": 16,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 527,
+    "rank": 17,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 501,
+    "rank": 18,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 458,
+    "rank": 19,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 388,
+    "rank": 20,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 350,
+    "rank": 21,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 318,
+    "rank": 22,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 168,
+    "rank": 23,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 155,
+    "rank": 24,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 123,
+    "rank": 25,
+    "season": 2025,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 54,
+    "isFinal": false,
+    "points": 1633,
+    "rank": 1,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 11,
+    "isFinal": false,
+    "points": 1589,
+    "rank": 2,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1523,
+    "rank": 3,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1445,
+    "rank": 4,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1359,
+    "rank": 5,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1249,
+    "rank": 6,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1212,
+    "rank": 7,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1172,
+    "rank": 8,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1098,
+    "rank": 9,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1069,
+    "rank": 10,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1069,
+    "rank": 10,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 944,
+    "rank": 12,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 876,
+    "rank": 13,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 684,
+    "rank": 14,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 660,
+    "rank": 15,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 647,
+    "rank": 16,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 609,
+    "rank": 17,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 485,
+    "rank": 18,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 447,
+    "rank": 19,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 371,
+    "rank": 20,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 264,
+    "rank": 21,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 256,
+    "rank": 22,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 215,
+    "rank": 23,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 162,
+    "rank": 24,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 235,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 130,
+    "rank": 25,
+    "season": 2025,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 54,
+    "isFinal": false,
+    "points": 1633,
+    "rank": 1,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 11,
+    "isFinal": false,
+    "points": 1591,
+    "rank": 2,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1523,
+    "rank": 3,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1447,
+    "rank": 4,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1364,
+    "rank": 5,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1293,
+    "rank": 6,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1263,
+    "rank": 7,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1207,
+    "rank": 8,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1091,
+    "rank": 9,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1071,
+    "rank": 10,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 850,
+    "rank": 11,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 838,
+    "rank": 12,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 835,
+    "rank": 13,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 827,
+    "rank": 14,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 698,
+    "rank": 15,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 667,
+    "rank": 16,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 560,
+    "rank": 17,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 558,
+    "rank": 18,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 491,
+    "rank": 19,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 453,
+    "rank": 20,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 344,
+    "rank": 21,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 235,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 224,
+    "rank": 22,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 171,
+    "rank": 23,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 110,
+    "rank": 24,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 77,
+    "rank": 25,
+    "season": 2025,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 1610,
+    "rank": 1,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 6,
+    "isFinal": false,
+    "points": 1549,
+    "rank": 2,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1518,
+    "rank": 3,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1427,
+    "rank": 4,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1353,
+    "rank": 5,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1248,
+    "rank": 6,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1245,
+    "rank": 7,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1211,
+    "rank": 8,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1102,
+    "rank": 9,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 961,
+    "rank": 10,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 928,
+    "rank": 11,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 898,
+    "rank": 12,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 821,
+    "rank": 13,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 788,
+    "rank": 14,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 695,
+    "rank": 15,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 683,
+    "rank": 16,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 645,
+    "rank": 17,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 498,
+    "rank": 18,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 326,
+    "rank": 19,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 313,
+    "rank": 20,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 276,
+    "rank": 21,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 224,
+    "rank": 22,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 201,
+    "rank": 23,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 167,
+    "rank": 24,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 116,
+    "rank": 25,
+    "season": 2025,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 57,
+    "isFinal": false,
+    "points": 1639,
+    "rank": 1,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 8,
+    "isFinal": false,
+    "points": 1588,
+    "rank": 2,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1520,
+    "rank": 3,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1447,
+    "rank": 4,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1331,
+    "rank": 5,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1299,
+    "rank": 6,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1299,
+    "rank": 6,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1162,
+    "rank": 8,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1130,
+    "rank": 9,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1062,
+    "rank": 10,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 992,
+    "rank": 11,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 833,
+    "rank": 12,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 795,
+    "rank": 13,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 773,
+    "rank": 14,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 768,
+    "rank": 15,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 707,
+    "rank": 16,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 564,
+    "rank": 17,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 547,
+    "rank": 18,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 476,
+    "rank": 19,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 360,
+    "rank": 20,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 294,
+    "rank": 21,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 249,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 186,
+    "rank": 22,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 173,
+    "rank": 23,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 167,
+    "rank": 24,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 107,
+    "rank": 25,
+    "season": 2025,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 58,
+    "isFinal": false,
+    "points": 1640,
+    "rank": 1,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 7,
+    "isFinal": false,
+    "points": 1587,
+    "rank": 2,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1522,
+    "rank": 3,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1444,
+    "rank": 4,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1326,
+    "rank": 5,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1320,
+    "rank": 6,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1295,
+    "rank": 7,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1169,
+    "rank": 8,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1117,
+    "rank": 9,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1056,
+    "rank": 10,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1014,
+    "rank": 11,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 876,
+    "rank": 12,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 849,
+    "rank": 13,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 809,
+    "rank": 14,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 664,
+    "rank": 15,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 646,
+    "rank": 16,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 556,
+    "rank": 17,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 473,
+    "rank": 18,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 464,
+    "rank": 19,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 331,
+    "rank": 20,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 249,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 288,
+    "rank": 21,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 255,
+    "rank": 22,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 228,
+    "rank": 23,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 174,
+    "rank": 24,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 121,
+    "rank": 25,
+    "season": 2025,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1645,
+    "rank": 1,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1589,
+    "rank": 2,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1504,
+    "rank": 3,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1396,
+    "rank": 4,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1366,
+    "rank": 5,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1350,
+    "rank": 6,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1282,
+    "rank": 7,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1140,
+    "rank": 8,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1100,
+    "rank": 9,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1053,
+    "rank": 10,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 982,
+    "rank": 11,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 898,
+    "rank": 12,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 871,
+    "rank": 13,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 861,
+    "rank": 14,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 739,
+    "rank": 15,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 637,
+    "rank": 16,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 566,
+    "rank": 17,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 441,
+    "rank": 18,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 417,
+    "rank": 19,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 249,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 402,
+    "rank": 20,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 373,
+    "rank": 21,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 257,
+    "rank": 22,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2426,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 146,
+    "rank": 23,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 90,
+    "rank": 24,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 73,
+    "rank": 25,
+    "season": 2025,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 66,
+    "isFinal": false,
+    "points": 1650,
+    "rank": 1,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1550,
+    "rank": 2,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1538,
+    "rank": 3,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1452,
+    "rank": 4,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1358,
+    "rank": 5,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1323,
+    "rank": 6,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1278,
+    "rank": 7,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1154,
+    "rank": 8,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1094,
+    "rank": 9,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1017,
+    "rank": 10,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 973,
+    "rank": 11,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 899,
+    "rank": 12,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 880,
+    "rank": 13,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 872,
+    "rank": 14,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 748,
+    "rank": 15,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 609,
+    "rank": 16,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 521,
+    "rank": 17,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 503,
+    "rank": 18,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 490,
+    "rank": 19,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 323,
+    "rank": 20,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 322,
+    "rank": 21,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2426,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 173,
+    "rank": 22,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 249,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 151,
+    "rank": 23,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 147,
+    "rank": 24,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 92,
+    "rank": 25,
+    "season": 2025,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 66,
+    "isFinal": true,
+    "points": 1650,
+    "rank": 1,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1584,
+    "rank": 2,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1492,
+    "rank": 3,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1429,
+    "rank": 4,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1378,
+    "rank": 5,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1364,
+    "rank": 6,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1232,
+    "rank": 7,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1157,
+    "rank": 8,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1065,
+    "rank": 9,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1049,
+    "rank": 10,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 961,
+    "rank": 11,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 952,
+    "rank": 12,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 941,
+    "rank": 13,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 812,
+    "rank": 14,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 623,
+    "rank": 15,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 603,
+    "rank": 16,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 430,
+    "rank": 17,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 404,
+    "rank": 18,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 399,
+    "rank": 19,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 378,
+    "rank": 20,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 276,
+    "rank": 21,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 270,
+    "rank": 22,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2426,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 227,
+    "rank": 23,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 249,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 191,
+    "rank": 24,
+    "season": 2025,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 125,
+    "rank": 25,
+    "season": 2025,
+    "week": 99
+  }
+]

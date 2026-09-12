@@ -1,0 +1,1282 @@
+[
+  {
+    "cfbdTeamId": 2005,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21311475409836064,
+    "offensePassAttempts": 206,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16305732484076432,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2006,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23325635103926096,
+    "offensePassAttempts": 527,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19767441860465115,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 333,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2576832151300236,
+    "offensePassAttempts": 451,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14647377938517178,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2026,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2222222222222222,
+    "offensePassAttempts": 340,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18546845124282982,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 12,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20072992700729927,
+    "offensePassAttempts": 564,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17636022514071295,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 9,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22675736961451248,
+    "offensePassAttempts": 467,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21967963386727687,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 8,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.25980392156862747,
+    "offensePassAttempts": 359,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2032,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19923371647509577,
+    "offensePassAttempts": 448,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2326007326007326,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 349,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2154566744730679,
+    "offensePassAttempts": 105,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17692307692307693,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23044397463002114,
+    "offensePassAttempts": 332,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1703204047217538,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2050,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14285714285714285,
+    "offensePassAttempts": 409,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2128146453089245,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 239,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23464912280701755,
+    "offensePassAttempts": 519,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15100671140939598,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 68,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22323462414578588,
+    "offensePassAttempts": 451,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20103092783505155,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 103,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2872628726287263,
+    "offensePassAttempts": 243,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20550161812297735,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 189,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23175182481751824,
+    "offensePassAttempts": 547,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2030360531309298,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2084,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20094562647754138,
+    "offensePassAttempts": 367,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2191142191142191,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 252,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19868995633187772,
+    "offensePassAttempts": 483,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17481203007518797,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 25,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17814726840855108,
+    "offensePassAttempts": 535,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18990384615384615,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2117,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24029126213592233,
+    "offensePassAttempts": 382,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21369294605809128,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2132,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1726457399103139,
+    "offensePassAttempts": 491,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13917525773195877,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 228,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2987951807228916,
+    "offensePassAttempts": 451,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2054794520547945,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 38,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18465227817745802,
+    "offensePassAttempts": 545,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1985981308411215,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 36,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.12033195020746888,
+    "offensePassAttempts": 447,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19946808510638298,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 150,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16729323308270677,
+    "offensePassAttempts": 471,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1337448559670782,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 151,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2038369304556355,
+    "offensePassAttempts": 637,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18592964824120603,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2199,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20043103448275862,
+    "offensePassAttempts": 290,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24331550802139038,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 57,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22518159806295399,
+    "offensePassAttempts": 324,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20396039603960395,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2226,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.0935483870967742,
+    "offensePassAttempts": 365,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1676829268292683,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2229,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20670391061452514,
+    "offensePassAttempts": 324,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17721518987341772,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 52,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2003577817531306,
+    "offensePassAttempts": 516,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21395348837209302,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 278,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18568994889267462,
+    "offensePassAttempts": 530,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19047619047619047,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 61,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17693836978131214,
+    "offensePassAttempts": 322,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15555555555555556,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 290,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17317073170731706,
+    "offensePassAttempts": 155,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.12440944881889764,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2247,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.11977186311787072,
+    "offensePassAttempts": 446,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2716049382716049,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 59,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19954648526077098,
+    "offensePassAttempts": 203,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13205128205128205,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 62,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16216216216216217,
+    "offensePassAttempts": 469,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1873479318734793,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 248,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18658280922431866,
+    "offensePassAttempts": 450,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21861471861471862,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 70,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1920374707259953,
+    "offensePassAttempts": 442,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13783783783783785,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 356,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18896321070234115,
+    "offensePassAttempts": 470,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24603174603174602,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 84,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2076923076923077,
+    "offensePassAttempts": 313,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2129032258064516,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2294,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19271948608137046,
+    "offensePassAttempts": 437,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17073170731707318,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 66,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1482213438735178,
+    "offensePassAttempts": 510,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.216,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2305,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.171875,
+    "offensePassAttempts": 376,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2330316742081448,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2306,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2171837708830549,
+    "offensePassAttempts": 415,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21973094170403587,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15289256198347106,
+    "offensePassAttempts": 442,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.27586206896551724,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 96,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16872427983539096,
+    "offensePassAttempts": 404,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23429951690821257,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2376470588235294,
+    "offensePassAttempts": 370,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1417624521072797,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2348,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23809523809523808,
+    "offensePassAttempts": 467,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24263038548752835,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 97,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22137404580152673,
+    "offensePassAttempts": 428,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23628691983122363,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 99,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24145785876993167,
+    "offensePassAttempts": 276,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16074450084602368,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 276,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18146718146718147,
+    "offensePassAttempts": 473,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1324110671936759,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 120,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1898238747553816,
+    "offensePassAttempts": 418,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21329639889196675,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 113,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2112970711297071,
+    "offensePassAttempts": 492,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2191780821917808,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 235,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2606741573033708,
+    "offensePassAttempts": 418,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21305841924398625,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2390,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1906779661016949,
+    "offensePassAttempts": 391,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18032786885245902,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 193,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.175704989154013,
+    "offensePassAttempts": 468,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1892744479495268,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 130,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23902439024390243,
+    "offensePassAttempts": 326,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19696969696969696,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 127,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23076923076923078,
+    "offensePassAttempts": 400,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17152658662092624,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2393,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14479638009049775,
+    "offensePassAttempts": 343,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1788793103448276,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 135,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2251655629139073,
+    "offensePassAttempts": 254,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1794425087108014,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 344,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20408163265306123,
+    "offensePassAttempts": 423,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18864468864468864,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 142,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21862348178137653,
+    "offensePassAttempts": 415,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2254335260115607,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2426,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14757281553398058,
+    "offensePassAttempts": 130,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13437057991513437,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 152,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21063394683026584,
+    "offensePassAttempts": 381,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15010570824524314,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 158,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17391304347826086,
+    "offensePassAttempts": 359,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1696113074204947,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2440,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18577981651376146,
+    "offensePassAttempts": 406,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18012422360248448,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 167,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1720226843100189,
+    "offensePassAttempts": 149,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18673647469458987,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 166,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.12844036697247707,
+    "offensePassAttempts": 452,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21980676328502416,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 153,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17647058823529413,
+    "offensePassAttempts": 509,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21581196581196582,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2459,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15310077519379844,
+    "offensePassAttempts": 385,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17205882352941176,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 249,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18974358974358974,
+    "offensePassAttempts": 332,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21212121212121213,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 77,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1822125813449024,
+    "offensePassAttempts": 455,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1943231441048035,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 87,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21956087824351297,
+    "offensePassAttempts": 463,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17903930131004367,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 195,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17902813299232737,
+    "offensePassAttempts": 375,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1767337807606264,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 194,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.193158953722334,
+    "offensePassAttempts": 409,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14992503748125938,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 201,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22169811320754718,
+    "offensePassAttempts": 386,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1663619744058501,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 197,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21193415637860083,
+    "offensePassAttempts": 401,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19438444924406048,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 295,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15261044176706828,
+    "offensePassAttempts": 458,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16339869281045752,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 145,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23251028806584362,
+    "offensePassAttempts": 428,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23671497584541062,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2483,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17594254937163376,
+    "offensePassAttempts": 474,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1323529411764706,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 204,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.203125,
+    "offensePassAttempts": 472,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1994219653179191,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 213,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.28846153846153844,
+    "offensePassAttempts": 497,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2678132678132678,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 221,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17737789203084833,
+    "offensePassAttempts": 308,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17118997912317327,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2509,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1947261663286004,
+    "offensePassAttempts": 434,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20689655172413793,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 242,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18571428571428572,
+    "offensePassAttempts": 352,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21467889908256882,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 164,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19789473684210526,
+    "offensePassAttempts": 357,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21822033898305085,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 21,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18562874251497005,
+    "offensePassAttempts": 349,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1494949494949495,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 23,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1673469387755102,
+    "offensePassAttempts": 449,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20947630922693267,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2567,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.13307984790874525,
+    "offensePassAttempts": 430,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21739130434782608,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 6,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18181818181818182,
+    "offensePassAttempts": 412,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18843683083511778,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2579,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.166,
+    "offensePassAttempts": 468,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2013129102844639,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2572,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19664268585131894,
+    "offensePassAttempts": 482,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2662337662337662,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 58,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18872017353579176,
+    "offensePassAttempts": 364,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2619718309859155,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 24,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20365535248041775,
+    "offensePassAttempts": 381,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16027088036117382,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 183,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2025586353944563,
+    "offensePassAttempts": 383,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23573200992555832,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2628,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2627118644067797,
+    "offensePassAttempts": 529,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19144602851323828,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 218,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23284823284823286,
+    "offensePassAttempts": 403,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2342857142857143,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2633,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21205821205821207,
+    "offensePassAttempts": 453,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2231404958677686,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 251,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17485265225933203,
+    "offensePassAttempts": 418,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2052980132450331,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 245,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16098484848484848,
+    "offensePassAttempts": 514,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16455696202531644,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 326,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.13535353535353536,
+    "offensePassAttempts": 382,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18640776699029127,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2641,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.13961605584642234,
+    "offensePassAttempts": 559,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21142857142857144,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2649,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21485411140583555,
+    "offensePassAttempts": 398,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1450676982591876,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2653,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1504950495049505,
+    "offensePassAttempts": 357,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17539863325740318,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2655,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2634032634032634,
+    "offensePassAttempts": 443,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24744897959183673,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 202,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.234375,
+    "offensePassAttempts": 481,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.155902004454343,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 5,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22727272727272727,
+    "offensePassAttempts": 328,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19065420560747665,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2116,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.30183727034120733,
+    "offensePassAttempts": 416,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24849699398797595,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 26,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17792792792792791,
+    "offensePassAttempts": 435,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19175257731958764,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 41,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2209026128266033,
+    "offensePassAttempts": 340,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2767857142857143,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2433,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21505376344086022,
+    "offensePassAttempts": 529,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20496894409937888,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2439,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15749235474006115,
+    "offensePassAttempts": 498,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1588785046728972,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 30,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19194312796208532,
+    "offensePassAttempts": 460,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19591836734693877,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 254,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1894273127753304,
+    "offensePassAttempts": 378,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1821561338289963,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 328,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21052631578947367,
+    "offensePassAttempts": 389,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25206611570247933,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2638,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18886198547215496,
+    "offensePassAttempts": 287,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.147005444646098,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2636,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19068736141906872,
+    "offensePassAttempts": 356,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2524271844660194,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 238,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18495934959349594,
+    "offensePassAttempts": 357,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21774193548387097,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 258,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.235,
+    "offensePassAttempts": 432,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1917808219178082,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 259,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22811059907834103,
+    "offensePassAttempts": 456,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22105263157894736,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 154,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21398305084745764,
+    "offensePassAttempts": 385,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.35014836795252224,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 264,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18055555555555555,
+    "offensePassAttempts": 400,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20864661654135339,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 265,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22693266832917705,
+    "offensePassAttempts": 771,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22966507177033493,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 98,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20433996383363473,
+    "offensePassAttempts": 557,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1932367149758454,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2711,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2,
+    "offensePassAttempts": 372,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.15938864628820962,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 277,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22633744855967078,
+    "offensePassAttempts": 534,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16573556797020483,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 275,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2100656455142232,
+    "offensePassAttempts": 322,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20344287949921752,
+    "season": 2014
+  },
+  {
+    "cfbdTeamId": 2751,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19736842105263158,
+    "offensePassAttempts": 375,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18226600985221675,
+    "season": 2014
+  }
+]

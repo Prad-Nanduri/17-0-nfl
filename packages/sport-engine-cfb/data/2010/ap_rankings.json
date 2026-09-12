@@ -1,0 +1,3602 @@
+[
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 23,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 41,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2440,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 36,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 36,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2440,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 62,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 23,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 37,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 10,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2440,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 13,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 38,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 9,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2440,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 12,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 49,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 7,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2440,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 49,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 7,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2440,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 44,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 11,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 39,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 15,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 34,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 15,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2005,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 8,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2440,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2005,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2440,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 58,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2440,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 57,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 53,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 52,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 8,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 47,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 54,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 56,
+    "isFinal": true,
+    "points": 0,
+    "rank": 1,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 3,
+    "isFinal": true,
+    "points": 0,
+    "rank": 2,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 3,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 4,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 5,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 6,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 7,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 8,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 9,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 10,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2440,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 11,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 12,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 13,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 14,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 15,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 16,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 17,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 18,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 19,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 20,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 21,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 22,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 120,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 23,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 202,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 24,
+    "season": 2010,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 25,
+    "season": 2010,
+    "week": 99
+  }
+]

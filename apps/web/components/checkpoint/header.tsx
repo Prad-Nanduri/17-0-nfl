@@ -5,7 +5,7 @@ import { PlayLink } from '../session/play-link';
 import { SportSelector } from '../session/sport-selector';
 import { AppearanceMenu } from './appearance-menu';
 
-export function Header({ page }: { page: 'home' | 'draft' | 'play' | 'account' }) {
+export function Header({ page }: { page: 'home' | 'draft' | 'play' | 'account' | 'leaderboard' }) {
   const inDraftRoom = page === 'draft' || page === 'play';
   return (
     <header className="page-container">
@@ -43,6 +43,13 @@ export function Header({ page }: { page: 'home' | 'draft' | 'play' | 'account' }
             className={`hidden min-h-11 items-center text-small font-semibold transition-colors hover:text-action md:inline-flex ${page === 'home' ? 'text-action' : 'text-muted'}`}
           >
             The game
+          </Link>
+          <Link
+            href="/leaderboard"
+            aria-current={page === 'leaderboard' ? 'page' : undefined}
+            className={`hidden min-h-11 items-center text-small font-semibold transition-colors hover:text-action md:inline-flex ${page === 'leaderboard' ? 'text-action' : 'text-muted'}`}
+          >
+            Leaderboard
           </Link>
           <PlayLink
             aria-current={inDraftRoom ? 'page' : undefined}

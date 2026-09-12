@@ -312,6 +312,8 @@ export async function simulate(sportId: SportId, request: Request, id: string): 
     seed: typeof seed === 'string' ? seed : null,
   });
   const next = await store.update(id, { ...current, result });
+  const { persistCompletedResult } = await import('./leaderboard');
+  void persistCompletedResult(next, result);
   return NextResponse.json({ draft: toClientDraft(next), result }, { status: 201 });
 }
 

@@ -1,0 +1,3827 @@
+[
+  {
+    "cfbdTeamId": 120,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 56,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 58,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 56,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 56,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 52,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 6,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 56,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 59,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 57,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 58,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 58,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 60,
+    "isFinal": true,
+    "points": 0,
+    "rank": 1,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 2,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 3,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 4,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 5,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 6,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 7,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 8,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 9,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 10,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 11,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 12,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 13,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 14,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 15,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 16,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 17,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 18,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 19,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 20,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 21,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 22,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 23,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 24,
+    "season": 2013,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 0,
+    "rank": 25,
+    "season": 2013,
+    "week": 99
+  }
+]

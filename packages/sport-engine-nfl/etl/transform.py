@@ -285,6 +285,8 @@ def _weekly_groups(weekly: pd.DataFrame) -> dict[tuple[str, str], pd.DataFrame]:
 
 
 def _snap_groups(snaps: pd.DataFrame) -> dict[tuple[str, str], pd.DataFrame]:
+    if snaps.empty or "pfr_player_id" not in snaps:
+        return {}
     regular = snaps[snaps["game_type"].eq("REG")] if "game_type" in snaps else snaps
     return {(str(key[0]), str(key[1])): frame for key, frame in regular.groupby(["pfr_player_id", "team"], dropna=True)}
 
@@ -375,6 +377,7 @@ def _relevant_stats(group: str) -> set[str]:
 def _stats_row(
     player: dict[str, Any],
     team: str,
+    season: int,
     weekly: pd.DataFrame,
     snap: pd.DataFrame | None,
     pfr_def_map: dict[str, pd.Series],
@@ -479,7 +482,7 @@ def _stats_row(
     stats["accuracyByDistance"] = sum(rate * weight for rate, weight in usable) / weight_total if weight_total else None
     common = {"offenseSnaps", "defenseSnaps", "stSnaps", "games"}
     stats = {key: json_value(value) for key, value in stats.items() if key in common or key in _relevant_stats(group)}
-    return {"gsisId": player_id, "franchiseKey": team, "season": int(player.get("season", 2023)), "position": player["primaryPosition"], "positionGroup": group, "eraTier": "full_feature", "games": len(event_weeks), "stats": stats, "isTeamLevelProxy": group == "OL"}
+    return {"gsisId": player_id, "franchiseKey": team, "season": season, "position": player["primaryPosition"], "positionGroup": group, "eraTier": "full_feature", "games": len(event_weeks), "stats": stats, "isTeamLevelProxy": group == "OL"}
 
 
 def transform(data: dict[str, pd.DataFrame | None], season: int, out: Path) -> dict[str, int]:
@@ -495,7 +498,9 @@ def transform(data: dict[str, pd.DataFrame | None], season: int, out: Path) -> d
     franchise_seasons = _team_results(schedules, season)
     weekly = data["weekly"]
     snaps = data["snap_counts"]
-    assert weekly is not None and snaps is not None
+    assert weekly is not None
+    if snaps is None:
+        snaps = pd.DataFrame()
     seasonal = data["seasonal"]
     if seasonal is not None:
         regular_weekly = weekly[weekly["season_type"].eq("REG")] if "season_type" in weekly else weekly
@@ -564,6 +569,7 @@ def transform(data: dict[str, pd.DataFrame | None], season: int, out: Path) -> d
                 _stats_row(
                     player,
                     team,
+                    season,
                     weekly_frame,
                     snap_frame,
                     pfr_def_map,

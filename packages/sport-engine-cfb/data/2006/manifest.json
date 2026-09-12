@@ -1,0 +1,33 @@
+{
+  "cfbdApiVersion": null,
+  "generatedAt": "2026-09-12T22:12:22.101Z",
+  "rowCounts": {
+    "apRankings": 375,
+    "cfpRankings": 0,
+    "conferences": 195,
+    "games": 1405,
+    "players": 553,
+    "players.skippedUnknownPosition": 3841,
+    "playerSeasonStats": 553,
+    "playerSeasonStats.skippedUnknownTeam": 0,
+    "programSeasons": 120,
+    "recruits": 2116,
+    "teamLineStats": 119,
+    "teams": 120
+  },
+  "season": 2006,
+  "sources": [
+    "/teams?year=2006",
+    "/teams/fbs?year=2006..2008",
+    "/conferences",
+    "/roster?year=2006",
+    "/stats/player/season?year=2006",
+    "/stats/season?year=2006",
+    "/stats/season/advanced?year=2006",
+    "/rankings?year=2006&seasonType=regular|postseason",
+    "/recruiting/players?year=2006",
+    "/recruiting/teams?year=2006",
+    "/rushing/teams/season?year=2006",
+    "/games?year=2006&seasonType=regular|postseason"
+  ]
+}

@@ -1,0 +1,3602 @@
+[
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1247,
+    "rank": 6,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 894,
+    "rank": 10,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 639,
+    "rank": 16,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 110,
+    "rank": 25,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 694,
+    "rank": 15,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 992,
+    "rank": 9,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 845,
+    "rank": 12,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 847,
+    "rank": 11,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 362,
+    "rank": 20,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1525,
+    "rank": 1,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 375,
+    "rank": 18,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 133,
+    "rank": 24,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 359,
+    "rank": 21,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1254,
+    "rank": 5,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1076,
+    "rank": 8,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 773,
+    "rank": 13,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 209,
+    "rank": 22,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 763,
+    "rank": 14,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1327,
+    "rank": 4,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1405,
+    "rank": 3,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1158,
+    "rank": 7,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1460,
+    "rank": 2,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 516,
+    "rank": 17,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 144,
+    "rank": 23,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 373,
+    "rank": 19,
+    "season": 2018,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1336,
+    "rank": 4,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 876,
+    "rank": 11,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 602,
+    "rank": 16,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 116,
+    "rank": 24,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 672,
+    "rank": 15,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 897,
+    "rank": 10,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 818,
+    "rank": 12,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 818,
+    "rank": 12,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 536,
+    "rank": 17,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1525,
+    "rank": 1,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 324,
+    "rank": 20,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 283,
+    "rank": 22,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1229,
+    "rank": 6,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1058,
+    "rank": 8,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 751,
+    "rank": 14,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 322,
+    "rank": 21,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 169,
+    "rank": 23,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 959,
+    "rank": 9,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1266,
+    "rank": 5,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1409,
+    "rank": 3,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1146,
+    "rank": 7,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1458,
+    "rank": 2,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 475,
+    "rank": 18,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 409,
+    "rank": 19,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 102,
+    "rank": 25,
+    "season": 2018,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1288,
+    "rank": 5,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 707,
+    "rank": 13,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 508,
+    "rank": 17,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 123,
+    "rank": 25,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 822,
+    "rank": 12,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 631,
+    "rank": 16,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1149,
+    "rank": 7,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1064,
+    "rank": 8,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 491,
+    "rank": 18,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1525,
+    "rank": 1,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 260,
+    "rank": 22,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1019,
+    "rank": 10,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1327,
+    "rank": 4,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 659,
+    "rank": 15,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 307,
+    "rank": 20,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 176,
+    "rank": 23,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 856,
+    "rank": 11,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1182,
+    "rank": 6,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1412,
+    "rank": 3,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1064,
+    "rank": 8,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1455,
+    "rank": 2,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 427,
+    "rank": 19,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 129,
+    "rank": 24,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 328,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 667,
+    "rank": 14,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 287,
+    "rank": 21,
+    "season": 2018,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1288,
+    "rank": 5,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 575,
+    "rank": 15,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 337,
+    "rank": 20,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 497,
+    "rank": 18,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1111,
+    "rank": 7,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 501,
+    "rank": 17,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1052,
+    "rank": 8,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1019,
+    "rank": 10,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 307,
+    "rank": 21,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1525,
+    "rank": 1,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 133,
+    "rank": 25,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1050,
+    "rank": 9,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1327,
+    "rank": 4,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 542,
+    "rank": 16,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 136,
+    "rank": 24,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 726,
+    "rank": 13,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1188,
+    "rank": 6,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1406,
+    "rank": 3,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 344,
+    "rank": 19,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 983,
+    "rank": 11,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 254,
+    "rank": 22,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1459,
+    "rank": 2,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 787,
+    "rank": 12,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 328,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 689,
+    "rank": 14,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 147,
+    "rank": 23,
+    "season": 2018,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1263,
+    "rank": 5,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 400,
+    "rank": 19,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 780,
+    "rank": 12,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 230,
+    "rank": 23,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1065,
+    "rank": 7,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 342,
+    "rank": 20,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1010,
+    "rank": 10,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1020,
+    "rank": 9,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 1500,
+    "rank": 1,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 486,
+    "rank": 18,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1025,
+    "rank": 8,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 215,
+    "rank": 24,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1304,
+    "rank": 4,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 278,
+    "rank": 21,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 559,
+    "rank": 15,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1181,
+    "rank": 6,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1381,
+    "rank": 3,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 141,
+    "rank": 25,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1001,
+    "rank": 11,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 490,
+    "rank": 17,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1435,
+    "rank": 2,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 264,
+    "rank": 22,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 624,
+    "rank": 13,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 328,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 586,
+    "rank": 14,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 506,
+    "rank": 16,
+    "season": 2018,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1202,
+    "rank": 6,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 734,
+    "rank": 13,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 905,
+    "rank": 11,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 891,
+    "rank": 12,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 938,
+    "rank": 10,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1317,
+    "rank": 4,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 593,
+    "rank": 16,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 1500,
+    "rank": 1,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 204,
+    "rank": 21,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 132,
+    "rank": 25,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1022,
+    "rank": 8,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1240,
+    "rank": 5,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 733,
+    "rank": 14,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 323,
+    "rank": 19,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 719,
+    "rank": 15,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1132,
+    "rank": 7,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1374,
+    "rank": 3,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1014,
+    "rank": 9,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 403,
+    "rank": 17,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 169,
+    "rank": 24,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1433,
+    "rank": 2,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 258,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 175,
+    "rank": 23,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 192,
+    "rank": 22,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 328,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 340,
+    "rank": 18,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 261,
+    "rank": 20,
+    "season": 2018,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1136,
+    "rank": 7,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 998,
+    "rank": 9,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 754,
+    "rank": 12,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 747,
+    "rank": 13,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 450,
+    "rank": 19,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 144,
+    "rank": 24,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 677,
+    "rank": 15,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 692,
+    "rank": 14,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1327,
+    "rank": 4,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 180,
+    "rank": 23,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1525,
+    "rank": 1,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 622,
+    "rank": 16,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 958,
+    "rank": 11,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1250,
+    "rank": 5,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 528,
+    "rank": 17,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 357,
+    "rank": 20,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 489,
+    "rank": 18,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1186,
+    "rank": 6,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1065,
+    "rank": 8,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1400,
+    "rank": 3,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2026,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 79,
+    "rank": 25,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 291,
+    "rank": 21,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 996,
+    "rank": 10,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1454,
+    "rank": 2,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 186,
+    "rank": 22,
+    "season": 2018,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1085,
+    "rank": 8,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 931,
+    "rank": 11,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 678,
+    "rank": 14,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 700,
+    "rank": 13,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 917,
+    "rank": 12,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 640,
+    "rank": 15,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 136,
+    "rank": 25,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1244,
+    "rank": 5,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 1524,
+    "rank": 1,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 231,
+    "rank": 22,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 551,
+    "rank": 17,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1457,
+    "rank": 2,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 199,
+    "rank": 24,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1146,
+    "rank": 6,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 523,
+    "rank": 18,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 226,
+    "rank": 23,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 266,
+    "rank": 19,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1144,
+    "rank": 7,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 999,
+    "rank": 9,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1355,
+    "rank": 4,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 242,
+    "rank": 21,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 243,
+    "rank": 20,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 979,
+    "rank": 10,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1392,
+    "rank": 3,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 592,
+    "rank": 16,
+    "season": 2018,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1426,
+    "rank": 2,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 719,
+    "rank": 14,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 485,
+    "rank": 18,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1174,
+    "rank": 6,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 505,
+    "rank": 17,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1098,
+    "rank": 7,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 335,
+    "rank": 21,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 794,
+    "rank": 13,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 419,
+    "rank": 19,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 59,
+    "isFinal": false,
+    "points": 1522,
+    "rank": 1,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 136,
+    "rank": 24,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 257,
+    "rank": 22,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1420,
+    "rank": 3,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 875,
+    "rank": 12,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1097,
+    "rank": 8,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 710,
+    "rank": 15,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 956,
+    "rank": 9,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 879,
+    "rank": 11,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1315,
+    "rank": 5,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 144,
+    "rank": 23,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 114,
+    "rank": 25,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 917,
+    "rank": 10,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1331,
+    "rank": 4,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 342,
+    "rank": 20,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 591,
+    "rank": 16,
+    "season": 2018,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1405,
+    "rank": 2,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 210,
+    "rank": 22,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 707,
+    "rank": 13,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 88,
+    "rank": 25,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 998,
+    "rank": 9,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 462,
+    "rank": 18,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 700,
+    "rank": 14,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 978,
+    "rank": 10,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1002,
+    "rank": 8,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1233,
+    "rank": 5,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 225,
+    "rank": 21,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 58,
+    "isFinal": false,
+    "points": 1497,
+    "rank": 1,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1395,
+    "rank": 3,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 281,
+    "rank": 20,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 687,
+    "rank": 15,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 920,
+    "rank": 11,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 642,
+    "rank": 16,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 403,
+    "rank": 19,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1193,
+    "rank": 7,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1216,
+    "rank": 6,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 759,
+    "rank": 12,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1278,
+    "rank": 4,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 118,
+    "rank": 23,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 89,
+    "rank": 24,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 600,
+    "rank": 17,
+    "season": 2018,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1422,
+    "rank": 2,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 541,
+    "rank": 17,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2641,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 106,
+    "rank": 25,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 923,
+    "rank": 12,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 297,
+    "rank": 19,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1143,
+    "rank": 7,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 946,
+    "rank": 11,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 25,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 118,
+    "rank": 24,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 270,
+    "rank": 20,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 987,
+    "rank": 10,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1238,
+    "rank": 5,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 1523,
+    "rank": 1,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 241,
+    "rank": 23,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1363,
+    "rank": 4,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 256,
+    "rank": 21,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 698,
+    "rank": 14,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1001,
+    "rank": 9,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 662,
+    "rank": 15,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 308,
+    "rank": 18,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1201,
+    "rank": 6,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1067,
+    "rank": 8,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 727,
+    "rank": 13,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1409,
+    "rank": 3,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 571,
+    "rank": 16,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 244,
+    "rank": 22,
+    "season": 2018,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1416,
+    "rank": 2,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 587,
+    "rank": 15,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 502,
+    "rank": 17,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 841,
+    "rank": 12,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 399,
+    "rank": 20,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1055,
+    "rank": 7,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 947,
+    "rank": 10,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 75,
+    "rank": 25,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 958,
+    "rank": 9,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1241,
+    "rank": 6,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 58,
+    "isFinal": false,
+    "points": 1521,
+    "rank": 1,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 790,
+    "rank": 14,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 193,
+    "rank": 22,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1357,
+    "rank": 4,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 86,
+    "rank": 24,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 448,
+    "rank": 19,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 947,
+    "rank": 10,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 486,
+    "rank": 18,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1283,
+    "rank": 5,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1034,
+    "rank": 8,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 556,
+    "rank": 16,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 130,
+    "rank": 23,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1405,
+    "rank": 3,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 816,
+    "rank": 13,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 362,
+    "rank": 21,
+    "season": 2018,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1407,
+    "rank": 3,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 119,
+    "rank": 24,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 678,
+    "rank": 15,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 793,
+    "rank": 14,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 301,
+    "rank": 20,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 992,
+    "rank": 9,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 884,
+    "rank": 10,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 250,
+    "rank": 22,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1224,
+    "rank": 7,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 830,
+    "rank": 12,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 139,
+    "rank": 23,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 54,
+    "isFinal": false,
+    "points": 1517,
+    "rank": 1,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 654,
+    "rank": 16,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1288,
+    "rank": 4,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 104,
+    "rank": 25,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 385,
+    "rank": 19,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 836,
+    "rank": 11,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1227,
+    "rank": 6,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1263,
+    "rank": 5,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1022,
+    "rank": 8,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 494,
+    "rank": 18,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 6,
+    "isFinal": false,
+    "points": 1430,
+    "rank": 2,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 794,
+    "rank": 13,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 299,
+    "rank": 21,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 500,
+    "rank": 17,
+    "season": 2018,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1350,
+    "rank": 3,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 89,
+    "rank": 25,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 125,
+    "rank": 24,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 632,
+    "rank": 16,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 762,
+    "rank": 14,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 217,
+    "rank": 23,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 865,
+    "rank": 10,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 870,
+    "rank": 9,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 628,
+    "rank": 17,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1236,
+    "rank": 7,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 801,
+    "rank": 11,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 48,
+    "isFinal": false,
+    "points": 1511,
+    "rank": 1,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 538,
+    "rank": 18,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1262,
+    "rank": 4,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 684,
+    "rank": 15,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 318,
+    "rank": 21,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 768,
+    "rank": 13,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1258,
+    "rank": 5,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1251,
+    "rank": 6,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1080,
+    "rank": 8,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 407,
+    "rank": 19,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 12,
+    "isFinal": false,
+    "points": 1467,
+    "rank": 2,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 777,
+    "rank": 12,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 241,
+    "rank": 22,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 391,
+    "rank": 20,
+    "season": 2018,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1350,
+    "rank": 3,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 533,
+    "rank": 16,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 511,
+    "rank": 17,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 148,
+    "rank": 24,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 778,
+    "rank": 13,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1215,
+    "rank": 6,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 543,
+    "rank": 15,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1013,
+    "rank": 9,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 106,
+    "rank": 25,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 42,
+    "isFinal": false,
+    "points": 1505,
+    "rank": 1,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 450,
+    "rank": 18,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1256,
+    "rank": 5,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 877,
+    "rank": 11,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 773,
+    "rank": 14,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1012,
+    "rank": 10,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1271,
+    "rank": 4,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 216,
+    "rank": 23,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1173,
+    "rank": 7,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 804,
+    "rank": 12,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 312,
+    "rank": 21,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 384,
+    "rank": 19,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 18,
+    "isFinal": false,
+    "points": 1476,
+    "rank": 2,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 351,
+    "rank": 20,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1027,
+    "rank": 8,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 292,
+    "rank": 22,
+    "season": 2018,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 61,
+    "isFinal": true,
+    "points": 1525,
+    "rank": 1,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1462,
+    "rank": 2,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1364,
+    "rank": 3,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1356,
+    "rank": 4,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1286,
+    "rank": 5,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1119,
+    "rank": 6,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1103,
+    "rank": 7,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1103,
+    "rank": 7,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1076,
+    "rank": 9,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 959,
+    "rank": 10,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2116,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 898,
+    "rank": 11,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 820,
+    "rank": 12,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 806,
+    "rank": 13,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 745,
+    "rank": 14,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 683,
+    "rank": 15,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 552,
+    "rank": 16,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 492,
+    "rank": 17,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 466,
+    "rank": 18,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 418,
+    "rank": 19,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 296,
+    "rank": 20,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 77,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 284,
+    "rank": 21,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 328,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 188,
+    "rank": 22,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 184,
+    "rank": 23,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2132,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 171,
+    "rank": 24,
+    "season": 2018,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 120,
+    "rank": 25,
+    "season": 2018,
+    "week": 99
+  }
+]

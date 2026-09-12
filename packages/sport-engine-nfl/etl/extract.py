@@ -101,7 +101,11 @@ def extract_season(
         ),
     }
     for name, loader in loaders.items():
-        result[name] = cache_frame(name, staging, loader, refresh)
+        try:
+            result[name] = cache_frame(name, staging, loader, refresh)
+        except Exception as error:
+            print(f"WARNING: {name} unavailable for {season} ({error}); treating as empty")
+            result[name] = None
 
     if include_pbp:
         try:

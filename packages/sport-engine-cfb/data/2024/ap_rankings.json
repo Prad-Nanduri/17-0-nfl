@@ -1,0 +1,3836 @@
+[
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 256,
+    "rank": 22,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 61,
+    "rank": 25,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 785,
+    "rank": 14,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 555,
+    "rank": 18,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 810,
+    "rank": 13,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 322,
+    "rank": 21,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 583,
+    "rank": 16,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1310,
+    "rank": 5,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1485,
+    "rank": 2,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1319,
+    "rank": 4,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 74,
+    "rank": 24,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 62,
+    "isFinal": false,
+    "points": 1550,
+    "rank": 1,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1113,
+    "rank": 8,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1083,
+    "rank": 9,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 687,
+    "rank": 15,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1413,
+    "rank": 3,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1130,
+    "rank": 7,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 444,
+    "rank": 19,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 953,
+    "rank": 10,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1191,
+    "rank": 6,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 323,
+    "rank": 20,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 559,
+    "rank": 17,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 945,
+    "rank": 11,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 880,
+    "rank": 12,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2439,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 125,
+    "rank": 23,
+    "season": 2024,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 333,
+    "rank": 20,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 456,
+    "rank": 19,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1161,
+    "rank": 7,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 533,
+    "rank": 16,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 788,
+    "rank": 14,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 463,
+    "rank": 18,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1273,
+    "rank": 5,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1484,
+    "rank": 2,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1274,
+    "rank": 4,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 62,
+    "isFinal": false,
+    "points": 1550,
+    "rank": 1,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 964,
+    "rank": 11,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 265,
+    "rank": 21,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 176,
+    "rank": 24,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 966,
+    "rank": 10,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 674,
+    "rank": 15,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1409,
+    "rank": 3,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1036,
+    "rank": 9,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 203,
+    "rank": 23,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1270,
+    "rank": 6,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1095,
+    "rank": 8,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 98,
+    "rank": 25,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 240,
+    "rank": 22,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 524,
+    "rank": 17,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 907,
+    "rank": 12,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 839,
+    "rank": 13,
+    "season": 2024,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 227,
+    "rank": 22,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 592,
+    "rank": 17,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 351,
+    "rank": 20,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1084,
+    "rank": 9,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 468,
+    "rank": 18,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 752,
+    "rank": 13,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 234,
+    "rank": 21,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1123,
+    "rank": 8,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1442,
+    "rank": 3,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1158,
+    "rank": 6,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 62,
+    "isFinal": false,
+    "points": 1550,
+    "rank": 1,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1449,
+    "rank": 2,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 707,
+    "rank": 14,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 653,
+    "rank": 16,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 130,
+    "rank": 24,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 662,
+    "rank": 15,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1310,
+    "rank": 5,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 867,
+    "rank": 11,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1150,
+    "rank": 7,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1066,
+    "rank": 10,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 115,
+    "rank": 25,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 203,
+    "rank": 23,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 447,
+    "rank": 19,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1348,
+    "rank": 4,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 853,
+    "rank": 12,
+    "season": 2024,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 538,
+    "rank": 17,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 526,
+    "rank": 18,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 231,
+    "rank": 22,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 237,
+    "rank": 21,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 887,
+    "rank": 12,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 172,
+    "rank": 23,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 995,
+    "rank": 9,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 15,
+    "isFinal": false,
+    "points": 1490,
+    "rank": 2,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1060,
+    "rank": 8,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 140,
+    "rank": 25,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1403,
+    "rank": 3,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 46,
+    "isFinal": false,
+    "points": 1532,
+    "rank": 1,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 804,
+    "rank": 13,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 927,
+    "rank": 11,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1189,
+    "rank": 6,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 566,
+    "rank": 16,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 292,
+    "rank": 20,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1386,
+    "rank": 4,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1260,
+    "rank": 5,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 629,
+    "rank": 15,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1122,
+    "rank": 7,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 971,
+    "rank": 10,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 171,
+    "rank": 24,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 689,
+    "rank": 14,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 492,
+    "rank": 19,
+    "season": 2024,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 734,
+    "rank": 13,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 702,
+    "rank": 14,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 309,
+    "rank": 21,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 381,
+    "rank": 20,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1010,
+    "rank": 12,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1022,
+    "rank": 11,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 503,
+    "rank": 17,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 142,
+    "rank": 23,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1476,
+    "rank": 3,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1090,
+    "rank": 8,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1077,
+    "rank": 9,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 54,
+    "isFinal": false,
+    "points": 1566,
+    "rank": 1,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 521,
+    "rank": 16,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1125,
+    "rank": 6,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1323,
+    "rank": 5,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 672,
+    "rank": 15,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1492,
+    "rank": 2,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1331,
+    "rank": 4,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1107,
+    "rank": 7,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 114,
+    "rank": 25,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 427,
+    "rank": 18,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 383,
+    "rank": 19,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 103,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 116,
+    "rank": 24,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 292,
+    "rank": 22,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1073,
+    "rank": 10,
+    "season": 2024,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 498,
+    "rank": 17,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 445,
+    "rank": 19,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 133,
+    "rank": 25,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1001,
+    "rank": 9,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 727,
+    "rank": 14,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 161,
+    "rank": 23,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 998,
+    "rank": 10,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1463,
+    "rank": 2,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1301,
+    "rank": 4,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 188,
+    "rank": 22,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1525,
+    "rank": 1,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1242,
+    "rank": 6,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 142,
+    "rank": 24,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 661,
+    "rank": 15,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 399,
+    "rank": 20,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1395,
+    "rank": 3,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 739,
+    "rank": 13,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 639,
+    "rank": 16,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1110,
+    "rank": 7,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1278,
+    "rank": 5,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 446,
+    "rank": 18,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 789,
+    "rank": 12,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1096,
+    "rank": 8,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 984,
+    "rank": 11,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2439,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 231,
+    "rank": 21,
+    "season": 2024,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 571,
+    "rank": 17,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 968,
+    "rank": 11,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 220,
+    "rank": 22,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 995,
+    "rank": 9,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 312,
+    "rank": 21,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 400,
+    "rank": 20,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 152,
+    "rank": 23,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 952,
+    "rank": 13,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1324,
+    "rank": 4,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1417,
+    "rank": 3,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 113,
+    "rank": 24,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1549,
+    "rank": 1,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1467,
+    "rank": 2,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 577,
+    "rank": 16,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 44,
+    "rank": 25,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 471,
+    "rank": 19,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 972,
+    "rank": 10,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1276,
+    "rank": 6,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 706,
+    "rank": 14,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1081,
+    "rank": 7,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1000,
+    "rank": 8,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 570,
+    "rank": 18,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 968,
+    "rank": 11,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1283,
+    "rank": 5,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 619,
+    "rank": 15,
+    "season": 2024,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 576,
+    "rank": 16,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 972,
+    "rank": 10,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 910,
+    "rank": 11,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 193,
+    "rank": 23,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 313,
+    "rank": 22,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 830,
+    "rank": 13,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1353,
+    "rank": 4,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1375,
+    "rank": 3,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 392,
+    "rank": 20,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 59,
+    "isFinal": false,
+    "points": 1523,
+    "rank": 1,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1434,
+    "rank": 2,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1049,
+    "rank": 8,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 359,
+    "rank": 21,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 408,
+    "rank": 18,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 238,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 92,
+    "rank": 25,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 748,
+    "rank": 14,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1257,
+    "rank": 5,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 643,
+    "rank": 15,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1075,
+    "rank": 7,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 891,
+    "rank": 12,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2426,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 166,
+    "rank": 24,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 396,
+    "rank": 19,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 984,
+    "rank": 9,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1242,
+    "rank": 6,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 573,
+    "rank": 17,
+    "season": 2024,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 567,
+    "rank": 17,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 982,
+    "rank": 9,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 889,
+    "rank": 13,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 137,
+    "rank": 23,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 260,
+    "rank": 21,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 580,
+    "rank": 16,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 133,
+    "rank": 24,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1357,
+    "rank": 4,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1380,
+    "rank": 3,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 249,
+    "rank": 22,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 6,
+    "isFinal": false,
+    "points": 1493,
+    "rank": 2,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1300,
+    "rank": 5,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 994,
+    "rank": 8,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 409,
+    "rank": 19,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 511,
+    "rank": 18,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 744,
+    "rank": 14,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 56,
+    "isFinal": false,
+    "points": 1544,
+    "rank": 1,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1127,
+    "rank": 7,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 959,
+    "rank": 11,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 914,
+    "rank": 12,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2426,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 84,
+    "rank": 25,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 397,
+    "rank": 20,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 980,
+    "rank": 10,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1232,
+    "rank": 6,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 597,
+    "rank": 15,
+    "season": 2024,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 459,
+    "rank": 18,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 853,
+    "rank": 11,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 753,
+    "rank": 14,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 165,
+    "rank": 25,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 473,
+    "rank": 16,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 459,
+    "rank": 18,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 170,
+    "rank": 24,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 9,
+    "isFinal": false,
+    "points": 1473,
+    "rank": 2,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1305,
+    "rank": 4,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 182,
+    "rank": 23,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1348,
+    "rank": 3,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1299,
+    "rank": 5,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 827,
+    "rank": 13,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 352,
+    "rank": 21,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 978,
+    "rank": 9,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 459,
+    "rank": 18,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 702,
+    "rank": 15,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 52,
+    "isFinal": false,
+    "points": 1516,
+    "rank": 1,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1182,
+    "rank": 7,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1001,
+    "rank": 8,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 853,
+    "rank": 11,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 196,
+    "rank": 22,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 861,
+    "rank": 10,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1187,
+    "rank": 6,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 463,
+    "rank": 17,
+    "season": 2024,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 398,
+    "rank": 20,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 656,
+    "rank": 16,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 549,
+    "rank": 17,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 467,
+    "rank": 18,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 854,
+    "rank": 11,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 172,
+    "rank": 23,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 913,
+    "rank": 10,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1445,
+    "rank": 3,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1208,
+    "rank": 7,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 169,
+    "rank": 24,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1216,
+    "rank": 6,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1329,
+    "rank": 5,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 757,
+    "rank": 13,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1085,
+    "rank": 9,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 799,
+    "rank": 12,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 428,
+    "rank": 19,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 122,
+    "rank": 25,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 19,
+    "isFinal": false,
+    "points": 1525,
+    "rank": 2,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 40,
+    "isFinal": false,
+    "points": 1549,
+    "rank": 1,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1356,
+    "rank": 4,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 748,
+    "rank": 14,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 223,
+    "rank": 22,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 694,
+    "rank": 15,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1170,
+    "rank": 8,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 253,
+    "rank": 21,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2439,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 122,
+    "rank": 25,
+    "season": 2024,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 388,
+    "rank": 20,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 168,
+    "rank": 23,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 530,
+    "rank": 18,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 327,
+    "rank": 22,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1037,
+    "rank": 10,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 690,
+    "rank": 13,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 805,
+    "rank": 12,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1432,
+    "rank": 3,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1051,
+    "rank": 9,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 458,
+    "rank": 19,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1073,
+    "rank": 8,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 13,
+    "isFinal": false,
+    "points": 1482,
+    "rank": 2,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 637,
+    "rank": 14,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1009,
+    "rank": 11,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1269,
+    "rank": 6,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 375,
+    "rank": 21,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 77,
+    "rank": 24,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 44,
+    "isFinal": false,
+    "points": 1527,
+    "rank": 1,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1328,
+    "rank": 4,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1283,
+    "rank": 5,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 546,
+    "rank": 16,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 553,
+    "rank": 15,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 540,
+    "rank": 17,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1139,
+    "rank": 7,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 69,
+    "rank": 25,
+    "season": 2024,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 742,
+    "rank": 14,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 836,
+    "rank": 13,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 354,
+    "rank": 20,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 912,
+    "rank": 12,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1008,
+    "rank": 11,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 447,
+    "rank": 18,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 266,
+    "rank": 22,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1461,
+    "rank": 3,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1050,
+    "rank": 10,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 137,
+    "rank": 24,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1093,
+    "rank": 9,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 23,
+    "isFinal": false,
+    "points": 1518,
+    "rank": 2,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 537,
+    "rank": 16,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1127,
+    "rank": 7,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1316,
+    "rank": 5,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 649,
+    "rank": 15,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 82,
+    "rank": 25,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 35,
+    "isFinal": false,
+    "points": 1540,
+    "rank": 1,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1358,
+    "rank": 4,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1188,
+    "rank": 6,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2459,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 151,
+    "rank": 23,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 477,
+    "rank": 17,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 418,
+    "rank": 19,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 291,
+    "rank": 21,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1094,
+    "rank": 8,
+    "season": 2024,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 610,
+    "rank": 16,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 607,
+    "rank": 17,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 349,
+    "rank": 19,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 339,
+    "rank": 20,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 897,
+    "rank": 11,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 811,
+    "rank": 13,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 935,
+    "rank": 10,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1478,
+    "rank": 2,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1146,
+    "rank": 8,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 294,
+    "rank": 21,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1197,
+    "rank": 7,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 57,
+    "isFinal": false,
+    "points": 1545,
+    "rank": 1,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 410,
+    "rank": 18,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 968,
+    "rank": 9,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1212,
+    "rank": 6,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 703,
+    "rank": 15,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1418,
+    "rank": 3,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1309,
+    "rank": 4,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 784,
+    "rank": 14,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1240,
+    "rank": 5,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 59,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 161,
+    "rank": 23,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 188,
+    "rank": 22,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 142,
+    "rank": 24,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 134,
+    "rank": 25,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 893,
+    "rank": 12,
+    "season": 2024,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 647,
+    "rank": 16,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 548,
+    "rank": 17,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 182,
+    "rank": 24,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1127,
+    "rank": 8,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 832,
+    "rank": 12,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 295,
+    "rank": 20,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1059,
+    "rank": 9,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1174,
+    "rank": 7,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1378,
+    "rank": 3,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 274,
+    "rank": 21,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 62,
+    "isFinal": false,
+    "points": 1550,
+    "rank": 1,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1302,
+    "rank": 5,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 214,
+    "rank": 22,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 717,
+    "rank": 15,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1484,
+    "rank": 2,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 840,
+    "rank": 11,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 789,
+    "rank": 13,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1200,
+    "rank": 6,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1373,
+    "rank": 4,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 235,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 121,
+    "rank": 25,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 206,
+    "rank": 23,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 502,
+    "rank": 18,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 756,
+    "rank": 14,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1036,
+    "rank": 10,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2439,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 340,
+    "rank": 19,
+    "season": 2024,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 401,
+    "rank": 18,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 531,
+    "rank": 17,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 363,
+    "rank": 19,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 837,
+    "rank": 12,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1001,
+    "rank": 10,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 329,
+    "rank": 20,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1052,
+    "rank": 9,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1233,
+    "rank": 6,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1258,
+    "rank": 5,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 317,
+    "rank": 21,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 62,
+    "isFinal": false,
+    "points": 1550,
+    "rank": 1,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1474,
+    "rank": 2,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 228,
+    "rank": 23,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 680,
+    "rank": 16,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1356,
+    "rank": 4,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 838,
+    "rank": 11,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 770,
+    "rank": 14,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1224,
+    "rank": 7,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1398,
+    "rank": 3,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 235,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 132,
+    "rank": 25,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 234,
+    "rank": 22,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 827,
+    "rank": 13,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 697,
+    "rank": 15,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1108,
+    "rank": 8,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 2439,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 144,
+    "rank": 24,
+    "season": 2024,
+    "week": 16
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 56,
+    "isFinal": true,
+    "points": 1400,
+    "rank": 1,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1342,
+    "rank": 2,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1255,
+    "rank": 3,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1211,
+    "rank": 4,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1203,
+    "rank": 5,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1141,
+    "rank": 6,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 9,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1041,
+    "rank": 7,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 958,
+    "rank": 8,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 945,
+    "rank": 9,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 84,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 906,
+    "rank": 10,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 780,
+    "rank": 11,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 721,
+    "rank": 12,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 252,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 718,
+    "rank": 13,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 712,
+    "rank": 14,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 66,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 594,
+    "rank": 15,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 356,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 533,
+    "rank": 16,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 415,
+    "rank": 17,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 411,
+    "rank": 18,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2579,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 405,
+    "rank": 19,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 183,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 320,
+    "rank": 20,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 349,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 307,
+    "rank": 21,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 266,
+    "rank": 22,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2439,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 178,
+    "rank": 23,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 235,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 154,
+    "rank": 24,
+    "season": 2024,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 79,
+    "rank": 25,
+    "season": 2024,
+    "week": 99
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "ARI",
+    "losses": 11,
+    "season": 2012,
+    "ties": 0,
+    "wins": 5
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "ATL",
+    "losses": 3,
+    "season": 2012,
+    "ties": 0,
+    "wins": 13
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "BAL",
+    "losses": 6,
+    "season": 2012,
+    "ties": 0,
+    "wins": 10
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "BUF",
+    "losses": 10,
+    "season": 2012,
+    "ties": 0,
+    "wins": 6
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "CAR",
+    "losses": 9,
+    "season": 2012,
+    "ties": 0,
+    "wins": 7
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "CHI",
+    "losses": 6,
+    "season": 2012,
+    "ties": 0,
+    "wins": 10
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "CIN",
+    "losses": 6,
+    "season": 2012,
+    "ties": 0,
+    "wins": 10
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "CLE",
+    "losses": 11,
+    "season": 2012,
+    "ties": 0,
+    "wins": 5
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "DAL",
+    "losses": 8,
+    "season": 2012,
+    "ties": 0,
+    "wins": 8
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "DEN",
+    "losses": 3,
+    "season": 2012,
+    "ties": 0,
+    "wins": 13
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "DET",
+    "losses": 12,
+    "season": 2012,
+    "ties": 0,
+    "wins": 4
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "GB",
+    "losses": 5,
+    "season": 2012,
+    "ties": 0,
+    "wins": 11
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "HOU",
+    "losses": 4,
+    "season": 2012,
+    "ties": 0,
+    "wins": 12
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "IND",
+    "losses": 5,
+    "season": 2012,
+    "ties": 0,
+    "wins": 11
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "JAX",
+    "losses": 14,
+    "season": 2012,
+    "ties": 0,
+    "wins": 2
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "KC",
+    "losses": 14,
+    "season": 2012,
+    "ties": 0,
+    "wins": 2
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "LA",
+    "losses": 8,
+    "season": 2012,
+    "ties": 1,
+    "wins": 7
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "LAC",
+    "losses": 9,
+    "season": 2012,
+    "ties": 0,
+    "wins": 7
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "LV",
+    "losses": 12,
+    "season": 2012,
+    "ties": 0,
+    "wins": 4
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "MIA",
+    "losses": 9,
+    "season": 2012,
+    "ties": 0,
+    "wins": 7
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "MIN",
+    "losses": 6,
+    "season": 2012,
+    "ties": 0,
+    "wins": 10
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "NE",
+    "losses": 4,
+    "season": 2012,
+    "ties": 0,
+    "wins": 12
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "NO",
+    "losses": 9,
+    "season": 2012,
+    "ties": 0,
+    "wins": 7
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "NYG",
+    "losses": 7,
+    "season": 2012,
+    "ties": 0,
+    "wins": 9
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "NYJ",
+    "losses": 10,
+    "season": 2012,
+    "ties": 0,
+    "wins": 6
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "PHI",
+    "losses": 12,
+    "season": 2012,
+    "ties": 0,
+    "wins": 4
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "PIT",
+    "losses": 8,
+    "season": 2012,
+    "ties": 0,
+    "wins": 8
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "SEA",
+    "losses": 5,
+    "season": 2012,
+    "ties": 0,
+    "wins": 11
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "SF",
+    "losses": 4,
+    "season": 2012,
+    "ties": 1,
+    "wins": 11
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "TB",
+    "losses": 9,
+    "season": 2012,
+    "ties": 0,
+    "wins": 7
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "TEN",
+    "losses": 10,
+    "season": 2012,
+    "ties": 0,
+    "wins": 6
+  },
+  {
+    "eraTier": "full_feature",
+    "franchiseKey": "WAS",
+    "losses": 6,
+    "season": 2012,
+    "ties": 0,
+    "wins": 10
+  }
+]

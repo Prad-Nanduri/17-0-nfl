@@ -1,0 +1,1242 @@
+[
+  {
+    "cfbdTeamId": 2005,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20817843866171004,
+    "offensePassAttempts": 151,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16057441253263707,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2006,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21588089330024815,
+    "offensePassAttempts": 583,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2246376811594203,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 333,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20759493670886076,
+    "offensePassAttempts": 328,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.136986301369863,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 12,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.166044776119403,
+    "offensePassAttempts": 538,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14979757085020243,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 9,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2065439672801636,
+    "offensePassAttempts": 413,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1866913123844732,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 8,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24102564102564103,
+    "offensePassAttempts": 459,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19047619047619047,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2032,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20689655172413793,
+    "offensePassAttempts": 412,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18787878787878787,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 349,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21663019693654267,
+    "offensePassAttempts": 115,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.11357702349869452,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1789709172259508,
+    "offensePassAttempts": 257,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21705426356589147,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2050,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14613778705636743,
+    "offensePassAttempts": 492,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.13663366336633664,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 239,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16379310344827586,
+    "offensePassAttempts": 475,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16974169741697417,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 68,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18543046357615894,
+    "offensePassAttempts": 394,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22522522522522523,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 103,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17049808429118773,
+    "offensePassAttempts": 473,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.3122923588039867,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 189,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2562674094707521,
+    "offensePassAttempts": 442,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23980815347721823,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2084,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18095238095238095,
+    "offensePassAttempts": 380,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17804878048780487,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 252,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2647058823529412,
+    "offensePassAttempts": 498,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20495495495495494,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 25,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20092378752886836,
+    "offensePassAttempts": 366,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18639798488664988,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2117,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16666666666666666,
+    "offensePassAttempts": 413,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2247191011235955,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2132,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19617224880382775,
+    "offensePassAttempts": 371,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17699115044247787,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 228,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24541284403669725,
+    "offensePassAttempts": 474,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17857142857142858,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 38,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2073170731707317,
+    "offensePassAttempts": 404,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19607843137254902,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 36,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16628175519630484,
+    "offensePassAttempts": 351,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20474777448071216,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 150,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1540084388185654,
+    "offensePassAttempts": 551,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18362282878411912,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 151,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17195767195767195,
+    "offensePassAttempts": 488,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16711590296495957,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2199,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1517094017094017,
+    "offensePassAttempts": 308,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2665036674816626,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 57,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.26287262872628725,
+    "offensePassAttempts": 288,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2138364779874214,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2226,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18669527896995708,
+    "offensePassAttempts": 416,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20855614973262032,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2229,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23636363636363636,
+    "offensePassAttempts": 369,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20649651972157773,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 52,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22748815165876776,
+    "offensePassAttempts": 428,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19463087248322147,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 278,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23847695390781562,
+    "offensePassAttempts": 535,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21040189125295508,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 61,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1736842105263158,
+    "offensePassAttempts": 399,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19914346895074947,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 59,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19856459330143542,
+    "offensePassAttempts": 194,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16154873164218958,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 62,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22707423580786026,
+    "offensePassAttempts": 399,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21705426356589147,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 248,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1826086956521739,
+    "offensePassAttempts": 591,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20949720670391062,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 70,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19623655913978494,
+    "offensePassAttempts": 448,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19155844155844157,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 356,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1609442060085837,
+    "offensePassAttempts": 354,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2230769230769231,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 84,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20440881763527055,
+    "offensePassAttempts": 540,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18156424581005587,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2294,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20449438202247192,
+    "offensePassAttempts": 389,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20708446866485014,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 66,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18837675350701402,
+    "offensePassAttempts": 458,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21379310344827587,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2305,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2216867469879518,
+    "offensePassAttempts": 313,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16310679611650486,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2306,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20930232558139536,
+    "offensePassAttempts": 315,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1961206896551724,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21603563474387527,
+    "offensePassAttempts": 358,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20153550863723607,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 96,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16121495327102803,
+    "offensePassAttempts": 387,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19390581717451524,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 309,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23037974683544304,
+    "offensePassAttempts": 393,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21641791044776118,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2348,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.13411764705882354,
+    "offensePassAttempts": 533,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18240343347639484,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 97,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16990291262135923,
+    "offensePassAttempts": 456,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2634146341463415,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 99,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24031007751937986,
+    "offensePassAttempts": 356,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1609442060085837,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 276,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21149897330595482,
+    "offensePassAttempts": 607,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17798594847775176,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 120,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19012345679012346,
+    "offensePassAttempts": 304,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2785714285714286,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 113,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1694915254237288,
+    "offensePassAttempts": 444,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2669039145907473,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 235,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22916666666666666,
+    "offensePassAttempts": 283,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20087336244541484,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2390,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15702479338842976,
+    "offensePassAttempts": 447,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19701492537313434,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 193,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17647058823529413,
+    "offensePassAttempts": 495,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20477815699658702,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 130,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21237113402061855,
+    "offensePassAttempts": 318,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22975929978118162,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 127,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.3041095890410959,
+    "offensePassAttempts": 465,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14065934065934066,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2393,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1513157894736842,
+    "offensePassAttempts": 344,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19318181818181818,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 135,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20185614849187936,
+    "offensePassAttempts": 330,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1887966804979253,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 344,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1670235546038544,
+    "offensePassAttempts": 424,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21391752577319587,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 142,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2400990099009901,
+    "offensePassAttempts": 414,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23095823095823095,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2426,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14137214137214138,
+    "offensePassAttempts": 172,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14923076923076922,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 152,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24379232505643342,
+    "offensePassAttempts": 569,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18854415274463007,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 158,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17716535433070865,
+    "offensePassAttempts": 378,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19630872483221476,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2440,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.12955465587044535,
+    "offensePassAttempts": 406,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1620745542949757,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 167,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1790633608815427,
+    "offensePassAttempts": 154,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1899159663865546,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 166,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1970074812967581,
+    "offensePassAttempts": 402,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21035598705501618,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 153,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22716627634660422,
+    "offensePassAttempts": 441,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1761904761904762,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2459,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22012578616352202,
+    "offensePassAttempts": 410,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17427385892116182,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 249,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23943661971830985,
+    "offensePassAttempts": 375,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.26269315673289184,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 77,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21772151898734177,
+    "offensePassAttempts": 369,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20036429872495445,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 87,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19273743016759776,
+    "offensePassAttempts": 388,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19098712446351931,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 195,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18356164383561643,
+    "offensePassAttempts": 402,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16252821670428894,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 194,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19476744186046513,
+    "offensePassAttempts": 278,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18255578093306288,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 201,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15186915887850466,
+    "offensePassAttempts": 571,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18251928020565553,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 197,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.240990990990991,
+    "offensePassAttempts": 495,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20042194092827004,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 145,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.25742574257425743,
+    "offensePassAttempts": 411,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22972972972972974,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2483,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18823529411764706,
+    "offensePassAttempts": 373,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20711974110032363,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 204,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.232,
+    "offensePassAttempts": 504,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19210526315789472,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 213,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18925831202046037,
+    "offensePassAttempts": 456,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.14645308924485126,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 221,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2209026128266033,
+    "offensePassAttempts": 395,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20833333333333334,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2509,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22857142857142856,
+    "offensePassAttempts": 482,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19399538106235567,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 242,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18552036199095023,
+    "offensePassAttempts": 401,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18050541516245489,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 164,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2727272727272727,
+    "offensePassAttempts": 392,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2674698795180723,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 21,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23006833712984054,
+    "offensePassAttempts": 309,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18762088974854932,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 23,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.25,
+    "offensePassAttempts": 468,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.22807017543859648,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2567,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1918918918918919,
+    "offensePassAttempts": 516,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18446601941747573,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 6,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20319634703196346,
+    "offensePassAttempts": 449,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24761904761904763,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2579,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22838137472283815,
+    "offensePassAttempts": 365,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20833333333333334,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2572,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.19148936170212766,
+    "offensePassAttempts": 313,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20947630922693267,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 58,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21158129175946547,
+    "offensePassAttempts": 409,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18461538461538463,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 24,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2695417789757412,
+    "offensePassAttempts": 399,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17913385826771652,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 183,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.25635103926096997,
+    "offensePassAttempts": 473,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17374517374517376,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2628,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.24281984334203655,
+    "offensePassAttempts": 402,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20382165605095542,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 218,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16037735849056603,
+    "offensePassAttempts": 221,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2235294117647059,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2633,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22863741339491916,
+    "offensePassAttempts": 477,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2222222222222222,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 251,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21174004192872117,
+    "offensePassAttempts": 399,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18181818181818182,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 245,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2036613272311213,
+    "offensePassAttempts": 492,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17697228144989338,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 326,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15172413793103448,
+    "offensePassAttempts": 361,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16510903426791276,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2641,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20454545454545456,
+    "offensePassAttempts": 594,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20698924731182797,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2649,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18114143920595532,
+    "offensePassAttempts": 442,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18046709129511676,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2653,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20090293453724606,
+    "offensePassAttempts": 509,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1872037914691943,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2655,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21095890410958903,
+    "offensePassAttempts": 536,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.26737967914438504,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 202,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.23059866962305986,
+    "offensePassAttempts": 471,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20408163265306123,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 5,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2127659574468085,
+    "offensePassAttempts": 479,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.20738636363636365,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2116,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1951219512195122,
+    "offensePassAttempts": 412,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.1957894736842105,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 26,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18962075848303392,
+    "offensePassAttempts": 497,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2237354085603113,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 41,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2883116883116883,
+    "offensePassAttempts": 388,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.23466666666666666,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2433,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.22388059701492538,
+    "offensePassAttempts": 539,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21487603305785125,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2439,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.17757009345794392,
+    "offensePassAttempts": 468,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17114914425427874,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 30,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.18354430379746836,
+    "offensePassAttempts": 461,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21763085399449036,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 254,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2356164383561644,
+    "offensePassAttempts": 351,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.19306930693069307,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 328,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.1783132530120482,
+    "offensePassAttempts": 420,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2010443864229765,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2638,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.14322916666666666,
+    "offensePassAttempts": 376,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24258760107816713,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2636,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16875,
+    "offensePassAttempts": 368,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.25405405405405407,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 238,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.26096997690531176,
+    "offensePassAttempts": 350,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24686192468619247,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 258,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2537313432835821,
+    "offensePassAttempts": 474,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18489583333333334,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 259,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2511415525114155,
+    "offensePassAttempts": 437,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.2317596566523605,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 154,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2384428223844282,
+    "offensePassAttempts": 427,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.27300613496932513,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 264,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.15023474178403756,
+    "offensePassAttempts": 438,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.18536585365853658,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 265,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.21016166281755197,
+    "offensePassAttempts": 624,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.24064171122994651,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 98,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2665036674816626,
+    "offensePassAttempts": 335,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.16593886462882096,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2711,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.2128205128205128,
+    "offensePassAttempts": 511,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.17341040462427745,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 277,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20359281437125748,
+    "offensePassAttempts": 537,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21241050119331742,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 275,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.20140515222482436,
+    "offensePassAttempts": 291,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21516754850088182,
+    "season": 2012
+  },
+  {
+    "cfbdTeamId": 2751,
+    "defenseOpponentPassAttempts": null,
+    "defenseSacks": null,
+    "defenseStuffRate": 0.16129032258064516,
+    "offensePassAttempts": 411,
+    "offenseSacksAllowed": null,
+    "offenseStuffRateAllowed": 0.21182266009852216,
+    "season": 2012
+  }
+]

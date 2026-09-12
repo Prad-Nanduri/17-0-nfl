@@ -6,7 +6,6 @@ import { Footer } from '../components/checkpoint/footer';
 import { LeagueWall } from '../components/checkpoint/league-wall';
 import { HeroCta, HeroHeadline } from '../components/landing/hero-cta';
 import { Enter } from '../components/motion/enter';
-import { Badge } from '../components/ui/badge';
 import { LeagueMark } from '../components/ui/team-logo';
 import { leagues } from '../lib/teams';
 import { SPORTS } from '../lib/sport';
@@ -69,9 +68,7 @@ export default function Page() {
                 <li className="flex items-center gap-3" data-sport="cfb">
                   <LeagueMark league={leagues.cfb} size="sm" eager />
                   <span className="text-caption text-muted">
-                    <span className="flex items-center gap-2 font-bold text-ink">
-                      NCAA FBS <Badge tone="sport">Coming soon</Badge>
-                    </span>
+                    <span className="flex items-center gap-2 font-bold text-ink">NCAA FBS</span>
                     {SPORTS.cfb.chase}
                   </span>
                 </li>
@@ -200,9 +197,13 @@ export default function Page() {
               </h2>
             </div>
             <p className="max-w-copy self-end text-small text-muted">
-              Thirty-two NFL franchises today. All one hundred thirty-six FBS programs next, chasing
-              undefeated and untied. Pick a league, draft from its history, and chase the season
-              nobody could stop.
+              Thirty-two NFL franchises. All one hundred thirty-six FBS programs, chasing undefeated
+              and untied. Pick a league, draft from its history, and chase the season nobody could
+              stop.
+              <span className="mt-3 block text-caption">
+                On the roadmap: One-Franchise mode, Daily Challenge, playoff drafts, and leagues
+                with friends — for both sports.
+              </span>
             </p>
           </div>
           <div className="mt-10 grid grid-cols-1 gap-14 md:mt-14">

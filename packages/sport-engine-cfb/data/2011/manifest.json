@@ -1,0 +1,33 @@
+{
+  "cfbdApiVersion": null,
+  "generatedAt": "2026-09-12T22:14:38.832Z",
+  "rowCounts": {
+    "apRankings": 400,
+    "cfpRankings": 0,
+    "conferences": 195,
+    "games": 1498,
+    "players": 12606,
+    "players.skippedUnknownPosition": 2060,
+    "playerSeasonStats": 12606,
+    "playerSeasonStats.skippedUnknownTeam": 0,
+    "programSeasons": 125,
+    "recruits": 2682,
+    "teamLineStats": 120,
+    "teams": 125
+  },
+  "season": 2011,
+  "sources": [
+    "/teams?year=2011",
+    "/teams/fbs?year=2011..2013",
+    "/conferences",
+    "/roster?year=2011",
+    "/stats/player/season?year=2011",
+    "/stats/season?year=2011",
+    "/stats/season/advanced?year=2011",
+    "/rankings?year=2011&seasonType=regular|postseason",
+    "/recruiting/players?year=2011",
+    "/recruiting/teams?year=2011",
+    "/rushing/teams/season?year=2011",
+    "/games?year=2011&seasonType=regular|postseason"
+  ]
+}

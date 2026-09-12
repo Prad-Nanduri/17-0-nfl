@@ -1,0 +1,3602 @@
+[
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 142,
+    "rank": 25,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 176,
+    "rank": 23,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 909,
+    "rank": 11,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 729,
+    "rank": 13,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 239,
+    "rank": 21,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1166,
+    "rank": 7,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 986,
+    "rank": 10,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 493,
+    "rank": 18,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 50,
+    "isFinal": false,
+    "points": 1511,
+    "rank": 1,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 540,
+    "rank": 16,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 241,
+    "rank": 20,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1036,
+    "rank": 9,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1440,
+    "rank": 2,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 527,
+    "rank": 17,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1292,
+    "rank": 4,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1084,
+    "rank": 8,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 640,
+    "rank": 15,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 217,
+    "rank": 22,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1239,
+    "rank": 6,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 804,
+    "rank": 12,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1267,
+    "rank": 5,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 696,
+    "rank": 14,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 6,
+    "isFinal": false,
+    "points": 1409,
+    "rank": 3,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 163,
+    "rank": 24,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 21,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 304,
+    "rank": 19,
+    "season": 2016,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 726,
+    "rank": 12,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 479,
+    "rank": 19,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 707,
+    "rank": 14,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 529,
+    "rank": 16,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1195,
+    "rank": 7,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1040,
+    "rank": 9,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 517,
+    "rank": 18,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 154,
+    "rank": 24,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 50,
+    "isFinal": false,
+    "points": 1510,
+    "rank": 1,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 172,
+    "rank": 23,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 528,
+    "rank": 17,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 890,
+    "rank": 10,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1442,
+    "rank": 2,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1084,
+    "rank": 8,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1277,
+    "rank": 4,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 828,
+    "rank": 11,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 420,
+    "rank": 20,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 196,
+    "rank": 21,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 139,
+    "rank": 25,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1245,
+    "rank": 6,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 722,
+    "rank": 13,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1258,
+    "rank": 5,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 565,
+    "rank": 15,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 6,
+    "isFinal": false,
+    "points": 1406,
+    "rank": 3,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 21,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 183,
+    "rank": 22,
+    "season": 2016,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 584,
+    "rank": 16,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 205,
+    "rank": 23,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 665,
+    "rank": 15,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 305,
+    "rank": 21,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 292,
+    "rank": 22,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1137,
+    "rank": 7,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 983,
+    "rank": 8,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 391,
+    "rank": 20,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 56,
+    "isFinal": false,
+    "points": 1520,
+    "rank": 1,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 473,
+    "rank": 19,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 198,
+    "rank": 24,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 564,
+    "rank": 17,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1359,
+    "rank": 3,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 747,
+    "rank": 12,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1298,
+    "rank": 4,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 893,
+    "rank": 9,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 694,
+    "rank": 13,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 872,
+    "rank": 11,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 686,
+    "rank": 14,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 526,
+    "rank": 18,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1264,
+    "rank": 6,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1437,
+    "rank": 2,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1284,
+    "rank": 5,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 197,
+    "rank": 25,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 890,
+    "rank": 10,
+    "season": 2016,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 877,
+    "rank": 9,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 573,
+    "rank": 17,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 409,
+    "rank": 22,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 296,
+    "rank": 23,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 635,
+    "rank": 15,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 242,
+    "rank": 24,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1140,
+    "rank": 7,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 884,
+    "rank": 8,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 423,
+    "rank": 21,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 54,
+    "isFinal": false,
+    "points": 1518,
+    "rank": 1,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 493,
+    "rank": 19,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 477,
+    "rank": 20,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1324,
+    "rank": 4,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 722,
+    "rank": 12,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1261,
+    "rank": 5,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 759,
+    "rank": 10,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 588,
+    "rank": 16,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 743,
+    "rank": 11,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 664,
+    "rank": 14,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 528,
+    "rank": 18,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1243,
+    "rank": 6,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1413,
+    "rank": 3,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1416,
+    "rank": 2,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 137,
+    "rank": 25,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 686,
+    "rank": 13,
+    "season": 2016,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 448,
+    "rank": 18,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 180,
+    "rank": 25,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1021,
+    "rank": 9,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 316,
+    "rank": 21,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 280,
+    "rank": 23,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 707,
+    "rank": 13,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 218,
+    "rank": 24,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1029,
+    "rank": 8,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 651,
+    "rank": 14,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 344,
+    "rank": 20,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1269,
+    "rank": 5,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 496,
+    "rank": 16,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 33,
+    "isFinal": false,
+    "points": 1469,
+    "rank": 1,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 718,
+    "rank": 11,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1224,
+    "rank": 6,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 127,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 710,
+    "rank": 12,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1147,
+    "rank": 7,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 484,
+    "rank": 17,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1352,
+    "rank": 3,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1006,
+    "rank": 10,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 644,
+    "rank": 15,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 5,
+    "isFinal": false,
+    "points": 1325,
+    "rank": 4,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 16,
+    "isFinal": false,
+    "points": 1443,
+    "rank": 2,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 283,
+    "rank": 22,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 447,
+    "rank": 19,
+    "season": 2016,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 331,
+    "rank": 20,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 800,
+    "rank": 13,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 788,
+    "rank": 14,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 508,
+    "rank": 16,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1329,
+    "rank": 4,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1040,
+    "rank": 9,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 493,
+    "rank": 17,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 351,
+    "rank": 19,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 886,
+    "rank": 11,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1525,
+    "rank": 1,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2711,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 871,
+    "rank": 12,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1444,
+    "rank": 2,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1249,
+    "rank": 6,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1252,
+    "rank": 5,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1054,
+    "rank": 8,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 196,
+    "rank": 24,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 272,
+    "rank": 21,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1173,
+    "rank": 7,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 218,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 229,
+    "rank": 23,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 173,
+    "rank": 25,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 889,
+    "rank": 10,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1396,
+    "rank": 3,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 372,
+    "rank": 18,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 237,
+    "rank": 22,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 542,
+    "rank": 15,
+    "season": 2016,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 471,
+    "rank": 15,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 931,
+    "rank": 11,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 726,
+    "rank": 14,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 452,
+    "rank": 17,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1298,
+    "rank": 4,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 948,
+    "rank": 10,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 423,
+    "rank": 18,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 338,
+    "rank": 21,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1035,
+    "rank": 9,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1525,
+    "rank": 1,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2711,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 807,
+    "rank": 13,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1456,
+    "rank": 2,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1264,
+    "rank": 5,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1118,
+    "rank": 8,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1237,
+    "rank": 6,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 181,
+    "rank": 23,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 217,
+    "rank": 22,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1141,
+    "rank": 7,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 168,
+    "rank": 24,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2426,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 387,
+    "rank": 20,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 847,
+    "rank": 12,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1383,
+    "rank": 3,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 420,
+    "rank": 19,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 221,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 168,
+    "rank": 24,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 468,
+    "rank": 16,
+    "season": 2016,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 703,
+    "rank": 13,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 133,
+    "rank": 24,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 868,
+    "rank": 10,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 448,
+    "rank": 19,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1220,
+    "rank": 6,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 186,
+    "rank": 23,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 811,
+    "rank": 12,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 613,
+    "rank": 16,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 84,
+    "rank": 25,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 280,
+    "rank": 21,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 997,
+    "rank": 9,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1525,
+    "rank": 1,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2711,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 701,
+    "rank": 14,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 253,
+    "rank": 22,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1455,
+    "rank": 2,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1370,
+    "rank": 3,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1091,
+    "rank": 8,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1255,
+    "rank": 5,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 593,
+    "rank": 17,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1169,
+    "rank": 7,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 490,
+    "rank": 18,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 661,
+    "rank": 15,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1347,
+    "rank": 4,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 830,
+    "rank": 11,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 389,
+    "rank": 20,
+    "season": 2016,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 435,
+    "rank": 21,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 659,
+    "rank": 13,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 920,
+    "rank": 10,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1150,
+    "rank": 7,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 501,
+    "rank": 20,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 584,
+    "rank": 15,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 543,
+    "rank": 18,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 582,
+    "rank": 16,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 807,
+    "rank": 11,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 797,
+    "rank": 12,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1525,
+    "rank": 1,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2711,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 634,
+    "rank": 14,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 238,
+    "rank": 23,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1455,
+    "rank": 2,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1323,
+    "rank": 4,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 961,
+    "rank": 9,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1214,
+    "rank": 6,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 504,
+    "rank": 19,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1064,
+    "rank": 8,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2653,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 63,
+    "rank": 25,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 569,
+    "rank": 17,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1304,
+    "rank": 5,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1357,
+    "rank": 3,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 315,
+    "rank": 22,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 21,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 97,
+    "rank": 24,
+    "season": 2016,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 390,
+    "rank": 22,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 516,
+    "rank": 17,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 90,
+    "rank": 25,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 805,
+    "rank": 11,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1364,
+    "rank": 4,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 305,
+    "rank": 23,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1081,
+    "rank": 8,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 454,
+    "rank": 19,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 686,
+    "rank": 13,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 550,
+    "rank": 16,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 1524,
+    "rank": 1,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2711,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 583,
+    "rank": 14,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 820,
+    "rank": 10,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1245,
+    "rank": 6,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1432,
+    "rank": 2,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 752,
+    "rank": 12,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1159,
+    "rank": 7,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 434,
+    "rank": 21,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 996,
+    "rank": 9,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 450,
+    "rank": 20,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1408,
+    "rank": 3,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 479,
+    "rank": 18,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 559,
+    "rank": 15,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1255,
+    "rank": 5,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 226,
+    "rank": 24,
+    "season": 2016,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 929,
+    "rank": 10,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 355,
+    "rank": 22,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 693,
+    "rank": 13,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 620,
+    "rank": 14,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1369,
+    "rank": 4,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 139,
+    "rank": 25,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 927,
+    "rank": 11,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 586,
+    "rank": 15,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 506,
+    "rank": 16,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 375,
+    "rank": 21,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 1524,
+    "rank": 1,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2711,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 481,
+    "rank": 17,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1150,
+    "rank": 7,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1207,
+    "rank": 6,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1435,
+    "rank": 2,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 390,
+    "rank": 20,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1122,
+    "rank": 8,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 951,
+    "rank": 9,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 835,
+    "rank": 12,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 409,
+    "rank": 19,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1401,
+    "rank": 3,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 345,
+    "rank": 23,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 423,
+    "rank": 18,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1262,
+    "rank": 5,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 203,
+    "rank": 24,
+    "season": 2016,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 654,
+    "rank": 14,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 572,
+    "rank": 18,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1063,
+    "rank": 8,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 997,
+    "rank": 10,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1373,
+    "rank": 4,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 641,
+    "rank": 15,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 352,
+    "rank": 19,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 584,
+    "rank": 17,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 207,
+    "rank": 23,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 1524,
+    "rank": 1,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2711,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 349,
+    "rank": 20,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1007,
+    "rank": 9,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1143,
+    "rank": 6,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1446,
+    "rank": 2,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 193,
+    "rank": 24,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 980,
+    "rank": 11,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1083,
+    "rank": 7,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 626,
+    "rank": 16,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2426,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 251,
+    "rank": 22,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 725,
+    "rank": 12,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1382,
+    "rank": 3,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 110,
+    "rank": 25,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 328,
+    "rank": 21,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1276,
+    "rank": 5,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 716,
+    "rank": 13,
+    "season": 2016,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 626,
+    "rank": 15,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 550,
+    "rank": 18,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1021,
+    "rank": 9,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 744,
+    "rank": 12,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1304,
+    "rank": 5,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 277,
+    "rank": 21,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 123,
+    "rank": 25,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 479,
+    "rank": 19,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 1524,
+    "rank": 1,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 188,
+    "rank": 23,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 584,
+    "rank": 17,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2711,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 285,
+    "rank": 20,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1218,
+    "rank": 6,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1457,
+    "rank": 2,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1368,
+    "rank": 3,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 935,
+    "rank": 10,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1037,
+    "rank": 8,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 612,
+    "rank": 16,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 766,
+    "rank": 11,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2426,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 163,
+    "rank": 24,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 733,
+    "rank": 13,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1337,
+    "rank": 4,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 254,
+    "rank": 22,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1168,
+    "rank": 7,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 694,
+    "rank": 14,
+    "season": 2016,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 483,
+    "rank": 18,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 962,
+    "rank": 9,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 934,
+    "rank": 11,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 424,
+    "rank": 20,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1286,
+    "rank": 5,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 166,
+    "rank": 23,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 287,
+    "rank": 21,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 56,
+    "isFinal": false,
+    "points": 1520,
+    "rank": 1,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 800,
+    "rank": 12,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 203,
+    "rank": 22,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2711,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 154,
+    "rank": 24,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1202,
+    "rank": 6,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1444,
+    "rank": 2,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1339,
+    "rank": 4,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1020,
+    "rank": 8,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 958,
+    "rank": 10,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 476,
+    "rank": 19,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 701,
+    "rank": 13,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2426,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 122,
+    "rank": 25,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 628,
+    "rank": 14,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1406,
+    "rank": 3,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 546,
+    "rank": 17,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 576,
+    "rank": 16,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1193,
+    "rank": 7,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 590,
+    "rank": 15,
+    "season": 2016,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 391,
+    "rank": 18,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1045,
+    "rank": 9,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 239,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 805,
+    "rank": 13,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 240,
+    "rank": 22,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 711,
+    "rank": 15,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1234,
+    "rank": 5,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 86,
+    "rank": 24,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 276,
+    "rank": 21,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 53,
+    "isFinal": false,
+    "points": 1514,
+    "rank": 1,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 712,
+    "rank": 14,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 8,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 528,
+    "rank": 16,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1113,
+    "rank": 8,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 6,
+    "isFinal": false,
+    "points": 1451,
+    "rank": 2,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1334,
+    "rank": 4,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 882,
+    "rank": 11,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 158,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 821,
+    "rank": 12,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 324,
+    "rank": 20,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 248,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1233,
+    "rank": 6,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 230,
+    "rank": 23,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1403,
+    "rank": 3,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 85,
+    "rank": 25,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 909,
+    "rank": 10,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 497,
+    "rank": 17,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1160,
+    "rank": 7,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 68,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 385,
+    "rank": 19,
+    "season": 2016,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 60,
+    "isFinal": true,
+    "points": 1500,
+    "rank": 1,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1440,
+    "rank": 2,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1292,
+    "rank": 3,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1277,
+    "rank": 4,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1252,
+    "rank": 5,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1240,
+    "rank": 6,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1130,
+    "rank": 7,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1105,
+    "rank": 8,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1032,
+    "rank": 9,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1001,
+    "rank": 10,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 920,
+    "rank": 11,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 24,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 730,
+    "rank": 12,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 651,
+    "rank": 13,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 640,
+    "rank": 14,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2711,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 619,
+    "rank": 15,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 259,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 610,
+    "rank": 16,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 585,
+    "rank": 17,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 277,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 368,
+    "rank": 18,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 58,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 358,
+    "rank": 19,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 338,
+    "rank": 20,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 277,
+    "rank": 21,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 253,
+    "rank": 22,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 222,
+    "rank": 23,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 206,
+    "rank": 24,
+    "season": 2016,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 21,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 113,
+    "rank": 25,
+    "season": 2016,
+    "week": 99
+  }
+]

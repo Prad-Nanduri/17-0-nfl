@@ -6,3 +6,5 @@ package-lock.json
 docs/spec.md
 next-env.d.ts
 .agents
+packages/sport-engine-nfl/data
+packages/sport-engine-cfb/data

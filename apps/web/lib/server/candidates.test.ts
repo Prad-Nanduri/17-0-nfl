@@ -5,7 +5,7 @@ import { availableSeasons, buildCandidates } from './candidates';
 
 describe('NFL draft candidates', () => {
   it('exposes only seasons represented by player stats', () => {
-    expect(availableSeasons()).toEqual({ from: 2023, through: 2023 });
+    expect(availableSeasons()).toEqual({ from: 2005, through: 2024 });
   });
 
   it('joins player season stats to player traits', () => {
