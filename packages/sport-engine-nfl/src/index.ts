@@ -46,3 +46,10 @@ export {
   type PlayoffDependencies,
 } from './simulation/playoffs';
 export { simulateNFLSeason, type NflSeasonDependencies } from './simulation/simulate-season';
+export {
+  NFL_TROPHY_RULES,
+  RESULT_TROPHY_RULES,
+  evaluateNflTrophies,
+  getNflTrophyDefinitions,
+  type NflTrophyRule,
+} from './trophies';

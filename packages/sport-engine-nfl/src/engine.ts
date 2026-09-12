@@ -32,6 +32,7 @@ import { RATING_MODEL_VERSION } from './ratings/rate-season';
 import type { NflFranchise, NflFranchiseSeason, NflRating } from './domain';
 import type { LogoResolver, LogoResult } from './media/espn-logos';
 import { simulateNFLSeason } from './simulation/simulate-season';
+import { evaluateNflTrophies, getNflTrophyDefinitions } from './trophies';
 
 export interface NflSportEngineOptions {
   readonly franchises: readonly NflFranchise[];
@@ -149,13 +150,11 @@ export class NflSportEngine implements SportEngine {
   }
 
   getTrophyDefinitions(): TrophyDefinition[] {
-    throw new Error('Not implemented: docs/spec.md §1.4/§1.7 land in a later PR');
+    return getNflTrophyDefinitions();
   }
 
   evaluateTrophies(result: SeasonResult, ctx: TrophyEvalContext): EarnedTrophy[] {
-    void result;
-    void ctx;
-    throw new Error('Not implemented: docs/spec.md §1.4/§1.7 land in a later PR');
+    return evaluateNflTrophies(result, ctx);
   }
 
   async getFranchiseLogo(franchiseKey: string): Promise<LogoResult> {
