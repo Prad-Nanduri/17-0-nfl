@@ -1,5 +1,6 @@
 import { createRequire as importedCreateRequire } from 'node:module';
 import { readFile } from 'node:fs/promises';
+import { resolve } from 'node:path';
 import { NextResponse } from 'next/server';
 import React from 'react';
 import satori from 'satori';
@@ -18,7 +19,7 @@ const builtinModule = (
   }
 ).getBuiltinModule?.('module');
 const createRequire = builtinModule?.createRequire ?? importedCreateRequire;
-const packageRequire = createRequire(import.meta.url);
+const packageRequire = createRequire(resolve(process.cwd(), 'package.json'));
 const boldPath = '@fontsource/barlow-condensed/files/barlow-condensed-latin-700-normal.woff';
 const bodyPath = '@fontsource/barlow-condensed/files/barlow-condensed-latin-600-normal.woff';
 const resolvePackage = packageRequire.resolve.bind(packageRequire);

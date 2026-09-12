@@ -89,6 +89,7 @@ export function CfbSeasonResults({
               {result.trophies.map((trophy) => (
                 <li
                   key={trophy.code}
+                  data-testid={`trophy-${trophy.code}`}
                   className="rounded-control border border-line bg-subtle p-3 font-bold"
                 >
                   {trophy.code.replaceAll('_', ' ')}

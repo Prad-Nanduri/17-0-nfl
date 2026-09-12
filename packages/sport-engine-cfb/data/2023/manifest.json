@@ -1,0 +1,33 @@
+{
+  "cfbdApiVersion": null,
+  "generatedAt": "2026-09-12T19:17:53.757Z",
+  "rowCounts": {
+    "apRankings": 400,
+    "cfpRankings": 175,
+    "conferences": 195,
+    "games": 3734,
+    "players": 20793,
+    "players.skippedUnknownPosition": 1811,
+    "playerSeasonStats": 20784,
+    "playerSeasonStats.skippedUnknownTeam": 0,
+    "programSeasons": 136,
+    "recruits": 4166,
+    "teamLineStats": 133,
+    "teams": 136
+  },
+  "season": 2023,
+  "sources": [
+    "/teams?year=2023",
+    "/teams/fbs?year=2023..2025",
+    "/conferences",
+    "/roster?year=2023",
+    "/stats/player/season?year=2023",
+    "/stats/season?year=2023",
+    "/stats/season/advanced?year=2023",
+    "/rankings?year=2023&seasonType=regular|postseason",
+    "/recruiting/players?year=2023",
+    "/recruiting/teams?year=2023",
+    "/rushing/teams/season?year=2023",
+    "/games?year=2023&seasonType=regular|postseason"
+  ]
+}
