@@ -1,6 +1,15 @@
+import { resolve } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import type { CfbDraftPoolUnit } from './draft-store';
 import { getSportAdapter } from './sport-adapter';
+
+// These tests assert fixture-specific programs (see etl/fixtures); pin the data
+// dir to a path with no season subdirectories so committed ETL output under
+// packages/sport-engine-cfb/data/ doesn't leak in.
+process.env.PERFECT_SEASON_CFB_DATA_DIR = resolve(
+  import.meta.dirname,
+  '../../../packages/sport-engine-cfb/etl/fixtures',
+);
 
 const unit = (programId: string): CfbDraftPoolUnit => ({
   sportId: 'cfb',
