@@ -12,3 +12,4 @@ packages/sport-engine-cfb/etl/.staging/
 
 .vercel
 .env*
+apps/web/data/

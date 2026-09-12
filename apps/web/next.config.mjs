@@ -1,12 +1,10 @@
-import { dirname, join } from 'node:path';
 import { URL, fileURLToPath } from 'node:url';
 
-const nflDataDirectory = fileURLToPath(
-  new URL('../../packages/sport-engine-nfl/data/', import.meta.url),
-);
-const cfbDataDirectory = fileURLToPath(
-  new URL('../../packages/sport-engine-cfb/data/', import.meta.url),
-);
+// scripts/copy-data.mjs mirrors packages/sport-engine-*/data into apps/web/data
+// so the files sit inside Vercel's function tracing scope (files outside the
+// project dir are silently dropped from the bundle).
+const nflDataDirectory = fileURLToPath(new URL('./data/nfl/', import.meta.url));
+const cfbDataDirectory = fileURLToPath(new URL('./data/cfb/', import.meta.url));
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -29,15 +27,8 @@ const nextConfig = {
   ],
   experimental: {
     serverComponentsExternalPackages: ['@resvg/resvg-js'],
-    // Data files live outside apps/web: include globs resolve against the
-    // project dir (apps/web), and outputFileTracingRoot anchors emitted paths
-    // at the repo root so they land at /var/task/packages/... on Vercel.
-    outputFileTracingRoot: join(dirname(fileURLToPath(import.meta.url)), '..', '..'),
     outputFileTracingIncludes: {
-      '/*': [
-        '../../packages/sport-engine-nfl/data/**/*',
-        '../../packages/sport-engine-cfb/data/**/*',
-      ],
+      '/*': ['data/**/*'],
     },
   },
 };
