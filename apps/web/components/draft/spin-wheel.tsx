@@ -4,6 +4,7 @@ import { motion, useReducedMotion, type Transition } from 'framer-motion';
 import { useState, type CSSProperties } from 'react';
 import { ArrowClockwise, Sparkle } from '@phosphor-icons/react';
 import { CardFlipReveal } from '../motion/card-flip-reveal';
+import { SpinReel } from './spin-reel';
 import { Button } from '../ui/button';
 import { Badge } from '../ui/badge';
 import { Card } from '../ui/card';
@@ -47,6 +48,7 @@ export function SpinWheel({
         (team) =>
           team.abbreviation === result.franchise.abbreviation || team.id === result.franchise.key,
       );
+      if (sport === 'cfb') return; // the reel reveals + clears `spinning` on landing
       const segment = index >= 0 ? index * (360 / teams.length) : Math.random() * 360;
       // The pointer sits at 12 o'clock; a logo placed at `segment` reaches it at -segment.
       const landing = (360 - segment) % 360;
@@ -54,8 +56,9 @@ export function SpinWheel({
       setRevealed(true);
     } catch (error) {
       onError(error instanceof Error ? error.message : 'Could not spin');
-    } finally {
       setSpinning(false);
+    } finally {
+      if (sport === 'nfl') setSpinning(false);
     }
   }
 
@@ -82,37 +85,50 @@ export function SpinWheel({
   return (
     <div className="grid min-w-0 grid-cols-1 gap-5">
       <Card className="relative overflow-hidden p-5">
-        <div className="pointer-events-none absolute left-1/2 top-2 z-10 -translate-x-1/2 text-sport">
-          <Sparkle size={25} weight="fill" aria-label="Spin pointer" />
-        </div>
-        <motion.div
-          className="relative mx-auto aspect-square w-full max-w-[23rem] rounded-full border-2 border-sport/40 bg-subtle"
-          animate={{ rotate: rotation }}
-          transition={wheelTransition}
-          aria-label={sport === 'nfl' ? 'NFL franchise spin wheel' : 'FBS program spin wheel'}
-          role="img"
-        >
-          {teams.map((team, index) => {
-            const angle = (index * (360 / teams.length) * Math.PI) / 180;
-            const radius = 42;
-            return (
-              <motion.span
-                key={team.id}
-                className="pointer-events-none absolute -ml-4 -mt-4 flex h-8 w-8 items-center justify-center"
-                style={{
-                  left: `${50 + radius * Math.sin(angle)}%`,
-                  top: `${50 - radius * Math.cos(angle)}%`,
-                }}
-                animate={{ rotate: -rotation }}
-                transition={wheelTransition}
-              >
-                <TeamLogo team={team} size="xs" />
-              </motion.span>
-            );
-          })}
-          <span className="absolute inset-1/4 rounded-full border border-line bg-surface/80" />
-          <span className="absolute inset-[43%] rounded-full bg-sport" />
-        </motion.div>
+        {sport === 'nfl' ? (
+          <div className="pointer-events-none absolute left-1/2 top-2 z-10 -translate-x-1/2 text-sport">
+            <Sparkle size={25} weight="fill" aria-label="Spin pointer" />
+          </div>
+        ) : null}
+        {sport === 'cfb' ? (
+          <SpinReel
+            teams={teams}
+            spin={spinState}
+            onLanded={() => {
+              setRevealed(true);
+              setSpinning(false);
+            }}
+          />
+        ) : (
+          <motion.div
+            className="relative mx-auto aspect-square w-full max-w-[23rem] rounded-full border-2 border-sport/40 bg-subtle"
+            animate={{ rotate: rotation }}
+            transition={wheelTransition}
+            aria-label={sport === 'nfl' ? 'NFL franchise spin wheel' : 'FBS program spin wheel'}
+            role="img"
+          >
+            {teams.map((team, index) => {
+              const angle = (index * (360 / teams.length) * Math.PI) / 180;
+              const radius = 42;
+              return (
+                <motion.span
+                  key={team.id}
+                  className="pointer-events-none absolute -ml-4 -mt-4 flex h-8 w-8 items-center justify-center"
+                  style={{
+                    left: `${50 + radius * Math.sin(angle)}%`,
+                    top: `${50 - radius * Math.cos(angle)}%`,
+                  }}
+                  animate={{ rotate: -rotation }}
+                  transition={wheelTransition}
+                >
+                  <TeamLogo team={team} size="xs" />
+                </motion.span>
+              );
+            })}
+            <span className="absolute inset-1/4 rounded-full border border-line bg-surface/80" />
+            <span className="absolute inset-[43%] rounded-full bg-sport" />
+          </motion.div>
+        )}
         <div className="relative z-10 mt-5 flex flex-wrap items-center justify-center gap-3">
           <Button
             onClick={() => void spin(false)}
@@ -140,7 +156,9 @@ export function SpinWheel({
         front={
           <Card className="flex min-h-56 items-center justify-center border-dashed p-5 text-center">
             <p className="text-small text-muted">
-              Spin the wheel to reveal a {sport === 'nfl' ? 'franchise' : 'program'} season.
+              {sport === 'nfl'
+                ? 'Spin the wheel to reveal a franchise season.'
+                : 'Spin the reel to reveal a program season.'}
             </p>
           </Card>
         }
