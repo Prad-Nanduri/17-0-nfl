@@ -38,6 +38,8 @@ function team(id: number, school = `School ${id}`): CfbTeam {
     abbreviation: `S${id}`,
     mascot: null,
     logoUrl: null,
+    color: null,
+    alternateColor: null,
     isBlueBlood: false,
   };
 }

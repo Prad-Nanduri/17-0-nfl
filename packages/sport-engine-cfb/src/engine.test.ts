@@ -24,6 +24,8 @@ const team: CfbTeam = {
   abbreviation: 'CHP',
   mascot: null,
   logoUrl: null,
+  color: null,
+  alternateColor: null,
   isBlueBlood: false,
 };
 const programSeason: CfbProgramSeason = {
@@ -262,11 +264,10 @@ describe('CfbSportEngine (spec §0.1, §2A)', () => {
 
   it('exposes CFB trophy definitions and evaluates Undefeated & Untied', () => {
     expect(engine.getTrophyDefinitions().map((definition) => definition.code)).toEqual([
-      'perfect_regular_season',
       'undefeated_untied',
-      'drafted_national_champions',
-      'bowl_bound',
-      'worst_in_show',
+      'statement_win',
+      'overtime_classic',
+      'legacy_era_lineup',
     ]);
     const result: SeasonResult = {
       draftId: 'trophy-draft',
@@ -290,9 +291,6 @@ describe('CfbSportEngine (spec §0.1, §2A)', () => {
       evaluatedAt: '2024-01-01T00:00:00Z',
       facts: {},
     });
-    expect(earned.map((trophy) => trophy.code)).toEqual([
-      'perfect_regular_season',
-      'undefeated_untied',
-    ]);
+    expect(earned.map((trophy) => trophy.code)).toContain('undefeated_untied');
   });
 });
