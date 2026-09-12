@@ -66,6 +66,7 @@ export async function POST(request: Request) {
     picks: {},
     usedUnits: [],
     createdAt: new Date().toISOString(),
+    result: null,
   };
   const draft = getDraftStore().create(state);
   return NextResponse.json({ draft: toClientDraft(draft, engine, getNflData()) }, { status: 201 });
