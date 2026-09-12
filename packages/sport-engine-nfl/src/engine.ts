@@ -26,7 +26,7 @@ import { loadNflFixtureData } from './data';
 import { nflConfidenceTier } from './era';
 import { validateSlotEligibility } from './eligibility';
 import { getAvailableModes, getModeRuleset } from './modes';
-import { SCHEME_PRESETS } from './schemes';
+import { SCHEME_PRESETS } from '@perfect-season/sport-engine-core';
 import { resolveSpinUnit } from './spin';
 import { RATING_MODEL_VERSION } from './ratings/rate-season';
 import type { NflFranchise, NflFranchiseSeason, NflRating } from './domain';

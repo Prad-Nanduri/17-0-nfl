@@ -6,7 +6,7 @@ import { Check } from '@phosphor-icons/react';
 import { Badge } from '../ui/badge';
 import { Card } from '../ui/card';
 import type { ClientDraft, DraftCandidate } from './types';
-import { SCHEME_PRESETS } from '@perfect-season/sport-engine-nfl/src/schemes';
+import { SCHEME_PRESETS } from '@perfect-season/sport-engine-core';
 
 const SlotTile = memo(function SlotTile({
   code,

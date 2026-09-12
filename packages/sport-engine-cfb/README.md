@@ -99,8 +99,9 @@ file per output table plus `manifest.json` under `data/<season>/`.
 (`createSportEngineRegistry({ nfl, cfb })`). All platform dispatch goes through
 the registry's `get(sportId)`.
 
-- **Schemes**: `CFB_SCHEME_PRESETS` reuses the NFL slot shapes; the Nickel
-  preset is renamed "Spread Defense" in UI copy only (§2A.6).
+- **Schemes**: `CFB_SCHEME_PRESETS` reuses the shared `SCHEME_PRESETS` from
+  `@perfect-season/sport-engine-core`; the Nickel preset is renamed "Spread
+  Defense" in UI copy only via `cfbSchemeDisplayName` (§2A.6).
 - **Modes** (§2A.7): `core` (Quick Season default — chase "Undefeated &
   Untied"), `one_program` (Prime enabled), `blue_blood_bracket` (elite pool,
   bracketed Full Campaign), `ranked_only`, `daily_challenge`,
