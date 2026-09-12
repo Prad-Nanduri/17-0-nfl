@@ -14,7 +14,9 @@
     "etl:load": "tsx etl/load.ts --season 2023"
   },
   "dependencies": {
-    "@perfect-season/sport-engine-core": "*"
+    "@perfect-season/simulation": "*",
+    "@perfect-season/sport-engine-core": "*",
+    "@perfect-season/sport-engine-nfl": "*"
   },
   "devDependencies": {
     "@types/pg": "^8.23.1",
