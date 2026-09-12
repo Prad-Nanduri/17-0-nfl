@@ -1,9 +1,7 @@
 import type {
   CompletedRoster,
-  OpponentContext,
   PlayerCandidate,
   SeasonResult,
-  SimulationMode,
   TrophyEvalContext,
 } from '@perfect-season/sport-engine-core';
 import { describe, expect, it } from 'vitest';
@@ -54,6 +52,26 @@ const engine = new NflSportEngine({
   ],
   ratings: [baseRating],
 });
+const simulationRoster: CompletedRoster = {
+  draftId: 'simulation-draft',
+  sportId: 'nfl',
+  schemeId: '4-3',
+  ratingMode: 'career_season',
+  picks: Array.from({ length: 24 }, (_, index) => ({
+    slot: { code: `slot-${index}`, positionGroup: 'QB', eligiblePositions: ['QB'] },
+    candidate,
+    rating: {
+      positionGroup: 'QB',
+      mode: 'career_season',
+      overall: 94,
+      sourceSeason: 2023,
+      confidenceTier: 'full_feature',
+      isTeamLevelProxy: false,
+      modelVersion: 'nfl-rating-v1',
+    },
+    spinSeed: `seed-${index}`,
+  })) as unknown as CompletedRoster['picks'],
+};
 
 describe('NflSportEngine', () => {
   it('implements core identity, schemes, spin, eligibility, modes, and rating lookup', async () => {
@@ -120,14 +138,27 @@ describe('NflSportEngine', () => {
     expect(fallback).toMatchObject({ overall: 40, sourceSeason: 2023, positionGroup: 'QB' });
   });
 
-  it('uses franchise logo data and throws for unsupported future methods', async () => {
+  it('uses franchise logo data and simulates a regular season', async () => {
     await expect(engine.getFranchiseLogo('KC')).resolves.toEqual({
       url: 'https://logo',
       source: 'espn',
     });
-    await expect(
-      engine.simulateSeason({} as CompletedRoster, {} as SimulationMode, {} as OpponentContext),
-    ).rejects.toThrow('Not implemented: docs/spec.md §1.4/§1.7 land in a later PR');
+    const result = await engine.simulateSeason(
+      simulationRoster,
+      { modeId: 'core', difficulty: 'normal', seed: 'engine-test', options: {} },
+      {
+        season: 2023,
+        modelVersion: 'test',
+        dataVersion: 'test',
+        opponents: [{ id: 'opponent', name: 'Opponent', rating: 1500, site: 'neutral', facts: {} }],
+        facts: {},
+      },
+    );
+    expect(result.record.wins + result.record.losses + result.record.ties).toBe(17);
+    expect(result.stages[0]?.games).toHaveLength(17);
+  });
+
+  it('throws for unsupported future trophy methods', () => {
     expect(() => engine.getTrophyDefinitions()).toThrow(
       'Not implemented: docs/spec.md §1.4/§1.7 land in a later PR',
     );

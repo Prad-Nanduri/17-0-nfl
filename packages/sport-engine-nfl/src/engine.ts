@@ -31,6 +31,7 @@ import { resolveSpinUnit } from './spin';
 import { RATING_MODEL_VERSION } from './ratings/rate-season';
 import type { NflFranchise, NflFranchiseSeason, NflRating } from './domain';
 import type { LogoResolver, LogoResult } from './media/espn-logos';
+import { simulateNFLSeason } from './simulation/simulate-season';
 
 export interface NflSportEngineOptions {
   readonly franchises: readonly NflFranchise[];
@@ -136,10 +137,7 @@ export class NflSportEngine implements SportEngine {
     mode: SimulationMode,
     opponentContext: OpponentContext,
   ): Promise<SeasonResult> {
-    void roster;
-    void mode;
-    void opponentContext;
-    throw new Error('Not implemented: docs/spec.md §1.4/§1.7 land in a later PR');
+    return simulateNFLSeason(roster, mode, opponentContext);
   }
 
   getAvailableModes(): SportMode[] {

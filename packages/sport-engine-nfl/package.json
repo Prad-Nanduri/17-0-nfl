@@ -14,7 +14,8 @@
     "spin:sample": "tsx scripts/spin-sample.ts"
   },
   "dependencies": {
-    "@perfect-season/sport-engine-core": "*"
+    "@perfect-season/sport-engine-core": "*",
+    "@perfect-season/simulation": "*"
   },
   "devDependencies": {
     "@types/pg": "^8.23.1",
