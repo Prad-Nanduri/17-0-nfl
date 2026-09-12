@@ -29,11 +29,15 @@ const nextConfig = {
   ],
   experimental: {
     serverComponentsExternalPackages: ['@resvg/resvg-js'],
-    // Data files live outside apps/web, so anchor tracing at the repo root —
-    // `../../` globs would escape it and silently include nothing on Vercel.
+    // Data files live outside apps/web: include globs resolve against the
+    // project dir (apps/web), and outputFileTracingRoot anchors emitted paths
+    // at the repo root so they land at /var/task/packages/... on Vercel.
     outputFileTracingRoot: join(dirname(fileURLToPath(import.meta.url)), '..', '..'),
     outputFileTracingIncludes: {
-      '/*': ['packages/sport-engine-nfl/data/**/*', 'packages/sport-engine-cfb/data/**/*'],
+      '/*': [
+        '../../packages/sport-engine-nfl/data/**/*',
+        '../../packages/sport-engine-cfb/data/**/*',
+      ],
     },
   },
 };
