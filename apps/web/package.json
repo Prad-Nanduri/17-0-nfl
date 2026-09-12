@@ -9,7 +9,9 @@
     "start": "next start",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
-    "test": "vitest run --passWithNoTests"
+    "test": "vitest run --passWithNoTests",
+    "prebuild": "node ./scripts/copy-data.mjs",
+    "predev": "node ./scripts/copy-data.mjs"
   },
   "dependencies": {
     "@dnd-kit/core": "6.3.1",

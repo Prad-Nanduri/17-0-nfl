@@ -1,11 +1,18 @@
-import { dirname, join } from 'node:path';
-import { fileURLToPath } from 'node:url';
+import process from 'node:process';
+import { URL, fileURLToPath } from 'node:url';
 
-// Relative to the web app's working directory so it resolves both locally and inside the
-// traced Vercel function bundle, which keeps the same monorepo layout.
-const nflDataDirectory = '../../packages/sport-engine-nfl/data';
-const cfbDataDirectory = '../../packages/sport-engine-cfb/data';
-const outputFileTracingRoot = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
+// scripts/copy-data.mjs mirrors packages/sport-engine-*/data into apps/web/data
+// so the files sit inside Vercel's function tracing scope (files outside the
+// project dir are silently dropped from the bundle). On Vercel the value is
+// inlined into the server bundle, but lambdas run under /var/task, not the
+// build machine's /vercel/path0 — emit the runtime path there.
+const onVercel = process.env.VERCEL === '1';
+const nflDataDirectory = onVercel
+  ? '/var/task/apps/web/data/nfl'
+  : fileURLToPath(new URL('./data/nfl/', import.meta.url));
+const cfbDataDirectory = onVercel
+  ? '/var/task/apps/web/data/cfb'
+  : fileURLToPath(new URL('./data/cfb/', import.meta.url));
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -28,13 +35,8 @@ const nextConfig = {
   ],
   experimental: {
     serverComponentsExternalPackages: ['@resvg/resvg-js'],
-    // Data files live outside apps/web, so include them relative to the Next.js project root.
-    outputFileTracingRoot,
     outputFileTracingIncludes: {
-      '/*': [
-        '../../packages/sport-engine-nfl/data/**/*',
-        '../../packages/sport-engine-cfb/data/**/*',
-      ],
+      '/*': ['data/**/*'],
       '/api/nfl/drafts/[id]/og': [
         '../../node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-*.woff',
       ],
