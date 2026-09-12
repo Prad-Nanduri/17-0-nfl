@@ -44,6 +44,13 @@ export function createNflAdapter(): SportDraftAdapter {
     engine: () => getNflEngine(),
     buildCandidates: (unit) => buildCandidates(assertNflUnit(unit), getNflData()),
     availableSeasons: () => availableSeasons(getNflData()),
+    resolveSpinUnit: (spinSeed, usedUnits) =>
+      getNflEngine().resolveSpinUnit(spinSeed, {
+        modeId: 'core',
+        seasonRange: availableSeasons(getNflData()),
+        excludedUnits: usedUnits,
+        criteria: {},
+      }),
     spinUnitView: async (unit) => {
       const nfl = assertNflUnit(unit);
       const data = getNflData();

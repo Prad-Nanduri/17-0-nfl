@@ -5,7 +5,12 @@ import type {
 } from '@perfect-season/sport-engine-core';
 import { createSeed } from '@perfect-season/sport-engine-core/utils';
 import type { CfbFixtureData, CfbSportEngine } from '@perfect-season/sport-engine-cfb';
-import { CFB_RATING_MODEL_VERSION, describeConference } from '@perfect-season/sport-engine-cfb';
+import {
+  CFB_RATING_MODEL_VERSION,
+  describeConference,
+  filterSpinPool,
+  toPositionGroup,
+} from '@perfect-season/sport-engine-cfb';
 import { getCfbData, getCfbEngine } from './sport-engines';
 import type { CfbDraftPoolUnit, DraftState } from './draft-store';
 import type { SportDraftAdapter } from './sport-adapter';
@@ -17,6 +22,13 @@ function assertCfbUnit(unit: DraftPoolUnit): CfbDraftPoolUnit {
   if (unit.sportId !== 'cfb') throw new Error('Expected a CFB draft pool unit');
   return unit;
 }
+
+// Only CFBD fixture data ships on the box today; these placeholders keep every
+// position draftable until the real 2023 ETL data lands. Turn this off once a
+// full season dataset exists.
+const CFB_PLACEHOLDER_CANDIDATES = true;
+
+const CFB_TEAM_LEVEL_PROXY_POSITIONS: ReadonlySet<string> = new Set(['OT', 'OG', 'C', 'DE', 'DT']);
 
 const CFB_FALLBACK_POSITIONS = [
   'QB',
@@ -71,33 +83,34 @@ function buildCfbCandidates(unit: CfbDraftPoolUnit, data: CfbFixtureData): Playe
   });
   const school =
     data.teams.find((team) => team.cfbdTeamId === Number(unit.programId))?.school ?? 'Program';
-  return [
-    ...candidates,
-    ...CFB_FALLBACK_POSITIONS.map((position, index) => ({
+  // Append a proxy only for position groups the program-season has no real
+  // candidate for — real data always wins over placeholders.
+  const coveredGroups = new Set(
+    candidates
+      .map((candidate) => toPositionGroup(candidate.primaryPosition))
+      .filter((group): group is NonNullable<typeof group> => group !== null),
+  );
+  const proxies = CFB_FALLBACK_POSITIONS.filter((position) => {
+    const group = toPositionGroup(position);
+    if (group !== null && coveredGroups.has(group)) return false;
+    return CFB_TEAM_LEVEL_PROXY_POSITIONS.has(position) || CFB_PLACEHOLDER_CANDIDATES;
+  }).map((position, index) => {
+    const teamLevelProxy = CFB_TEAM_LEVEL_PROXY_POSITIONS.has(position);
+    return {
       playerId: `cfb-proxy-${unit.programId}-${unit.season}-${position}-${index}`,
-      fullName: `${school} ${position}`,
+      fullName: teamLevelProxy ? `${school} ${position}` : `${school} ${position} (placeholder)`,
       primaryPosition: position,
       poolUnit: unit,
       seasons: [{ poolUnit: unit, position, confidenceTier: 'legacy' as const, stats: {} }],
       traits: {
-        isTeamLevelProxy:
-          position === 'OT' ||
-          position === 'OG' ||
-          position === 'C' ||
-          position === 'DE' ||
-          position === 'DT',
-        badges:
-          position === 'OT' ||
-          position === 'OG' ||
-          position === 'C' ||
-          position === 'DE' ||
-          position === 'DT'
-            ? ['Team-Level Rating']
-            : [],
+        isTeamLevelProxy: teamLevelProxy,
+        synthetic: !teamLevelProxy,
+        badges: teamLevelProxy ? ['Team-Level Rating'] : ['Placeholder (no player data)'],
         headshotUrl: null,
       },
-    })),
-  ];
+    };
+  });
+  return [...candidates, ...proxies];
 }
 
 function completedRoster(
@@ -134,6 +147,22 @@ export function createCfbAdapter(): SportDraftAdapter {
         .programSeasons.map((row) => row.season)
         .sort((a, b) => a - b);
       return { from: seasons[0] ?? 2005, through: seasons.at(-1) ?? 2023 };
+    },
+    resolveSpinUnit: (spinSeed, usedUnits) => {
+      const data = getCfbData();
+      const poolSize = new Set(
+        filterSpinPool(data.programSeasons).map((row) => `${row.cfbdTeamId}:${row.season}`),
+      ).size;
+      // Fixture/demo datasets can hold fewer than 24 program-seasons; once the
+      // spin pool is exhausted, re-spin without exclusions instead of failing.
+      const excludedUnits = usedUnits.length >= poolSize ? [] : usedUnits;
+      const seasons = data.programSeasons.map((row) => row.season).sort((a, b) => a - b);
+      return getCfbEngine().resolveSpinUnit(spinSeed, {
+        modeId: 'core',
+        seasonRange: { from: seasons[0] ?? 2005, through: seasons.at(-1) ?? 2023 },
+        excludedUnits,
+        criteria: {},
+      });
     },
     spinUnitView: async (unit) => {
       const cfb = assertCfbUnit(unit);

@@ -140,29 +140,7 @@ export async function spin(sportId: SportId, request: Request): Promise<Response
   const rerollsRemaining = reroll ? current.rerollsRemaining - 1 : current.rerollsRemaining;
   const rerollsUsed = ruleset.difficultyRules[current.difficulty].rerolls - rerollsRemaining;
   const spinSeed = createSeed(`${sportId}-spin`, current.id, current.spinCount, rerollsUsed);
-  let unit;
-  try {
-    unit = await engine.resolveSpinUnit(spinSeed, {
-      modeId: 'core',
-      seasonRange: adapter.availableSeasons(),
-      excludedUnits: current.usedUnits,
-      criteria: {},
-    });
-  } catch (error) {
-    if (
-      sportId !== 'cfb' ||
-      !(error instanceof Error) ||
-      !error.message.includes('No program-season matches')
-    )
-      throw error;
-    // Fixture/demo datasets can contain fewer than 24 program-seasons; retain a deterministic spin rather than blocking the draft.
-    unit = await engine.resolveSpinUnit(spinSeed, {
-      modeId: 'core',
-      seasonRange: adapter.availableSeasons(),
-      excludedUnits: [],
-      criteria: {},
-    });
-  }
+  const unit = await adapter.resolveSpinUnit(spinSeed, current.usedUnits);
   const view = await adapter.spinUnitView(unit);
   const candidates = adapter.buildCandidates(unit);
   const clientCandidates = candidates

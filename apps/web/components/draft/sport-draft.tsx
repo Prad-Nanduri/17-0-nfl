@@ -24,7 +24,7 @@ import { Badge } from '../ui/badge';
 import { Card } from '../ui/card';
 import { DraftSetup } from './draft-setup';
 import { SPORT_DRAFT_COPY } from './sport-copy';
-import { CFB_SCHEME_PRESETS } from '@perfect-season/sport-engine-cfb/src/schemes';
+import { CFB_SCHEME_PRESETS } from '@perfect-season/sport-engine-cfb/schemes';
 import { SCHEME_PRESETS } from '@perfect-season/sport-engine-core';
 import { nflTeams } from '../../lib/teams/nfl';
 import { cfbTeams } from '../../lib/teams/cfb';

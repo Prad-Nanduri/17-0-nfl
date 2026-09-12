@@ -7,10 +7,6 @@ import { createNflSportEngine } from '@perfect-season/sport-engine-nfl';
 import { createCfbSportEngine } from '@perfect-season/sport-engine-cfb';
 import type { CfbFixtureData } from '@perfect-season/sport-engine-cfb';
 import { loadCfbFixtureData } from '@perfect-season/sport-engine-cfb';
-import { createCfbAdapter } from './cfb-adapter';
-import { createNflAdapter } from './nfl-adapter';
-import { registerSportAdapters } from './sport-adapter';
-
 interface ServerGlobal {
   __perfectSeasonNflEngine?: ReturnType<typeof createNflSportEngine>;
   __perfectSeasonCfbData?: CfbFixtureData;
@@ -18,7 +14,6 @@ interface ServerGlobal {
 }
 
 const serverGlobal = globalThis as typeof globalThis & ServerGlobal;
-registerSportAdapters(createNflAdapter(), createCfbAdapter());
 
 export function getNflEngine(): ReturnType<typeof createNflSportEngine> {
   serverGlobal.__perfectSeasonNflEngine ??= createNflSportEngine();

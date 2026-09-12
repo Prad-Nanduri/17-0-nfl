@@ -31,6 +31,7 @@ export interface SportDraftAdapter {
   engine(): SportEngine;
   buildCandidates(unit: DraftPoolUnit): PlayerCandidate[];
   availableSeasons(): { from: number; through: number };
+  resolveSpinUnit(spinSeed: string, usedUnits: readonly DraftPoolUnit[]): Promise<DraftPoolUnit>;
   spinUnitView(unit: DraftPoolUnit): Promise<SpinTeamView>;
   opponentContext(unit: DraftPoolUnit | null): OpponentContext;
   simSeed(draftId: string): string;
