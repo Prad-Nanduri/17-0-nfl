@@ -33,12 +33,7 @@ import { DraftBoard } from './draft-board';
 import { SpinWheel } from './spin-wheel';
 import type { ClientDraft, DraftSpin } from './types';
 import { slotKeyboardCoordinates } from './keyboard-coordinates';
-
-async function responseJson<T>(response: Response): Promise<T> {
-  const payload = (await response.json()) as T & { error?: string };
-  if (!response.ok) throw new Error(payload.error ?? 'Request failed');
-  return payload;
-}
+import { fetchJson } from '../../lib/api-client';
 
 export function SportDraft({ sport }: { sport: SportId }) {
   const notify = useToast();
@@ -89,8 +84,7 @@ export function SportDraft({ sport }: { sport: SportId }) {
       return;
     }
     let cancelled = false;
-    fetch(`/api/${sport}/drafts/${resumeId}`)
-      .then((response) => responseJson<{ draft: ClientDraft }>(response))
+    fetchJson<{ draft: ClientDraft }>(`/api/${sport}/drafts/${resumeId}`)
       .then((payload) => {
         if (!cancelled) setDraftState(payload.draft);
       })
@@ -106,7 +100,7 @@ export function SportDraft({ sport }: { sport: SportId }) {
   async function abandonDraft(id: string) {
     setLoading(true);
     try {
-      await responseJson(await fetch(`/api/${sport}/drafts/${id}/abandon`, { method: 'POST' }));
+      await fetchJson(`/api/${sport}/drafts/${id}/abandon`, { method: 'POST' });
       setDraft(null);
       setSpin(null);
     } catch (error) {
@@ -170,8 +164,8 @@ export function SportDraft({ sport }: { sport: SportId }) {
     setLoading(true);
     try {
       const suffix = reroll ? '&reroll=1' : '';
-      const payload = await responseJson<{ spin: DraftSpin; draft: ClientDraft }>(
-        await fetch(`/api/${sport}/spin?draftId=${encodeURIComponent(activeDraft.id)}${suffix}`),
+      const payload = await fetchJson<{ spin: DraftSpin; draft: ClientDraft }>(
+        `/api/${sport}/spin?draftId=${encodeURIComponent(activeDraft.id)}${suffix}`,
       );
       setDraft(payload.draft);
       setSpin(payload.spin);
@@ -186,12 +180,13 @@ export function SportDraft({ sport }: { sport: SportId }) {
     if (spin === null) return;
     setLoading(true);
     try {
-      const payload = await responseJson<{ draft: ClientDraft; warnings: string[] }>(
-        await fetch(`/api/${sport}/drafts/${activeDraft.id}/picks`, {
+      const payload = await fetchJson<{ draft: ClientDraft; warnings: string[] }>(
+        `/api/${sport}/drafts/${activeDraft.id}/picks`,
+        {
           method: 'POST',
           headers: { 'content-type': 'application/json' },
           body: JSON.stringify({ slotCode, playerId: candidateId, spinSeed: spin.spinSeed }),
-        }),
+        },
       );
       setDraft(payload.draft);
       setSpin(null);
@@ -226,12 +221,11 @@ export function SportDraft({ sport }: { sport: SportId }) {
   async function simulateSeason() {
     setLoading(true);
     try {
-      const response = await fetch(`/api/${sport}/drafts/${activeDraft.id}/simulate`, {
+      await fetchJson(`/api/${sport}/drafts/${activeDraft.id}/simulate`, {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify(sport === 'nfl' ? { fullGauntlet } : {}),
       });
-      await responseJson(response);
       await refreshSession();
       router.push(`/play/${sport}/results/${activeDraft.id}`);
     } catch (error) {

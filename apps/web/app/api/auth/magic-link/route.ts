@@ -1,11 +1,12 @@
 import { NextResponse } from 'next/server';
 import { isAuthConfigured, isPlausibleEmail, supabaseMagicLink } from '../../../../lib/server/auth';
 import { readGuestToken } from '../../../../lib/server/session';
+import { withJsonErrors } from '../../../../lib/server/json-route';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
 
-export async function POST(request: Request) {
+export const POST = withJsonErrors(async (request: Request) => {
   if (!isAuthConfigured()) {
     return NextResponse.json(
       { error: 'Accounts are not enabled on this deployment yet. Guest play still works.' },
@@ -35,4 +36,4 @@ export async function POST(request: Request) {
     );
   }
   return NextResponse.json({ sent: true });
-}
+});

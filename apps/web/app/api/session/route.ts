@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import type { SportId } from '@perfect-season/sport-engine-core';
 import { resolveSession } from '../../../lib/server/session';
+import { withJsonErrors } from '../../../lib/server/json-route';
 import {
   COOKIE_MAX_AGE_SECONDS,
   SPORT_COOKIE,
@@ -41,11 +42,11 @@ async function toClientSession(request: Request): Promise<ClientSession> {
   };
 }
 
-export async function GET(request: Request) {
-  return NextResponse.json({ session: await toClientSession(request) });
-}
+export const GET = withJsonErrors(async (request: Request) =>
+  NextResponse.json({ session: await toClientSession(request) }),
+);
 
-export async function PATCH(request: Request) {
+export const PATCH = withJsonErrors(async (request: Request) => {
   let body: unknown;
   try {
     body = await request.json();
@@ -65,4 +66,4 @@ export async function PATCH(request: Request) {
     sameSite: 'lax',
   });
   return response;
-}
+});

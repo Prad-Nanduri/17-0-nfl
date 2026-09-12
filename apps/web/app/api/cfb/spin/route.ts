@@ -1,6 +1,5 @@
 import { spin } from '../../../../lib/server/draft-routes';
+import { withJsonErrors } from '../../../../lib/server/json-route';
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
-export async function GET(request: Request) {
-  return spin('cfb', request);
-}
+export const GET = withJsonErrors((request: Request) => spin('cfb', request));
