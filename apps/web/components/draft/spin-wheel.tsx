@@ -175,6 +175,9 @@ export function SpinWheel({
                   <p className="mt-2 font-display text-scoreboard font-semibold">
                     {spinState.unit.season}
                   </p>
+                  {spinState.franchise.conference !== '' ? (
+                    <p className="mt-1 text-small text-muted">{spinState.franchise.conference}</p>
+                  ) : null}
                   <p className="mt-2 text-small text-muted">
                     {spinState.record
                       ? `${spinState.record.wins}-${spinState.record.losses}${spinState.record.ties ? `-${spinState.record.ties}` : ''}`

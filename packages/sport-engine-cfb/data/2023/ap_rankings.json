@@ -1,0 +1,3602 @@
+[
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 54,
+    "isFinal": false,
+    "points": 1540,
+    "rank": 1,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 333,
+    "rank": 21,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 178,
+    "rank": 24,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 240,
+    "rank": 23,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 703,
+    "rank": 15,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 934,
+    "rank": 10,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 405,
+    "rank": 18,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 387,
+    "rank": 19,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1141,
+    "rank": 8,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 810,
+    "rank": 13,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1218,
+    "rank": 6,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1322,
+    "rank": 5,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 543,
+    "rank": 16,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 917,
+    "rank": 11,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1433,
+    "rank": 3,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 7,
+    "isFinal": false,
+    "points": 1464,
+    "rank": 2,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 857,
+    "rank": 12,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2335,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 133,
+    "rank": 25,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1180,
+    "rank": 7,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 733,
+    "rank": 14,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 359,
+    "rank": 20,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 412,
+    "rank": 17,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1366,
+    "rank": 4,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1002,
+    "rank": 9,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 265,
+    "rank": 22,
+    "season": 2023,
+    "week": 12
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 49,
+    "isFinal": false,
+    "points": 1558,
+    "rank": 1,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 703,
+    "rank": 14,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 660,
+    "rank": 15,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 496,
+    "rank": 19,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 532,
+    "rank": 18,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 772,
+    "rank": 12,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 294,
+    "rank": 21,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 176,
+    "rank": 23,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1143,
+    "rank": 8,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1027,
+    "rank": 10,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1240,
+    "rank": 6,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1333,
+    "rank": 5,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 734,
+    "rank": 13,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 644,
+    "rank": 16,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1453,
+    "rank": 3,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 9,
+    "isFinal": false,
+    "points": 1485,
+    "rank": 2,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1075,
+    "rank": 9,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2335,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 85,
+    "rank": 25,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1190,
+    "rank": 7,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 547,
+    "rank": 17,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 270,
+    "rank": 22,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 351,
+    "rank": 20,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1411,
+    "rank": 4,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 926,
+    "rank": 11,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 95,
+    "rank": 24,
+    "season": 2023,
+    "week": 11
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 48,
+    "isFinal": false,
+    "points": 1553,
+    "rank": 1,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 473,
+    "rank": 19,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 112,
+    "rank": 25,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 250,
+    "rank": 22,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 816,
+    "rank": 13,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 557,
+    "rank": 16,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 192,
+    "rank": 23,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 139,
+    "rank": 24,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 331,
+    "rank": 20,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1114,
+    "rank": 8,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 990,
+    "rank": 11,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1235,
+    "rank": 6,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1327,
+    "rank": 5,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 510,
+    "rank": 18,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 714,
+    "rank": 14,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1446,
+    "rank": 3,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 9,
+    "isFinal": false,
+    "points": 1494,
+    "rank": 2,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1044,
+    "rank": 9,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1189,
+    "rank": 7,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1010,
+    "rank": 10,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 847,
+    "rank": 12,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 303,
+    "rank": 21,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1421,
+    "rank": 4,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 666,
+    "rank": 15,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 2005,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 526,
+    "rank": 17,
+    "season": 2023,
+    "week": 10
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 38,
+    "isFinal": false,
+    "points": 1536,
+    "rank": 1,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 306,
+    "rank": 21,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 687,
+    "rank": 15,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 922,
+    "rank": 11,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 167,
+    "rank": 25,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 193,
+    "rank": 24,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 243,
+    "rank": 23,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1071,
+    "rank": 9,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 889,
+    "rank": 12,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1133,
+    "rank": 8,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1325,
+    "rank": 5,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 868,
+    "rank": 13,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 594,
+    "rank": 16,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1454,
+    "rank": 3,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 19,
+    "isFinal": false,
+    "points": 1504,
+    "rank": 2,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 999,
+    "rank": 10,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1150,
+    "rank": 7,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1267,
+    "rank": 6,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 718,
+    "rank": 14,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 248,
+    "rank": 22,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1408,
+    "rank": 4,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 420,
+    "rank": 18,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 371,
+    "rank": 20,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 506,
+    "rank": 17,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 2005,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 395,
+    "rank": 19,
+    "season": 2023,
+    "week": 9
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 43,
+    "isFinal": false,
+    "points": 1541,
+    "rank": 1,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 557,
+    "rank": 17,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 493,
+    "rank": 19,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 834,
+    "rank": 12,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 530,
+    "rank": 18,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 122,
+    "rank": 25,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 987,
+    "rank": 11,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 825,
+    "rank": 13,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1034,
+    "rank": 9,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1355,
+    "rank": 5,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 695,
+    "rank": 14,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 365,
+    "rank": 20,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1393,
+    "rank": 3,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 16,
+    "isFinal": false,
+    "points": 1492,
+    "rank": 2,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1253,
+    "rank": 7,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 125,
+    "rank": 24,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1098,
+    "rank": 8,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1277,
+    "rank": 6,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 664,
+    "rank": 15,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 137,
+    "rank": 23,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1388,
+    "rank": 4,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 309,
+    "rank": 21,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 593,
+    "rank": 16,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1011,
+    "rank": 10,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 2005,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 245,
+    "rank": 22,
+    "season": 2023,
+    "week": 8
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 50,
+    "isFinal": false,
+    "points": 1559,
+    "rank": 1,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 412,
+    "rank": 19,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 99,
+    "rank": 24,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 103,
+    "rank": 23,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 321,
+    "rank": 22,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 725,
+    "rank": 15,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 412,
+    "rank": 19,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 999,
+    "rank": 10,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 438,
+    "rank": 18,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 971,
+    "rank": 11,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 748,
+    "rank": 13,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1150,
+    "rank": 8,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1239,
+    "rank": 7,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 567,
+    "rank": 16,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1408,
+    "rank": 3,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 11,
+    "isFinal": false,
+    "points": 1489,
+    "rank": 2,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1273,
+    "rank": 6,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1052,
+    "rank": 9,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1278,
+    "rank": 5,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 374,
+    "rank": 21,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1389,
+    "rank": 4,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 731,
+    "rank": 14,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 479,
+    "rank": 17,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 894,
+    "rank": 12,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 74,
+    "rank": 25,
+    "season": 2023,
+    "week": 7
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 35,
+    "isFinal": false,
+    "points": 1501,
+    "rank": 1,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 306,
+    "rank": 22,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 96,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 344,
+    "rank": 20,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 149,
+    "rank": 23,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 633,
+    "rank": 15,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 765,
+    "rank": 13,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1077,
+    "rank": 9,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 921,
+    "rank": 11,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 616,
+    "rank": 16,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1113,
+    "rank": 8,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1213,
+    "rank": 7,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 454,
+    "rank": 18,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 329,
+    "rank": 21,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1357,
+    "rank": 4,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 12,
+    "isFinal": false,
+    "points": 1436,
+    "rank": 2,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1227,
+    "rank": 6,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 10,
+    "isFinal": false,
+    "points": 1426,
+    "rank": 3,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 840,
+    "rank": 12,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 975,
+    "rank": 10,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 4,
+    "isFinal": false,
+    "points": 1336,
+    "rank": 5,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 90,
+    "rank": 25,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 384,
+    "rank": 19,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 726,
+    "rank": 14,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 589,
+    "rank": 17,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 130,
+    "rank": 24,
+    "season": 2023,
+    "week": 6
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 1562,
+    "rank": 1,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 235,
+    "rank": 22,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 260,
+    "rank": 21,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 132,
+    "rank": 24,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 813,
+    "rank": 13,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 366,
+    "rank": 19,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 652,
+    "rank": 16,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1169,
+    "rank": 8,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 862,
+    "rank": 12,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 349,
+    "rank": 20,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1076,
+    "rank": 9,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1228,
+    "rank": 7,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 981,
+    "rank": 10,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 197,
+    "rank": 23,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1370,
+    "rank": 4,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1445,
+    "rank": 2,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1244,
+    "rank": 6,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1401,
+    "rank": 3,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 716,
+    "rank": 14,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 904,
+    "rank": 11,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1351,
+    "rank": 5,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 648,
+    "rank": 17,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 659,
+    "rank": 15,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 523,
+    "rank": 18,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 278,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 64,
+    "rank": 25,
+    "season": 2023,
+    "week": 5
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 57,
+    "isFinal": false,
+    "points": 1566,
+    "rank": 1,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 57,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 103,
+    "rank": 25,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 198,
+    "rank": 23,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 805,
+    "rank": 12,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 715,
+    "rank": 14,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 278,
+    "rank": 21,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1296,
+    "rank": 5,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 204,
+    "rank": 22,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 796,
+    "rank": 13,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 657,
+    "rank": 15,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 942,
+    "rank": 10,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1194,
+    "rank": 8,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 921,
+    "rank": 11,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 509,
+    "rank": 19,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1291,
+    "rank": 6,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1481,
+    "rank": 2,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1217,
+    "rank": 7,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 125,
+    "rank": 24,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1380,
+    "rank": 3,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 606,
+    "rank": 16,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1066,
+    "rank": 9,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1378,
+    "rank": 4,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 530,
+    "rank": 18,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 567,
+    "rank": 17,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 359,
+    "rank": 20,
+    "season": 2023,
+    "week": 4
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 61,
+    "isFinal": false,
+    "points": 1549,
+    "rank": 1,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 72,
+    "rank": 25,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 329,
+    "rank": 21,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 418,
+    "rank": 19,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 748,
+    "rank": 14,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2649,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 118,
+    "rank": 23,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 714,
+    "rank": 15,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 75,
+    "rank": 24,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 625,
+    "rank": 16,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1138,
+    "rank": 8,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 878,
+    "rank": 12,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1219,
+    "rank": 6,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1367,
+    "rank": 4,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 964,
+    "rank": 10,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1447,
+    "rank": 2,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1440,
+    "rank": 3,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 894,
+    "rank": 11,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2335,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 229,
+    "rank": 22,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 332,
+    "rank": 20,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1180,
+    "rank": 7,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 766,
+    "rank": 13,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 503,
+    "rank": 17,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 499,
+    "rank": 18,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1324,
+    "rank": 5,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1017,
+    "rank": 9,
+    "season": 2023,
+    "week": 13
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 55,
+    "isFinal": false,
+    "points": 1540,
+    "rank": 1,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 929,
+    "rank": 11,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 636,
+    "rank": 15,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 667,
+    "rank": 14,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 605,
+    "rank": 16,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 265,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 129,
+    "rank": 23,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1269,
+    "rank": 5,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 26,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 107,
+    "rank": 24,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 953,
+    "rank": 10,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 505,
+    "rank": 17,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 827,
+    "rank": 13,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1102,
+    "rank": 8,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 847,
+    "rank": 12,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 481,
+    "rank": 18,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1265,
+    "rank": 6,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1458,
+    "rank": 2,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1204,
+    "rank": 7,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 106,
+    "rank": 25,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1338,
+    "rank": 4,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 453,
+    "rank": 19,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1015,
+    "rank": 9,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1413,
+    "rank": 3,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 421,
+    "rank": 21,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 444,
+    "rank": 20,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 2390,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 230,
+    "rank": 22,
+    "season": 2023,
+    "week": 3
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 58,
+    "isFinal": false,
+    "points": 1569,
+    "rank": 1,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 975,
+    "rank": 9,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 579,
+    "rank": 15,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 706,
+    "rank": 14,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 558,
+    "rank": 16,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1255,
+    "rank": 6,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1424,
+    "rank": 3,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 379,
+    "rank": 20,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 823,
+    "rank": 13,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1107,
+    "rank": 8,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 919,
+    "rank": 12,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 38,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 269,
+    "rank": 22,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 267,
+    "rank": 23,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1308,
+    "rank": 5,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1485,
+    "rank": 2,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1212,
+    "rank": 7,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 407,
+    "rank": 19,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 935,
+    "rank": 11,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 426,
+    "rank": 18,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 967,
+    "rank": 10,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 241,
+    "rank": 24,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 3,
+    "isFinal": false,
+    "points": 1384,
+    "rank": 4,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 150,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 343,
+    "rank": 21,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 551,
+    "rank": 17,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 141,
+    "rank": 25,
+    "season": 2023,
+    "week": 2
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 60,
+    "isFinal": false,
+    "points": 1572,
+    "rank": 1,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 868,
+    "rank": 12,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 501,
+    "rank": 16,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2628,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 416,
+    "rank": 17,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1276,
+    "rank": 5,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 406,
+    "rank": 18,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 30,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1245,
+    "rank": 6,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1398,
+    "rank": 4,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 281,
+    "rank": 22,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 732,
+    "rank": 15,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 977,
+    "rank": 10,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 254,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 811,
+    "rank": 14,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 245,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 227,
+    "rank": 23,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 1,
+    "isFinal": false,
+    "points": 1400,
+    "rank": 3,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 2,
+    "isFinal": false,
+    "points": 1490,
+    "rank": 2,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1177,
+    "rank": 7,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 275,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 386,
+    "rank": 19,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 131,
+    "rank": 25,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 882,
+    "rank": 11,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 296,
+    "rank": 20,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 863,
+    "rank": 13,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 224,
+    "rank": 24,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1147,
+    "rank": 8,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 153,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 292,
+    "rank": 21,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1032,
+    "rank": 9,
+    "season": 2023,
+    "week": 1
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1256,
+    "rank": 6,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 98,
+    "rank": 25,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 256,
+    "rank": 22,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 823,
+    "rank": 13,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 309,
+    "rank": 21,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 177,
+    "rank": 24,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 740,
+    "rank": 14,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1329,
+    "rank": 5,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 944,
+    "rank": 11,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1119,
+    "rank": 8,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 11,
+    "isFinal": false,
+    "points": 1499,
+    "rank": 2,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1014,
+    "rank": 9,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1185,
+    "rank": 7,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 51,
+    "isFinal": false,
+    "points": 1539,
+    "rank": 1,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 960,
+    "rank": 10,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2335,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 424,
+    "rank": 18,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 356,
+    "rank": 20,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1375,
+    "rank": 3,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 867,
+    "rank": 12,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 634,
+    "rank": 15,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 432,
+    "rank": 17,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 201,
+    "rank": 23,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1358,
+    "rank": 4,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 584,
+    "rank": 16,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 377,
+    "rank": 19,
+    "season": 2023,
+    "week": 15
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 52,
+    "isFinal": false,
+    "points": 1540,
+    "rank": 1,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 407,
+    "rank": 19,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 809,
+    "rank": 13,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2649,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 176,
+    "rank": 23,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 204,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 269,
+    "rank": 21,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 256,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 121,
+    "rank": 24,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 712,
+    "rank": 14,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1125,
+    "rank": 8,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 145,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 936,
+    "rank": 11,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1277,
+    "rank": 5,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1413,
+    "rank": 3,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1011,
+    "rank": 9,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1251,
+    "rank": 6,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 10,
+    "isFinal": false,
+    "points": 1495,
+    "rank": 2,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 961,
+    "rank": 10,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2335,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 293,
+    "rank": 20,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 458,
+    "rank": 18,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1205,
+    "rank": 7,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 857,
+    "rank": 12,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 592,
+    "rank": 16,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 108,
+    "rank": 25,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 2655,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 557,
+    "rank": 17,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 1358,
+    "rank": 4,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 689,
+    "rank": 15,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": false,
+    "points": 269,
+    "rank": 21,
+    "season": 2023,
+    "week": 14
+  },
+  {
+    "cfbdTeamId": 130,
+    "firstPlaceVotes": 61,
+    "isFinal": true,
+    "points": 1525,
+    "rank": 1,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 264,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1459,
+    "rank": 2,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 251,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1356,
+    "rank": 3,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 61,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1328,
+    "rank": 4,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 333,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1321,
+    "rank": 5,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 52,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1175,
+    "rank": 6,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2483,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1175,
+    "rank": 6,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 142,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1092,
+    "rank": 8,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 344,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1030,
+    "rank": 9,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 194,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 1006,
+    "rank": 10,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 12,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 861,
+    "rank": 11,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 99,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 853,
+    "rank": 12,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 213,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 796,
+    "rank": 13,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 87,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 745,
+    "rank": 14,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 201,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 691,
+    "rank": 15,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 197,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 528,
+    "rank": 16,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2633,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 442,
+    "rank": 17,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2306,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 402,
+    "rank": 18,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 97,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 398,
+    "rank": 19,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 228,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 327,
+    "rank": 20,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 152,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 244,
+    "rank": 21,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2567,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 183,
+    "rank": 22,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2305,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 153,
+    "rank": 23,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2294,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 150,
+    "rank": 24,
+    "season": 2023,
+    "week": 99
+  },
+  {
+    "cfbdTeamId": 2335,
+    "firstPlaceVotes": 0,
+    "isFinal": true,
+    "points": 139,
+    "rank": 25,
+    "season": 2023,
+    "week": 99
+  }
+]
