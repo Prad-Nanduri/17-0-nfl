@@ -1,6 +1,7 @@
 import { randomUUID } from 'node:crypto';
 import type {
   DraftOrder,
+  DraftPoolUnit as CoreDraftPoolUnit,
   Difficulty,
   RatingMode,
   SchemeId,
@@ -141,49 +142,70 @@ export async function spin(sportId: SportId, request: Request): Promise<Response
   const rerollsRemaining = reroll ? current.rerollsRemaining - 1 : current.rerollsRemaining;
   const rerollsUsed = ruleset.difficultyRules[current.difficulty].rerolls - rerollsRemaining;
   const spinSeed = createSeed(`${sportId}-spin`, current.id, current.spinCount, rerollsUsed);
-  const unit = await adapter.resolveSpinUnit(spinSeed, current.usedUnits);
-  const view = await adapter.spinUnitView(unit);
-  const candidates = adapter.buildCandidates(unit);
-  const clientCandidates = candidates
-    .map((candidate) => {
-      const rating = engine.computeRating(candidate, current.ratingMode);
-      const eligibleSlots = openSlots.flatMap((slot) =>
-        targetSlotCode !== null && slot.code !== targetSlotCode
-          ? []
-          : (() => {
-              const eligibility = engine.validateSlotEligibility(candidate, slot);
-              return eligibility.eligible
-                ? [{ slotCode: slot.code, warnings: eligibility.warnings }]
-                : [];
-            })(),
-      );
-      return {
-        playerId: candidate.playerId,
-        fullName: candidate.fullName,
-        primaryPosition: candidate.primaryPosition,
-        headshotUrl:
-          typeof candidate.traits.headshotUrl === 'string' ? candidate.traits.headshotUrl : null,
-        rating: current.difficulty === 'hard' ? null : rating.overall,
-        badges: Array.isArray(candidate.traits.badges)
-          ? candidate.traits.badges.filter((item): item is string => typeof item === 'string')
-          : undefined,
-        eligibleSlots,
-        positionGroup: rating.positionGroup,
-      };
-    })
-    .filter((candidate) => candidate.eligibleSlots.length > 0)
-    .sort(
-      (left, right) =>
-        (right.rating ?? 0) - (left.rating ?? 0) || left.fullName.localeCompare(right.fullName),
-    )
-    .map((candidate) => {
-      const { positionGroup, ...clientCandidate } = candidate;
-      void positionGroup;
-      return clientCandidate;
-    });
+  const deadUnits: CoreDraftPoolUnit[] = [...(current.deadUnits ?? [])];
+  const toClientCandidates = (unit: CoreDraftPoolUnit) => {
+    const candidates = adapter.buildCandidates(unit);
+    return candidates
+      .map((candidate) => {
+        const rating = engine.computeRating(candidate, current.ratingMode);
+        const eligibleSlots = openSlots.flatMap((slot) =>
+          targetSlotCode !== null && slot.code !== targetSlotCode
+            ? []
+            : (() => {
+                const eligibility = engine.validateSlotEligibility(candidate, slot);
+                return eligibility.eligible
+                  ? [{ slotCode: slot.code, warnings: eligibility.warnings }]
+                  : [];
+              })(),
+        );
+        return {
+          playerId: candidate.playerId,
+          fullName: candidate.fullName,
+          primaryPosition: candidate.primaryPosition,
+          headshotUrl:
+            typeof candidate.traits.headshotUrl === 'string' ? candidate.traits.headshotUrl : null,
+          rating: current.difficulty === 'hard' ? null : rating.overall,
+          badges: Array.isArray(candidate.traits.badges)
+            ? candidate.traits.badges.filter((item): item is string => typeof item === 'string')
+            : undefined,
+          eligibleSlots,
+          positionGroup: rating.positionGroup,
+        };
+      })
+      .filter((candidate) => candidate.eligibleSlots.length > 0)
+      .sort(
+        (left, right) =>
+          (right.rating ?? 0) - (left.rating ?? 0) || left.fullName.localeCompare(right.fullName),
+      )
+      .map((candidate) => {
+        const { positionGroup, ...clientCandidate } = candidate;
+        void positionGroup;
+        return clientCandidate;
+      });
+  };
+  const unitExcluded = [...current.usedUnits, ...deadUnits];
+  let unit: CoreDraftPoolUnit | null = null;
+  let view: Awaited<ReturnType<typeof adapter.spinUnitView>> | null = null;
+  let clientCandidates: ReturnType<typeof toClientCandidates> = [];
+  for (let attempt = 0; attempt <= 100; attempt += 1) {
+    const attemptSeed = attempt === 0 ? spinSeed : createSeed(spinSeed, `retry-${attempt}`);
+    const resolved = await adapter.resolveSpinUnit(attemptSeed, unitExcluded);
+    const attemptCandidates = toClientCandidates(resolved);
+    if (attemptCandidates.length > 0) {
+      unit = resolved;
+      view = await adapter.spinUnitView(resolved);
+      clientCandidates = attemptCandidates;
+      break;
+    }
+    deadUnits.push(resolved);
+    unitExcluded.push(resolved);
+  }
+  if (unit === null || view === null)
+    return errorResponse('No draftable units remain for this draft', 409);
   const next = await store.update(current.id, {
     ...current,
     rerollsRemaining,
+    deadUnits,
     pendingSpin: { spinSeed, unit, targetSlotCode },
   });
   return NextResponse.json({
