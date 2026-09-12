@@ -14,6 +14,7 @@ import {
   type DragStartEvent,
 } from '@dnd-kit/core';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { useToast } from '../ui/toast';
 import { Button } from '../ui/button';
 import { Badge } from '../ui/badge';
@@ -32,11 +33,13 @@ async function responseJson<T>(response: Response): Promise<T> {
 
 export function NflDraft() {
   const notify = useToast();
+  const router = useRouter();
   const [draft, setDraft] = useState<ClientDraft | null>(null);
   const [spin, setSpin] = useState<DraftSpin | null>(null);
   const [loading, setLoading] = useState(false);
   const [selectedCandidateId, setSelectedCandidateId] = useState<string | null>(null);
   const [draggingId, setDraggingId] = useState<string | null>(null);
+  const [fullGauntlet, setFullGauntlet] = useState(false);
   const sensors = useSensors(
     useSensor(PointerSensor, { activationConstraint: { distance: 6 } }),
     useSensor(TouchSensor, { activationConstraint: { delay: 120, tolerance: 8 } }),
@@ -114,6 +117,25 @@ export function NflDraft() {
 
   const draggingCandidate = spin?.candidates.find((candidate) => candidate.playerId === draggingId);
   const complete = activeDraft.status === 'complete';
+  async function simulateSeason() {
+    setLoading(true);
+    try {
+      const response = await fetch(`/api/nfl/drafts/${activeDraft.id}/simulate`, {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ fullGauntlet }),
+      });
+      await responseJson(response);
+      router.push(`/play/nfl/results/${activeDraft.id}`);
+    } catch (error) {
+      notify({
+        title: 'Simulation unavailable',
+        description: error instanceof Error ? error.message : 'Could not simulate season',
+        tone: 'error',
+      });
+      setLoading(false);
+    }
+  }
   return (
     <main id="main" className="page-container overflow-x-hidden pb-section pt-7" data-sport="nfl">
       <div className="flex flex-wrap items-center justify-between gap-3">
@@ -135,11 +157,23 @@ export function NflDraft() {
                 {activeDraft.schemeId} · {activeDraft.ratingMode.replace('_', '-')}
               </p>
             </div>
-            <div className="text-right">
+            <div className="flex flex-col items-end gap-3">
               <p className="text-caption text-muted">Aggregate rating</p>
               <p className="font-display text-scoreboard font-semibold text-sport">
                 {activeDraft.aggregateRating?.toFixed(1)}
               </p>
+              <label className="flex items-center gap-2 text-caption text-muted">
+                <input
+                  type="checkbox"
+                  checked={fullGauntlet}
+                  onChange={(event) => setFullGauntlet(event.target.checked)}
+                  className="h-4 w-4 accent-action"
+                />
+                Full Gauntlet (playoffs)
+              </label>
+              <Button onClick={() => void simulateSeason()} loading={loading}>
+                Simulate season
+              </Button>
               <Button
                 variant="secondary"
                 size="small"

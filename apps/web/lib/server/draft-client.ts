@@ -3,7 +3,7 @@ import { aggregateRosterRating } from '@perfect-season/simulation';
 import type { NflSportEngine } from '@perfect-season/sport-engine-nfl';
 import type { NflFixtureData } from '@perfect-season/sport-engine-nfl';
 import { buildCandidates } from './candidates';
-import type { DraftState, StoredPick } from './draft-store';
+import type { DraftState, StoredPick, StoredResult } from './draft-store';
 
 export interface ClientPick extends Omit<StoredPick, 'rating'> {
   readonly rating: PositionRating | null;
@@ -23,9 +23,10 @@ export interface ClientDraft {
   readonly picks: Readonly<Record<string, ClientPick>>;
   readonly usedUnits: DraftState['usedUnits'];
   readonly aggregateRating: number | null;
+  readonly result: StoredResult | null;
 }
 
-function completedRoster(
+export function completedRoster(
   state: DraftState,
   engine: NflSportEngine,
   data: NflFixtureData,
@@ -87,5 +88,6 @@ export function toClientDraft(
     picks,
     usedUnits: state.usedUnits,
     aggregateRating,
+    result: state.result,
   };
 }

@@ -2,7 +2,6 @@ import type {
   CompletedRoster,
   PlayerCandidate,
   SeasonResult,
-  TrophyEvalContext,
 } from '@perfect-season/sport-engine-core';
 import { describe, expect, it } from 'vitest';
 import { NflSportEngine } from './engine';
@@ -158,12 +157,51 @@ describe('NflSportEngine', () => {
     expect(result.stages[0]?.games).toHaveLength(17);
   });
 
-  it('throws for unsupported future trophy methods', () => {
-    expect(() => engine.getTrophyDefinitions()).toThrow(
-      'Not implemented: docs/spec.md §1.4/§1.7 land in a later PR',
-    );
-    expect(() => engine.evaluateTrophies({} as SeasonResult, {} as TrophyEvalContext)).toThrow(
-      'Not implemented: docs/spec.md §1.4/§1.7 land in a later PR',
-    );
+  it('exposes NFL trophy definitions and evaluates a perfect season', () => {
+    expect(engine.getTrophyDefinitions().map((definition) => definition.code)).toEqual([
+      'perfect_season',
+      'full_gauntlet',
+      'worst_in_show',
+      'ice_in_the_veins',
+    ]);
+    const result: SeasonResult = {
+      draftId: 'trophy-draft',
+      sportId: 'nfl',
+      modeId: 'core',
+      seed: 'seed',
+      modelVersion: 'test',
+      dataVersion: 'test',
+      record: { wins: 17, losses: 0, ties: 0 },
+      pointsFor: 500,
+      pointsAgainst: 100,
+      postseasonResult: null,
+      stages: [
+        {
+          id: 'regular_season',
+          name: 'Regular Season',
+          games: [],
+          record: { wins: 17, losses: 0, ties: 0 },
+          outcome: 'complete',
+        },
+      ],
+      facts: {},
+    };
+    const trophies = engine.evaluateTrophies(result, {
+      userId: null,
+      roster: simulationRoster,
+      priorResults: [],
+      earnedTrophies: [],
+      evaluatedAt: '2026-01-01T00:00:00.000Z',
+      facts: {},
+    });
+    expect(trophies).toEqual([
+      {
+        code: 'perfect_season',
+        sportId: 'nfl',
+        draftId: 'trophy-draft',
+        tier: null,
+        earnedAt: '2026-01-01T00:00:00.000Z',
+      },
+    ]);
   });
 });

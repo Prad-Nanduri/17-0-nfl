@@ -2,8 +2,10 @@ import type {
   Difficulty,
   DraftOrder,
   DraftPoolUnit,
+  EarnedTrophy,
   PositionRating,
   RatingMode,
+  SeasonResult,
   SchemeId,
 } from '@perfect-season/sport-engine-core';
 
@@ -26,6 +28,22 @@ export interface StoredPick {
   readonly rating: PositionRating;
 }
 
+export interface StoredResult {
+  readonly season: SeasonResult;
+  readonly trophies: readonly EarnedTrophy[];
+  readonly mvp: {
+    readonly slotCode: string;
+    readonly playerId: string;
+    readonly fullName: string;
+    readonly primaryPosition: string;
+    readonly headshotUrl: string | null;
+    readonly rating: number;
+    readonly unit: NflDraftPoolUnit;
+  };
+  readonly fullGauntlet: boolean;
+  readonly simulatedAt: string;
+}
+
 export interface DraftState {
   readonly id: string;
   readonly sportId: 'nfl';
@@ -41,6 +59,7 @@ export interface DraftState {
   readonly picks: Readonly<Record<string, StoredPick>>;
   readonly usedUnits: readonly NflDraftPoolUnit[];
   readonly createdAt: string;
+  readonly result: StoredResult | null;
 }
 
 interface DraftStoreGlobal {

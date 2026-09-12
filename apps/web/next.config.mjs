@@ -23,6 +23,7 @@ const nextConfig = {
     '@perfect-season/db',
   ],
   experimental: {
+    serverComponentsExternalPackages: ['@resvg/resvg-js'],
     outputFileTracingIncludes: {
       '/*': ['../../packages/sport-engine-nfl/data/**/*'],
     },
