@@ -25,6 +25,7 @@ import {
   CFB_CONFERENCE_TITLE_WIN_THRESHOLD,
   CFB_REGULAR_SEASON_GAMES,
   CFB_SIMULATION_CONFIG,
+  ENABLE_FULL_CAMPAIGN,
 } from './config';
 
 export type CfbPostseasonResult =
@@ -40,6 +41,8 @@ export interface CfbSeasonDependencies {
   readonly simulateGame?: typeof defaultSimulateGame;
   readonly rng?: DeterministicRng;
   readonly seed?: string;
+  // Test hook: the shipping default is ENABLE_FULL_CAMPAIGN (false).
+  readonly enableFullCampaign?: boolean;
 }
 
 const CFP_ROUNDS = ['first_round', 'quarterfinal', 'semifinal', 'championship'] as const;
@@ -143,7 +146,7 @@ export function simulateCfbSeason(
   });
   const simulateGame = deps.simulateGame ?? defaultSimulateGame;
   const regularGames = schedule.map(({ opponent }) =>
-    toGameResult(simulateGame(rosterRating, opponent, CFB_SIMULATION_CONFIG, rng)),
+    toGameResult(simulateGame(rosterRating, opponent, CFB_SIMULATION_CONFIG, rng), opponent.facts),
   );
   const regularRecord = recordFor(regularGames);
   const regularStage: SeasonStageResult = {
@@ -154,7 +157,8 @@ export function simulateCfbSeason(
     outcome: 'complete',
   };
 
-  const fullCampaign = mode.options.fullCampaign === true;
+  const fullCampaign =
+    (deps.enableFullCampaign ?? ENABLE_FULL_CAMPAIGN) && mode.options.fullCampaign === true;
   const pointsFor = regularGames.reduce((total, game) => total + game.pointsFor, 0);
   const pointsAgainst = regularGames.reduce((total, game) => total + game.pointsAgainst, 0);
 

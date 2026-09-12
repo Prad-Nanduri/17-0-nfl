@@ -19,6 +19,7 @@ import type {
   TrophyDefinition,
   TrophyEvalContext,
 } from '@perfect-season/sport-engine-core';
+import { createRng, createSeed } from '@perfect-season/sport-engine-core/utils';
 import { loadCfbFixtureData } from './data';
 import { describeConference } from './conferences';
 import { cfbConfidenceTier } from './era';
@@ -26,7 +27,9 @@ import { validateSlotEligibility } from './eligibility';
 import { getAvailableModes, getModeRuleset } from './modes';
 import { toPositionGroup } from './positions';
 import { CFB_SCHEME_PRESETS } from './schemes';
-import { resolveSpinUnit } from './spin';
+import { resolveSpinUnit, type CfbDraftPoolUnit } from './spin';
+import { buildCfbOpponentSlate } from './simulation/schedule';
+import { calibrateStrengthDistribution } from './simulation/strength';
 import { CFB_RATING_MODEL_VERSION } from './ratings/rate-season';
 import { simulateCfbSeason } from './simulation/simulate-season';
 import { evaluateCfbTrophies, getCfbTrophyDefinitions } from './trophies';
@@ -86,6 +89,24 @@ function selectRating(
     .sort(
       (left, right) => right.overallRating - left.overallRating || right.season - left.season,
     )[0];
+}
+
+// The drafted program-season is the pool unit shared by the roster's picks.
+function draftedUnitFor(roster: CompletedRoster): CfbDraftPoolUnit | null {
+  const counts = new Map<string, { unit: CfbDraftPoolUnit; count: number }>();
+  for (const pick of roster.picks) {
+    const unit = pick.candidate.poolUnit;
+    if (unit.sportId !== 'cfb') continue;
+    const key = `${unit.programId}:${unit.season}`;
+    const entry = counts.get(key) ?? { unit, count: 0 };
+    entry.count += 1;
+    counts.set(key, entry);
+  }
+  let best: { unit: CfbDraftPoolUnit; count: number } | null = null;
+  for (const entry of counts.values()) {
+    if (best === null || entry.count > best.count) best = entry;
+  }
+  return best?.unit ?? null;
 }
 
 export class CfbSportEngine implements SportEngine {
@@ -177,7 +198,37 @@ export class CfbSportEngine implements SportEngine {
     mode: SimulationMode,
     opponentContext: OpponentContext,
   ): Promise<SeasonResult> {
-    return simulateCfbSeason(roster, mode, opponentContext);
+    if (opponentContext.opponents.length > 0) {
+      return simulateCfbSeason(roster, mode, opponentContext);
+    }
+    // Quick Season (spec §2A.4): no supplied opponents means the engine builds
+    // the flavored 12-game slate from the ingested program pool.
+    const unit = draftedUnitFor(roster) ?? {
+      sportId: 'cfb' as const,
+      programId: '',
+      season: opponentContext.season,
+      conferenceId: null,
+    };
+    const slate = buildCfbOpponentSlate({
+      unit,
+      programSeasons: this.programSeasons,
+      teams: this.teams,
+      rng: createRng(createSeed('cfb-slate', roster.draftId, mode.seed, opponentContext.season)),
+    });
+    const result = simulateCfbSeason(roster, mode, { ...opponentContext, opponents: slate });
+    const distribution = calibrateStrengthDistribution(this.programSeasons, opponentContext.season);
+    return {
+      ...result,
+      facts: {
+        ...result.facts,
+        strengthDistribution: [
+          distribution.meanRating,
+          distribution.sdRating,
+          distribution.sampleSize,
+        ],
+        strengthDistributionSource: distribution.source,
+      },
+    };
   }
 
   getAvailableModes(): SportMode[] {
