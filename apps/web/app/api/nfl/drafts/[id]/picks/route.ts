@@ -15,7 +15,7 @@ function errorResponse(message: string, status: 400 | 404 | 409) {
 
 export async function POST(request: Request, context: { params: { id: string } }) {
   const store = getDraftStore();
-  const current = store.get(context.params.id);
+  const current = await store.get(context.params.id);
   if (current === undefined || !draftBelongsTo(current, request)) {
     return errorResponse('Draft not found', 404);
   }
@@ -73,7 +73,7 @@ export async function POST(request: Request, context: { params: { id: string } }
   const picks = { ...current.picks, [slot.code]: storedPick };
   const usedUnits = [...current.usedUnits, current.pendingSpin.unit];
   const status = Object.keys(picks).length === scheme.slots.length ? 'complete' : 'in_progress';
-  const next = store.update(current.id, {
+  const next = await store.update(current.id, {
     ...current,
     status,
     spinCount: current.spinCount + 1,

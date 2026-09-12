@@ -31,7 +31,7 @@ export async function GET(request: Request) {
   const draftId = new URL(request.url).searchParams.get('draftId');
   if (!draftId) return errorResponse('draftId is required', 400);
   const store = getDraftStore();
-  const current = store.get(draftId);
+  const current = await store.get(draftId);
   if (current === undefined || !draftBelongsTo(current, request)) {
     return errorResponse('Draft not found', 404);
   }
@@ -113,7 +113,7 @@ export async function GET(request: Request) {
     unit,
     targetSlotCode,
   };
-  const next = store.update(current.id, {
+  const next = await store.update(current.id, {
     ...current,
     rerollsRemaining,
     pendingSpin: pending,

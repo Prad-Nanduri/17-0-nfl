@@ -9,7 +9,7 @@ export const dynamic = 'force-dynamic';
 
 export async function GET(request: Request, context: { params: { id: string } }) {
   const store = getDraftStore();
-  const draft = store.get(context.params.id);
+  const draft = await store.get(context.params.id);
   if (draft === undefined || !draftBelongsTo(draft, request)) {
     return NextResponse.json({ error: 'Draft not found' }, { status: 404 });
   }

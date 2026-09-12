@@ -1,8 +1,6 @@
-import { URL, fileURLToPath } from 'node:url';
-
-const nflDataDirectory = fileURLToPath(
-  new URL('../../packages/sport-engine-nfl/data/', import.meta.url),
-);
+// Relative to the web app's working directory so it resolves both locally and inside the
+// traced Vercel function bundle, which keeps the same monorepo layout.
+const nflDataDirectory = '../../packages/sport-engine-nfl/data';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {

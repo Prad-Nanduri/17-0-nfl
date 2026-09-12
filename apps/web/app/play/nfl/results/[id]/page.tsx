@@ -12,7 +12,7 @@ interface ResultsPageProps {
 }
 
 export async function generateMetadata({ params }: ResultsPageProps): Promise<Metadata> {
-  const state = getDraftStore().get(params.id);
+  const state = await getDraftStore().get(params.id);
   if (state?.result === null || state === undefined) return { title: 'Season results' };
   const { wins, losses, ties } = state.result.season.record;
   const record = `${wins}-${losses}${ties > 0 ? `-${ties}` : ''}`;
@@ -22,8 +22,8 @@ export async function generateMetadata({ params }: ResultsPageProps): Promise<Me
   };
 }
 
-export default function ResultsPage({ params }: ResultsPageProps) {
-  const state = getDraftStore().get(params.id);
+export default async function ResultsPage({ params }: ResultsPageProps) {
+  const state = await getDraftStore().get(params.id);
   if (state?.result === null || state === undefined) notFound();
   const draft = toClientDraft(state, getNflEngine(), getNflData());
   return <SeasonResults draft={draft} result={state.result} />;

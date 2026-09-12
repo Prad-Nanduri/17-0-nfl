@@ -9,13 +9,17 @@ export const dynamic = 'force-dynamic';
 
 export async function POST(request: Request, context: { params: { id: string } }) {
   const store = getDraftStore();
-  const current = store.get(context.params.id);
+  const current = await store.get(context.params.id);
   if (current === undefined || !draftBelongsTo(current, request)) {
     return NextResponse.json({ error: 'Draft not found' }, { status: 404 });
   }
   if (current.result !== null) {
     return NextResponse.json({ error: 'Season already simulated' }, { status: 409 });
   }
-  const next = store.update(current.id, { ...current, status: 'abandoned', pendingSpin: null });
+  const next = await store.update(current.id, {
+    ...current,
+    status: 'abandoned',
+    pendingSpin: null,
+  });
   return NextResponse.json({ draft: toClientDraft(next, getNflEngine(), getNflData()) });
 }

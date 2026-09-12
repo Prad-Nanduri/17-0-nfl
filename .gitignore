@@ -8,3 +8,4 @@ coverage
 .DS_Store
 packages/sport-engine-nfl/etl/.staging/
 __pycache__/
+.vercel

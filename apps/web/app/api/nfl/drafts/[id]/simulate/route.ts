@@ -14,7 +14,7 @@ function errorResponse(message: string, status: 400 | 404 | 409) {
 
 export async function POST(request: Request, context: { params: { id: string } }) {
   const store = getDraftStore();
-  const current = store.get(context.params.id);
+  const current = await store.get(context.params.id);
   if (current === undefined || !draftBelongsTo(current, request)) {
     return errorResponse('Draft not found', 404);
   }
@@ -47,7 +47,7 @@ export async function POST(request: Request, context: { params: { id: string } }
     fullGauntlet: input.fullGauntlet ?? false,
     seed: typeof seed === 'string' ? seed : null,
   });
-  const next = store.update(current.id, { ...current, result });
+  const next = await store.update(current.id, { ...current, result });
   return NextResponse.json(
     { draft: toClientDraft(next, getNflEngine(), getNflData()), result },
     { status: 201 },

@@ -32,9 +32,8 @@ export function readSportCookie(request: Request): SportId | null {
 }
 
 /** The guest's live draft, if any: the newest one that is neither abandoned nor simulated. */
-export function findActiveDraft(guestToken: string): DraftState | null {
-  const drafts = getDraftStore()
-    .listByGuest(guestToken)
+export async function findActiveDraft(guestToken: string): Promise<DraftState | null> {
+  const drafts = (await getDraftStore().listByGuest(guestToken))
     .filter((draft) => draft.status !== 'abandoned' && draft.result === null)
     .sort((a, b) => b.createdAt.localeCompare(a.createdAt));
   return drafts[0] ?? null;
@@ -48,16 +47,16 @@ export interface ResolvedSession {
   readonly sportCookie: SportId | null;
 }
 
-export function resolveSession(request: Request): ResolvedSession {
+export async function resolveSession(request: Request): Promise<ResolvedSession> {
   const guestToken = readGuestToken(request);
   const sportCookie = readSportCookie(request);
   if (guestToken === null) {
     return { guestToken, session: null, user: null, activeDraft: null, sportCookie };
   }
   const store = getSessionStore();
-  const session = store.touch(guestToken);
-  const user = session.userId === null ? null : (store.getUser(session.userId) ?? null);
-  return { guestToken, session, user, activeDraft: findActiveDraft(guestToken), sportCookie };
+  const session = await store.touch(guestToken);
+  const user = session.userId === null ? null : ((await store.getUser(session.userId)) ?? null);
+  return { guestToken, session, user, activeDraft: await findActiveDraft(guestToken), sportCookie };
 }
 
 /** Drafts are visible only to the guest token that created them (legacy drafts without one stay open). */
