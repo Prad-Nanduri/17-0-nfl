@@ -8,7 +8,8 @@ import { Button } from '../ui/button';
 import { Badge } from '../ui/badge';
 import { Card } from '../ui/card';
 import { TeamLogo } from '../ui/team-logo';
-import { nflTeams } from '../../lib/teams/nfl';
+import type { SportId } from '@perfect-season/sport-engine-core';
+import type { Team } from '../../lib/teams/types';
 import { motionTokens } from '../../lib/motion';
 import type { DraftSpin } from './types';
 
@@ -19,7 +20,11 @@ export function SpinWheel({
   loading,
   onSpin,
   onError,
+  teams,
+  sport,
 }: {
+  teams: readonly Team[];
+  sport: SportId;
   draftId: string;
   spin: DraftSpin | null;
   rerollsRemaining: number;
@@ -37,11 +42,11 @@ export function SpinWheel({
     setRevealed(false);
     try {
       const result = await onSpin(reroll);
-      const index = nflTeams.findIndex(
+      const index = teams.findIndex(
         (team) =>
           team.abbreviation === result.franchise.abbreviation || team.id === result.franchise.key,
       );
-      const segment = index >= 0 ? index * (360 / nflTeams.length) : Math.random() * 360;
+      const segment = index >= 0 ? index * (360 / teams.length) : Math.random() * 360;
       // The pointer sits at 12 o'clock; a logo placed at `segment` reaches it at -segment.
       const landing = (360 - segment) % 360;
       setRotation((previous) => previous - (previous % 360) + (reduce ? 0 : 720) + landing);
@@ -54,7 +59,7 @@ export function SpinWheel({
   }
 
   const teamForSpin = spinState
-    ? nflTeams.find(
+    ? teams.find(
         (team) =>
           team.abbreviation === spinState.franchise.abbreviation ||
           team.id === spinState.franchise.key,
@@ -73,11 +78,11 @@ export function SpinWheel({
           className="relative mx-auto aspect-square w-full max-w-[23rem] rounded-full border-2 border-sport/40 bg-subtle"
           animate={{ rotate: rotation }}
           transition={wheelTransition}
-          aria-label="NFL franchise spin wheel"
+          aria-label={sport === 'nfl' ? 'NFL franchise spin wheel' : 'FBS program spin wheel'}
           role="img"
         >
-          {nflTeams.map((team, index) => {
-            const angle = (index * (360 / nflTeams.length) * Math.PI) / 180;
+          {teams.map((team, index) => {
+            const angle = (index * (360 / teams.length) * Math.PI) / 180;
             const radius = 42;
             return (
               <motion.span
@@ -119,11 +124,13 @@ export function SpinWheel({
       </Card>
       <CardFlipReveal
         revealed={revealed && spinState !== null}
-        label="Franchise-season reveal"
+        label={sport === 'nfl' ? 'Franchise-season reveal' : 'Program-season reveal'}
         className="min-h-56"
         front={
           <Card className="flex min-h-56 items-center justify-center border-dashed p-5 text-center">
-            <p className="text-small text-muted">Spin the wheel to reveal a franchise season.</p>
+            <p className="text-small text-muted">
+              Spin the wheel to reveal a {sport === 'nfl' ? 'franchise' : 'program'} season.
+            </p>
           </Card>
         }
         back={
@@ -132,7 +139,9 @@ export function SpinWheel({
               <div className="flex items-start gap-4">
                 {teamForSpin ? <TeamLogo team={teamForSpin} size="lg" eager /> : null}
                 <div>
-                  <p className="eyebrow text-sport">Franchise season</p>
+                  <p className="eyebrow text-sport">
+                    {sport === 'nfl' ? 'Franchise season' : 'Program season'}
+                  </p>
                   <h2 className="display-heading mt-2 text-title">{spinState.franchise.name}</h2>
                   <p className="mt-2 font-display text-scoreboard font-semibold">
                     {spinState.unit.season}

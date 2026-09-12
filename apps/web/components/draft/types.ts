@@ -1,3 +1,4 @@
+import type { DraftPoolUnit } from '@perfect-season/sport-engine-core';
 import type { ClientDraft } from '../../lib/server/draft-client';
 
 export interface DraftCandidate {
@@ -6,21 +7,24 @@ export interface DraftCandidate {
   readonly primaryPosition: string;
   readonly headshotUrl: string | null;
   readonly rating: number | null;
+  readonly badges?: readonly string[];
   readonly eligibleSlots: readonly { slotCode: string; warnings: readonly string[] }[];
 }
 
 export interface DraftSpin {
   readonly spinSeed: string;
-  readonly unit: { sportId: 'nfl'; franchiseId: string; season: number };
+  readonly unit: DraftPoolUnit;
   readonly franchise: {
     key: string;
     name: string;
     abbreviation: string;
-    conference: 'AFC' | 'NFC';
-    logoUrl: string;
+    conference: string;
+    logoUrl: string | null;
+    color?: string | null;
+    alternateColor?: string | null;
   };
   readonly record: { wins: number; losses: number; ties: number } | null;
-  readonly eraTier: 'full_feature' | 'legacy';
+  readonly eraTier: string;
   readonly targetSlotCode: string | null;
   readonly candidates: readonly DraftCandidate[];
 }

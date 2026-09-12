@@ -14,7 +14,7 @@ export function CandidateCard({
   onSelect,
 }: {
   candidate: DraftCandidate;
-  franchise: { name: string; logoUrl: string } | null;
+  franchise: { name: string; logoUrl: string | null } | null;
   selected: boolean;
   onSelect: () => void;
 }) {
@@ -53,7 +53,7 @@ export function CandidateCard({
       <span className="min-w-0 flex-1">
         <span className="block truncate text-small font-bold">{candidate.fullName}</span>
         <span className="flex items-center gap-1.5 text-caption text-muted">
-          {franchise ? (
+          {franchise?.logoUrl ? (
             <Image
               src={franchise.logoUrl}
               alt={franchise.name}
@@ -64,6 +64,11 @@ export function CandidateCard({
             />
           ) : null}
           {candidate.primaryPosition}
+          {candidate.badges?.map((badge) => (
+            <Badge key={badge} tone="neutral">
+              {badge}
+            </Badge>
+          ))}
         </span>
       </span>
       {candidate.rating === null ? (

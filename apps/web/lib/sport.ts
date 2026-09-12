@@ -24,7 +24,7 @@ export const SPORTS: Readonly<Record<SportId, SportOption>> = {
     label: 'CFB',
     longLabel: 'College Football',
     chase: 'Chase Undefeated & Untied',
-    available: false,
+    available: true,
   },
 };
 
