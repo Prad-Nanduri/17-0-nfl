@@ -98,8 +98,19 @@ async function apiFetch(url: string, init: RequestInit = {}): Promise<Response> 
 }
 
 async function json<T>(response: Response): Promise<T> {
-  const payload = (await response.json()) as T & { error?: string };
-  if (!response.ok) throw new Error(payload.error ?? `Request failed with ${response.status}`);
+  const text = await response.text();
+  let payload: (T & { error?: string }) | null = null;
+  if (text.length > 0) {
+    try {
+      payload = JSON.parse(text) as T & { error?: string };
+    } catch {
+      payload = null;
+    }
+  }
+  if (!response.ok) {
+    throw new Error(payload?.error ?? `Request failed with ${response.status}`);
+  }
+  if (payload === null) throw new Error('Server returned an invalid response');
   return payload;
 }
 

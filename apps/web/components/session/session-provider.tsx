@@ -5,6 +5,7 @@ import type { ReactNode } from 'react';
 import type { ClientSession } from '../../app/api/session/route';
 import type { SportId } from '../../lib/sport';
 import { isSportLocked } from '../../lib/sport';
+import { fetchJson } from '../../lib/api-client';
 
 export type ActiveDraft = ClientSession['activeDraft'];
 
@@ -22,8 +23,9 @@ interface SessionContextValue {
 const SessionContext = createContext<SessionContextValue | null>(null);
 
 async function fetchSession(): Promise<ClientSession> {
-  const response = await fetch('/api/session', { cache: 'no-store' });
-  const payload = (await response.json()) as { session: ClientSession };
+  const payload = await fetchJson<{ session: ClientSession }>('/api/session', {
+    cache: 'no-store',
+  });
   return payload.session;
 }
 
@@ -49,14 +51,13 @@ export function SessionProvider({ children }: { children: ReactNode }) {
   }, [refresh]);
 
   const chooseSport = useCallback(async (next: SportId) => {
-    const response = await fetch('/api/session', {
+    const payload = await fetchJson<{ session?: ClientSession }>('/api/session', {
       method: 'PATCH',
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify({ sport: next }),
     });
-    const payload = (await response.json()) as { session?: ClientSession; error?: string };
-    if (!response.ok || payload.session === undefined) {
-      throw new Error(payload.error ?? 'Could not switch sport');
+    if (payload.session === undefined) {
+      throw new Error('Could not switch sport');
     }
     setSport(payload.session.sport);
   }, []);

@@ -13,6 +13,7 @@ import { Button } from '../ui/button';
 import { Card } from '../ui/card';
 import { Dropdown } from '../ui/dropdown';
 import type { ClientDraft } from './types';
+import { fetchJson } from '../../lib/api-client';
 
 export const DIFFICULTY_COPY = {
   easy: '1 reroll',
@@ -113,14 +114,12 @@ export function DraftSetup({
     setLoading(true);
     setError(null);
     try {
-      const response = await fetch(`/api/${sport}/drafts`, {
+      const payload = await fetchJson<{ draft?: ClientDraft }>(`/api/${sport}/drafts`, {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify({ draftOrder, difficulty, ratingMode, schemeId }),
       });
-      const payload = (await response.json()) as { draft?: ClientDraft; error?: string };
-      if (!response.ok || payload.draft === undefined)
-        throw new Error(payload.error ?? 'Could not start draft');
+      if (payload.draft === undefined) throw new Error('Could not start draft');
       onStarted(payload.draft);
     } catch (caught) {
       setError(caught instanceof Error ? caught.message : 'Could not start draft');

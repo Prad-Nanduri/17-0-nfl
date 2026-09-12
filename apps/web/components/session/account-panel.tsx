@@ -7,6 +7,7 @@ import { Badge } from '../ui/badge';
 import { Button } from '../ui/button';
 import { Card } from '../ui/card';
 import { useSession } from './session-provider';
+import { fetchJson } from '../../lib/api-client';
 
 type Status = 'linked' | 'invalid' | 'disabled' | 'noguest' | null;
 
@@ -40,13 +41,11 @@ export function AccountPanel({ status }: { status: Status }) {
     setBusy(true);
     setMessage(null);
     try {
-      const response = await fetch('/api/auth/magic-link', {
+      await fetchJson<{ sent?: boolean }>('/api/auth/magic-link', {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify({ email }),
       });
-      const payload = (await response.json()) as { sent?: boolean; error?: string };
-      if (!response.ok) throw new Error(payload.error ?? 'Could not send the link');
       setMessage({ tone: 'success', text: `Check ${email} for your sign-in link.` });
     } catch (error) {
       setMessage({
