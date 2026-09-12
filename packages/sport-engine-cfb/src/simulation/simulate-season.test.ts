@@ -89,10 +89,23 @@ describe('simulateCfbSeason (spec §2A.4, §2A.5)', () => {
     expect(first).toEqual(second);
   });
 
+  it('gates Full Campaign off by default even when the mode requests it', () => {
+    const result = simulateCfbSeason(roster, fullCampaign, context, {
+      seed: 'gated',
+      rng: createRng('gated'),
+      simulateGame: (_r, opponent) => game(true, opponent.id),
+    });
+    expect(result.record).toEqual({ wins: 12, losses: 0, ties: 0 });
+    expect(result.stages).toHaveLength(1);
+    expect(result.postseasonResult).toBeNull();
+    expect(result.facts.fullCampaign).toBe(false);
+  });
+
   it('12-0 full campaign wins the conference title and a 3-game CFP to the championship', () => {
     const result = simulateCfbSeason(roster, fullCampaign, context, {
       seed: 'all-wins',
       rng: createRng('all-wins'),
+      enableFullCampaign: true,
       simulateGame: (_r, opponent) => game(true, opponent.id),
     });
     expect(result.record).toEqual({ wins: 12, losses: 0, ties: 0 });
@@ -108,6 +121,7 @@ describe('simulateCfbSeason (spec §2A.4, §2A.5)', () => {
     const result = simulateCfbSeason(roster, fullCampaign, context, {
       seed: 'all-losses',
       rng: createRng('all-losses'),
+      enableFullCampaign: true,
       simulateGame: (_r, opponent) => game(false, opponent.id),
     });
     expect(result.record).toEqual({ wins: 0, losses: 12, ties: 0 });
@@ -121,6 +135,7 @@ describe('simulateCfbSeason (spec §2A.4, §2A.5)', () => {
     const result = simulateCfbSeason(roster, fullCampaign, context, {
       seed: 'runner-up',
       rng: createRng('runner-up'),
+      enableFullCampaign: true,
       simulateGame: (_r, opponent) => {
         games += 1;
         // 12 regular wins + title win + QF + SF = 15 wins; game 16 is the final.

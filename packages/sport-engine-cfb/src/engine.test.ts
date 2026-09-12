@@ -213,6 +213,53 @@ describe('CfbSportEngine (spec §0.1, §2A)', () => {
     expect(result.postseasonResult).toBeNull();
   });
 
+  it('builds a flavored 12-game slate when no opponents are supplied', async () => {
+    const slatePrograms: CfbProgramSeason[] = [
+      programSeason,
+      ...Array.from({ length: 13 }, (_, i) => ({
+        ...programSeason,
+        cfbdTeamId: i + 2,
+        wins: i % 13,
+        losses: 12 - (i % 13),
+        apFinalRank: null,
+      })),
+      ...Array.from({ length: 16 }, (_, i) => ({
+        ...programSeason,
+        cfbdTeamId: i + 20,
+        conferenceKey: i % 2 === 0 ? 'sec' : 'big-ten',
+        wins: i % 13,
+        losses: 12 - (i % 13),
+        apFinalRank: null,
+      })),
+    ];
+    const slateEngine = new CfbSportEngine({
+      conferences: [conference],
+      teams: slatePrograms.map((row) => ({ ...team, cfbdTeamId: row.cfbdTeamId })),
+      programSeasons: slatePrograms,
+      ratings: [],
+    });
+    const result = await slateEngine.simulateSeason(
+      simulationRoster,
+      { modeId: 'core', difficulty: 'normal', seed: 'slate-test', options: {} },
+      { season: 2023, modelVersion: 'test', dataVersion: 'test', opponents: [], facts: {} },
+    );
+    const games = result.stages[0]?.games ?? [];
+    expect(games).toHaveLength(12);
+    expect(result.record.wins + result.record.losses).toBe(12);
+    expect(result.record.ties).toBe(0);
+    const counts = new Map<string, number>();
+    for (const game of games) {
+      const flavor = String(game.facts.flavor);
+      counts.set(flavor, (counts.get(flavor) ?? 0) + 1);
+    }
+    expect(counts.get('conference')).toBe(8);
+    expect(counts.get('rivalry')).toBe(2);
+    expect(counts.get('nonconference_marquee')).toBe(1);
+    expect(counts.get('nonconference')).toBe(1);
+    expect(result.facts.strengthDistributionSource).toBe('historical');
+    expect(result.facts.strengthDistribution).toHaveLength(3);
+  });
+
   it('exposes CFB trophy definitions and evaluates Undefeated & Untied', () => {
     expect(engine.getTrophyDefinitions().map((definition) => definition.code)).toEqual([
       'perfect_regular_season',

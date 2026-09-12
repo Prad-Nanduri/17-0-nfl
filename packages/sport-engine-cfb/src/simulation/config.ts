@@ -18,5 +18,11 @@ export const CFB_SIMULATION_CONFIG: SportSimulationConfig = {
   difficultyOffsets: { easy: -5, normal: 0, hard: 5 },
 };
 
+// Provisional (spec §2A.4, §2B): the conference-title/CFP/bowl branch qualifies
+// and seeds by win total against synthetic opponents, not real AP/CFP rankings.
+// Unreachable until the CFB ranking-lifecycle system exists; Quick Season is
+// the only wired-up path.
+export const ENABLE_FULL_CAMPAIGN = false as const;
+
 export const CFB_REGULAR_SEASON_GAMES = 12;
 export const CFB_CONFERENCE_TITLE_WIN_THRESHOLD = 10;

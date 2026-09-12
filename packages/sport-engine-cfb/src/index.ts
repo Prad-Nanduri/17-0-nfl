@@ -39,7 +39,14 @@ export {
   CFB_SIMULATION_CONFIG,
   CFB_REGULAR_SEASON_GAMES,
   CFB_CONFERENCE_TITLE_WIN_THRESHOLD,
+  ENABLE_FULL_CAMPAIGN,
 } from './simulation/config';
+export {
+  calibrateStrengthDistribution,
+  programStrengthRating,
+  type CfbStrengthDistribution,
+} from './simulation/strength';
+export { buildCfbOpponentSlate, CFB_SLATE_SHAPE, type CfbGameFlavor } from './simulation/schedule';
 export {
   simulateCfbSeason,
   type CfbPostseasonResult,
