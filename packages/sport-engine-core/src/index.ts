@@ -25,6 +25,7 @@ import type {
 
 export type * from './types';
 export { createSportEngineRegistry, type SportEngineRegistry } from './registry';
+export { SCHEME_PRESETS } from './schemes';
 
 export interface SportEngine {
   readonly sportId: SportId;

@@ -31,7 +31,7 @@ export {
 } from './ratings/line-proxy';
 export { CFB_RATING_MODEL_VERSION, rateSeason } from './ratings/rate-season';
 export { normalizeCfbPosition, toPositionGroup, cfbPositionGroup } from './positions';
-export { CFB_SCHEME_PRESETS } from './schemes';
+export { CFB_SCHEME_DISPLAY_NAMES, CFB_SCHEME_PRESETS, cfbSchemeDisplayName } from './schemes';
 export { validateSlotEligibility } from './eligibility';
 export { resolveSpinUnit, CfbSpinError, BLUE_BLOOD_SCHOOLS, type CfbDraftPoolUnit } from './spin';
 export { getAvailableModes, getModeRuleset } from './modes';

@@ -1,15 +1,19 @@
-import type { SchemePreset } from '@perfect-season/sport-engine-core';
-import { SCHEME_PRESETS as NFL_SCHEME_PRESETS } from '@perfect-season/sport-engine-nfl';
+import {
+  SCHEME_PRESETS,
+  type SchemeId,
+  type SchemePreset,
+} from '@perfect-season/sport-engine-core';
 
-// "Spread Defense" is CFB copy for the Nickel shape only — slot ids, codes,
-// and eligible positions are identical to the NFL presets (spec §2A.6).
-export const CFB_SCHEME_PRESETS: readonly SchemePreset[] = NFL_SCHEME_PRESETS.map((preset) =>
-  preset.id === 'nickel'
-    ? {
-        ...preset,
-        name: 'Spread Defense',
-        description:
-          'Pass-heavy sub-package with three cornerbacks — CFB copy for the Nickel shape.',
-      }
-    : preset,
-);
+// CFB display copy for the shared preset shapes (spec §2A.6) — data is not forked.
+export const CFB_SCHEME_DISPLAY_NAMES: Readonly<Partial<Record<SchemeId, string>>> = {
+  nickel: 'Spread Defense',
+};
+
+export function cfbSchemeDisplayName(preset: SchemePreset): string {
+  return CFB_SCHEME_DISPLAY_NAMES[preset.id] ?? preset.name;
+}
+
+export const CFB_SCHEME_PRESETS: readonly SchemePreset[] = SCHEME_PRESETS.map((preset) => ({
+  ...preset,
+  name: cfbSchemeDisplayName(preset),
+}));
