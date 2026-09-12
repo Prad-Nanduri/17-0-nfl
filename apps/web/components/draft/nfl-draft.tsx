@@ -10,6 +10,7 @@ import {
   TouchSensor,
   useSensor,
   useSensors,
+  type Announcements,
   type DragEndEvent,
   type DragStartEvent,
 } from '@dnd-kit/core';
@@ -25,6 +26,7 @@ import { CandidateCard } from './candidate-card';
 import { DraftBoard } from './draft-board';
 import { SpinWheel } from './spin-wheel';
 import type { ClientDraft, DraftSpin } from './types';
+import { slotKeyboardCoordinates } from './keyboard-coordinates';
 
 async function responseJson<T>(response: Response): Promise<T> {
   const payload = (await response.json()) as T & { error?: string };
@@ -102,7 +104,7 @@ export function NflDraft() {
   const sensors = useSensors(
     useSensor(PointerSensor, { activationConstraint: { distance: 6 } }),
     useSensor(TouchSensor, { activationConstraint: { delay: 120, tolerance: 8 } }),
-    useSensor(KeyboardSensor),
+    useSensor(KeyboardSensor, { coordinateGetter: slotKeyboardCoordinates }),
   );
 
   if (draft === null) {
@@ -127,6 +129,24 @@ export function NflDraft() {
     );
   }
   const activeDraft = draft;
+  const candidateName = (id: string | number) =>
+    spin?.candidates.find((candidate) => candidate.playerId === String(id))?.fullName ?? 'Player';
+  const announcements: Announcements = {
+    onDragStart({ active }) {
+      return `Picked up ${candidateName(active.id)}. Use arrow keys to move between open slots, Enter to place.`;
+    },
+    onDragOver({ active, over }) {
+      const name = candidateName(active.id);
+      return over ? `${name} over slot ${String(over.id)}` : `${name} is not over a slot`;
+    },
+    onDragEnd({ active, over }) {
+      const name = candidateName(active.id);
+      return over ? `${name} placed in ${String(over.id)}` : `${name} dropped without a slot`;
+    },
+    onDragCancel() {
+      return 'Placement cancelled';
+    },
+  };
 
   async function requestSpin(reroll: boolean): Promise<DraftSpin> {
     setLoading(true);
@@ -268,6 +288,13 @@ export function NflDraft() {
         ) : null}
         <DndContext
           sensors={sensors}
+          accessibility={{
+            announcements,
+            screenReaderInstructions: {
+              draggable:
+                'Press Enter or Space to pick up a player, arrow keys to move between eligible slots, Enter to place, Escape to cancel.',
+            },
+          }}
           onDragStart={handleDragStart}
           onDragEnd={handleDragEnd}
           onDragCancel={() => setDraggingId(null)}

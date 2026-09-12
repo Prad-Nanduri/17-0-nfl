@@ -1,5 +1,6 @@
 'use client';
 
+import { memo, useCallback, useMemo } from 'react';
 import { useDroppable } from '@dnd-kit/core';
 import { Check } from '@phosphor-icons/react';
 import { Badge } from '../ui/badge';
@@ -7,7 +8,7 @@ import { Card } from '../ui/card';
 import type { ClientDraft, DraftCandidate } from './types';
 import { SCHEME_PRESETS } from '@perfect-season/sport-engine-nfl/src/schemes';
 
-function SlotTile({
+const SlotTile = memo(function SlotTile({
   code,
   label,
   candidate,
@@ -20,14 +21,14 @@ function SlotTile({
   candidate: ClientDraft['picks'][string] | undefined;
   eligible: boolean;
   onClock: boolean;
-  onPlace: () => void;
+  onPlace: (slotCode: string) => void;
 }) {
   const droppable = useDroppable({ id: code, disabled: !eligible || candidate !== undefined });
   return (
     <button
       ref={droppable.setNodeRef}
       type="button"
-      onClick={onPlace}
+      onClick={() => onPlace(code)}
       aria-disabled={!eligible && candidate === undefined}
       className={`min-h-24 min-w-0 rounded-control border p-3 text-left transition-colors ${
         candidate
@@ -58,7 +59,7 @@ function SlotTile({
       ) : null}
     </button>
   );
-}
+});
 
 export function DraftBoard({
   draft,
@@ -76,6 +77,31 @@ export function DraftBoard({
   onPlace: (candidateId: string, slotCode: string) => Promise<void>;
 }) {
   const scheme = SCHEME_PRESETS.find((item) => item.id === draft.schemeId);
+  const activeCandidateId = draggingId ?? selectedCandidateId;
+  const activeCandidate = useMemo(
+    () => candidates.find((candidate) => candidate.playerId === activeCandidateId),
+    [candidates, activeCandidateId],
+  );
+  const eligibleSlotCodes = useMemo(
+    () =>
+      new Set(
+        activeCandidate?.eligibleSlots
+          .filter(
+            ({ slotCode }) =>
+              draft.picks[slotCode] === undefined &&
+              (targetSlotCode === null || targetSlotCode === slotCode),
+          )
+          .map(({ slotCode }) => slotCode),
+      ),
+    [activeCandidate, draft.picks, targetSlotCode],
+  );
+  const handlePlace = useCallback(
+    (slotCode: string) => {
+      if (selectedCandidateId && eligibleSlotCodes.has(slotCode))
+        void onPlace(selectedCandidateId, slotCode);
+    },
+    [eligibleSlotCodes, onPlace, selectedCandidateId],
+  );
   if (scheme === undefined) return null;
 
   const groups: readonly { label: string; start: number; end: number }[] = [
@@ -101,24 +127,16 @@ export function DraftBoard({
             <div className="mt-2 grid grid-cols-2 gap-2">
               {scheme.slots.slice(group.start, group.end).map((slot) => {
                 const picked = draft.picks[slot.code];
-                const activeCandidateId = draggingId ?? selectedCandidateId;
-                const candidate = candidates.find((item) => item.playerId === activeCandidateId);
-                const eligible =
-                  picked === undefined &&
-                  (targetSlotCode === null || targetSlotCode === slot.code) &&
-                  (candidate?.eligibleSlots.some((item) => item.slotCode === slot.code) ?? false);
+                const eligible = eligibleSlotCodes.has(slot.code);
                 return (
                   <SlotTile
                     key={slot.code}
                     code={slot.code}
                     label={slot.eligiblePositions.join(' / ')}
                     candidate={picked}
-                    eligible={draggingId === null || eligible}
+                    eligible={activeCandidate === undefined || eligible}
                     onClock={targetSlotCode === slot.code}
-                    onPlace={() => {
-                      if (selectedCandidateId && eligible)
-                        void onPlace(selectedCandidateId, slot.code);
-                    }}
+                    onPlace={handlePlace}
                   />
                 );
               })}

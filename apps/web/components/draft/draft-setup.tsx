@@ -69,7 +69,7 @@ function RadioGroup<T extends string>({
         {options.map((option) => (
           <label
             key={option.value}
-            className={`cursor-pointer rounded-control border p-3 transition-colors ${
+            className={`has-[:focus-visible]:ring-2 has-[:focus-visible]:ring-sport has-[:focus-visible]:ring-offset-2 has-[:focus-visible]:ring-offset-surface cursor-pointer rounded-control border p-3 transition-colors ${
               value === option.value
                 ? 'border-sport bg-sport/10'
                 : 'border-line bg-surface hover:border-sport/60'
