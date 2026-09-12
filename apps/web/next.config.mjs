@@ -25,7 +25,10 @@ const nextConfig = {
   experimental: {
     serverComponentsExternalPackages: ['@resvg/resvg-js'],
     outputFileTracingIncludes: {
-      '/*': ['../../packages/sport-engine-nfl/data/**/*'],
+      '/*': [
+        '../../packages/sport-engine-nfl/data/**/*',
+        '../../packages/sport-engine-cfb/data/**/*',
+      ],
     },
   },
 };
