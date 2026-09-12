@@ -171,6 +171,24 @@ describe('buildCfbOpponentSlate (spec §2A.4)', () => {
     expect(counts.conference).toBe(8);
   });
 
+  it('releases non-selected marquee draws back to the winnable pool', () => {
+    const oocOnly = [
+      program(0, 'acc'),
+      ...Array.from({ length: 10 }, (_, i) => program(i + 1, 'sec')),
+    ];
+    const slate = buildCfbOpponentSlate({
+      unit,
+      programSeasons: oocOnly,
+      teams,
+      rng: createRng('slate-release'),
+    });
+    const marquee = slate.find((o) => o.facts.flavor === 'nonconference_marquee');
+    const nonconference = slate.find((o) => o.facts.flavor === 'nonconference');
+    expect(marquee?.id.startsWith('cfb-synth-')).toBe(false);
+    expect(nonconference?.id.startsWith('cfb-synth-')).toBe(false);
+    expect(nonconference?.id).not.toBe(marquee?.id);
+  });
+
   it('tags every opponent with a flavor and strength rating', () => {
     const slate = buildCfbOpponentSlate({
       unit,

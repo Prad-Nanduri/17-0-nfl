@@ -2,8 +2,10 @@ import type {
   CompletedRoster,
   OpponentContext,
   PlayerCandidate,
+  PositionRating,
   RosterPick,
 } from '@perfect-season/sport-engine-core';
+import { createRng } from '@perfect-season/sport-engine-core/utils';
 import { CFB_SCHEME_PRESETS } from '../src/schemes';
 import { CfbSportEngine } from '../src/engine';
 import { loadCfbFixtureData } from '../src/data';
@@ -45,6 +47,7 @@ console.log(`spin unit: ${engine.describeSpinUnit(unit).title}`);
 const scheme = CFB_SCHEME_PRESETS.find((preset) => preset.id === '4-3');
 if (scheme === undefined) throw new Error('missing 4-3 preset');
 const usedPlayers = new Set<string>();
+const ratingRng = createRng('cfb-e2e-synthetic-ratings');
 let syntheticCount = 0;
 const picks: RosterPick[] = scheme.slots.map((slot, index) => {
   const player = data.players.find(
@@ -90,10 +93,24 @@ const picks: RosterPick[] = scheme.slots.map((slot, index) => {
         };
   if (player === undefined) syntheticCount += 1;
   else usedPlayers.add(player.cfbdPlayerId);
+  const rating: PositionRating =
+    player === undefined
+      ? {
+          // Demo-only: synthesized gap candidates get a realistic mid-tier
+          // rating drawn deterministically so the roster lands near ~70.
+          positionGroup: slot.positionGroup,
+          mode: 'career_season',
+          overall: 60 + ratingRng.integer(0, 26),
+          sourceSeason: unit.season,
+          confidenceTier: 'full_feature',
+          isTeamLevelProxy: false,
+          modelVersion: 'cfb-e2e',
+        }
+      : engine.computeRating(candidate, 'career_season');
   return {
     slot,
     candidate,
-    rating: engine.computeRating(candidate, 'career_season'),
+    rating,
     spinSeed: `${SEED}-${index}`,
   };
 });
@@ -124,9 +141,11 @@ const result = await engine.simulateSeason(
 console.log(`roster rating: ${String(result.facts.rosterRating)}`);
 const regular = result.stages[0];
 if (regular === undefined) throw new Error('missing regular season stage');
+const schoolById = new Map(data.teams.map((team) => [String(team.cfbdTeamId), team.school]));
 for (const game of regular.games) {
+  const opponentName = schoolById.get(game.opponentId) ?? game.opponentId;
   console.log(
-    `  ${game.site.padEnd(7)} vs ${game.opponentId.padEnd(24)} ` +
+    `  ${game.site.padEnd(7)} vs ${opponentName.padEnd(24)} ` +
       `[${String(game.facts.flavor ?? 'unflavored')}] ${game.pointsFor}-${game.pointsAgainst} ${game.outcome}`,
   );
 }

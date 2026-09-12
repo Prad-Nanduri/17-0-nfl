@@ -118,6 +118,11 @@ export function buildCfbOpponentSlate(input: {
     (best, candidate) => (best === null || candidate.strength > best.strength ? candidate : best),
     null,
   );
+  // The sampled-but-not-selected programs return to the pool — they were only
+  // scouted for the marquee slot and remain eligible below.
+  for (const candidate of marqueeSample) {
+    if (candidate !== marquee) used.delete(candidate.row.cfbdTeamId);
+  }
   slate.push(
     marquee === null
       ? synthetic('nonconference_marquee')
