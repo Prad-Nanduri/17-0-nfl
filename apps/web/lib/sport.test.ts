@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { isSportId, isSportLocked } from './sport';
+import { isSportId, isSportLocked, routeSportFromPathname } from './sport';
 
 describe('isSportLocked (spec §0.5 immutable sport_id)', () => {
   const base = { sportId: 'nfl', status: 'in_progress', pickCount: 0, simulated: false } as const;
@@ -28,5 +28,19 @@ describe('isSportId', () => {
     expect(isSportId('cfb')).toBe(true);
     expect(isSportId('mls')).toBe(false);
     expect(isSportId(undefined)).toBe(false);
+  });
+});
+
+describe('routeSportFromPathname', () => {
+  it('derives the selected sport from /play/* routes', () => {
+    expect(routeSportFromPathname('/play/cfb')).toBe('cfb');
+    expect(routeSportFromPathname('/play/cfb/results/abc-123')).toBe('cfb');
+    expect(routeSportFromPathname('/play/nfl')).toBe('nfl');
+  });
+
+  it('returns null outside /play/* so the session sport wins', () => {
+    expect(routeSportFromPathname('/')).toBeNull();
+    expect(routeSportFromPathname('/account')).toBeNull();
+    expect(routeSportFromPathname('/playful/cfb')).toBeNull();
   });
 });

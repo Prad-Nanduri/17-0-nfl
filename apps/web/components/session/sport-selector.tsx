@@ -3,7 +3,13 @@
 import { useState } from 'react';
 import { usePathname, useRouter } from 'next/navigation';
 import { Lock } from '@phosphor-icons/react';
-import { SPORTS, SPORT_IDS, SPORT_LOCK_MESSAGE, type SportId } from '../../lib/sport';
+import {
+  SPORTS,
+  SPORT_IDS,
+  SPORT_LOCK_MESSAGE,
+  routeSportFromPathname,
+  type SportId,
+} from '../../lib/sport';
 import { useToast } from '../ui/toast';
 import { useSession } from './session-provider';
 
@@ -16,6 +22,9 @@ export function SportSelector({ className = '' }: { className?: string }) {
   const notify = useToast();
   const router = useRouter();
   const pathname = usePathname();
+  // The header toggle must highlight the sport the page is actually on (e.g.
+  // /play/cfb) even before the session cookie catches up.
+  const routeSport = routeSportFromPathname(pathname);
   const [busy, setBusy] = useState(false);
   const lockedTo = sportLocked ? activeDraft?.sportId : undefined;
   const hint = sportLocked ? SPORT_LOCK_MESSAGE : undefined;
@@ -56,7 +65,7 @@ export function SportSelector({ className = '' }: { className?: string }) {
       >
         {SPORT_IDS.map((id) => {
           const option = SPORTS[id];
-          const selected = sport === id;
+          const selected = (routeSport ?? sport) === id;
           const disabled = !loaded || busy;
           const locked = sportLocked && lockedTo !== id;
           return (

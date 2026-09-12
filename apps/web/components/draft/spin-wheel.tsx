@@ -1,7 +1,7 @@
 'use client';
 
 import { motion, useReducedMotion, type Transition } from 'framer-motion';
-import { useState } from 'react';
+import { useState, type CSSProperties } from 'react';
 import { ArrowClockwise, Sparkle } from '@phosphor-icons/react';
 import { CardFlipReveal } from '../motion/card-flip-reveal';
 import { Button } from '../ui/button';
@@ -11,6 +11,7 @@ import { TeamLogo } from '../ui/team-logo';
 import type { SportId } from '@perfect-season/sport-engine-core';
 import type { Team } from '../../lib/teams/types';
 import { motionTokens } from '../../lib/motion';
+import { resolveProgramTheme, themeTextColor } from '../../lib/cfb-theme';
 import type { DraftSpin } from './types';
 
 export function SpinWheel({
@@ -65,6 +66,16 @@ export function SpinWheel({
           team.id === spinState.franchise.key,
       )
     : undefined;
+  // The reveal takes the *currently revealed* program's colors; the majority
+  // program theme on the draft only exists once picks land.
+  const revealTheme =
+    sport === 'cfb' && spinState !== null
+      ? resolveProgramTheme({
+          color: spinState.franchise.color ?? null,
+          alternateColor: spinState.franchise.alternateColor ?? null,
+          abbreviation: spinState.franchise.abbreviation,
+        })
+      : null;
   const wheelTransition: Transition = reduce
     ? { duration: 0 }
     : { duration: 1.8, ease: [...motionTokens.ease] };
@@ -134,7 +145,25 @@ export function SpinWheel({
           </Card>
         }
         back={
-          <Card className="min-h-56 p-5">
+          <Card
+            className="relative min-h-56 overflow-hidden p-5"
+            style={
+              revealTheme
+                ? ({
+                    borderLeft: `4px solid ${revealTheme.primary}`,
+                    '--program-primary': revealTheme.primary,
+                    '--program-secondary': revealTheme.secondary,
+                  } as CSSProperties)
+                : undefined
+            }
+          >
+            {revealTheme ? (
+              <span
+                aria-hidden="true"
+                className="absolute inset-x-0 top-0 h-0.5"
+                style={{ backgroundColor: revealTheme.secondary }}
+              />
+            ) : null}
             {spinState ? (
               <div className="flex items-start gap-4">
                 {teamForSpin ? <TeamLogo team={teamForSpin} size="lg" eager /> : null}
@@ -151,7 +180,19 @@ export function SpinWheel({
                       ? `${spinState.record.wins}-${spinState.record.losses}${spinState.record.ties ? `-${spinState.record.ties}` : ''}`
                       : 'Legacy era'}
                   </p>
-                  <Badge tone="sport" className="mt-3">
+                  <Badge
+                    tone="sport"
+                    className="mt-3"
+                    style={
+                      revealTheme
+                        ? {
+                            backgroundColor: revealTheme.primary,
+                            color: themeTextColor(revealTheme.primary),
+                            border: `1px solid ${revealTheme.secondary}`,
+                          }
+                        : undefined
+                    }
+                  >
                     {spinState.eraTier.replace('_', ' ')}
                   </Badge>
                 </div>

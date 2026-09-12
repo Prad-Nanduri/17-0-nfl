@@ -73,6 +73,15 @@ export function SportDraft({ sport }: { sport: SportId }) {
     );
   }
 
+  // Landing on /play/<sport> means the session cookie should follow; PATCH it
+  // once loaded so the header toggle and future resumes agree. Skipped while a
+  // cross-sport draft is locked (§0.5).
+  useEffect(() => {
+    if (session.loaded && session.sport !== sport && !session.sportLocked) {
+      void session.chooseSport(sport).catch(() => undefined);
+    }
+  }, [session, sport]);
+
   useEffect(() => {
     if (!session.loaded || !resuming) return;
     if (resumeId === null) {
