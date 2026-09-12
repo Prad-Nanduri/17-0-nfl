@@ -10,8 +10,8 @@ export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = { title: 'CFB season results' };
 
-export default function CfbResultsPage({ params }: { params: { id: string } }) {
-  const state = getDraftStore().get(params.id);
+export default async function CfbResultsPage({ params }: { params: { id: string } }) {
+  const state = await getDraftStore().get(params.id);
   if (state?.sportId !== 'cfb' || state.result === null || state === undefined) notFound();
   return (
     <CfbSeasonResults

@@ -21,8 +21,8 @@ export interface ClientSession {
   readonly activeDraft: (DraftProgress & { readonly id: string }) | null;
 }
 
-function toClientSession(request: Request): ClientSession {
-  const resolved = resolveSession(request);
+async function toClientSession(request: Request): Promise<ClientSession> {
+  const resolved = await resolveSession(request);
   const user = resolved.user;
   const activeDraft = resolved.activeDraft;
   return {
@@ -42,7 +42,7 @@ function toClientSession(request: Request): ClientSession {
 }
 
 export async function GET(request: Request) {
-  return NextResponse.json({ session: toClientSession(request) });
+  return NextResponse.json({ session: await toClientSession(request) });
 }
 
 export async function PATCH(request: Request) {
@@ -54,7 +54,7 @@ export async function PATCH(request: Request) {
   }
   const { sport } = (body ?? {}) as { sport?: unknown };
   if (!isSportId(sport)) return NextResponse.json({ error: 'Invalid sport' }, { status: 400 });
-  const current = toClientSession(request);
+  const current = await toClientSession(request);
   if (isSportLocked(current.activeDraft) && current.activeDraft?.sportId !== sport) {
     return NextResponse.json({ error: SPORT_LOCK_MESSAGE }, { status: 409 });
   }

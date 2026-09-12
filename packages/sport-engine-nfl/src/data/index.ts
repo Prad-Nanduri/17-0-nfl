@@ -24,7 +24,7 @@ function loadJson<T>(path: string): T {
 function defaultDataDirectory(): string {
   const configuredDirectory = process.env.PERFECT_SEASON_NFL_DATA_DIR;
   if (configuredDirectory !== undefined) {
-    return configuredDirectory;
+    return resolve(process.cwd(), configuredDirectory);
   }
 
   return resolve(dirname(fileURLToPath(import.meta.url)), '..', '..', 'data');

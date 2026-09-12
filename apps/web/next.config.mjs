@@ -37,6 +37,12 @@ const nextConfig = {
     serverComponentsExternalPackages: ['@resvg/resvg-js'],
     outputFileTracingIncludes: {
       '/*': ['data/**/*'],
+      '/api/nfl/drafts/[id]/og': [
+        '../../node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-*.woff',
+      ],
+      '/api/cfb/drafts/[id]/og': [
+        '../../node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-*.woff',
+      ],
     },
   },
 };

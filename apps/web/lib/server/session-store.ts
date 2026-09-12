@@ -1,4 +1,7 @@
 import type { SportId } from '@perfect-season/sport-engine-core';
+import { createRedisClient } from '@perfect-season/db';
+import { RedisSessionStore } from './redis-store';
+import { isRedisConfigured } from './store-backend';
 
 /** Mirrors the `users` row in docs/spec.md §5.2. */
 export interface UserRecord {
@@ -20,13 +23,13 @@ export interface SessionRecord {
 }
 
 export interface SessionStore {
-  touch(guestToken: string, now?: Date): SessionRecord;
-  getSession(guestToken: string): SessionRecord | undefined;
-  getUser(id: number): UserRecord | undefined;
-  findUserByEmail(email: string): UserRecord | undefined;
-  createUser(input: Omit<UserRecord, 'id' | 'createdAt'>, now?: Date): UserRecord;
-  updateUser(id: number, patch: Partial<Omit<UserRecord, 'id'>>): UserRecord;
-  attachUser(guestToken: string, userId: number): SessionRecord;
+  touch(guestToken: string, now?: Date): Promise<SessionRecord>;
+  getSession(guestToken: string): Promise<SessionRecord | undefined>;
+  getUser(id: number): Promise<UserRecord | undefined>;
+  findUserByEmail(email: string): Promise<UserRecord | undefined>;
+  createUser(input: Omit<UserRecord, 'id' | 'createdAt'>, now?: Date): Promise<UserRecord>;
+  updateUser(id: number, patch: Partial<Omit<UserRecord, 'id'>>): Promise<UserRecord>;
+  attachUser(guestToken: string, userId: number): Promise<SessionRecord>;
 }
 
 export class InMemorySessionStore implements SessionStore {
@@ -35,7 +38,7 @@ export class InMemorySessionStore implements SessionStore {
   private nextSessionId = 1;
   private nextUserId = 1;
 
-  touch(guestToken: string, now = new Date()): SessionRecord {
+  async touch(guestToken: string, now = new Date()): Promise<SessionRecord> {
     const iso = now.toISOString();
     const existing = this.sessions.get(guestToken);
     const next: SessionRecord = existing
@@ -45,15 +48,15 @@ export class InMemorySessionStore implements SessionStore {
     return next;
   }
 
-  getSession(guestToken: string): SessionRecord | undefined {
+  async getSession(guestToken: string): Promise<SessionRecord | undefined> {
     return this.sessions.get(guestToken);
   }
 
-  getUser(id: number): UserRecord | undefined {
+  async getUser(id: number): Promise<UserRecord | undefined> {
     return this.users.get(id);
   }
 
-  findUserByEmail(email: string): UserRecord | undefined {
+  async findUserByEmail(email: string): Promise<UserRecord | undefined> {
     const needle = email.toLowerCase();
     for (const user of this.users.values()) {
       if (user.email?.toLowerCase() === needle) return user;
@@ -61,13 +64,16 @@ export class InMemorySessionStore implements SessionStore {
     return undefined;
   }
 
-  createUser(input: Omit<UserRecord, 'id' | 'createdAt'>, now = new Date()): UserRecord {
+  async createUser(
+    input: Omit<UserRecord, 'id' | 'createdAt'>,
+    now = new Date(),
+  ): Promise<UserRecord> {
     const user: UserRecord = { ...input, id: this.nextUserId++, createdAt: now.toISOString() };
     this.users.set(user.id, user);
     return user;
   }
 
-  updateUser(id: number, patch: Partial<Omit<UserRecord, 'id'>>): UserRecord {
+  async updateUser(id: number, patch: Partial<Omit<UserRecord, 'id'>>): Promise<UserRecord> {
     const current = this.users.get(id);
     if (current === undefined) throw new Error(`User not found: ${id}`);
     const next = { ...current, ...patch, id };
@@ -75,8 +81,8 @@ export class InMemorySessionStore implements SessionStore {
     return next;
   }
 
-  attachUser(guestToken: string, userId: number): SessionRecord {
-    const session = this.touch(guestToken);
+  async attachUser(guestToken: string, userId: number): Promise<SessionRecord> {
+    const session = await this.touch(guestToken);
     const next = { ...session, userId };
     this.sessions.set(guestToken, next);
     return next;
@@ -88,36 +94,38 @@ export class InMemorySessionStore implements SessionStore {
  * user; the guest session is attached to it and the sport the guest was playing becomes the
  * account's `default_sport` unless one is already set.
  */
-export function linkGuestToAccount(
+export async function linkGuestToAccount(
   store: SessionStore,
   guestToken: string,
   email: string,
   currentSport: SportId,
-): { user: UserRecord; session: SessionRecord } {
+): Promise<{ user: UserRecord; session: SessionRecord }> {
   const normalized = email.trim().toLowerCase();
-  const existing = store.findUserByEmail(normalized);
+  const existing = await store.findUserByEmail(normalized);
   const user = existing
-    ? store.updateUser(existing.id, {
+    ? await store.updateUser(existing.id, {
         isGuest: false,
         defaultSport: existing.defaultSport ?? currentSport,
       })
-    : store.createUser({
+    : await store.createUser({
         email: normalized,
         displayName: normalized.split('@')[0] ?? normalized,
         defaultSport: currentSport,
         isGuest: false,
       });
-  const session = store.attachUser(guestToken, user.id);
+  const session = await store.attachUser(guestToken, user.id);
   return { user, session };
 }
 
 interface SessionStoreGlobal {
-  __perfectSeasonSessionStore?: InMemorySessionStore;
+  __perfectSeasonSessionStore?: SessionStore;
 }
 
 const serverGlobal = globalThis as typeof globalThis & SessionStoreGlobal;
 
 export function getSessionStore(): SessionStore {
-  serverGlobal.__perfectSeasonSessionStore ??= new InMemorySessionStore();
+  serverGlobal.__perfectSeasonSessionStore ??= isRedisConfigured()
+    ? new RedisSessionStore(createRedisClient())
+    : new InMemorySessionStore();
   return serverGlobal.__perfectSeasonSessionStore;
 }
