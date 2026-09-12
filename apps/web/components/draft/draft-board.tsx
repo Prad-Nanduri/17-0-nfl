@@ -22,7 +22,7 @@ function SlotTile({
   onClock: boolean;
   onPlace: () => void;
 }) {
-  const droppable = useDroppable({ id: code });
+  const droppable = useDroppable({ id: code, disabled: !eligible || candidate !== undefined });
   return (
     <button
       ref={droppable.setNodeRef}
@@ -104,7 +104,9 @@ export function DraftBoard({
                 const activeCandidateId = draggingId ?? selectedCandidateId;
                 const candidate = candidates.find((item) => item.playerId === activeCandidateId);
                 const eligible =
-                  candidate?.eligibleSlots.some((item) => item.slotCode === slot.code) ?? false;
+                  picked === undefined &&
+                  (targetSlotCode === null || targetSlotCode === slot.code) &&
+                  (candidate?.eligibleSlots.some((item) => item.slotCode === slot.code) ?? false);
                 return (
                   <SlotTile
                     key={slot.code}
