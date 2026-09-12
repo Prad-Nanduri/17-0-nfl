@@ -53,8 +53,8 @@ export async function GET(request: Request) {
     current.draftOrder === 'position_first' ? (openSlots[0]?.code ?? null) : null;
   if (openSlots.length === 0) return errorResponse('Draft has no open slots', 409);
   const ruleset = engine.getModeRuleset('core');
-  const rerollsUsed =
-    ruleset.difficultyRules[current.difficulty].rerolls - current.rerollsRemaining;
+  const rerollsRemaining = reroll ? current.rerollsRemaining - 1 : current.rerollsRemaining;
+  const rerollsUsed = ruleset.difficultyRules[current.difficulty].rerolls - rerollsRemaining;
   const spinSeed = createSeed('nfl-spin', current.id, current.spinCount, rerollsUsed);
   const unit = (await engine.resolveSpinUnit(spinSeed, {
     modeId: 'core',
@@ -112,7 +112,7 @@ export async function GET(request: Request) {
   };
   const next = store.update(current.id, {
     ...current,
-    rerollsRemaining: reroll ? current.rerollsRemaining - 1 : current.rerollsRemaining,
+    rerollsRemaining,
     pendingSpin: pending,
   });
   return NextResponse.json({

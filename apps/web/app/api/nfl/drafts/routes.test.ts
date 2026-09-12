@@ -113,8 +113,11 @@ describe('NFL draft routes', () => {
   it('allows one easy reroll and constrains position-first picks', async () => {
     const easy = await create('easy');
     const easySpin = `http://localhost/api/nfl/spin?draftId=${easy.draft.id}`;
-    expect((await spin(new Request(easySpin))).status).toBe(200);
-    expect((await spin(new Request(`${easySpin}&reroll=1`))).status).toBe(200);
+    const first = await json<{ spin: { spinSeed: string } }>(await spin(new Request(easySpin)));
+    const rerolled = await spin(new Request(`${easySpin}&reroll=1`));
+    expect(rerolled.status).toBe(200);
+    const second = await json<{ spin: { spinSeed: string } }>(rerolled);
+    expect(second.spin.spinSeed).not.toBe(first.spin.spinSeed);
     expect((await spin(new Request(`${easySpin}&reroll=1`))).status).toBe(409);
 
     const position = await create('normal', 'position_first');
