@@ -11,8 +11,8 @@ const ALL_SCHEMES: readonly SchemeId[] = ['4-3', '3-4', 'nickel'];
 const BOTH_DRAFT_ORDERS: readonly DraftOrder[] = ['squad_first', 'position_first'];
 const BOTH_RATING_MODES: readonly RatingMode[] = ['career_season', 'prime'];
 const DIFFICULTY_RULES = {
-  easy: { rerolls: 3, ratingsVisible: true, facts: {} },
-  normal: { rerolls: 1, ratingsVisible: true, facts: {} },
+  easy: { rerolls: 1, ratingsVisible: true, facts: {} },
+  normal: { rerolls: 0, ratingsVisible: true, facts: {} },
   hard: { rerolls: 0, ratingsVisible: false, facts: {} },
 } satisfies ModeRuleset['difficultyRules'];
 
