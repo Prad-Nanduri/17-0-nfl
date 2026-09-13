@@ -15,6 +15,8 @@ description: Run local browser tests for Perfect Season guest drafts on Windows.
 - Capture account errors after scrolling the message into view, not just the form heading.
 - If using headed Playwright over CDP, install playwright-core only in an external evidence folder. Use visible UI clicks and avoid direct API mutations. Incognito cookies may not appear in context.cookies(); a page CDP Network.getCookies check can verify flags without logging token values.
 - Save recordings and screenshots in a persistent home-directory folder.
+- When testing external links, compare server-provided attributes against the live DOM if new-tab behavior is unexpected. Tool-managed Chrome may alter `target` attributes. Recheck in an isolated headed Chrome profile on a separate CDP port without modifying app DOM. Capture the popup event and identify pages by URL, not their array index.
+- For mobile recordings, an emulated viewport taller than the physical browser content area may clip the footer out of the recording even when a Playwright screenshot captures it. Use a shorter viewport at the same mobile width for visible menu interaction, and capture full-size mobile screenshots separately. Native screenshot pixels and tool-returned DOM can refer to different browser instances when using isolated Chrome; use that instance's CDP page for DOM inspection.
 
 ## Devin Secrets Needed
 
