@@ -11,6 +11,10 @@ was no American-football equivalent. So I built one —
 for both the NFL (17-0) and NCAA FBS (Undefeated & Untied) — on real historical data
 from two decades of seasons instead of made-up names.
 
+<img width="842" height="762" alt="perfectSzn1" src="https://github.com/user-attachments/assets/5e93c7ac-db68-4cb9-baa1-544a4be95d0d" />
+<img width="1827" height="852" alt="PerfectSzn" src="https://github.com/user-attachments/assets/1707d705-356d-4ae9-b502-a66a287bd8af" />
+
+
 Everything below describes what is actually in this repository today. Planned work
 lives in [Roadmap](#whats-not-built--roadmap), not in the feature list.
 
