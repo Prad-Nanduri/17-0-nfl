@@ -8,7 +8,18 @@ export function Footer() {
         <Link href="/" className="min-h-11 content-center font-semibold hover:text-action">
           Perfect Season
         </Link>
-        <p>Design preview. The season starts later.</p>
+        <p>
+          Built by{' '}
+          <a
+            href="https://www.linkedin.com/in/pradnanduri"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-semibold hover:text-action"
+          >
+            Prad Nanduri
+          </a>
+          . All rights reserved.
+        </p>
         <div className="md:hidden">
           <AppearanceMenu />
         </div>
