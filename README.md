@@ -260,3 +260,9 @@ play or deploy.
 - `docs/qa/cross-sport-regression.md` — the NFL-unchanged regression pass from the
   CFB rollout
 - `AGENTS.md` — contributor conventions
+
+## License
+
+Built by [Prad Nanduri](https://www.linkedin.com/in/pradnanduri). Proprietary —
+all rights reserved; copying, duplication, or redistribution of the code is not
+permitted without written permission. See [LICENSE](LICENSE).
