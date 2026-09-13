@@ -169,6 +169,55 @@ export async function persistCompletedResult(
   }
 }
 
+/** Attach a verified email + chosen display name to one previously-persisted
+ *  result (spec §0.5 guest → account upgrade). Returns false when the result
+ *  was never persisted (e.g. drafted before this feature shipped). */
+export async function claimResultForUser(
+  email: string,
+  displayName: string,
+  localDraftId: string,
+): Promise<boolean> {
+  if (!isLeaderboardConfigured()) return false;
+  const supabase = createSupabaseServiceClient();
+  const { data: result, error: findError } = await supabase
+    .from('season_results')
+    .select('draft_id')
+    .filter('detail_jsonb->>localDraftId', 'eq', localDraftId)
+    .maybeSingle();
+  if (findError || result === null) {
+    if (findError) console.warn('[leaderboard] claim lookup failed', findError.message);
+    return false;
+  }
+  const normalized = email.trim().toLowerCase();
+  const { data: existing } = await supabase
+    .from('users')
+    .select('id')
+    .eq('email', normalized)
+    .maybeSingle();
+  let userId: number;
+  if (existing !== null) {
+    userId = existing.id as number;
+    await supabase.from('users').update({ display_name: displayName }).eq('id', userId);
+  } else {
+    const { data: inserted, error: insertError } = await supabase
+      .from('users')
+      .insert({ email: normalized, display_name: displayName, is_guest: false })
+      .select('id')
+      .single();
+    if (insertError || inserted === null) {
+      console.warn('[leaderboard] claim user upsert failed', insertError?.message);
+      return false;
+    }
+    userId = inserted.id as number;
+  }
+  const { error: updateError } = await supabase
+    .from('drafts')
+    .update({ user_id: userId })
+    .eq('id', result.draft_id);
+  if (updateError) console.warn('[leaderboard] claim update failed', updateError.message);
+  return updateError === null;
+}
+
 export interface LeaderboardEntry {
   readonly rank: number;
   readonly alias: string;
@@ -221,9 +270,10 @@ export async function listLeaderboard(input: {
   if (input.difficulty !== 'all') query = query.eq('drafts.difficulty', input.difficulty);
   const { data, error } = await query;
   if (error || data === null) {
-    if (error) console.warn('[leaderboard] query failed', error.message);
+    if (error) console.warn('[leaderboard] query failed', JSON.stringify(error));
     return [];
   }
+
   const rows = (data as unknown as LeaderboardRow[]).filter((row) => row.drafts !== null);
   rows.sort((a, b) => {
     if (b.record_wins !== a.record_wins) return b.record_wins - a.record_wins;
