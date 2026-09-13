@@ -3,11 +3,13 @@
 **Live: https://17-0-nfl.vercel.app**
 
 I built this because I genuinely love football — Sundays on the NFL, Saturdays on
-college ball. The inspiration was the mobile game _38-0_: draft a squad, simulate a
-season, chase a perfect record. I wanted the American-football version of that loop —
-pick a franchise season, pull a player from its real roster, repeat 24 times, then
-watch the season play out — for both the NFL and NCAA FBS, with real historical data
-instead of made-up names.
+college ball. The idea came straight from
+[**38-0-0**](https://38-0-0.com/), the "build the perfect English league XI" game:
+spin for a club-season, draft one player from its real squad, repeat until the XI is
+full, then simulate and chase an unbeaten season. It is a brilliant loop, and there
+was no American-football equivalent. So I built one —
+for both the NFL (17-0) and NCAA FBS (Undefeated & Untied) — on real historical data
+from two decades of seasons instead of made-up names.
 
 Everything below describes what is actually in this repository today. Planned work
 lives in [Roadmap](#whats-not-built--roadmap), not in the feature list.
@@ -58,13 +60,76 @@ on bare Node 20):
 | `packages/simulation`        | `@perfect-season/simulation`        | Polymorphic season simulator over `SportEngine`               |
 | `packages/db`                | `@perfect-season/db`                | Supabase (Postgres/Auth) + Upstash Redis client factories     |
 
-Free-tier stack, $0/month at hobby traffic: **Vercel Hobby** (build + serverless +
-OG card renderer), **Supabase free** (Postgres + Auth — the leaderboard and
-magic-link accounts), **Upstash Redis free** (draft state, guest sessions,
-pending result claims). Team logos come from ESPN's public CDN. The full capacity
-math and what would have to change past hobby scale are in `docs/spec.md` §7 —
-the short version: the Upstash free tier alone supports ~8,000 completed
-drafts/month.
+### Free-tier architecture & cost
+
+Production runs at **https://17-0-nfl.vercel.app** (Vercel project `17-0-nfl`, root
+directory `apps/web`, Node 20.x, install command
+`npm ci --include-workspace-root --workspaces --include=dev`). One deployment serves
+both sports; the simulation is one polymorphic package running inside a Vercel
+Serverless Function, not two services.
+
+#### What is actually provisioned
+
+| Layer                | Service / tier                                         | Used for today                                                                                                                      | Monthly cost |
+| -------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Hosting + serverless | Vercel Hobby                                           | Next.js 14 App Router build, `/play/{nfl,cfb}` + `/api/**` route handlers, OG share-card renderer                                   | $0           |
+| Postgres / Auth      | Supabase Free                                          | 6 migrations applied; `drafts` + `season_results` power the leaderboard, Supabase Auth issues the magic links for optional accounts | $0           |
+| Redis                | Upstash Redis Free (REST API)                          | Draft state, guest sessions, pending result claims (`apps/web/lib/server/redis-store.ts`) so drafts survive serverless cold starts  | $0           |
+| Media                | ESPN CDN team logos (`a.espncdn.com`) via `next/image` | Franchise/program logo URLs; no ESPN API keys involved                                                                              | $0           |
+| Analytics / logs     | Vercel Web Analytics + Vercel runtime logs             | `@vercel/analytics` mounted in `apps/web/app/layout.tsx`; function logs in the Vercel dashboard                                     | $0           |
+| ETL                  | Local / GitHub Actions                                 | `packages/sport-engine-{nfl,cfb}/etl` — rated output is committed, so production does no ETL and makes no metered data calls        | $0           |
+
+**Total infrastructure cost at current traffic: $0/month.** Nothing above has a card
+attached; every service is on its permanent free tier, not a trial. The rated data set
+(~187 MB of minified JSON: NFL 2005–2024 + CFB 2005–2025) is bundled into the
+serverless functions via `outputFileTracingIncludes`, scoped per sport so each function
+stays under Vercel's 250 MB limit.
+
+#### What the free tiers cap me at
+
+| Limit                       | Free-tier ceiling                                                                         | What a hobby-traffic draft costs                                                      |
+| --------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Vercel bandwidth            | 100 GB / month                                                                            | A full 24-pick draft transfers ≈1–2 MB (logos cached by the browser after first load) |
+| Vercel serverless execution | 100 GB-hours / month, 10 s default duration                                               | Season simulation runs in tens of ms; share-card render < 1 s                         |
+| Vercel Web Analytics        | Hobby event cap (tens of thousands of events / mo)                                        | ~10 page views per draft                                                              |
+| Vercel runtime logs         | 1 hour retention on Hobby                                                                 | Debugging only; nothing depends on log retention                                      |
+| Upstash Redis               | 500k commands / month, 256 MB, 10k cmds/s                                                 | ≈60 commands per completed draft (create, ~48 spin/pick updates, reads)               |
+| Supabase                    | 500 MB Postgres, 1 GB storage, 5 GB egress, 2 free projects; **pauses after 7 days idle** | Two small rows per completed draft + one leaderboard read per page load / 45 s poll   |
+
+Ceilings are taken from each provider's public pricing page at deploy time — re-check
+them before relying on a number. When the Web Analytics cap is hit the dashboard just
+stops counting; the game keeps working. Upstash's 500k-command budget supports roughly
+8,000 completed drafts a month before anything is throttled.
+
+#### What changes if traffic scales past hobby level
+
+Scaling is a deliberate non-goal for v1. This is what would have to change, in the
+order it would bite:
+
+1. **Supabase idle pause** — the free project pauses after a week without traffic.
+   The leaderboard and magic links depend on Postgres, so a quiet week means the
+   first visitor sees an empty leaderboard until the project wakes. Fix is a weekly
+   keep-alive ping (GitHub Actions cron, still $0) or Supabase Pro ($25/mo).
+2. **Vercel Hobby is personal/non-commercial only.** Any monetization, or sustained
+   traffic beyond 100 GB bandwidth / 100 GB-hrs, means Vercel Pro ($20/user/mo) —
+   which also lifts log retention and the analytics event cap.
+3. **Upstash** — past 500k commands/month the free tier throttles; pay-as-you-go is
+   $0.20 per 100k commands with no monthly minimum, so a 10× traffic jump is ≈$10/mo.
+4. **Web Analytics** — past the Hobby event cap either stop tracking or move to Pro.
+5. **Realtime live drafts** — Supabase Realtime's free tier allows 200 concurrent
+   connections and 2M messages/month; multiplayer would be the first feature to push
+   toward Pro.
+
+#### Runtime persistence note
+
+Draft and guest-session state live in Upstash Redis when `UPSTASH_REDIS_REST_URL` /
+`UPSTASH_REDIS_REST_TOKEN` are set (production) and in process memory otherwise (local
+dev, tests). Drafts expire from Redis after 7 days, guest sessions after 30 days.
+When a season is simulated, the completed draft and its result are also written to
+Supabase Postgres (`drafts`, `season_results`) as a fire-and-forget side effect — a
+Postgres hiccup never breaks the simulate response — and that is what the leaderboard
+reads. Pending "save under my name" claims sit in Redis for one hour until the magic
+link is clicked.
 
 ### Simulation: the 80/20 guardrail
 
@@ -161,8 +226,21 @@ npm run dev      # Next.js dev server on :3000
 ```
 
 Guest drafts work with zero configuration — sessions and draft state fall back to
-in-memory stores. To exercise persistence/auth locally, copy `.env.example` to
-`.env.local` and fill in Supabase + Upstash values.
+in-memory stores, and the leaderboard/account endpoints report themselves as not
+enabled instead of erroring.
+
+### Environment variables
+
+Copy `.env.example` to `.env.local`. Missing variables fail fast via
+`@perfect-season/db`'s `requireEnv` rather than half-working.
+
+| Variable                                             | Needed for                                                               |
+| ---------------------------------------------------- | ------------------------------------------------------------------------ |
+| `UPSTASH_REDIS_REST_URL`, `UPSTASH_REDIS_REST_TOKEN` | Persistent drafts/sessions/claims (otherwise in-memory)                  |
+| `SUPABASE_URL`, `SUPABASE_ANON_KEY`                  | Magic-link accounts                                                      |
+| `SUPABASE_SERVICE_ROLE_KEY`                          | Leaderboard writes/reads — server-side only, never shipped to the client |
+| `CFBD_API_KEY`                                       | Running the CFB ETL only (free key from collegefootballdata.com)         |
+| `DATABASE_URL`                                       | Local Postgres when running migrations against a dev database            |
 
 ```bash
 npm test         # Vitest across workspaces (engine, routes, regression suites)
