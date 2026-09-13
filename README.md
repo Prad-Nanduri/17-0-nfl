@@ -17,7 +17,7 @@ lives in [Roadmap](#whats-not-built--roadmap), not in the feature list.
 ## How to play
 
 1. Pick your sport — NFL or NCAA FBS.
-2. Spin. Each spin resolves a **franchise season** (e.g. "Kansas City, 2019" or
+2. Spin. Each spin resolves a **franchise season** (e.x. "Kansas City, 2019", "Penn State 2024", or
    "Georgia, 2022") and offers players who were actually on that roster.
 3. Draft 24 players into a scheme-shaped roster (position eligibility is enforced —
    a spin's candidates only fill the slots they can genuinely play).
