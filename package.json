@@ -1,6 +1,8 @@
 {
   "name": "perfect-season",
   "private": true,
+  "license": "UNLICENSED",
+  "author": "Prad Nanduri",
   "workspaces": [
     "apps/*",
     "packages/*"
