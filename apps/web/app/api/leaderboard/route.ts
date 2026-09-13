@@ -13,8 +13,9 @@ export async function GET(request: Request) {
     const difficulty = DIFFICULTIES.has(difficultyParam)
       ? (difficultyParam as 'easy' | 'normal' | 'hard')
       : 'all';
-    const limitParam = Number(params.get('limit'));
-    const limit = Number.isFinite(limitParam) ? limitParam : 50;
+    const limitParam = params.get('limit');
+    const parsedLimit = limitParam === null ? Number.NaN : Number(limitParam);
+    const limit = Number.isFinite(parsedLimit) && parsedLimit > 0 ? parsedLimit : 50;
     const entries = await listLeaderboard({ sport, difficulty, limit });
     return NextResponse.json({ sport, difficulty, entries });
   } catch (error) {

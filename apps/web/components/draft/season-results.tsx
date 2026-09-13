@@ -8,6 +8,7 @@ import { Card } from '../ui/card';
 import { useToast } from '../ui/toast';
 import type { StoredResult } from '../../lib/server/draft-store';
 import type { ClientDraft } from './types';
+import { SaveResultPrompt } from './save-result-prompt';
 
 interface SeasonResultsProps {
   readonly draft: ClientDraft;
@@ -87,6 +88,8 @@ export function SeasonResults({ draft, result }: SeasonResultsProps) {
             </p>
           ) : null}
         </Card>
+
+        <SaveResultPrompt draftId={draft.id} />
 
         <Card className="p-5">
           <div className="flex items-center gap-2">

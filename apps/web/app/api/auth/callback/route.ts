@@ -1,6 +1,8 @@
 import { NextResponse } from 'next/server';
 import { isAuthConfigured, supabaseMagicLink } from '../../../../lib/server/auth';
 import { linkGuestToAccount, getSessionStore } from '../../../../lib/server/session-store';
+import { takePendingClaim } from '../../../../lib/server/result-claims';
+import { claimResultForUser } from '../../../../lib/server/leaderboard';
 import { readGuestToken, readSportCookie } from '../../../../lib/server/session';
 import { COOKIE_MAX_AGE_SECONDS, SPORT_COOKIE } from '../../../../lib/sport';
 
@@ -29,6 +31,14 @@ export async function GET(request: Request) {
     verified.email,
     readSportCookie(request) ?? 'nfl',
   );
+  const claim = await takePendingClaim(guestToken);
+  if (claim !== null) {
+    try {
+      await claimResultForUser(verified.email, claim.displayName, claim.draftId);
+    } catch (error) {
+      console.warn('[auth] result claim failed', error);
+    }
+  }
   const response = accountRedirect(request, 'linked');
   if (user.defaultSport !== null) {
     response.cookies.set(SPORT_COOKIE, user.defaultSport, {

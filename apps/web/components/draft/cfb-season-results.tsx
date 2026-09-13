@@ -10,6 +10,7 @@ import type { CSSProperties } from 'react';
 import type { CfbLabeledResult } from '../../lib/cfb-game-labels';
 import { cfbOpponentStrength } from '../../lib/cfb-game-labels';
 import type { ClientDraft } from './types';
+import { SaveResultPrompt } from './save-result-prompt';
 
 function recordLabel(record: { wins: number; losses: number; ties: number }) {
   return `${record.wins}-${record.losses}-${record.ties}`;
@@ -77,6 +78,7 @@ export function CfbSeasonResults({
             </span>
           </p>
         </Card>
+        <SaveResultPrompt draftId={draft.id} />
         <Card className="p-5">
           <div className="flex items-center gap-2">
             <Trophy size={22} className="text-sport" aria-hidden="true" />
